@@ -129,3 +129,72 @@ class ScrapedData:
         return "\n".join(
             f"- [{c.source}] {c.text[:300]}" for c in comments[:limit]
         )
+
+    def build_reference_video_section(self, limit: int = 10) -> str:
+        """
+        Build markdown section for Reference Video Details (yt-dlp transcripts + Gemini analysis).
+        Includes: URL, Views, Likes, Comments, Shares, CTA, Transcript, Gemini Analysis.
+        Spend/Clicks: N/A for organic videos (ad library only).
+        """
+        all_videos = (
+            self.youtube_videos + self.youtube_shorts
+            + self.tiktok_videos + self.instagram_videos
+        )
+        # Include all videos with URL; prefer those with transcript/gemini for detailed blocks
+        videos_with_url = [v for v in all_videos if v.url][:limit]
+        if not videos_with_url:
+            return ""
+
+        has_transcript = any(v.transcript for v in videos_with_url)
+        has_gemini = any(v.gemini_analysis for v in videos_with_url)
+        subtitle = []
+        if has_transcript:
+            subtitle.append("transcripts via yt-dlp")
+        if has_gemini:
+            subtitle.append("analyzed with Gemini")
+        subtitle_str = ", ".join(subtitle) if subtitle else "scraped links"
+
+        lines = [
+            "",
+            "## 1B.1 Reference Video Details",
+            "",
+            f"Videos scraped ({subtitle_str}). Stats: Views, Likes, Comments, Shares, CTA.",
+            "",
+            "| # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |",
+            "|---|----------|-------|-----|-------|-------|----------|--------|-----|",
+        ]
+        for i, v in enumerate(videos_with_url, 1):
+            title_esc = (v.title or "")[:40].replace("|", " ").replace("\n", " ")
+            url_short = v.url[:50] + "..." if len(v.url) > 50 else v.url
+            cta_short = (v.cta_summary or "—")[:30].replace("|", " ")
+            lines.append(
+                f"| {i} | {v.platform} | {title_esc} | [Link]({v.url}) | {v.views:,} | {v.likes:,} | {v.comments_count:,} | {v.shares:,} | {cta_short} |"
+            )
+
+        lines.extend([
+            "",
+            "> **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.",
+            "",
+        ])
+
+        for i, v in enumerate(videos_with_url, 1):
+            lines.append(f"### Video {i}: {v.title[:60]}...")
+            lines.append(f"- **URL:** {v.url}")
+            lines.append(f"- **Stats:** Views {v.views:,} | Likes {v.likes:,} | Comments {v.comments_count:,} | Shares {v.shares:,}")
+            if v.cta_summary:
+                lines.append(f"- **CTA:** {v.cta_summary}")
+            if v.transcript:
+                lines.append(f"- **Transcript (yt-dlp):**")
+                lines.append(f"  ```")
+                lines.append(f"  {(v.transcript[:800] + '...' if len(v.transcript) > 800 else v.transcript)}")
+                lines.append(f"  ```")
+            if v.gemini_analysis:
+                lines.append(f"- **Gemini Analysis:**")
+                lines.append("")
+                for ln in v.gemini_analysis.split("\n")[:25]:
+                    lines.append("  " + ln)
+                if len(v.gemini_analysis.split("\n")) > 25:
+                    lines.append("  ...")
+            lines.append("")
+
+        return "\n".join(lines)
