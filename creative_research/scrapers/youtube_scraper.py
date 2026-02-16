@@ -3,7 +3,7 @@ YouTube Data API v3: search videos, detect Shorts, fetch comments.
 """
 
 import dataclasses
-import os
+from creative_research.constants import YOUTUBE_OR_GOOGLE_API_KEY
 from creative_research.scraped_data import VideoItem, CommentItem
 from creative_research.cache import load_cached, save_cached
 
@@ -11,10 +11,9 @@ SHORTS_MAX_DURATION_SEC = 60
 
 
 def _get_api_key() -> str:
-    key = os.environ.get("YOUTUBE_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-    if not key:
+    if not YOUTUBE_OR_GOOGLE_API_KEY:
         raise ValueError("YOUTUBE_API_KEY or GOOGLE_API_KEY is required. Set in .env")
-    return key
+    return YOUTUBE_OR_GOOGLE_API_KEY
 
 
 def _parse_duration_seconds(iso: str) -> int:

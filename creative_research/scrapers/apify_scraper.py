@@ -5,20 +5,20 @@ Successful responses are cached (disable with CREATIVE_RESEARCH_NO_CACHE=1).
 """
 
 import dataclasses
-import os
 from typing import Any
 
 from creative_research.scraped_data import ScrapedData, VideoItem, CommentItem
 from creative_research.cache import load_cached, save_cached
+from creative_research.constants import APIFY_API_TOKEN, APIFY_AMAZON_ACTOR_ID
 
 # Apify actor IDs (from apify.com store). Override via env if needed.
 ACTOR_TIKTOK_HASHTAG = "clockworks/tiktok-hashtag-scraper"
 ACTOR_INSTAGRAM_HASHTAG = "apify/instagram-hashtag-scraper"
-ACTOR_AMAZON_PRODUCT = "delicious_zebu/amazon-product-details-scraper"  # ASIN/URL → product + reviews
+ACTOR_AMAZON_PRODUCT = APIFY_AMAZON_ACTOR_ID  # ASIN/URL → product + reviews
 
 
 def _get_client():
-    token = os.environ.get("APIFY_API_TOKEN")
+    token = APIFY_API_TOKEN
     if not token:
         raise ValueError("APIFY_API_TOKEN is required for Apify scrapes. Set it in .env")
     try:
@@ -144,7 +144,7 @@ def run_apify_instagram(
 def run_apify_amazon(product_url: str) -> list[dict]:
     """Scrape Amazon product page (reviews, title, etc.). Returns raw items for LLM. Cache keyed by product URL."""
     client = _get_client()
-    actor = os.environ.get("APIFY_AMAZON_ACTOR_ID", ACTOR_AMAZON_PRODUCT)
+    actor = ACTOR_AMAZON_PRODUCT
     run_input = {"startUrls": [{"url": product_url}]}
     raw = _run_actor(client, actor, run_input, timeout_secs=120, product_link=product_url.strip())
     return raw

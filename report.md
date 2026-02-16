@@ -1,427 +1,666 @@
 # Creative Agency Research Report
 
-**Generated:** 2026-02-14  
-**Product link:** https://www.flipkart.com/redmi-a5-jaisalmer-gold-64-gb/p/itm2b4357effaa74?pid=MOBHB2HGH5DCFNWZ&lid=LSTMOBHB2HGH5DCFNWZHAP4LG&marketplace=FLIPKART&cmpid=content_mobile_23551988583_g_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,797237114633,,,,c,,,,,,,&entryMethod=23551988583&&cmpid=content_23551988583_gmc_pla&gad_source=1&gad_campaignid=23551988583&gbraid=0AAAAADxRY58y9BtQlvnvov8OK6Hl8DK-M&gclid=Cj0KCQiA18DMBhDeARIsABtYwT3on3wiw1TU_bBMZH2WpksBZzDGcZ1cZOQc3q1BZexIQguxs3E1yg0aAn2kEALw_wcB
+**Generated:** 2026-02-16  
+**Product link:** https://www.flipkart.com/...
 
 ---
 
+# Creative Agency Research Report
+
 ## Report Cover / Meta
 
-- **Product Name**: Redmi A5 (Jaisalmer Gold, 64 GB)
-- **Product Link**: [Flipkart - Redmi A5](https://www.flipkart.com/redmi-a5-jaisalmer-gold-64-gb/p/itm2b4357effaa74?pid=MOBHB2HGH5DCFNWZ&lid=LSTMOBHB2HGH5DCFNWZHAP4LG&marketplace=FLIPKART&cmpid=content_mobile_23551988583_g_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,797237114633,,,,c,,,,,,,&entryMethod=23551988583&&cmpid=content_23551988583_gmc_pla&gad_source=1&gad_campaignid=23551988583&gbraid=0AAAAADxRY58y9BtQlvnvov8OK6Hl8DK-M&gclid=Cj0KCQiA18DMBhDeARIsABtYwT3on3wiw1TU_bBMZH2WpksBZzDGcZ1cZOQc3q1BZexIQguxs3E1yg0aAn2kEALw_wcB)
+- **Product Name**: [Unavailable due to 404 Error]
+- **Product Link**: [Flipkart Product Link](https://www.flipkart.com/...)
 - **Report Date**: October 17, 2023
-- **Category/Vertical**: Mobile Phones
-- **Product Summary**: The Redmi A5 is an entry-level smartphone offering a sleek design, long-lasting battery, and a robust camera setup, all at an affordable price point.
+- **Category/Vertical**: E-commerce / Online Retail
+- **Product Summary**: Unable to retrieve product details due to a 404 error on the product page.
 
 ## 1A. Hashtag & Search Strategy
 
 ### Product-Related Hashtags
-- #RedmiA5
-- #JaisalmerGold
-- #RedmiSmartphone
-- #BudgetPhone
-- #Xiaomi
-- #AffordableTech
-- #SmartphonePhotography
-- #MobileTech
-- #TechLovers
-- #GadgetReview
-- #UnboxingTherapy
-- #TechCommunity
-- #AndroidPhones
-- #TechTrends
-- #MobileGaming
-- #Innovation
-- #TechAddict
-- #RedmiSeries
-- #SmartphoneUnboxing
+1. #AmazonFinds
+2. #ProductReview
+3. #Gadgets
+4. #HomeEssentials
+5. #KitchenGadgets
+6. #TechProducts
+7. #MustHaveItems
+8. #OnlineShopping
+9. #BestSellers
+10. #SmartHome
+11. #InnovativeProducts
+12. #TrendingNow
+13. #TopPicks
+14. #DailyEssentials
+15. #ShoppingSpree
+16. #AffordableFinds
+17. #UniqueGadgets
+18. #HomeImprovement
+19. #CoolStuff
+20. #ViralProducts
 
 ### Search Queries
-- **YouTube**: "Redmi A5 review", "Redmi A5 vs competitors", "Redmi A5 unboxing", "Redmi A5 camera test", "Redmi A5 gaming performance"
-- **TikTok**: "Redmi A5 features", "Redmi A5 ASMR unboxing", "Redmi A5 budget phone", "Redmi A5 vs Realme C61"
-- **Instagram**: "Redmi A5 photography", "Redmi A5 design", "Redmi A5 user reviews", "Redmi A5 price drop"
+- **YouTube**: "Best Amazon products 2023", "Top gadgets on Amazon", "Amazon product reviews", "Must-have Amazon finds", "Amazon kitchen gadgets review"
+- **TikTok**: "Amazon finds 2023", "Trending gadgets TikTok", "Amazon product reviews", "Must-have items TikTok", "Home essentials TikTok"
+- **Instagram**: "Amazon finds", "Product reviews", "Gadgets 2023", "Home improvement products", "Kitchen essentials"
 
 **Suggested Time Range**: Last 3–6 months
 
 ## 1C. Competitors
 
-1. **Realme C61**
-   - **Product Type**: Smartphone
-   - **Positioning**: Affordable smartphone with competitive specs.
+1. **Amazon** - E-commerce Platform
+   - **Positioning**: The world's largest online retailer offering a wide range of products.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-2. **Ai+ Pulse**
-   - **Product Type**: Smartphone
-   - **Positioning**: Budget-friendly phone with enhanced features.
+2. **Walmart** - Retail Corporation
+   - **Positioning**: Global retail giant with both online and physical store presence.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-3. **g05**
-   - **Product Type**: Smartphone
-   - **Positioning**: Economical phone with a focus on performance.
+3. **eBay** - E-commerce Platform
+   - **Positioning**: Online marketplace facilitating consumer-to-consumer and business-to-consumer sales.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-4. **POCO C71**
-   - **Product Type**: Smartphone
-   - **Positioning**: Value for money with robust features.
+4. **Alibaba** - E-commerce Company
+   - **Positioning**: Leading platform for global wholesale trade.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-5. **POCO C75 5G**
-   - **Product Type**: Smartphone
-   - **Positioning**: Affordable 5G phone with modern specs.
+5. **Target** - Retail Corporation
+   - **Positioning**: Major American retailer offering a wide variety of products.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-6. **itel A90**
-   - **Product Type**: Smartphone
-   - **Positioning**: Entry-level smartphone with essential features.
+6. **Best Buy** - Consumer Electronics Retailer
+   - **Positioning**: Leading retailer of technology and entertainment products.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-7. **Infinix Smart 9**
-   - **Product Type**: Smartphone
-   - **Positioning**: Budget smartphone with reliable performance.
+7. **Flipkart** - E-commerce Platform
+   - **Positioning**: One of India's leading e-commerce platforms, offering a wide range of products.
    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+
+8. **Rakuten** - Online Retail Company
+   - **Positioning**: Japanese e-commerce and online retailing company.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+
+9. **Newegg** - Online Retailer
+   - **Positioning**: Leading online retailer of computer hardware and consumer electronics.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+
+10. **Shopify** - E-commerce Platform
+    - **Positioning**: Comprehensive e-commerce platform for businesses of all sizes.
+    - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
 ---
 
-## 4) 1B. Video Scrapes
+## 4) **1B. Video Scrapes**
 
-### Platforms to Scrape
-- **YouTube & YouTube Shorts**: Full-length reviews, unboxing, comparison videos, and shorts highlighting features.
-- **TikTok**: Short, engaging videos focusing on unique features, unboxing, and user experiences.
-- **Instagram Reels**: Quick, visually appealing content showcasing the phone's design and features.
+### Platforms to Scrape:
+- **YouTube & YouTube Shorts**: Product reviews, unboxing, gadget comparisons.
+- **TikTok**: Short product demonstrations, viral product trends, influencer reviews.
+- **Instagram Reels**: Quick product highlights, influencer recommendations, lifestyle integrations.
 
-### Key Metrics
-- **Views**: Indicates popularity and reach.
-- **Likes**: Reflects audience approval and engagement.
-- **Comments**: Provides insights into audience reactions and feedback.
-- **Shares**: Measures virality and audience willingness to share content.
-- **Watch Time**: Highlights content that retains viewer attention.
+### Key Metrics:
+- **Views**: Indicates reach and potential audience engagement.
+- **Likes**: Reflects audience approval and content quality.
+- **Comments**: Provides insight into audience interaction and feedback.
+- **Shares**: Demonstrates content virality and potential influence.
 
-### Curated List of Example Videos
+### Curated List of Example Videos:
 
-1. **[YouTube] REDMI A5 | Apke Sapno ki Udaan**
-   - **URL**: [Watch Here](https://www.youtube.com/watch?v=Pa5Qd0M8w0M)
-   - **Views**: 1,983,114 | **Likes**: 33,625 | **Comments**: 68
-   - **Why It Works**: This video effectively showcases the phone's design and features with engaging visuals and a compelling narrative that aligns with consumer aspirations.
+1. **[YouTube] BEST Amazon Kitchen Gadgets #justicebuys #amazonfinds #products #kitchen**
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=woMYf76vpzU)
+   - Views: 81,045,370 | Likes: 2,913,084 | Comments: 19,473
+   - **Why it Works**: High engagement due to practical kitchen solutions, clear demonstrations, and relatable content for a broad audience.
 
-2. **[TikTok] Unboxing (ASMR) Redmi A5**
-   - **URL**: [Watch Here](https://www.tiktok.com/@adimology/video/7492366119567723783)
-   - **Views**: 1,600,000 | **Likes**: 27,100 | **Comments**: 1,103 | **Shares**: 6,902
-   - **Why It Works**: The ASMR element adds a sensory experience, making the unboxing engaging and memorable. The video highlights key features succinctly.
+2. **[YouTube] Top 15 Amazon Products of 2023 #justicebuys #shorts #gadgets #productreview #home #amazonfinds**
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=KbwEjkrTDTM)
+   - Views: 72,484,141 | Likes: 2,394,980 | Comments: 13,856
+   - **Why it Works**: Comprehensive list format appeals to viewers looking for multiple product ideas; effective use of hashtags for discoverability.
 
-3. **[YouTube Shorts] Xiaomi Redmi A5 Vs Redmi A3 Camera Test**
-   - **URL**: [Watch Here](https://www.youtube.com/watch?v=2W0MP5Lkbls)
-   - **Views**: 2,730,468 | **Likes**: 16,400 | **Comments**: 275
-   - **Why It Works**: Quick comparison that provides valuable insights into camera performance, a key decision-making factor for buyers.
+3. **[TikTok] Number 05 is a MUST HAVE 👌 😮 #amazon #amazonfinds #amazonmusthaves #amazongadgets #productreview**
+   - URL: [TikTok Video](https://www.tiktok.com/@thesamfindz/video/7601950060808604935)
+   - Views: 503,500 | Likes: 29,300 | Comments: 257 | Shares: 4,657
+   - **Why it Works**: Concise, engaging content that highlights product utility and creates a sense of urgency with "must-have" language.
 
-4. **[YouTube] Redmi A5 Waterproof Test 💦💧**
-   - **URL**: [Watch Here](https://www.youtube.com/watch?v=igFgzgrHZsM)
-   - **Views**: 291,042 | **Likes**: 3,029 | **Comments**: 253
-   - **Why It Works**: Engages viewers with a practical test of the phone's durability, addressing a common consumer concern.
+4. **[YouTube] ₹100 VS ₹1000 Amazon PRODUCTS**
+   - URL: [YouTube Video](https://www.youtube.com/watch?v=8WD5TuKHiIs)
+   - Views: 75,773,518 | Likes: 1,555,242 | Comments: 1,906
+   - **Why it Works**: Engages viewers with a comparative analysis, appealing to budget-conscious consumers and those interested in value-for-money products.
 
-5. **[TikTok] Redmi A5 ASMR Unboxing / GIVEAWAY**
-   - **URL**: [Watch Here](https://www.tiktok.com/@techcityexplorer/video/7502205773968117047)
-   - **Views**: 2,400,000 | **Likes**: 96,900 | **Comments**: 1,117 | **Shares**: 1,939
-   - **Why It Works**: Combines ASMR with a giveaway, increasing engagement and encouraging viewer interaction.
+5. **[TikTok] Review products that you probably already have around your house.**
+   - URL: [TikTok Video](https://www.tiktok.com/@sidehustlesunleashed/video/7253967359306714374)
+   - Views: 2,400,000 | Likes: 48,200 | Comments: 5,567 | Shares: 7,784
+   - **Why it Works**: Leverages relatability and practicality, encouraging viewers to see the potential in everyday items.
 
-## 5) 1D. Organic Concepts
+## 5) **1D. Organic Concepts**
 
-1. **"Day in the Life with Redmi A5"**: Showcase a typical day using the Redmi A5, highlighting its battery life, camera quality, and user-friendly features.
+### Standout Organic Video Ideas:
 
-2. **"Redmi A5 vs. Nature"**: Create a series of videos testing the phone's durability against various natural elements (e.g., water, dust).
+1. **"Battle of the Gadgets" Series**: Compare two similar gadgets in different price ranges to highlight value and performance differences.
 
-3. **"Unboxing with a Twist"**: Feature a creative unboxing experience, such as using stop-motion animation or a themed setup to capture attention.
+2. **"A Day in the Life with [Product]"**: Showcase how the product integrates into daily routines, emphasizing convenience and utility.
 
-4. **"Redmi A5 Photo Challenge"**: Encourage users to participate in a photo challenge using the Redmi A5, showcasing its camera capabilities.
+3. **"Transform Your Space"**: Use the product to demonstrate a quick room makeover or organizational hack, appealing to home improvement enthusiasts.
 
-5. **"Tech Talk: Behind the Specs"**: A deep dive into the technology behind the Redmi A5, explaining features like the 120Hz display and octa-core processor.
+4. **"Unexpected Uses for Everyday Items"**: Highlight creative and unconventional uses for the product, sparking curiosity and engagement.
 
-6. **"Redmi A5 in Action"**: Create short, dynamic clips of the phone being used in various scenarios, such as gaming, photography, and multitasking.
+5. **"Behind the Scenes: Product Testing"**: Offer a glimpse into the testing process, building trust and transparency with the audience.
 
-7. **"My First Month with Redmi A5"**: Users share their experiences and favorite features after using the phone for a month, providing authentic testimonials.
+6. **"Quick Fixes and Hacks"**: Share tips and tricks using the product to solve common problems, appealing to DIY and life-hack enthusiasts.
 
-8. **"Redmi A5: The Budget King"**: A video series comparing the Redmi A5 to other budget phones, highlighting its superior features and value for money.
+7. **"Customer Stories and Testimonials"**: Feature real users sharing their experiences and benefits gained from the product, enhancing credibility.
 
-9. **"Redmi A5 Customization Tips"**: Share tips and tricks for customizing the phone's interface and settings to enhance user experience.
+8. **"Seasonal Product Spotlight"**: Align product features with seasonal needs or trends, increasing relevance and timeliness.
 
-10. **"Redmi A5: My Travel Companion"**: Highlight the phone's features that make it ideal for travel, such as battery life, camera quality, and durability.
+9. **"Challenge Accepted"**: Create a fun challenge using the product, encouraging user participation and content sharing.
+
+10. **"Myth Busting: Product Edition"**: Address common misconceptions or myths about the product, providing factual insights and clarification.
 
 ---
 
 ## 6) **2A. Comment Scrapes**
 
 ### Platforms
-- **YouTube**
-- **Reddit**
-- **Instagram**
-- **TikTok**
+- **YouTube**: A primary source for product reviews and consumer opinions.
+- **TikTok**: Offers quick, engaging reviews and user reactions.
+- **Instagram**: Provides visual-focused reviews and influencer endorsements.
 
 ### What to Extract
-- **Verbatim Comments**: Gather user comments on videos, posts, and discussions related to the Redmi A5.
-- **Themes**: Categorize comments based on themes such as desires, objections, questions, comparisons, and surprises.
+- **Verbatim Comment Banks**: Collect comments from videos and posts to understand consumer sentiment.
+  - **Desire**: Comments expressing interest or wish to purchase.
+  - **Objection**: Comments highlighting concerns or dissatisfaction.
+  - **Question**: Inquiries about product features or usage.
+  - **Comparison**: Comments comparing the product to alternatives.
+  - **Surprise**: Unexpected reactions to product features or performance.
 
 ### Verbatim Comment Banks by Theme
+#### Desire
+- "I might need the first gadget 🤔"
+- "Number 05 is a MUST HAVE 👌 😮"
 
-#### Desires
-- "Very nice phone! I got the green one."
-- "Wow.. I got this phone yesterday. It's a very good phone!"
-- "Bought blue color. Better than a06 and has better performance. Best phone for this price."
+#### Objection
+- "Some of those things (can opener) for example, worthless"
+- "That auto mixer sucks"
 
-#### Objections
-- "A5 is the worst phone you buy, very bad software."
-- "Charging time gaming performance sucks but good for video movies webseries playing. Reduce weight it's like brick in hand."
-- "this is bad screen lcd"
+#### Question
+- "Think the drink dispenser is the best in the list, but not all bottles come in the same size, wondering if the pump dispenser also comes in different sizes 😅"
 
-#### Questions
-- "Is it 5g mobile or not?"
-- "Charger are available with phone?"
-- "This Phone Come with Phone Cover?"
+#### Comparison
+- "#4 is acting like Snackeez don’t exist. (Does anyone still remember them)"
 
-#### Comparisons
-- "Gais mau tanya mending ambil redmi A5 atau infinix smart 9, gua bimbang di kedua hp itu."
-- "Best Smartphone under Rs. 7000 😍 itel A90 vs Redmi A5 ⚡"
-- "Redmi A5 4G Vs Redmi 14C 4G || Full Comparison ⚡"
-
-#### Surprises
-- "It literally over doing it's job dude ❤ this one."
-- "Kok ada ya hp murah tapi spesifikasi juga nggak kalah bagus."
-- "Cocok buat hp cadangan dan sepertinya tahan banting."
+#### Surprise
+- "I swear its the simplest of products that shock the crap outta me….#productreview"
 
 ## 7) **2B. Thematic Clusters**
 
 ### Desires
-- **Affordability**: Many users appreciate the Redmi A5 for its budget-friendly price.
-- **Design and Color Options**: Positive comments about the aesthetic appeal and color variety.
-- **Features**: Users are impressed by the display, battery life, and camera quality.
+- Consumers are drawn to innovative and practical gadgets that simplify everyday tasks.
+- Products that offer a unique solution or convenience are highly desired.
 
 ### Objections
-- **Performance Issues**: Concerns about software performance and gaming capabilities.
-- **Build Quality**: Comments about the phone feeling heavy or like a "brick."
-- **Screen Quality**: Criticism regarding the LCD screen quality.
+- Quality and functionality issues are common objections.
+- There is skepticism about the necessity of certain gadgets.
 
 ### Questions
-- **5G Capability**: Users frequently inquire if the phone supports 5G.
-- **Accessories**: Questions about included accessories like chargers and phone covers.
+- Consumers frequently inquire about compatibility and product variations.
+- There is interest in understanding how products compare to existing solutions.
 
 ### Comparisons
-- **Competitor Analysis**: Users often compare Redmi A5 with other budget smartphones like the Itel A90 and Infinix Smart 9.
-- **Feature Comparison**: Discussions focus on comparing camera quality, battery life, and overall performance.
+- Products are often compared to well-known alternatives, highlighting the need for differentiation.
+- Consumers use comparisons to assess value and functionality.
 
 ### Surprise
-- **Value for Money**: Users express surprise at the features offered at a low price.
-- **Durability**: Some comments highlight unexpected durability and resilience.
+- Novelty and unexpected features generate significant interest and engagement.
+- Simplicity in design and function can lead to surprising consumer delight.
 
-This structured analysis of user-generated content provides insights into consumer perceptions and can guide strategic marketing and product development efforts.
+---
+
+This structured analysis of comments across platforms provides insights into consumer perceptions and can guide strategic decisions in product development and marketing.
 
 ---
 
 ## 8) **3A. Avatars (10 Different Avatars to Target)**
 
-1. **Tech-Savvy Student**
-   - **Demographics**: Age 18-24, Male, College Student
-   - **Psychographics**: Interested in technology, social media, and gaming
-   - **Where they are**: Urban areas, primarily in college towns
-   - **Relationship to product**: Looking for a budget-friendly smartphone with good performance for gaming and multitasking
-   - **Objections**: Concerns about battery life and processing power
-   - **Message that resonates**: "Stay ahead in your studies and play with a phone that keeps up with your lifestyle."
+1. **Tech-Savvy Millennials**
+   - **Demographics**: Age 25-35, urban dwellers, tech enthusiasts
+   - **Psychographics**: Early adopters, value convenience and innovation
+   - **Where they are**: Major cities, online tech forums, social media
+   - **Relationship to product**: Interested in the latest gadgets
+   - **Objections**: Price sensitivity, skepticism about product claims
+   - **Message that resonates**: "Innovative technology at an unbeatable price."
 
-2. **Budget-Conscious Parent**
-   - **Demographics**: Age 35-50, Female, Middle-income
-   - **Psychographics**: Values affordability, reliability, and family needs
-   - **Where they are**: Suburban areas
-   - **Relationship to product**: Seeks a reliable phone for family use, especially for children
-   - **Objections**: Durability and ease of use
-   - **Message that resonates**: "Affordable technology that fits your family's needs."
+2. **Busy Parents**
+   - **Demographics**: Age 30-45, married, two or more children
+   - **Psychographics**: Value practicality and time-saving solutions
+   - **Where they are**: Suburban areas, parenting blogs, Facebook groups
+   - **Relationship to product**: Looking for products that simplify life
+   - **Objections**: Concerns about safety and durability
+   - **Message that resonates**: "Make family life easier with safe, reliable products."
 
-3. **First-Time Smartphone Buyer**
-   - **Demographics**: Age 16-20, Male/Female, Low-income
-   - **Psychographics**: Excited about entering the digital world, eager to learn
-   - **Where they are**: Rural and semi-urban areas
-   - **Relationship to product**: Needs an entry-level smartphone to access the internet and social media
-   - **Objections**: Complexity of use and initial cost
-   - **Message that resonates**: "Your gateway to the digital world at an unbeatable price."
+3. **Home Improvement Enthusiasts**
+   - **Demographics**: Age 35-50, homeowners
+   - **Psychographics**: DIY enthusiasts, enjoy home projects
+   - **Where they are**: Home improvement stores, YouTube DIY channels
+   - **Relationship to product**: Seek tools and gadgets for home projects
+   - **Objections**: Quality and performance concerns
+   - **Message that resonates**: "Transform your home with tools you can trust."
 
-4. **Senior Citizen**
-   - **Demographics**: Age 60+, Male/Female, Retired
-   - **Psychographics**: Prefers simple, easy-to-use technology
-   - **Where they are**: Urban and rural areas
-   - **Relationship to product**: Requires a phone for basic communication and occasional internet use
-   - **Objections**: Usability and large screen for easy reading
-   - **Message that resonates**: "Technology made simple for you."
+4. **Eco-Conscious Consumers**
+   - **Demographics**: Age 20-40, environmentally conscious
+   - **Psychographics**: Prioritize sustainability, eco-friendly lifestyle
+   - **Where they are**: Eco-friendly stores, sustainability forums
+   - **Relationship to product**: Interested in sustainable product options
+   - **Objections**: Concerns about environmental impact
+   - **Message that resonates**: "Eco-friendly products that don't compromise on quality."
 
-5. **Freelancer**
-   - **Demographics**: Age 25-35, Male/Female, Self-employed
-   - **Psychographics**: Values flexibility, multitasking, and connectivity
-   - **Where they are**: Urban areas
-   - **Relationship to product**: Needs a reliable phone for work and personal use
-   - **Objections**: Performance and battery life
-   - **Message that resonates**: "Power your passion with a phone that works as hard as you do."
+5. **Fitness Enthusiasts**
+   - **Demographics**: Age 18-35, active lifestyle
+   - **Psychographics**: Health-conscious, prioritize fitness
+   - **Where they are**: Gyms, fitness apps, Instagram
+   - **Relationship to product**: Looking for fitness-related gadgets
+   - **Objections**: Concerns about effectiveness and durability
+   - **Message that resonates**: "Achieve your fitness goals with the latest gear."
 
-6. **Young Professional**
-   - **Demographics**: Age 22-30, Male/Female, Entry-level job
-   - **Psychographics**: Career-oriented, values efficiency and connectivity
-   - **Where they are**: Metropolitan cities
-   - **Relationship to product**: Seeks a cost-effective phone for work communication and productivity
-   - **Objections**: Professional appearance and functionality
-   - **Message that resonates**: "Achieve more with a sleek, professional smartphone."
+6. **College Students**
+   - **Demographics**: Age 18-24, full-time students
+   - **Psychographics**: Budget-conscious, tech-savvy
+   - **Where they are**: College campuses, TikTok, Instagram
+   - **Relationship to product**: Interested in affordable, trendy gadgets
+   - **Objections**: Budget constraints
+   - **Message that resonates**: "Affordable gadgets that fit your student lifestyle."
 
-7. **Photography Enthusiast**
-   - **Demographics**: Age 18-30, Male/Female, Hobbyist
-   - **Psychographics**: Passionate about photography and social media sharing
-   - **Where they are**: Urban areas with scenic spots
-   - **Relationship to product**: Desires a phone with a good camera for capturing moments
-   - **Objections**: Camera quality and storage
-   - **Message that resonates**: "Capture life's moments with a camera that inspires."
+7. **Senior Citizens**
+   - **Demographics**: Age 60+, retired
+   - **Psychographics**: Value simplicity and ease of use
+   - **Where they are**: Senior centers, community groups
+   - **Relationship to product**: Seek easy-to-use, helpful gadgets
+   - **Objections**: Complexity and learning curve
+   - **Message that resonates**: "Simplify your life with user-friendly technology."
 
-8. **Travel Blogger**
-   - **Demographics**: Age 25-40, Male/Female, Influencer
-   - **Psychographics**: Adventurous, enjoys sharing experiences online
-   - **Where they are**: Globally mobile
-   - **Relationship to product**: Needs a durable phone with good connectivity and camera
-   - **Objections**: Durability and network compatibility
-   - **Message that resonates**: "Your perfect travel companion, wherever you go."
+8. **Frequent Travelers**
+   - **Demographics**: Age 25-45, frequent flyers
+   - **Psychographics**: Value convenience and portability
+   - **Where they are**: Airports, travel blogs, Instagram
+   - **Relationship to product**: Need portable, travel-friendly gadgets
+   - **Objections**: Concerns about size and portability
+   - **Message that resonates**: "Travel light with compact, efficient gadgets."
 
-9. **Eco-Conscious Consumer**
-   - **Demographics**: Age 20-35, Male/Female, Environmentally aware
-   - **Psychographics**: Values sustainability and ethical consumption
-   - **Where they are**: Urban areas with a focus on green living
-   - **Relationship to product**: Interested in sustainable technology options
-   - **Objections**: Environmental impact and ethical production
-   - **Message that resonates**: "Smart technology with a conscience."
+9. **Pet Owners**
+   - **Demographics**: Age 25-50, pet parents
+   - **Psychographics**: Pet lovers, prioritize pet well-being
+   - **Where they are**: Pet stores, pet forums, Instagram
+   - **Relationship to product**: Looking for pet-related gadgets
+   - **Objections**: Concerns about pet safety and comfort
+   - **Message that resonates**: "Enhance your pet's life with safe, innovative products."
 
-10. **Gamer**
-    - **Demographics**: Age 15-25, Male, Student
-    - **Psychographics**: Passionate about mobile gaming and technology
-    - **Where they are**: Urban and suburban areas
-    - **Relationship to product**: Needs a phone with good graphics and processing power
-    - **Objections**: Gaming performance and lag
-    - **Message that resonates**: "Level up your gaming experience with unbeatable performance."
+10. **Professional Chefs**
+    - **Demographics**: Age 30-50, culinary professionals
+    - **Psychographics**: Passionate about cooking, value quality tools
+    - **Where they are**: Culinary schools, food festivals, YouTube cooking channels
+    - **Relationship to product**: Seek high-quality, durable kitchen gadgets
+    - **Objections**: Concerns about performance and quality
+    - **Message that resonates**: "Cook like a pro with top-of-the-line kitchen tools."
 
 ## 9) **3B. Messaging Pillars**
 
 ### Top 10 Key Selling Points
-1. Affordable pricing for budget-conscious consumers
-2. Long-lasting 5200 mAh battery
-3. 32MP AI Dual Camera for high-quality photos
-4. 6.88-inch HD+ display with 120Hz refresh rate
-5. Sleek and lightweight design
-6. Powerful Octa-Core processor for smooth performance
-7. Expandable storage up to 2TB
-8. IP25 dust and splash resistance
-9. 3.5mm headphone jack for audio versatility
-10. Available in stylish Jaisalmer Gold color
+1. Innovative technology
+2. Affordable pricing
+3. High durability
+4. User-friendly design
+5. Eco-friendly materials
+6. Compact and portable
+7. Enhanced safety features
+8. Versatile functionality
+9. Positive customer reviews
+10. Excellent customer support
 
 ### 10 Core Desires
-1. Value for money
-2. Reliable performance
-3. High-quality photography
-4. Modern design aesthetics
-5. Seamless multitasking
-6. Extended battery life
-7. Easy connectivity
-8. Durability and resilience
-9. Customizable storage options
-10. Enhanced entertainment experience
+1. Convenience
+2. Affordability
+3. Sustainability
+4. Efficiency
+5. Reliability
+6. Innovation
+7. Safety
+8. Simplicity
+9. Versatility
+10. Community
 
 ### 10 Pain Points
-1. Concerns about processing speed
-2. Battery longevity under heavy use
-3. Camera performance in low light
-4. Limited initial storage capacity
-5. Potential software updates
-6. Screen durability
-7. Audio quality with external devices
-8. Device weight and handling
-9. Network connectivity issues
-10. Environmental impact of production
+1. High prices
+2. Complexity in usage
+3. Environmental impact
+4. Lack of durability
+5. Poor customer service
+6. Limited functionality
+7. Safety concerns
+8. Bulky design
+9. Negative reviews
+10. Inconvenient size
 
 ## 10) **3C. Client Details**
 
 ### Brand Voice
-- **Tone**: Friendly, approachable, and informative
-- **Style**: Clear, concise, and engaging
-- **Personality**: Innovative, reliable, and customer-focused
+- **Tone**: Friendly, informative, and engaging
+- **Style**: Conversational and approachable
+- **Values**: Innovation, sustainability, and customer satisfaction
 
 ### Do's and Don'ts
 - **Do's**:
-  - Highlight affordability and value
-  - Emphasize battery life and camera quality
-  - Use customer testimonials and reviews
-  - Promote offers and discounts
-
+  - Highlight product benefits clearly
+  - Use customer testimonials
+  - Emphasize eco-friendly aspects
 - **Don'ts**:
-  - Avoid technical jargon without explanation
-  - Do not overpromise on features
+  - Avoid technical jargon
+  - Don't overpromise product capabilities
   - Avoid negative comparisons with competitors
 
 ### Gaps vs. Research
 - **Gaps**:
-  - Need for more customer education on technical features
-  - Addressing concerns about long-term durability
-  - Enhancing visibility of eco-friendly practices
-
-- **Research Alignment**:
-  - Strong alignment with consumer desire for budget-friendly options
-  - Effective communication of key features like battery life and display quality
-  - Positive reception of design and aesthetic choices
-
----
-
-# Generated Scripts
-
-### Script 1: YouTube Shorts
-
-**Platform**: YouTube Shorts  
-**Format**: Quick Comparison Review  
-**Hook**: "Can the Redmi A5 really outperform its competitors under ₹8,000?"  
-
-**Full Script**:  
-- **0-5s**: [Fast-paced montage of Redmi A5 vs. competitors with upbeat music] "Can the Redmi A5 really outperform its competitors under ₹8,000?"
-- **5-15s**: [Split screen showing Redmi A5 and a competitor phone side-by-side] "We put the Redmi A5 head-to-head with the Realme C61."
-- **15-25s**: [Footage of camera functionality and sample photos] "With a 32MP camera, it delivers crisp portraits that competitors can't beat."
-- **25-35s**: [Video of gaming performance comparison] "Gaming? The A5's octa-core processor ensures smooth gameplay without a hitch."
-- **35-45s**: [Battery life comparison animation] "And with a 5200 mAh battery, enjoy hours more usage than its rivals."
-- **45-60s**: [Closing shot of the Redmi A5 with vibrant colors] "Get the best bang for your buck with the Redmi A5's unbeatable features."
-
-**CTA**: "Subscribe for more in-depth reviews and click now to grab your Redmi A5 on Flipkart!"
-
-**Why it will work**: This format leverages the high engagement seen in quick comparison videos and taps into the audience's interest in value-for-money tech products, as noted in research comments and competitor analysis.  
+  - Limited emphasis on eco-friendly initiatives
+  - Lack of detailed customer testimonials
+  - Inconsistent messaging across platforms
+- **Research Insights**:
+  - Strong demand for sustainable products
+  - Positive reception to user-friendly designs
+  - Importance of consistent, engaging messaging across all channels
 
 ---
 
-### Script 2: TikTok
 
-**Platform**: TikTok  
-**Format**: ASMR Unboxing  
-**Hook**: "Shhh... Experience the Redmi A5 like never before with ASMR."  
+## 1B.1 Reference Video Details
 
-**Full Script**:  
-- **0-5s**: [Soft whispers and close-up of the box] "Shhh... Experience the Redmi A5 like never before with ASMR."
-- **5-15s**: [Gentle peeling sound of plastic wrapping and box opening] "Feel the luxury of Jaisalmer Gold at your fingertips."
-- **15-25s**: [Soft tapping on the phone's screen and body] "Sleek design, robust build, and elegance in every detail."
-- **25-35s**: [Sound of snapping photos with the phone] "Capture life's moments with a 32MP camera."
-- **35-45s**: [Sound of typing and swiping] "Smooth performance with 3GB RAM and 64GB storage."
-- **45-60s**: [Final whisper and close-up of the phone] "Ready to make it yours? Tap to see the magic unfold."
+Videos scraped (transcripts via yt-dlp, analyzed with Gemini). Stats: Views, Likes, Comments, Shares, CTA.
 
-**CTA**: "Follow us for more ASMR tech experiences and tap the link to explore the Redmi A5 on Flipkart!"
+| # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
+|---|----------|-------|-----|-------|-------|----------|--------|-----|
+| 1 | YouTube | 15 BEST Amazon Products This Month #shor | [Link](https://www.youtube.com/watch?v=ZZ_MBbmbgCY) | 40,308,306 | 1,176,725 | 5,922 | 0 | — |
+| 2 | YouTube | BEST Amazon Kitchen Gadgets #justicebuys | [Link](https://www.youtube.com/watch?v=woMYf76vpzU) | 81,045,370 | 2,913,084 | 19,473 | 0 | — |
+| 3 | YouTube | Top 15 Amazon Products of 2023  #justice | [Link](https://www.youtube.com/watch?v=KbwEjkrTDTM) | 72,484,141 | 2,394,980 | 13,856 | 0 | — |
+| 4 | YouTube | Packet sealer review 😂😂😂   Cheap amazon  | [Link](https://www.youtube.com/watch?v=WNmBJHNZDSE) | 73,922,979 | 1,101,188 | 5,026 | 0 | — |
+| 5 | YouTube | ₹100 VS ₹1000 Amazon PRODUCTS | [Link](https://www.youtube.com/watch?v=8WD5TuKHiIs) | 75,773,518 | 1,555,242 | 1,906 | 0 | — |
+| 6 | YouTube | 🦷 Testing the hype! Does this toothpaste | [Link](https://www.youtube.com/watch?v=nl6VoyaV03c) | 81,138,260 | 696,603 | 1,767 | 0 | — |
+| 7 | YouTube | Top 15 Amazon Products for August #justi | [Link](https://www.youtube.com/watch?v=RysBS-aYWIU) | 41,911,356 | 1,550,378 | 18,153 | 0 | — |
+| 8 | YouTube | Amazon Home Favorites #1 (@justicebuys)  | [Link](https://www.youtube.com/watch?v=UHkq0-XKdZY) | 37,169,195 | 1,115,672 | 4,821 | 0 | — |
+| 9 | YouTube | Fellow me for more real honest reviews o | [Link](https://www.youtube.com/watch?v=U-Gyx3HSFiE) | 44,100,513 | 439,593 | 936 | 0 | — |
+| 10 | YouTube | Top 10 Amazon Gadgets of 2023 #shorts #p | [Link](https://www.youtube.com/watch?v=nN3uQtDOGjg) | 32,360,325 | 1,160,379 | 6,986 | 0 | — |
 
-**Why it will work**: ASMR videos have shown high engagement on TikTok, and combining this with a tech product unboxing appeals to sensory and tech enthusiasts, enhancing viewer interaction and shareability.  
+> **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
----
+### Video 1: 15 BEST Amazon Products This Month #shorts #productreview #j...
+- **URL:** https://www.youtube.com/watch?v=ZZ_MBbmbgCY
+- **Stats:** Views 40,308,306 | Likes 1,176,725 | Comments 5,922 | Shares 0
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+15 best Amazon products for this month
+15 best Amazon products for this month
+ 
+15 best Amazon products for this month
+this gadget lets you measure curved
+this gadget lets you measure curved
+ 
+this gadget lets you measure curved
+objects and it works up to 300 ft this
+objects and it works up to 300 ft this
+ 
+objects and it works up to 300 ft this
+is a self stirring glass that can mix
+is a self stirring glass that can mix
+ 
+is a self stirring glass that can mix
+your drinks automatically and if you put
+your drinks automatically and if you put
+ 
+your drinks automatically and if you put
+dish soap in it it basically cleans
+dish soap in it it basically cleans
+ 
+dish soap in it it basically cleans
+itself these are rechargeable hand
+itself these are rechargeable hand
+ ...
+  ```
+- **Gemini Analysis:**
 
-### Script 3: Instagram Reels
+  Error analyzing video: 403 Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+  domain: "googleapis.com"
+  metadata {
+    key: "service"
+    value: "generativelanguage.googleapis.com"
+  }
+  metadata {
+    key: "serviceTitle"
+    value: "Generative Language API"
+  }
+  metadata {
+    key: "containerInfo"
+    value: "59912510900"
+  }
+  metadata {
+    key: "consumer"
+    value: "projects/59912510900"
+  }
+  metadata {
+    key: "activationUrl"
+    value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900"
+  }
+  , locale: "en-US"
+  message: "Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+  , links {
+  ...
 
-**Platform**: Instagram Reels  
-**Format**: Day in the Life  
-**Hook**: "How does the Redmi A5 power your day from sunrise to sunset?"  
+### Video 2: BEST Amazon Kitchen Gadgets #justicebuys #amazonfinds #produ...
+- **URL:** https://www.youtube.com/watch?v=woMYf76vpzU
+- **Stats:** Views 81,045,370 | Likes 2,913,084 | Comments 19,473 | Shares 0
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+Amazon kitchen finds this is a cup that
+Amazon kitchen finds this is a cup that
+ 
+Amazon kitchen finds this is a cup that
+tightens when you twist it so it stops
+tightens when you twist it so it stops
+ 
+tightens when you twist it so it stops
+liquid from falling out and it also
+liquid from falling out and it also
+ 
+liquid from falling out and it also
+comes with a straw this measuring spoon
+comes with a straw this measuring spoon
+ 
+comes with a straw this measuring spoon
+is adjustable so it's perfect for
+is adjustable so it's perfect for
+ 
+is adjustable so it's perfect for
+cooking and it has nine different
+cooking and it has nine different
+ 
+cooking and it has nine different
+measurements if you have used cooking
+measurements if you have used cooking
+ 
+measurement...
+  ```
+- **Gemini Analysis:**
 
-**Full Script**:  
-- **0-5s**: [Morning routine montage with phone alarm] "How does the Redmi A5 power your day from sunrise to sunset?"
-- **5-15s**: [User making breakfast while watching videos on the phone] "Start your day entertained with a 120Hz HD+ display."
-- **15-25s**: [Video call with friends, showcasing front camera quality] "Stay connected with clear 8MP selfies."
-- **25-35s**: [Using various apps throughout the day] "Multitask with ease thanks to its octa-core processor."
-- **35-45s**: [Evening photography session with sunset shots] "Capture stunning photos, even in low light."
-- **45-60s**: [Closing shot of user relaxing with the phone] "End your day unworried with a long-lasting 5200 mAh battery."
+  Error analyzing video: 403 Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+  domain: "googleapis.com"
+  metadata {
+    key: "service"
+    value: "generativelanguage.googleapis.com"
+  }
+  metadata {
+    key: "serviceTitle"
+    value: "Generative Language API"
+  }
+  metadata {
+    key: "containerInfo"
+    value: "59912510900"
+  }
+  metadata {
+    key: "consumer"
+    value: "projects/59912510900"
+  }
+  metadata {
+    key: "activationUrl"
+    value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900"
+  }
+  , locale: "en-US"
+  message: "Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+  , links {
+  ...
 
-**CTA**: "Follow us for more lifestyle tech tips and discover the Redmi A5's full potential on Flipkart today!"
+### Video 3: Top 15 Amazon Products of 2023  #justicebuys #shorts #gadget...
+- **URL:** https://www.youtube.com/watch?v=KbwEjkrTDTM
+- **Stats:** Views 72,484,141 | Likes 2,394,980 | Comments 13,856 | Shares 0
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+top 15 Amazon products for this month
+top 15 Amazon products for this month
+ 
+top 15 Amazon products for this month
+this is a humanized dog bed that comes
+this is a humanized dog bed that comes
+ 
+this is a humanized dog bed that comes
+with its own blanket and it's machine
+with its own blanket and it's machine
+ 
+with its own blanket and it's machine
+washable so it's easy to clean this is a
+washable so it's easy to clean this is a
+ 
+washable so it's easy to clean this is a
+charlee dolly which makes it easy to
+charlee dolly which makes it easy to
+ 
+charlee dolly which makes it easy to
+roll heavy items up the stairs this is a
+roll heavy items up the stairs this is a
+ 
+roll heavy items up the stairs this is a
+smart trash can that automatically seals
+smart trash can...
+  ```
+- **Gemini Analysis:**
 
-**Why it will work**: This format resonates with lifestyle content prevalent on Instagram, showcasing practical daily use of the phone, appealing to the tech-savvy and budget-conscious audience identified in the research.
+  Error analyzing video: 403 Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+  domain: "googleapis.com"
+  metadata {
+    key: "service"
+    value: "generativelanguage.googleapis.com"
+  }
+  metadata {
+    key: "serviceTitle"
+    value: "Generative Language API"
+  }
+  metadata {
+    key: "containerInfo"
+    value: "59912510900"
+  }
+  metadata {
+    key: "consumer"
+    value: "projects/59912510900"
+  }
+  metadata {
+    key: "activationUrl"
+    value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900"
+  }
+  , locale: "en-US"
+  message: "Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+  , links {
+  ...
+
+### Video 4: Packet sealer review 😂😂😂 | Cheap amazon proucts review...
+- **URL:** https://www.youtube.com/watch?v=WNmBJHNZDSE
+- **Stats:** Views 73,922,979 | Likes 1,101,188 | Comments 5,026 | Shares 0
+- **Gemini Analysis:**
+
+  Error analyzing video: 403 Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+  domain: "googleapis.com"
+  metadata {
+    key: "service"
+    value: "generativelanguage.googleapis.com"
+  }
+  metadata {
+    key: "serviceTitle"
+    value: "Generative Language API"
+  }
+  metadata {
+    key: "containerInfo"
+    value: "59912510900"
+  }
+  metadata {
+    key: "consumer"
+    value: "projects/59912510900"
+  }
+  metadata {
+    key: "activationUrl"
+    value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900"
+  }
+  , locale: "en-US"
+  message: "Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+  , links {
+  ...
+
+### Video 5: ₹100 VS ₹1000 Amazon PRODUCTS...
+- **URL:** https://www.youtube.com/watch?v=8WD5TuKHiIs
+- **Stats:** Views 75,773,518 | Likes 1,555,242 | Comments 1,906 | Shares 0
+- **Gemini Analysis:**
+
+  Error analyzing video: 403 Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+  domain: "googleapis.com"
+  metadata {
+    key: "service"
+    value: "generativelanguage.googleapis.com"
+  }
+  metadata {
+    key: "serviceTitle"
+    value: "Generative Language API"
+  }
+  metadata {
+    key: "containerInfo"
+    value: "59912510900"
+  }
+  metadata {
+    key: "consumer"
+    value: "projects/59912510900"
+  }
+  metadata {
+    key: "activationUrl"
+    value: "https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900"
+  }
+  , locale: "en-US"
+  message: "Generative Language API has not been used in project 59912510900 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/generativelanguage.googleapis.com/overview?project=59912510900 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+  , links {
+  ...
+
+### Video 6: 🦷 Testing the hype! Does this toothpaste really work?#produc...
+- **URL:** https://www.youtube.com/watch?v=nl6VoyaV03c
+- **Stats:** Views 81,138,260 | Likes 696,603 | Comments 1,767 | Shares 0
+
+### Video 7: Top 15 Amazon Products for August #justicebuys #shorts #amaz...
+- **URL:** https://www.youtube.com/watch?v=RysBS-aYWIU
+- **Stats:** Views 41,911,356 | Likes 1,550,378 | Comments 18,153 | Shares 0
+
+### Video 8: Amazon Home Favorites #1 (@justicebuys) | Product Review #sh...
+- **URL:** https://www.youtube.com/watch?v=UHkq0-XKdZY
+- **Stats:** Views 37,169,195 | Likes 1,115,672 | Comments 4,821 | Shares 0
+
+### Video 9: Fellow me for more real honest reviews on viral products ❤️🫶...
+- **URL:** https://www.youtube.com/watch?v=U-Gyx3HSFiE
+- **Stats:** Views 44,100,513 | Likes 439,593 | Comments 936 | Shares 0
+
+### Video 10: Top 10 Amazon Gadgets of 2023 #shorts #productreview #amazon...
+- **URL:** https://www.youtube.com/watch?v=nN3uQtDOGjg
+- **Stats:** Views 32,360,325 | Likes 1,160,379 | Comments 6,986 | Shares 0

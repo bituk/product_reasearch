@@ -32,7 +32,8 @@ def main() -> int:
     if args.skip_apify:
         os.environ["SKIP_APIFY"] = "1"
 
-    product_url = (args.product_url or os.environ.get("PRODUCT_URL") or "").strip()
+    from creative_research.constants import PRODUCT_URL
+    product_url = (args.product_url or PRODUCT_URL or "").strip()
     if not product_url:
         print("Error: PRODUCT_URL not set in .env and --product-url not provided", file=sys.stderr)
         return 1
@@ -43,7 +44,6 @@ def main() -> int:
         download_videos=not args.no_download,
         max_videos_to_download=5,
         max_videos_to_analyze=5,
-        save_to_sheets=bool(os.environ.get("RESEARCH_SHEET_ID")),
     )
 
     content = result["report"] + "\n\n---\n\n# Generated Scripts\n\n" + result["scripts"]

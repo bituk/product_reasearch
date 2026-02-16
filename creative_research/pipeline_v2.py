@@ -10,8 +10,9 @@ Full orchestration with:
 """
 
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
+from creative_research.constants import GEMINI_MODEL
 from creative_research.report_generator import fetch_product_page, generate_report
 from creative_research.keyword_generator import generate_keywords
 from creative_research.scrapers.runner import run_all_scrapes
@@ -19,27 +20,20 @@ from creative_research.scraped_data import ScrapedData, VideoItem
 from creative_research.video_downloader import download_and_transcript_batch
 from creative_research.gemini_analyzer import analyze_videos_batch
 from creative_research.script_generator import generate_video_scripts
-from creative_research.storage.sheets_storage import (
-    has_sheets_credentials,
-    save_scraped_data_to_sheets,
-    save_analysis_to_sheets,
-    sheets_skip_reason,
-)
 
 
 def run_pipeline_v2(
     product_link: str,
     *,
     model: str = "gpt-4o",
-    gemini_model: str = "gemini-1.5-flash",
-    save_to_sheets: bool = True,
-    spreadsheet_id: str | None = None,
+    gemini_model: str | None = None,
     search_queries_override: list[str] | None = None,
     subreddits_override: list[str] | None = None,
     download_videos: bool = True,
     max_videos_to_download: int = 5,
     max_videos_to_analyze: int = 5,
     output_dir: Path | str | None = None,
+    on_stage: Callable[[str], None] | None = None,
 ) -> dict[str, Any]:
     """
     Run the full v2 pipeline:
@@ -54,9 +48,7 @@ def run_pipeline_v2(
     Args:
         product_link: Product URL.
         model: OpenAI model for keywords, report, scripts.
-        gemini_model: Gemini model for video analysis.
-        save_to_sheets: Whether to persist to Google Sheets.
-        spreadsheet_id: Optional Sheet ID.
+        gemini_model: Gemini model for video analysis. Defaults to GEMINI_MODEL from .env.
         search_queries_override: Override search queries.
         subreddits_override: Override subreddits.
         download_videos: If True, download top videos with yt-dlp.
@@ -68,6 +60,9 @@ def run_pipeline_v2(
         Full result dict including report, scripts, video_analyses, download_results.
     """
     product_link = product_link.strip()
+    _stage = on_stage or (lambda _: None)
+    gemini_model = gemini_model or GEMINI_MODEL
+
     result: dict[str, Any] = {
         "product_link": product_link,
         "keywords": {"search_queries": [], "subreddits": []},
@@ -76,11 +71,10 @@ def run_pipeline_v2(
         "video_analyses": [],
         "report": "",
         "scripts": "",
-        "sheets_scraped": None,
-        "sheets_analysis": None,
     }
 
     # 1) Fetch product page
+    _stage("fetch_product")
     product_page_text = ""
     try:
         product_page_text = fetch_product_page(product_link)
@@ -88,6 +82,7 @@ def run_pipeline_v2(
         pass
 
     # 2) Keywords
+    _stage("keywords")
     if search_queries_override is not None and subreddits_override is not None:
         keywords = {"search_queries": search_queries_override, "subreddits": subreddits_override}
     else:
@@ -101,6 +96,7 @@ def run_pipeline_v2(
     subreddits = keywords.get("subreddits") or ["all"]
 
     # 3) Video scrape
+    _stage("video_scrape")
     scraped = run_all_scrapes(
         product_link,
         search_queries=search_queries,
@@ -120,6 +116,7 @@ def run_pipeline_v2(
     video_urls = video_urls[:max_videos_to_download]
 
     # 4) Download via yt-dlp + transcript
+    _stage("download")
     if download_videos and video_urls:
         out_dir = Path(output_dir or Path.cwd() / "downloads" / "videos")
         try:
@@ -138,6 +135,7 @@ def run_pipeline_v2(
             result["download_results"] = [{"error": str(e)}]
 
     # 5) Gemini video analysis (use URLs directly - no download needed for Gemini)
+    _stage("analysis")
     urls_to_analyze = video_urls[:max_videos_to_analyze]
     if urls_to_analyze:
         try:
@@ -173,6 +171,7 @@ def run_pipeline_v2(
             result["video_analyses"] = [{"error": str(e)}]
 
     # 6) LLM report generation
+    _stage("report")
     report = generate_report(
         product_link,
         product_page_content=scraped.product_page_text or None,
@@ -198,6 +197,7 @@ def run_pipeline_v2(
             result["report"] = report + "\n\n---\n\n" + ref_section
 
     # 7) Script generation
+    _stage("scripts")
     try:
         scripts = generate_video_scripts(
             report,
@@ -209,25 +209,5 @@ def run_pipeline_v2(
         result["scripts"] = scripts
     except Exception as e:
         result["scripts"] = f"Error generating scripts: {e}"
-
-    # Sheets persistence
-    if save_to_sheets and has_sheets_credentials(spreadsheet_id):
-        try:
-            result["sheets_scraped"] = save_scraped_data_to_sheets(
-                product_link, scraped, spreadsheet_id=spreadsheet_id
-            )
-        except Exception as e:
-            result["sheets_scraped"] = f"Error: {e}"
-        try:
-            combined = report + "\n\n---\n\n## Generated Scripts\n\n" + result.get("scripts", "")
-            result["sheets_analysis"] = save_analysis_to_sheets(
-                product_link, combined, spreadsheet_id=spreadsheet_id
-            )
-        except Exception as e:
-            result["sheets_analysis"] = f"Error: {e}"
-    elif save_to_sheets:
-        reason = sheets_skip_reason(spreadsheet_id) or "no credentials"
-        result["sheets_scraped"] = f"Skipped — {reason}"
-        result["sheets_analysis"] = f"Skipped — {reason}"
 
     return result

@@ -5,7 +5,6 @@ Supports optional ScrapedData from Apify, YouTube Data API, and Reddit for riche
 OpenAI report response is cached by product_link + model (same product = cache hit).
 """
 
-import os
 import re
 from datetime import datetime
 from typing import TYPE_CHECKING, Optional
@@ -15,6 +14,7 @@ from bs4 import BeautifulSoup
 from openai import OpenAI
 
 from creative_research.cache import load_cached, save_cached
+from creative_research.constants import OPENAI_API_KEY
 
 if TYPE_CHECKING:
     from creative_research.scraped_data import ScrapedData
@@ -43,13 +43,12 @@ def fetch_product_page(url: str, timeout: float = 15.0) -> str:
 
 
 def get_client() -> OpenAI:
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
+    if not OPENAI_API_KEY:
         raise ValueError(
             "OPENAI_API_KEY environment variable is required. "
             "Set it or pass product_page_content to avoid fetching."
         )
-    return OpenAI(api_key=api_key)
+    return OpenAI(api_key=OPENAI_API_KEY)
 
 
 def _call_llm(client: OpenAI, system: str, user: str, model: str = "gpt-4o") -> str:
