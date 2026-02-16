@@ -7,7 +7,6 @@ Or: python -m creative_research.mcp_server
 """
 
 import json
-import os
 from pathlib import Path
 
 from mcp.server.fastmcp import FastMCP
@@ -95,7 +94,8 @@ def run_full_research_pipeline(
     Returns:
         JSON summary with report, scripts, video_analyses, download_results.
     """
-    product_link = (product_link or os.environ.get("PRODUCT_URL") or "").strip()
+    from creative_research.constants import PRODUCT_URL
+    product_link = (product_link or PRODUCT_URL or "").strip()
     if not product_link:
         return json.dumps({"error": "product_link or PRODUCT_URL in .env is required"})
 
@@ -107,7 +107,6 @@ def run_full_research_pipeline(
             download_videos=download_videos,
             max_videos_to_download=max_videos_to_download,
             max_videos_to_analyze=max_videos_to_analyze,
-            save_to_sheets=False,
         )
         # Serialize for JSON (remove non-serializable)
         out = {
@@ -164,20 +163,22 @@ def download_videos_and_extract_transcripts(
 def analyze_videos_with_gemini(
     video_urls: list[str],
     product_context: str = "",
-    model: str = "gemini-1.5-flash",
+    model: str | None = None,
 ) -> str:
     """Analyze videos with Gemini for creative insights (hooks, CTAs, format, engagement).
 
     Args:
         video_urls: List of YouTube URLs (Gemini supports YouTube URLs directly).
         product_context: Optional product/category context.
-        model: Gemini model (gemini-1.5-flash, gemini-1.5-pro).
+        model: Gemini model. Defaults to GEMINI_MODEL from .env.
 
     Returns:
         JSON with list of {input, analysis, error}.
     """
     try:
+        from creative_research.constants import GEMINI_MODEL
         from creative_research.gemini_analyzer import analyze_videos_batch
+        model = model or GEMINI_MODEL
         results = analyze_videos_batch(
             video_urls,
             product_context=product_context,
@@ -261,7 +262,8 @@ def full_pipeline_prompt(product_link: str) -> str:
 
 if __name__ == "__main__":
     # Default: stdio for Cursor/Claude Desktop; use CREATIVE_RESEARCH_MCP_HTTP=1 for HTTP
-    if os.environ.get("CREATIVE_RESEARCH_MCP_HTTP"):
+    from creative_research.constants import CREATIVE_RESEARCH_MCP_HTTP
+    if CREATIVE_RESEARCH_MCP_HTTP:
         mcp.run(transport="streamable-http")
     else:
         mcp.run(transport="stdio")

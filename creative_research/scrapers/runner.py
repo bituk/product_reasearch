@@ -2,21 +2,21 @@
 Run all scrapers (Apify, YouTube, Reddit) and product page fetch; return ScrapedData.
 """
 
-import os
+from creative_research.constants import APIFY_API_TOKEN, get_skip_apify, TAVILY_API_KEY, YOUTUBE_OR_GOOGLE_API_KEY
 from creative_research.scraped_data import ScrapedData, VideoItem, CommentItem
 from creative_research.report_generator import fetch_product_page
 
 
 def _has_apify() -> bool:
-    return bool(os.environ.get("APIFY_API_TOKEN")) and not os.environ.get("SKIP_APIFY")
+    return bool(APIFY_API_TOKEN) and not get_skip_apify()
 
 
 def _has_youtube() -> bool:
-    return bool(os.environ.get("YOUTUBE_API_KEY") or os.environ.get("GOOGLE_API_KEY"))
+    return bool(YOUTUBE_OR_GOOGLE_API_KEY)
 
 
 def _has_tavily() -> bool:
-    return bool(os.environ.get("TAVILY_API_KEY"))
+    return bool(TAVILY_API_KEY)
 
 
 def run_all_scrapes(

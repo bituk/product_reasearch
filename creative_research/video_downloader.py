@@ -154,34 +154,50 @@ def download_video(
             ydl_opts["writeautomaticsub"] = True
             ydl_opts["subtitlesformat"] = "vtt/best"
 
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(url, download=True)
-            if not info:
-                result["error"] = "Could not extract video info"
-                return result
+        try:
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                info = ydl.extract_info(url, download=True)
+        except Exception as e:
+            err_str = str(e)
+            # HTTP 429 (Too Many Requests) on subtitles - retry without subtitles
+            if ("429" in err_str or "Too Many Requests" in err_str) and extract_transcript:
+                ydl_opts_no_subs = {
+                    "outtmpl": out_template,
+                    "format": "best[ext=mp4]/best",
+                    "quiet": False,
+                    "no_warnings": True,
+                    "match_filter": _duration_filter,
+                }
+                with yt_dlp.YoutubeDL(ydl_opts_no_subs) as ydl:
+                    info = ydl.extract_info(url, download=True)
+            else:
+                raise
 
-            result["duration_sec"] = info.get("duration")
-            result["success"] = True
+        if not info:
+            result["error"] = "Could not extract video info"
+            return result
 
-            # Find downloaded file (yt-dlp saves to outtmpl path)
-            vid_id = info.get("id", "unknown")
-            ext = info.get("ext", "mp4")
-            candidates = list(out_dir.glob(f"{vid_id}.*")) + list(out_dir.glob("*.*"))
-            for p in candidates:
-                if p.suffix.lower() in (".mp4", ".mkv", ".webm", ".mov") and p.exists():
-                    result["video_path"] = str(p.absolute())
-                    break
+        result["duration_sec"] = info.get("duration")
+        result["success"] = True
 
-            # Transcript from subtitle file or fallback
-            if extract_transcript:
-                sub_files = list(out_dir.glob("*.vtt"))
-                if sub_files:
-                    result["transcript"] = _parse_vtt_to_text(sub_files[0])
-                if not result["transcript"] and "youtube" in url.lower():
-                    result["transcript"] = _extract_transcript_fallback(url)
-                # Cache transcript for reuse
-                if result.get("transcript"):
-                    save_cached("video_transcript", {"transcript": result["transcript"]}, url=url)
+        # Find downloaded file (yt-dlp saves to outtmpl path)
+        vid_id = info.get("id", "unknown")
+        candidates = list(out_dir.glob(f"{vid_id}.*")) + list(out_dir.glob("*.*"))
+        for p in candidates:
+            if p.suffix.lower() in (".mp4", ".mkv", ".webm", ".mov") and p.exists():
+                result["video_path"] = str(p.absolute())
+                break
+
+        # Transcript from subtitle file or fallback (youtube-transcript-api for 429/YouTube)
+        if extract_transcript:
+            sub_files = list(out_dir.glob("*.vtt"))
+            if sub_files:
+                result["transcript"] = _parse_vtt_to_text(sub_files[0])
+            if not result["transcript"] and "youtube" in url.lower():
+                result["transcript"] = _extract_transcript_fallback(url)
+            # Cache transcript for reuse
+            if result.get("transcript"):
+                save_cached("video_transcript", {"transcript": result["transcript"]}, url=url)
 
     except Exception as e:
         result["error"] = str(e)

@@ -3,18 +3,17 @@ LLM-based video script generation from research + video analysis.
 Generates creative scripts inspired by reference videos and research insights.
 """
 
-import os
 from typing import Any
 
+from creative_research.constants import OPENAI_API_KEY
 from creative_research.scraped_data import VideoItem, ScrapedData
 
 
 def _get_openai_client():
     from openai import OpenAI
-    key = os.environ.get("OPENAI_API_KEY")
-    if not key:
+    if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY required for script generation. Set in .env")
-    return OpenAI(api_key=key)
+    return OpenAI(api_key=OPENAI_API_KEY)
 
 
 def _build_script_context(

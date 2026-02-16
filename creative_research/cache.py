@@ -6,9 +6,10 @@ Disable with CREATIVE_RESEARCH_NO_CACHE=1
 
 import hashlib
 import json
-import os
 from pathlib import Path
 from typing import Any
+
+from creative_research.constants import CREATIVE_RESEARCH_NO_CACHE
 
 
 def _cache_dir() -> Path:
@@ -34,7 +35,7 @@ def load_cached(source: str, **kwargs: Any) -> tuple[Any, bool]:
     Returns:
         (cached_data, True) on hit, (None, False) on miss.
     """
-    if os.environ.get("CREATIVE_RESEARCH_NO_CACHE"):
+    if CREATIVE_RESEARCH_NO_CACHE:
         return None, False
 
     cache_path = _cache_dir() / source / f"{_cache_key(source, **kwargs)}.json"
@@ -60,7 +61,7 @@ def save_cached(source: str, data: Any, **kwargs: Any) -> None:
         data: Data to cache.
         **kwargs: Key params (must match load_cached).
     """
-    if os.environ.get("CREATIVE_RESEARCH_NO_CACHE"):
+    if CREATIVE_RESEARCH_NO_CACHE:
         return
 
     cache_path = _cache_dir() / source / f"{_cache_key(source, **kwargs)}.json"

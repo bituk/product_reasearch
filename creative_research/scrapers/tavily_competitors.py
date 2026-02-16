@@ -2,8 +2,8 @@
 Tavily search for competitor research: competitors, ad library links, ad intel.
 """
 
-import os
 from creative_research.cache import load_cached, save_cached
+from creative_research.constants import TAVILY_API_KEY
 
 
 def fetch_competitor_research(
@@ -17,13 +17,12 @@ def fetch_competitor_research(
     if hit and isinstance(cached, str) and cached.strip():
         return cached
 
-    api_key = os.environ.get("TAVILY_API_KEY")
-    if not api_key:
+    if not TAVILY_API_KEY:
         return ""
 
     try:
         from tavily import TavilyClient
-        client = TavilyClient(api_key=api_key)
+        client = TavilyClient(api_key=TAVILY_API_KEY)
         results = client.search(
             query=f"{category_hint} competitors ad library Meta TikTok Google ads",
             max_results=5,

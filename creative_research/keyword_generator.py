@@ -3,18 +3,16 @@ Keyword generator: uses LLM to produce search_queries and subreddits from produc
 Cached by product_link + model.
 """
 
-import os
-
 from openai import OpenAI
 
 from creative_research.cache import load_cached, save_cached
+from creative_research.constants import OPENAI_API_KEY
 
 
 def get_client() -> OpenAI:
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
+    if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY is required. Set in .env")
-    return OpenAI(api_key=api_key)
+    return OpenAI(api_key=OPENAI_API_KEY)
 
 
 def generate_keywords(
