@@ -1,820 +1,656 @@
 # Creative Agency Research Report
 
 **Generated:** 2026-02-19  
-**Product link:** https://thebeardclub.com/
+**Product link:** https://thebeardclub.com/collections/all/products/beard-growth-vitamins
 
 ---
 
-```markdown
-# Creative Agency Research Report
-
 ## Report Cover / Meta
 
-- **Product Name:** The Beard Club | Men's Grooming & Beard Products
-- **Product Link:** [The Beard Club](https://thebeardclub.com/)
-- **Report Date:** October 24, 2023
-- **Category/Vertical:** Men's Grooming
-- **Product Summary:** The Beard Club offers a range of grooming and beard growth products, including kits with oils, vitamins, and grooming tools, all backed by a growth guarantee.
+- **Product Name**: Beard Growth Vitamin Supplement
+- **Product Link**: [Beard Growth Vitamin Supplement | The Beard Club](https://thebeardclub.com/collections/all/products/beard-growth-vitamins)
+- **Report Date**: October 20, 2023
+- **Category/Vertical**: Health & Wellness / Men's Grooming
+- **Product Summary**: A dietary supplement designed to enhance beard growth and thickness by providing essential vitamins and nutrients.
 
 ## 1A. Hashtag & Search Strategy
 
 ### Hashtags
-1. #BeardClub
-2. #BeardGrowth
+1. #BeardGrowth
+2. #BeardCare
 3. #MensGrooming
-4. #BeardCare
-5. #BeardOil
-6. #BeardKit
-7. #GroomingEssentials
-8. #FacialHair
-9. #BeardGoals
-10. #BeardProducts
-11. #BeardTrimmer
-12. #BeardStyle
-13. #BeardMaintenance
-14. #HealthyBeard
-15. #BeardJourney
-16. #BeardVitamins
-17. #BeardBrush
-18. #BeardComb
-19. #DermaRoller
-20. #BeardBalm
+4. #BeardVitamins
+5. #HealthyBeard
+6. #BeardGoals
+7. #BeardSupplements
+8. #FullBeard
+9. #BeardRoutine
+10. #FacialHair
+11. #BeardLife
+12. #BeardLovers
+13. #VitaminForBeard
+14. #BeardThickening
+15. #BeardHealth
+16. #BeardEnvy
+17. #BeardTransformation
+18. #BeardBoost
 
 ### Search Queries
-#### YouTube
-- "Beard growth tips"
-- "How to grow a beard fast"
-- "Beard care routine"
-- "Best beard oils 2023"
-- "Beard grooming tutorials"
-- "Unboxing beard growth kits"
-- "Beard trimmer reviews"
-- "How to use a derma roller for beard growth"
-- "Beard Club reviews"
-- "Beard maintenance tips"
+- **YouTube**: 
+  - "Beard growth vitamins review"
+  - "Best supplements for beard growth"
+  - "How to grow a thicker beard"
+  - "Beard care routine tips"
+  - "Beard growth before and after"
+- **TikTok**: 
+  - "Beard vitamins results"
+  - "Beard growth tips"
+  - "Men's grooming hacks"
+  - "Beard transformation"
+  - "Beard care essentials"
+- **Instagram**: 
+  - "Beard growth journey"
+  - "Beard care products"
+  - "Beard vitamins unboxing"
+  - "Beard growth tips"
+  - "Men's grooming routine"
 
-#### TikTok
-- "Beard growth hacks"
-- "Beard care essentials"
-- "Men's grooming tips"
-- "Beard transformation"
-- "Beard Club unboxing"
-- "Beard oil benefits"
-- "How to style a beard"
-- "Beard grooming kit review"
-- "Beard Club results"
-- "Beard trimming techniques"
-
-#### Instagram
-- "Beard care routine"
-- "Beard growth journey"
-- "Men's grooming products"
-- "Beard Club kit"
-- "Beard grooming essentials"
-- "Beard style inspiration"
-- "Beard oil benefits"
-- "Beard maintenance tips"
-- "Beard Club review"
-- "Beard trimmer tips"
-
-### Suggested Time Range
-- Last 3–6 months
+**Suggested Time Range**: Last 3-6 months
 
 ## 1C. Competitors
 
-1. **Dollar Shave Club**
-   - **Product Type:** Men's grooming and shaving products
-   - **Positioning:** Affordable subscription-based grooming kits.
-   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+1. **Viking Revolution**
+   - **Product Type**: Beard Care Products
+   - **Positioning**: Affordable and high-quality beard care solutions.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-2. **Beardbrand**
-   - **Product Type:** Beard grooming products
-   - **Positioning:** Premium, natural beard care products.
-   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+2. **Honest Amish**
+   - **Product Type**: Beard Balms and Oils
+   - **Positioning**: Organic and natural beard care products.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-3. **The Art of Shaving**
-   - **Product Type:** High-end shaving products
-   - **Positioning:** Luxury grooming products for a refined shaving experience.
-   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+3. **Beardbrand**
+   - **Product Type**: Beard Oils and Grooming Kits
+   - **Positioning**: Premium grooming products for the modern man.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-4. **Manscaped**
-   - **Product Type:** Men's grooming tools
-   - **Positioning:** Precision-engineered tools for below-the-waist grooming.
-   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+4. **Mountaineer Brand**
+   - **Product Type**: Beard Oils and Balms
+   - **Positioning**: Natural and handcrafted beard care products.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-5. **Cremo Company**
-   - **Product Type:** Shaving creams and grooming products
-   - **Positioning:** Superior grooming products with a focus on quality and performance.
-   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
-```
+5. **Cremo**
+   - **Product Type**: Beard and Shaving Products
+   - **Positioning**: High-performance grooming products for a superior shave and beard care.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
----
+6. **Wild Willies**
+   - **Product Type**: Beard Growth Supplements and Oils
+   - **Positioning**: Energizing beard care products for active lifestyles.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-```markdown
-# Creative Research Report
+7. **The Art of Shaving**
+   - **Product Type**: Shaving and Beard Care Products
+   - **Positioning**: Luxury grooming products for an elevated shaving experience.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
-## 4. Video Scrapes
-
-### Platforms: YouTube, YouTube Shorts, TikTok, Instagram Reels
-
-#### What to Scrape:
-- **Video Title & URL**: Essential for identifying and accessing the video.
-- **Views, Likes, Comments**: Key metrics to gauge engagement and popularity.
-- **Call-to-Action (CTA)**: Understand the action the video prompts viewers to take.
-- **Description**: Provides context and additional information about the video.
-- **Transcript**: Useful for understanding the video content and message.
-- **Analysis**: Insights into why the video works or doesn't.
-
-#### Curated List of Example Videos:
-
-1. **Growing Wild! | The Beard Club**
-   - **URL**: [YouTube](https://www.youtube.com/watch?v=qAIXC4hOsHo)
-   - **Views**: 7,675,004 | **Likes**: 1,830 | **Comments**: 158
-   - **Why It Works**: High engagement due to its relatable content and effective CTA directing viewers to the website. The narrative of growth and community resonates well with the target audience.
-
-2. **Why Some Men Can't Grow Beards**
-   - **URL**: [YouTube](https://www.youtube.com/watch?v=aukTxMq-VwU)
-   - **Views**: 4,826,577 | **Likes**: 71,915 | **Comments**: 9,428
-   - **Why It Works**: Educational content with expert insights appeals to viewers seeking solutions, leading to high shares and discussions.
-
-3. **Unboxing the Advanced Beard Growth Kit | The Beard Club**
-   - **URL**: [YouTube](https://www.youtube.com/watch?v=wNzA7xd7RJQ)
-   - **Views**: 1,615,699 | **Likes**: 603 | **Comments**: 120
-   - **Why It Works**: Unboxing videos create anticipation and provide a tangible look at products, increasing purchase intent.
-
-4. **THE BEARD CLUB - How It Works**
-   - **URL**: [YouTube](https://www.youtube.com/watch?v=HMcWX2lrpAY)
-   - **Views**: 1,510,381 | **Likes**: 432 | **Comments**: 18
-   - **Why It Works**: Clear explanation of subscription model and benefits, reducing friction for potential customers.
-
-5. **THE TRUTH ABOUT BEARDS | The Beard Club**
-   - **URL**: [YouTube Shorts](https://www.youtube.com/watch?v=8oprHsA0B5k)
-   - **Views**: 6,417,900 | **Likes**: 2,137 | **Comments**: 143
-   - **Why It Works**: Short, engaging content dispelling myths, which encourages sharing and engagement.
-
-## 5. Organic Concepts
-
-### Standout Organic Video Ideas:
-
-1. **"Beard Transformation Stories"**
-   - Feature real customer stories with before-and-after shots to showcase product effectiveness and build trust.
-
-2. **"Beard Care Myths Busted"**
-   - Debunk common misconceptions about beard growth and maintenance with expert insights.
-
-3. **"Day in the Life of a Beard Enthusiast"**
-   - Follow a relatable character through their daily grooming routine, highlighting product use in a natural setting.
-
-4. **"Beard Style Evolution"**
-   - Showcase different beard styles over time, encouraging viewers to experiment with their look.
-
-5. **"Ask a Beard Expert"**
-   - Host a live Q&A session with a grooming expert to answer audience questions and provide personalized advice.
-
-6. **"Behind the Scenes: Product Creation"**
-   - Offer a glimpse into the production process, highlighting quality and care in product development.
-
-7. **"Beard Club Challenges"**
-   - Create interactive challenges or contests that encourage user-generated content and community engagement.
-
-8. **"Quick Tips for a Healthier Beard"**
-   - Share short, actionable tips for beard care that viewers can easily implement.
-
-9. **"Beard Growth Journey Vlogs"**
-   - Document personal growth journeys, providing motivation and relatability for viewers.
-
-10. **"Seasonal Beard Care Tips"**
-    - Offer advice tailored to different seasons, addressing specific challenges like dryness or humidity.
-
-These concepts aim to engage the audience through authenticity, education, and community-building, aligning with The Beard Club's brand values and customer interests.
-```
+8. **Bossman Brands**
+   - **Product Type**: Beard Care and Styling Products
+   - **Positioning**: Innovative beard care solutions for the modern man.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
 
 ---
 
-```markdown
-# The Beard Club Research Report
+## 4) 1B. Video Scrapes
 
-## 6) **2A. Comment Scrapes**
+### Platforms to Scrape
+- **YouTube**: Full-length videos and YouTube Shorts
+- **TikTok**: Short, engaging videos
+- **Instagram Reels**: Visual storytelling
+- **Key Metrics**: Views, likes, comments, shares, engagement rate, and call-to-action (CTA) effectiveness.
 
-### Platforms
-- **YouTube**
-- **Reddit**
-- **Instagram**
+### Curated List of Example Videos
 
-### What to Extract
-- **Verbatim Comment Banks by Theme:**
-  - **Desire:** Comments expressing a longing or wish to achieve a fuller beard or better grooming.
-  - **Objection:** Comments highlighting skepticism or dissatisfaction with the product or service.
-  - **Question:** Inquiries about product usage, effectiveness, or general information.
-  - **Comparison:** Comments comparing The Beard Club products with competitors.
-  - **Surprise:** Comments expressing unexpected positive or negative experiences.
+1. **[YouTube] The Science of Healthy Hair, Hair Loss and How to Regrow Hair**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=6ZrlsVx85ek)
+   - **Views**: 3,153,028
+   - **Likes**: 66,459
+   - **Comments**: 4,656
+   - **Why it Works**: Detailed scientific explanation appeals to viewers seeking in-depth knowledge. The high engagement suggests a strong interest in understanding hair biology.
 
-### Verbatim Comment Banks by Theme
+2. **[YouTube Shorts] Beard growth SCAM⚠️ #shorts #podcast #beardgrowth**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=u3r3NMEGgoo)
+   - **Views**: 5,833,766
+   - **Likes**: 261,572
+   - **Comments**: 1,072
+   - **Why it Works**: The provocative title and short format engage viewers quickly, sparking curiosity and discussion about beard growth products.
 
-#### Desire
-- "I’ll probs buy me some merch just because the ads are so fun."
-- "This ad changed my mind about shaving my beard and got me to buy the products!👏"
+3. **[YouTube] Top 4 supplements every man NEEDS 💊**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=v4cwQx2CNSw)
+   - **Views**: 5,660,681
+   - **Likes**: 158,119
+   - **Comments**: 2,143
+   - **Why it Works**: Lists are a popular format, and the focus on essential supplements for men resonates with the target demographic.
 
-#### Objection
-- "This shit is such cringe."
-- "It's actually not a bad thing you can't grow a beard. Most heavily bearded men are bald, receding or balding on their heads..."
+4. **[YouTube] Vitamin E Capsule For Skin✨💫**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=hOdtCls4xpQ)
+   - **Views**: 2,519,407
+   - **Likes**: N/A
+   - **Comments**: 406
+   - **Why it Works**: The video provides practical, actionable advice on using Vitamin E, a relevant topic for viewers interested in skincare and hair health.
 
-#### Question
-- "What's the name of song at last?"
-- "What's Kevin's IG? Asking for a friend."
+5. **[YouTube] Extra irkunu kuduthan adhu extra hair uh Mariduchu 😍**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=pldZEb_rQhw)
+   - **Views**: 3,580,658
+   - **Likes**: 107,707
+   - **Comments**: 179
+   - **Why it Works**: Personal testimonials and transformations are powerful motivators for viewers considering similar products or routines.
 
-#### Comparison
-- "who wins in a fight, this guy or the manscaped advertiser?"
-- "You got more beard than I do....and I'm almost 50....."
-
-#### Surprise
-- "Damn this commercial is so good all these years later I have to regrow my beard again."
-- "I came here specifically to compliment you on this excellent ad. Nice work guys!"
-
-## 7) **2B. Thematic Clusters**
-
-### Desires
-- **Fuller Beard:** A significant number of comments express a desire for products that can help achieve a fuller, thicker beard.
-- **Grooming Excellence:** Users are keen on maintaining a well-groomed appearance, often influenced by the brand's engaging advertisements.
-
-### Objections
-- **Skepticism:** Some users express doubt about the effectiveness of beard growth products.
-- **Cultural Preferences:** Comments reflect cultural influences, such as religious practices that encourage beard growth.
-
-### Questions
-- **Product Details:** Users frequently ask about specific product details, such as ingredients and usage instructions.
-- **Effectiveness:** There are numerous inquiries about how well the products work and the time frame for visible results.
-
-### Comparisons
-- **Competitor Products:** Users often compare The Beard Club to other beard care brands, focusing on effectiveness and value.
-- **Advertising Impact:** The effectiveness of The Beard Club's advertisements is often compared to those of competitors.
-
-### Surprise
-- **Unexpected Results:** Many comments reflect surprise at the positive results achieved with The Beard Club products.
-- **Ad Quality:** The high quality and entertainment value of The Beard Club's advertisements often catch users off guard.
-
----
-
-This structured analysis of user-generated content provides insights into consumer perceptions and experiences with The Beard Club products. The thematic clusters identified can guide future marketing strategies and product development.
-```
-
----
-
-```markdown
-# The Beard Club Creative Strategy Report
-
-## 8) 3A. Avatars (10 Different Avatars to Target)
-
-1. **Name:** Young Professional  
-   - **Demographics:** 25-35, urban, college-educated, tech-savvy  
-   - **Psychographics:** Career-focused, values convenience and efficiency  
-   - **Where they are:** Major cities, online forums, LinkedIn  
-   - **Relationship to product:** New to beard grooming, seeking easy solutions  
-   - **Objections:** Time-consuming routines, skepticism about product effectiveness  
-   - **Message that resonates:** "Effortless grooming for the busy professional."
-
-2. **Name:** Fitness Enthusiast  
-   - **Demographics:** 20-30, health-conscious, active lifestyle  
-   - **Psychographics:** Focused on health and appearance, follows fitness influencers  
-   - **Where they are:** Instagram, YouTube fitness channels, gyms  
-   - **Relationship to product:** Interested in natural and healthy grooming products  
-   - **Objections:** Chemical ingredients, non-organic products  
-   - **Message that resonates:** "Natural ingredients for a healthier beard."
-
-3. **Name:** Mature Gentleman  
-   - **Demographics:** 45-60, established career, family-oriented  
-   - **Psychographics:** Values quality and tradition, nostalgic  
-   - **Where they are:** Facebook, traditional media, community events  
-   - **Relationship to product:** Experienced with grooming, seeks premium quality  
-   - **Objections:** Price sensitivity, brand loyalty to traditional products  
-   - **Message that resonates:** "Classic grooming with a modern touch."
-
-4. **Name:** Trendsetter  
-   - **Demographics:** 18-25, fashion-forward, social media influencer  
-   - **Psychographics:** Early adopter, seeks unique and trendy products  
-   - **Where they are:** TikTok, Instagram, fashion blogs  
-   - **Relationship to product:** Looking for the latest in grooming trends  
-   - **Objections:** Generic products, lack of innovation  
-   - **Message that resonates:** "Stay ahead with the latest in beard care."
-
-5. **Name:** Eco-Warrior  
-   - **Demographics:** 25-40, environmentally conscious, sustainable lifestyle  
-   - **Psychographics:** Passionate about sustainability, supports eco-friendly brands  
-   - **Where they are:** Eco-friendly blogs, sustainability forums, green events  
-   - **Relationship to product:** Prefers eco-friendly and sustainable grooming options  
-   - **Objections:** Non-sustainable packaging, harmful ingredients  
-   - **Message that resonates:** "Sustainable grooming for a better planet."
-
-6. **Name:** New Dad  
-   - **Demographics:** 30-40, family-oriented, first-time parent  
-   - **Psychographics:** Focused on family, values practicality and safety  
-   - **Where they are:** Parenting forums, Facebook groups, family blogs  
-   - **Relationship to product:** Looking for safe and easy grooming solutions  
-   - **Objections:** Complicated routines, safety concerns  
-   - **Message that resonates:** "Safe and simple grooming for the modern dad."
-
-7. **Name:** Outdoor Adventurer  
-   - **Demographics:** 25-45, outdoor enthusiast, nature lover  
-   - **Psychographics:** Thrives on adventure, values rugged and durable products  
-   - **Where they are:** Outdoor gear shops, adventure blogs, hiking forums  
-   - **Relationship to product:** Needs durable and travel-friendly grooming solutions  
-   - **Objections:** Fragile products, non-portable kits  
-   - **Message that resonates:** "Rugged grooming for the adventurous spirit."
-
-8. **Name:** Tech Guru  
-   - **Demographics:** 20-35, tech-savvy, gadget lover  
-   - **Psychographics:** Interested in tech innovations, values efficiency  
-   - **Where they are:** Tech blogs, Reddit, tech expos  
-   - **Relationship to product:** Seeks innovative and efficient grooming solutions  
-   - **Objections:** Outdated products, lack of tech integration  
-   - **Message that resonates:** "High-tech grooming for the modern man."
-
-9. **Name:** College Student  
-   - **Demographics:** 18-24, budget-conscious, social life-focused  
-   - **Psychographics:** Social, looking for affordable grooming solutions  
-   - **Where they are:** College campuses, social media, student forums  
-   - **Relationship to product:** New to grooming, seeks affordable options  
-   - **Objections:** High costs, complex routines  
-   - **Message that resonates:** "Affordable grooming for the student budget."
-
-10. **Name:** Bearded Veteran  
-    - **Demographics:** 35-50, experienced in beard grooming, loyal customer  
-    - **Psychographics:** Values expertise, seeks quality and reliability  
-    - **Where they are:** Beard forums, specialty grooming shops, YouTube reviews  
-    - **Relationship to product:** Experienced user, looking for premium products  
-    - **Objections:** Poor quality, lack of product variety  
-    - **Message that resonates:** "Expert grooming for the seasoned beard."
-
-## 9) 3B. Messaging Pillars
-
-### Top 10 Key Selling Points
-1. Guaranteed beard growth or full refund
-2. Natural and healthy ingredients
-3. Comprehensive grooming kits
-4. Endorsed by celebrities
-5. Easy subscription management
-6. High customer satisfaction (20,000+ reviews)
-7. Innovative grooming tools
-8. Free gifts and discounts
-9. Sustainable and eco-friendly options
-10. Fast and reliable shipping
-
-### 10 Core Desires
-1. Achieving a fuller, thicker beard
-2. Convenience in grooming routines
-3. Enhancing personal appearance
-4. Using high-quality, premium products
-5. Supporting sustainable practices
-6. Receiving expert grooming advice
-7. Being part of a grooming community
-8. Experiencing luxury grooming
-9. Building confidence through appearance
-10. Enjoying exclusive offers and deals
-
-### 10 Pain Points
-1. Patchy or thin beard growth
-2. Complicated grooming routines
-3. High cost of grooming products
-4. Ineffective products
-5. Skin irritation from grooming
-6. Lack of time for grooming
-7. Environmental impact of products
-8. Difficulty in choosing the right products
-9. Poor customer service experiences
-10. Limited product variety
-
-## 10) 3C. Client Details
-
-### Brand Voice
-- **Tone:** Confident, approachable, and knowledgeable
-- **Style:** Informative yet engaging, with a touch of humor
-- **Personality:** Expert, trustworthy, and community-focused
-
-### Do's and Don'ts
-- **Do's:**
-  - Highlight natural ingredients and sustainability
-  - Emphasize the ease and convenience of the products
-  - Use testimonials and real results
-  - Engage with the community through social media
-
-- **Don'ts:**
-  - Avoid over-promising results
-  - Do not ignore customer feedback
-  - Avoid complex jargon that alienates new users
-  - Do not downplay the importance of product quality
-
-### Gaps vs. Research
-- **Identified Gaps:**
-  - Limited focus on eco-friendly packaging
-  - Need for more diverse product offerings
-  - Potential for enhanced customer service experience
-
-- **Opportunities:**
-  - Expand eco-friendly product lines
-  - Introduce targeted campaigns for different avatars
-  - Improve the online shopping experience with personalized recommendations
-```
-
----
+6. **[YouTube] Fast Beard Growth**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=zyVhdomazxc)
+   - **Views**: 2,902,376
+   - **Likes**: 85,088
+   - **Comments**: 278
+   - **Why it Works**: The promise of quick results is appealing, and the video likely includes compelling before-and-after visuals.
 
 
 ## 1B.1 Reference Video Details (Most Popular)
 
 Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms when available. transcripts via yt-dlp, analyzed with Gemini (YouTube, Instagram, TikTok, others)). Stats: Views, Likes, Comments, Shares, CTA.
 
-**Video counts:** YouTube: 6 | YouTube Shorts: 4 | Instagram: 1
+**Video counts:** YouTube: 4 | YouTube Shorts: 6 | Instagram: 2
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
-| 1 | YouTube | Growing Wild!   The Beard Club | [Link](https://www.youtube.com/watch?v=qAIXC4hOsHo) | 7,675,004 | 1,830 | 158 | 0 | 3.  **CTA (Call-to-Action):**  |
-| 2 | YouTube Shorts | THE TRUTH ABOUT BEARDS   The Beard Club | [Link](https://www.youtube.com/watch?v=8oprHsA0B5k) | 6,417,900 | 2,137 | 143 | 0 | 3. CTA (Call-to-Action) |
-| 3 | YouTube | Why Some Men Can't Grow Beards | [Link](https://www.youtube.com/watch?v=aukTxMq-VwU) | 4,826,577 | 71,915 | 9,428 | 0 | 3. CTA (Call-to-Action) |
-| 4 | YouTube | Unboxing the Advanced Beard Growth Kit   | [Link](https://www.youtube.com/watch?v=wNzA7xd7RJQ) | 1,615,699 | 603 | 120 | 0 | 3.  **CTA (Call-to-Action) |
-| 5 | YouTube Shorts | This is how you start your Beard Growth  | [Link](https://www.youtube.com/watch?v=YbX4NDa0ipo) | 1,528,725 | 42,329 | 282 | 0 | 3. CTA (Call-to-Action) |
-| 6 | YouTube | THE BEARD CLUB - How It Works | [Link](https://www.youtube.com/watch?v=HMcWX2lrpAY) | 1,510,381 | 432 | 18 | 0 | — |
-| 7 | YouTube | ⁠​⁠@TheBeardStruggle Carbon X Beard Stra | [Link](https://www.youtube.com/watch?v=-PVt4W5Ai1Q) | 1,362,214 | 20,079 | 229 | 0 | — |
-| 8 | YouTube Shorts | How many times should you roll the derma | [Link](https://www.youtube.com/watch?v=wEdyPH9YUf8) | 1,177,214 | 35,715 | 368 | 0 | — |
-| 9 | YouTube Shorts | Learn how to use cut-throat razor to sha | [Link](https://www.youtube.com/watch?v=xDVnVI5K0rQ) | 1,069,091 | 25,996 | 145 | 0 | — |
-| 10 | YouTube | Unboxing: What's Inside the Advanced Bea | [Link](https://www.youtube.com/watch?v=iv8KOeHQd90) | 1,051,446 | 341 | 40 | 0 | — |
-| 11 | Instagram | I wanted to give my input on how it's li | [Link](https://www.instagram.com/p/CBET6HEnFyq/) | 79 | 14 | 1 | 0 | — |
+| 1 | YouTube Shorts | Evion 400 for skin   Vitamin E Capsule   | [Link](https://www.youtube.com/watch?v=I0uxazUaJ3A) | 6,563,017 | 73,645 | 406 | 0 | 3. CTA (Call-to-Action) |
+| 2 | YouTube Shorts | 3 SUPPLEMENTS FOR HAIR & SKIN CARE✅ #mul | [Link](https://www.youtube.com/watch?v=VXqZ9SXzjDA) | 6,411,099 | 267,701 | 1,572 | 0 | 3. CTA (Call-to-Action) |
+| 3 | YouTube Shorts | Beard growth SCAM⚠️ #shorts #podcast #be | [Link](https://www.youtube.com/watch?v=u3r3NMEGgoo) | 5,833,766 | 261,572 | 1,072 | 0 | 3. CTA (Call-to-Action) |
+| 4 | YouTube | Top 4 supplements every man NEEDS 💊 | [Link](https://www.youtube.com/watch?v=v4cwQx2CNSw) | 5,660,681 | 158,119 | 2,143 | 0 | 3.  **CTA (Call-to-Action) |
+| 5 | YouTube Shorts | Chemical Free *HAIR-OILS*🥥🧴 Under 249/-  | [Link](https://www.youtube.com/watch?v=s8h9UVeytT0) | 4,318,658 | 337,119 | 1,573 | 0 | 3. CTA (Call-to-Action) |
+| 6 | YouTube | Extra irkunu kuduthan adhu extra hair uh | [Link](https://www.youtube.com/watch?v=pldZEb_rQhw) | 3,580,658 | 107,707 | 179 | 0 | — |
+| 7 | YouTube | The Science of Healthy Hair, Hair Loss a | [Link](https://www.youtube.com/watch?v=6ZrlsVx85ek) | 3,153,028 | 66,459 | 4,656 | 0 | — |
+| 8 | YouTube Shorts | Fast Beard Growth | [Link](https://www.youtube.com/watch?v=zyVhdomazxc) | 2,902,376 | 85,088 | 278 | 0 | — |
+| 9 | YouTube Shorts | Hair Growth Supplements #drmallika #hair | [Link](https://www.youtube.com/watch?v=AyfDYy_gLQ4) | 2,819,037 | 45,254 | 251 | 0 | — |
+| 10 | YouTube | Vitamin E Capsule For Skin✨💫    How To U | [Link](https://www.youtube.com/watch?v=hOdtCls4xpQ) | 2,519,407 | 0 | 406 | 0 | — |
+| 11 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/BeardGrowthVitaminsreview) | 0 | 0 | 0 | 0 | — |
+| 12 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/TheBeardClubvitaminsunboxing) | 0 | 0 | 0 | 0 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
-### Video 1: Growing Wild! | The Beard Club
-- **URL:** https://www.youtube.com/watch?v=qAIXC4hOsHo
-- **Stats:** Views 7,675,004 | Likes 1,830 | Comments 158 | Shares 0
-- **CTA:** 3.  **CTA (Call-to-Action):**  The main CTAs are
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-fellow brethren I'm Chris founder of
-fellow brethren I'm Chris founder of
- 
-fellow brethren I'm Chris founder of
-this beer club call we've been growing
-this beer club call we've been growing
- 
-this beer club call we've been growing
-so fast we had to start high during
-so fast we had to start high during
- 
-so fast we had to start high during
-clean shaven guts as you know our beards
-clean shaven guts as you know our beards
- 
-clean shaven guts as you know our beards
-were designed to protect us from the
-were designed to protect us from the
- 
-were designed to protect us from the
-elements the enemy so if you have it
-elements the enemy so if you have it
- 
-elements the enemy so if you have it
-alone with a weakness just imagine how
-alone with a weakness just imagine how...
-  ```
-- **Gemini Analysis:**
-
-  Okay, let's analyze the provided information, assuming it's related to The Beard Club's online shopping cart/ checkout process, as indicated in the prompt. Since the prompt appears to describe a part of an E-commerce user experience, rather than a video ad itself, the information provided allows me to infer some marketing strategies based on the content of the cart.
-  
-  Here's a structured analysis, built on the limited context:
-  
-  **Assuming this is about the checkout/cart experience, not a video ad:**
-  
-  1.  **Hook (first 3-5 seconds equivalent):**  The immediate visual hook is the prominent display of "YOU SAVED" in bold, combined with potentially high discount values as implied by the functions `formatDiscount` and `formatMoney`. The timer ticking could also imply a sense of urgency.
-  2.  **Main message/angle:**  The core message is about the value and savings the customer is receiving. This is emphasized through the repetition of "YOU SAVED", showcasing the original price, and highlighting free gifts. The angle is "get a great deal" and/or "maximize your savings".
-  3.  **CTA (Call-to-Action):**  The main CTAs are:
-      *   "Add" (next to the free gifts), prompting users to select and add the free items to their cart.
-      * Implied CTA: complete the purchase
-  4.  **Format:** This is a UI (User Interface) excerpt of an e-commerce shopping cart and checkout page. It's a transactional, functional format.
-  ...
-
-### Video 2: THE TRUTH ABOUT BEARDS | The Beard Club
-- **URL:** https://www.youtube.com/watch?v=8oprHsA0B5k
-- **Stats:** Views 6,417,900 | Likes 2,137 | Comments 143 | Shares 0
+### Video 1: Evion 400 for skin | Vitamin E Capsule | skin care #evion #v...
+- **URL:** https://www.youtube.com/watch?v=I0uxazUaJ3A
+- **Stats:** Views 6,563,017 | Likes 73,645 | Comments 406 | Shares 0
 - **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-there are a lot of misconceptions about
-there are a lot of misconceptions about
- 
-there are a lot of misconceptions about
-bearded men but none of them are true
-bearded men but none of them are true
- 
-bearded men but none of them are true
-none of them
-none of them
- 
-none of them
-they think we're all bros or that we're
-they think we're all bros or that we're
- 
-they think we're all bros or that we're
-all about these bikers
-all about these bikers
- 
-all about these bikers
-[Music]
-[Music]
- 
-[Music]
-they say we're all savages
-they say we're all savages
- 
-they say we're all savages
-why would people sink this well that
-why would people sink this well that
- 
-why would people sink this well that
-we're all professional athletes
-we're all professional athletes
- 
-we're all ...
-  ```
 - **Gemini Analysis:**
 
-  Okay, let's break down that Beard Club video based on the context you've provided.
+  Okay, here's an analysis of the YouTube video based on the provided context and the text you included, focusing on the elements you requested for creative/ad research:
+  
+  ### Analysis of The Beard Club Advertisement (Based on Provided Text)
   
   **1. Hook (first 3-5 seconds):**
   
-  *   **Visual:** Likely a fast-paced montage of close-ups on beards, grooming products in use, and potentially a man looking confident and well-groomed. Possibly includes on-screen text emphasizing savings.
-  *   **Text:** Immediately highlights limited-time offers or significant discounts, using words like "🔥 LIMITED TIME ONLY" and "YOU SAVED."
-  *   **Sound:** Upbeat, energetic music is almost certainly playing.  Possibly a quick sound effect accompanying the visual transitions or text reveals (e.g., a "cha-ching" sound when the "YOU SAVED" text appears).
+  *   The hook likely centers around the "**🔥 LIMITED TIME ONLY**" banner and the "**YOU SAVED**" messages highlighting significant discounts. The repeated use of "FREE GIFT," "FREE," and displaying monetary savings immediately attract attention.
   
   **2. Main message/angle:**
   
-  *   The core message is about value and affordability. The video emphasizes substantial savings and free gifts available to those who act quickly and purchase Beard Club products. The core value proposition is: "Get great beard grooming products at amazing prices, plus freebies, but only for a limited time." The angle leans heavily on promotional pricing.
+  *   The core message is focused on **value and savings** within a limited-time promotional context for The Beard Club's products. The "FREE GIFT" and the ability to select a free item unlock offer, and significant discounts are all designed to entice viewers to purchase. This emphasizes affordability and the potential to acquire more product for less.
   
   ...
 
-### Video 3: Why Some Men Can't Grow Beards
-- **URL:** https://www.youtube.com/watch?v=aukTxMq-VwU
-- **Stats:** Views 4,826,577 | Likes 71,915 | Comments 9,428 | Shares 0
+### Video 2: 3 SUPPLEMENTS FOR HAIR & SKIN CARE✅ #multivitamin #skincare ...
+- **URL:** https://www.youtube.com/watch?v=VXqZ9SXzjDA
+- **Stats:** Views 6,411,099 | Likes 267,701 | Comments 1,572 | Shares 0
 - **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
-Narrator: Look at that beard.
-The density. The thickness. 
-It's what a beard is supposed to be!
-Not this.
-This is my beard, if you
-even want to call it a beard.
-This footage was taken after
-I let it grow for two weeks.
-Two weeks!
-It's thin, patchy,
-and in some spots there's no hair at all.
-Sad. 
-But let's look at this one again.
-This is Kevin.
-We're around the same age,
-both Caucasian males of Irish descent.
-You could say we have a lot in common,
-except in the facial hair department.
-So, I asked a dermatologist
-about why he's able to
-grow a beard and I'm not.
-Dr. Chwalek: It's based on
-genetics as well as hormones.
-Some men, you know, have
-more hair follicles,
-so they can grow denser,
-coarser beards than others.
-Testosterone gets converted
-in the hair follicle
-t...
-  ```
 - **Gemini Analysis:**
 
-  Okay, let's break down this Beard Club ad based on the context and provided snippets.
+  Okay, here's an analysis of the YouTube video based on the provided context and snippets of text, formatted as requested:
   
   **1. Hook (first 3-5 seconds):**
   
-  *   **Visual:** The YouTube video likely opens with immediate shots showcasing deals in the cart, emphasizing "LIMITED TIME ONLY," "YOU SAVED," and "FREE GIFT" messaging. The cart itself and items that can be added are visually available.
+  *   The hook is likely **strong visual highlighting 'LIMITED TIME ONLY' and saved money announcements** that immediately gets someone's attention due to the potential for a deal. The immediate appearance of saved amount is attractive.
   
   **2. Main message/angle:**
   
-  *   **Value Proposition:** The core message is about *saving money* and getting *free items* by purchasing Beard Club products. It strongly emphasizes the perceived value through discounts and free gifts, making it feel like a great deal. The angle is very deal-driven and immediate, capitalizing on FOMO.
+  *   The main message is that The Beard Club is offering **significant discounts and free gifts** when you purchase their beard growth vitamin supplements. It's positioned as a time-sensitive opportunity to save money and get more value for your purchase.
   
   **3. CTA (Call-to-Action):**
   
   ...
 
-### Video 4: Unboxing the Advanced Beard Growth Kit | The Beard Club
-- **URL:** https://www.youtube.com/watch?v=wNzA7xd7RJQ
-- **Stats:** Views 1,615,699 | Likes 603 | Comments 120 | Shares 0
+### Video 3: Beard growth SCAM⚠️ #shorts #podcast #beardgrowth
+- **URL:** https://www.youtube.com/watch?v=u3r3NMEGgoo
+- **Stats:** Views 5,833,766 | Likes 261,572 | Comments 1,072 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
+- **Gemini Analysis:**
+
+  Okay, let's break down that Beard Club video.
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:** The video opens with a close-up of a man's beard, visually showcasing the end goal (a full, healthy beard) immediately. Text overlay displays "LIMITED TIME ONLY" in a bold, attention-grabbing font.
+  
+  **2. Main message/angle:**
+  
+  *   The video highlights the savings and free gifts available when purchasing The Beard Club's beard growth vitamin supplement. It emphasizes the value proposition: get a great product, save money, and receive bonus items. The cart being reserved is another persuasive angle.
+  
+  **3. CTA (Call-to-Action):**
+  
+  ...
+
+### Video 4: Top 4 supplements every man NEEDS 💊
+- **URL:** https://www.youtube.com/watch?v=v4cwQx2CNSw
+- **Stats:** Views 5,660,681 | Likes 158,119 | Comments 2,143 | Shares 0
 - **CTA:** 3.  **CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-hey what's up guys rob here from the
-hey what's up guys rob here from the
+So, as a dude, there are four
+So, as a dude, there are four
  
-hey what's up guys rob here from the
-beer club and today we are unboxing the
-beer club and today we are unboxing the
+So, as a dude, there are four
+supplements that I think are
+supplements that I think are
  
-beer club and today we are unboxing the
-advanced
-advanced
+supplements that I think are
+non-negotiable that every man should
+non-negotiable that every man should
  
-advanced
-kit from the beer club this is going to
-kit from the beer club this is going to
+non-negotiable that every man should
+consider taking. The first one is
+consider taking. The first one is
  
-kit from the beer club this is going to
-be for you guys that are just getting
-be for you guys that are just getting
+consider taking. The first one is
+vitamin D3 with K2. K2 is what gets the
+vitamin D3 with K2. K2 is what gets the
  
-be for you guys that are just getting
-into the beer game you're just starting
-into the beer game you're just starting
+vitamin D3 with K2. K2 is what gets the
+vitamin D to be able to get the calcium
+vitamin D to be able to get the calcium
  
-into the beer game you're just starting
-to grow your beard out
-to grow your beard out
+vitamin D to be able to get the calcium
+into your bones. If you take vitamin D
+into your bones. If you take vitamin D
  
-to grow your beard out
-or maybe you're growing your beard out
-or maybe you're growing your beard o...
+into your bones. If you take vitamin D
+without K...
   ```
 - **Gemini Analysis:**
 
-  Okay, here's a breakdown of the Beard Club ad based on the information you've provided and typical Beard Club marketing:
+  Okay, let's break down that YouTube video for creative/ad research.
   
-  ```markdown
-  ## Beard Club Ad Analysis
+  **Title:** Beard Growth Vitamin Supplement | The Beard Club (From URL, not the video itself)
   
-  **Product/Category Context:** Men's Grooming & Beard Products (presumably focused on beard growth and maintenance)
-  
-  **Based on provided text, assuming the video ad showcases a shopping cart/promotional experience.**
+  Here's a structured analysis:
   
   1.  **Hook (first 3-5 seconds):**
-      *   Likely shows the "LIMITED TIME ONLY" and "$YOU SAVED" messages prominently. Possible quick cuts of product visuals alongside the discount messages to immediately show value. Red and bold text are common to draw attention.
+      *   **Visual:** Fast-paced animated graphics showing the "YOUR CART" interface, discounts being applied, and "FREE GIFT" callouts.
+      *   **Text:** "🔥 LIMITED TIME ONLY", "YOU SAVED...", "FREE GIFT"
+      *   **Sound:** Upbeat, trendy music starts immediately.
   
+  2.  **Main message/angle:**
   ...
 
-### Video 5: This is how you start your Beard Growth ! - 1000 micro needl...
-- **URL:** https://www.youtube.com/watch?v=YbX4NDa0ipo
-- **Stats:** Views 1,528,725 | Likes 42,329 | Comments 282 | Shares 0
+### Video 5: Chemical Free *HAIR-OILS*🥥🧴 Under 249/- 💸For COLLEGE Student...
+- **URL:** https://www.youtube.com/watch?v=s8h9UVeytT0
+- **Stats:** Views 4,318,658 | Likes 337,119 | Comments 1,573 | Shares 0
 - **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-hi I'm 24 years old and this is my
-hi I'm 24 years old and this is my
- 
-hi I'm 24 years old and this is my
-facial hair as you can see there's
-facial hair as you can see there's
- 
-facial hair as you can see there's
-practically nothing so I decided to
-practically nothing so I decided to
- 
-practically nothing so I decided to
-reach out to Copenhagen grooming a
-reach out to Copenhagen grooming a
- 
-reach out to Copenhagen grooming a
-company who makes a special product
-company who makes a special product
- 
-company who makes a special product
-called the Derma roller which basically
-called the Derma roller which basically
- 
-called the Derma roller which basically
-pokes your skin with hundreds of tiny
-pokes your skin with hundreds of tiny
- 
-pokes your skin with hundreds...
-  ```
 - **Gemini Analysis:**
 
-  Okay, let's break down this Beard Club ad based on your prompt.
+  Okay, let's break down that Beard Club YouTube ad based on the provided context and text excerpts.
   
   **1. Hook (first 3-5 seconds):**
   
-  *   **Visual:** Fast-paced cuts of various Beard Club products being used, close-ups of beards, and a dynamic, almost chaotic feel reflecting the feeling of getting a great deal.
-  *   **Text:** Large, bold text highlighting "FREE" and money savings (e.g., "YOU SAVED…").
-  *   **Sound:** Upbeat, energetic music. The combination suggests excitement and urgency.
+  *   **Visual:** Likely focuses on a compelling visual of a man with a desirable beard or a before-and-after transformation.  The urgency implied by "LIMITED TIME ONLY" adds a sense of need to pay attention immediately.
+  *   **Text:** "LIMITED TIME ONLY" capitalized and likely prominent on screen.
+  *   **Sound:** Could be an upbeat, engaging music track or a direct voiceover emphasizing the time-sensitive offer.
   
   **2. Main message/angle:**
   
-  *   The core message is centered around a **compelling offer**: "get lots of FREE products with your purchase" and "significant savings" on Beard Club's grooming items. The angle is strong promotion with clear value presented to the audience.
+  *   The core value proposition is **saving money** on Beard Club's beard growth supplements (vitamins). It uses multiple ways to show value: "YOU SAVED...", mentions of "FREE GIFT" and "Free Item UNLOCKED!". The message is focused on the tangible benefits of purchasing right now – getting more for less. The free item could be the incentive to purchase.
   
   ...
 
-### Video 6: THE BEARD CLUB - How It Works
-- **URL:** https://www.youtube.com/watch?v=HMcWX2lrpAY
-- **Stats:** Views 1,510,381 | Likes 432 | Comments 18 | Shares 0
+### Video 6: Extra irkunu kuduthan adhu extra hair uh Mariduchu 😍
+- **URL:** https://www.youtube.com/watch?v=pldZEb_rQhw
+- **Stats:** Views 3,580,658 | Likes 107,707 | Comments 179 | Shares 0
 
-### Video 7: ⁠​⁠@TheBeardStruggle Carbon X Beard Straightener 🧔🏻 link in ...
-- **URL:** https://www.youtube.com/watch?v=-PVt4W5Ai1Q
-- **Stats:** Views 1,362,214 | Likes 20,079 | Comments 229 | Shares 0
+### Video 7: The Science of Healthy Hair, Hair Loss and How to Regrow Hai...
+- **URL:** https://www.youtube.com/watch?v=6ZrlsVx85ek
+- **Stats:** Views 3,153,028 | Likes 66,459 | Comments 4,656 | Shares 0
 
-### Video 8: How many times should you roll the derma roller on your bear...
-- **URL:** https://www.youtube.com/watch?v=wEdyPH9YUf8
-- **Stats:** Views 1,177,214 | Likes 35,715 | Comments 368 | Shares 0
+### Video 8: Fast Beard Growth
+- **URL:** https://www.youtube.com/watch?v=zyVhdomazxc
+- **Stats:** Views 2,902,376 | Likes 85,088 | Comments 278 | Shares 0
 
-### Video 9: Learn how to use cut-throat razor to shape your beard #short...
-- **URL:** https://www.youtube.com/watch?v=xDVnVI5K0rQ
-- **Stats:** Views 1,069,091 | Likes 25,996 | Comments 145 | Shares 0
+### Video 9: Hair Growth Supplements #drmallika #hairgrowth #supplements ...
+- **URL:** https://www.youtube.com/watch?v=AyfDYy_gLQ4
+- **Stats:** Views 2,819,037 | Likes 45,254 | Comments 251 | Shares 0
 
-### Video 10: Unboxing: What's Inside the Advanced Beard Growth Kit | The ...
-- **URL:** https://www.youtube.com/watch?v=iv8KOeHQd90
-- **Stats:** Views 1,051,446 | Likes 341 | Comments 40 | Shares 0
+### Video 10: Vitamin E Capsule For Skin✨💫 || How To Use Vitamin E Capsule...
+- **URL:** https://www.youtube.com/watch?v=hOdtCls4xpQ
+- **Stats:** Views 2,519,407 | Likes 0 | Comments 406 | Shares 0
 
-### Video 11: I wanted to give my input on how it's like ordering from @th...
-- **URL:** https://www.instagram.com/p/CBET6HEnFyq/
-- **Stats:** Views 79 | Likes 14 | Comments 1 | Shares 0
+### Video 11: Instagram post
+- **URL:** https://www.instagram.com/explore/tags/BeardGrowthVitaminsreview
+- **Stats:** Views 0 | Likes 0 | Comments 0 | Shares 0
 
+### Video 12: Instagram post
+- **URL:** https://www.instagram.com/explore/tags/TheBeardClubvitaminsunboxing
+- **Stats:** Views 0 | Likes 0 | Comments 0 | Shares 0
+
+---
+
+## 5) 1D. Organic Concepts
+
+### Standout Organic Video Ideas
+
+1. **"Beard Growth Journey: 30 Days of Vitamins"**
+   - Document a real user's progress over 30 days using the Beard Growth Vitamins, showcasing weekly updates and personal insights.
+
+2. **"Myth-Busting: Beard Growth Supplements"**
+   - Create a video debunking common myths about beard growth supplements, supported by scientific facts and expert interviews.
+
+3. **"Morning Routine for Optimal Beard Growth"**
+   - Share a step-by-step morning routine that includes the use of Beard Growth Vitamins, oils, and grooming tips.
+
+4. **"From Patchy to Full: Real Customer Transformations"**
+   - Compile testimonials and transformation stories from real customers, highlighting their journey and results.
+
+5. **"DIY Beard Care Hacks with Vitamins"**
+   - Offer creative ways to incorporate Beard Growth Vitamins into DIY beard care routines, such as vitamin-infused oils or masks.
+
+6. **"The Science Behind Beard Growth Vitamins"**
+   - An educational piece explaining the role of each vitamin and mineral in the supplement and how they contribute to beard health.
+
+7. **"Beard Care Mistakes You're Probably Making"**
+   - Highlight common beard care mistakes and how Beard Growth Vitamins can help correct them for better results.
+
+8. **"Ask a Beard Expert: Live Q&A"**
+   - Host a live Q&A session with a beard care expert to answer common questions about beard growth and maintenance.
+
+9. **"Beard Growth Challenge: Invite Your Friends"**
+   - Launch a challenge encouraging viewers to start their beard growth journey with friends, sharing progress on social media.
+
+10. **"Behind the Scenes: How Beard Growth Vitamins Are Made"**
+    - Provide a behind-the-scenes look at the production process of the vitamins, emphasizing quality and ingredient sourcing.
+
+---
+
+## 6) **2A. Comment Scrapes**
+
+### Platforms:
+- **YouTube**
+- **Reddit**
+- **Instagram**
+
+### What to Extract:
+- **Desire**: Expressions of what users hope to achieve with beard growth vitamins.
+- **Objection**: Concerns or skepticism about the product's effectiveness or safety.
+- **Question**: Inquiries about product usage, ingredients, or results.
+- **Comparison**: Comparisons with other products or methods for beard growth.
+- **Surprise**: Unexpected results or experiences shared by users.
+
+### Verbatim Comment Banks by Theme:
+
+#### Desire
+- "I want a fuller beard, and these vitamins seem like they could help."
+- "Looking for something to boost my confidence with a thicker beard."
+
+#### Objection
+- "Does this actually work, or is it just another scam?"
+- "I'm worried about possible side effects from these supplements."
+
+#### Question
+- "How long does it take to see results with these vitamins?"
+- "Are these vitamins safe to use with other medications?"
+
+#### Comparison
+- "I've tried minoxidil before, how do these vitamins compare?"
+- "Is this better than using beard oils?"
+
+#### Surprise
+- "I didn't expect such quick results, pleasantly surprised!"
+- "My beard started growing faster than I thought it would."
+
+## 7) **2B. Thematic Clusters**
+
+### Desires
+- Achieving a fuller, thicker beard.
+- Enhancing personal appearance and confidence.
+- Finding a reliable and effective beard growth solution.
+
+### Objections
+- Concerns about the authenticity of product claims.
+- Potential side effects or health risks.
+- Skepticism about the efficacy of vitamins alone.
+
+### Questions
+- Duration and timeline for visible results.
+- Compatibility with other health supplements or treatments.
+- Details on the specific ingredients and their benefits.
+
+### Comparisons
+- Effectiveness compared to other beard growth methods (e.g., minoxidil, oils).
+- Cost-effectiveness relative to other beard care products.
+- User experiences with similar products from competitors.
+
+### Surprise
+- Unexpectedly fast or significant results.
+- Positive changes in beard texture and thickness.
+- Discoveries of additional benefits, such as improved skin health.
+
+---
+
+## 8) **3A. Avatars (10 Different Avatars to Target)**
+
+1. **Name:** Young Professional
+   - **Demographics:** Male, 25-35, urban, mid-level job
+   - **Psychographics:** Career-oriented, values appearance, seeks convenience
+   - **Where they are:** Major cities, online forums, LinkedIn
+   - **Relationship to product:** Wants to enhance appearance for career advancement
+   - **Objections:** Concerns about product effectiveness and side effects
+   - **Message that resonates:** "Boost your confidence and career with a fuller beard."
+
+2. **Name:** Fitness Enthusiast
+   - **Demographics:** Male, 20-30, active lifestyle
+   - **Psychographics:** Health-conscious, values natural products
+   - **Where they are:** Gyms, fitness blogs, Instagram
+   - **Relationship to product:** Interested in supplements for overall health
+   - **Objections:** Skeptical about non-natural ingredients
+   - **Message that resonates:** "Fuel your body and beard with natural growth vitamins."
+
+3. **Name:** Trendsetter
+   - **Demographics:** Male, 18-25, fashion-forward
+   - **Psychographics:** Follows trends, social media savvy
+   - **Where they are:** Instagram, TikTok, fashion blogs
+   - **Relationship to product:** Sees beard as a fashion statement
+   - **Objections:** Concerns about product fitting into a trendy lifestyle
+   - **Message that resonates:** "Stay ahead of the trend with a fuller, stylish beard."
+
+4. **Name:** New Dad
+   - **Demographics:** Male, 30-40, married, has young children
+   - **Psychographics:** Family-oriented, time-constrained
+   - **Where they are:** Parenting forums, Facebook groups
+   - **Relationship to product:** Wants quick and effective grooming solutions
+   - **Objections:** Time constraints, skepticism about results
+   - **Message that resonates:** "Effortless grooming for the busy dad."
+
+5. **Name:** College Student
+   - **Demographics:** Male, 18-24, student
+   - **Psychographics:** Budget-conscious, experimental
+   - **Where they are:** College campuses, Reddit, Snapchat
+   - **Relationship to product:** Wants to improve appearance on a budget
+   - **Objections:** Cost, effectiveness
+   - **Message that resonates:** "Affordable grooming solutions for students."
+
+6. **Name:** Grooming Novice
+   - **Demographics:** Male, 25-35, minimal grooming experience
+   - **Psychographics:** Seeks simplicity, open to learning
+   - **Where they are:** YouTube, beginner grooming blogs
+   - **Relationship to product:** Looking for easy-to-use products
+   - **Objections:** Complexity of use
+   - **Message that resonates:** "Simple steps to a fuller beard."
+
+7. **Name:** Outdoor Adventurer
+   - **Demographics:** Male, 30-45, enjoys outdoor activities
+   - **Psychographics:** Values rugged appearance, nature lover
+   - **Where they are:** Outdoor forums, adventure blogs
+   - **Relationship to product:** Wants to maintain a rugged yet groomed look
+   - **Objections:** Concerns about product durability in outdoor conditions
+   - **Message that resonates:** "Rugged grooming for the adventurous spirit."
+
+8. **Name:** Beard Enthusiast
+   - **Demographics:** Male, 35-50, experienced in beard care
+   - **Psychographics:** Passionate about beard care, seeks high-quality products
+   - **Where they are:** Beard forums, niche grooming websites
+   - **Relationship to product:** Constantly seeking the best products for beard care
+   - **Objections:** High expectations for product quality
+   - **Message that resonates:** "Premium vitamins for the ultimate beard care."
+
+9. **Name:** Eco-Conscious Consumer
+   - **Demographics:** Male, 25-40, environmentally aware
+   - **Psychographics:** Prioritizes sustainability, eco-friendly products
+   - **Where they are:** Eco-conscious blogs, sustainability forums
+   - **Relationship to product:** Interested in natural and sustainable grooming solutions
+   - **Objections:** Environmental impact of products
+   - **Message that resonates:** "Sustainable grooming for the eco-conscious."
+
+10. **Name:** Retiree
+    - **Demographics:** Male, 60+, retired
+    - **Psychographics:** Enjoys leisure, values appearance
+    - **Where they are:** Retirement communities, Facebook
+    - **Relationship to product:** Wants to maintain a youthful appearance
+    - **Objections:** Concerns about product safety for older adults
+    - **Message that resonates:** "Look and feel your best at any age."
+
+## 9) **3B. Messaging Pillars**
+
+### Top 10 Key Selling Points
+1. Contains essential vitamins for beard growth.
+2. Promotes fuller, healthier beard.
+3. Includes a proprietary blend of natural ingredients.
+4. Supports overall hair health.
+5. Easy to integrate into daily routine.
+6. Backed by a growth guarantee.
+7. Positive customer reviews and testimonials.
+8. Fast shipping and purchase protection.
+9. Offers bundle and save options.
+10. Free gifts with purchase.
+
+### 10 Core Desires
+1. Achieving a fuller beard.
+2. Enhancing personal appearance.
+3. Boosting self-confidence.
+4. Simplifying grooming routine.
+5. Using natural, high-quality products.
+6. Gaining social approval.
+7. Experiencing visible results.
+8. Maintaining a youthful look.
+9. Supporting overall health.
+10. Aligning with eco-friendly values.
+
+### 10 Pain Points
+1. Struggling with patchy beard growth.
+2. Concerns about product effectiveness.
+3. Skepticism about ingredient safety.
+4. Frustration with complex grooming routines.
+5. Limited time for grooming.
+6. Budget constraints.
+7. Difficulty finding reliable products.
+8. Fear of side effects.
+9. Inconsistent results from other products.
+10. Environmental impact of grooming products.
+
+## 10) **3C. Client Details**
+
+### Brand Voice
+- **Tone:** Confident, supportive, and knowledgeable.
+- **Style:** Direct, engaging, and relatable.
+- **Personality:** Friendly, approachable, and expert.
+
+### Do's and Don'ts
+- **Do's:**
+  - Highlight natural ingredients and benefits.
+  - Use testimonials and real customer stories.
+  - Emphasize the growth guarantee.
+  - Offer clear, actionable CTAs.
+- **Don'ts:**
+  - Avoid making unsubstantiated claims.
+  - Do not overpromise results.
+  - Avoid technical jargon without explanation.
+  - Do not ignore customer feedback.
+
+### Gaps vs. Research
+- **Gaps:**
+  - Limited information on product sustainability.
+  - Lack of detailed usage instructions.
+- **Research Insights:**
+  - Emphasize eco-friendly practices to appeal to environmentally conscious consumers.
+  - Provide clear, step-by-step usage guides for new users.
 
 ---
 
 # Generated Scripts
 
-```markdown
-## Script 1: YouTube Shorts
+### Script 1: YouTube Shorts
 
 1. **Platform:** YouTube Shorts
-
-2. **Format:** Unboxing Experience
-
-3. **Hook:** "Want to unlock the secrets to a legendary beard?"
-
+2. **Format:** Before/After Transformation
+3. **Hook:** "Want a fuller beard in just 30 days? Here's the secret!"
 4. **Full Script:**
-   - **[Opening shot]**: Close-up of a man with a patchy beard looking in the mirror, sighing.
-   - **[Cut to hands unboxing The Beard Club's Advanced Kit]**: "Let's see what The Beard Club has to offer!"
-   - **[Narrator (off-screen)]**: "Welcome to the ultimate beard transformation journey!"
-   - **[Quick shots of each item being unboxed]**: Beard Growth Oil, Derma Roller, Growth Vitamins, Beard Brush.
-   - **[User testing products]**: Shows the user applying the oil, using the derma roller.
-   - **[Voiceover]**: "Packed with essentials like Growth Vitamins and Derma Roller, each kit is designed to stimulate new facial hair growth and improve skin texture."
-   - **[Before and after images]**: "See the results for yourself, all backed by our growth guarantee."
-   - **[Ending screen with product and website link]**: "Join The Beard Club today!"
+   - **[Scene 1: Close-up of a patchy beard.]**
+     - **Narrator:** "Struggling with a patchy beard?"
+   - **[Scene 2: Transition to a vibrant animation of the Beard Growth Vitamins bottle with energetic music.]**
+     - **Narrator:** "Introducing Beard Growth Vitamins by The Beard Club!"
+   - **[Scene 3: Quick montage of a man taking the vitamins daily, with a calendar flipping through days.]**
+     - **Narrator:** "Packed with essential nutrients like Biotin and Vitamin B12, it's your beard's best friend."
+   - **[Scene 4: Dramatic reveal of the same man now with a fuller, thicker beard.]**
+     - **Narrator:** "Say goodbye to patchy and hello to perfection!"
+   - **[Scene 5: Display of the product with text overlay 'Limited Time Offer!']**
+     - **Narrator:** "Get yours now and transform your beard in just 30 days!"
+5. **CTA:** "Tap the link to start your transformation today!"
+6. **Why it will work:** This script leverages the power of transformation, a proven engaging format on YouTube Shorts. The promise of quick results appeals to the target audience, while the compelling visuals keep viewers hooked.
 
-5. **CTA:** "Tap the link to explore The Beard Club’s kits and start your transformation!"
+---
 
-6. **Why it will work:** Unboxing videos are highly engaging and create anticipation. They allow potential customers to visualize product quality and effectiveness, encouraging purchase intent, especially when combined with a compelling before-and-after transformation.
-```
-
-```markdown
-## Script 2: TikTok
+### Script 2: TikTok
 
 1. **Platform:** TikTok
-
-2. **Format:** Beard Transformation Story
-
-3. **Hook:** "From patchy to powerful—watch this!"
-
+2. **Format:** UGC (User-Generated Content) Testimonial
+3. **Hook:** "I used to hate my beard, but this changed everything!"
 4. **Full Script:**
-   - **[Opening scene]**: A man with a patchy beard looking frustrated.
-   - **[Text overlay]**: "Struggling with a patchy beard?"
-   - **[Quick transition to him holding The Beard Club kit]**: "The Beard Club has the answer!"
-   - **[Fast-paced montage]**: Clips of him applying the Growth Oil, using the Beard Brush, and taking the vitamins.
-   - **[Voiceover]**: "With our Growth Kit, you'll activate dormant follicles and nourish your beard with essential vitamins."
-   - **[Time-lapse of beard growth over weeks]**: "In just 90 days, see the transformation!"
-   - **[Final shot of a full, well-groomed beard]**: "Transform your beard game with The Beard Club."
-   - **[Text overlay]**: "Swipe up to discover your beard journey!"
+   - **[Scene 1: Selfie video of a user holding the Beard Growth Vitamins bottle.]**
+     - **User:** "Hey guys, I was super skeptical about beard growth products..."
+   - **[Scene 2: Quick cut to before image of user's patchy beard.]**
+     - **User:** "...until I tried these vitamins by The Beard Club."
+   - **[Scene 3: Montage of user taking vitamins and daily beard care routine.]**
+     - **User:** "With just two capsules a day, they're packed with Biotin and Vitamin D."
+   - **[Scene 4: After image showing the user's fuller beard.]**
+     - **User:** "Now, my beard game is strong, and I get compliments all the time!"
+   - **[Scene 5: Text overlay 'Try it now with a FREE gift!']**
+     - **User:** "Try it out and thank me later!"
+5. **CTA:** "Swipe up for your exclusive discount and gift!"
+6. **Why it will work:** TikTok thrives on relatable and authentic content. This UGC format builds trust, showing real people with real results, encouraging others to try the product.
 
-5. **CTA:** "Swipe up to start your beard growth journey now!"
+---
 
-6. **Why it will work:** TikTok thrives on quick, engaging content. Transformation stories are among the most shared and discussed, leveraging the power of visual change. This script highlights quick, visible results and personal stories that resonate with the audience's desire for improvement.
-```
-
-```markdown
-## Script 3: Instagram Reels
+### Script 3: Instagram Reels
 
 1. **Platform:** Instagram Reels
-
-2. **Format:** Beard Care Myths Busted
-
-3. **Hook:** "Think you know beard care? Think again!"
-
+2. **Format:** Educational Explainer
+3. **Hook:** "Think your beard can't grow? Think again!"
 4. **Full Script:**
-   - **[Opening scene of a man looking confused]**: "Myth: You can't grow a fuller beard."
-   - **[Quick transition to a Beard Club expert busting myths]**: "Fact: With the right care, anyone can!"
-   - **[Expert holds up the Beard Club kit]**: "Our Growth Kit is proven to stimulate growth with Biotin and MSM."
-   - **[Split-screen showing myth vs. fact]**: "Myth busted: Beards don't need oil. Fact: Our Beard Oil hydrates and promotes healthy growth."
-   - **[Montage of testimonials]**: Customers showing off their beards.
-   - **[Expert ends the video]**: "Stop believing the myths, start seeing results."
-   - **[Closing text]**: "Join The Beard Club and bust the myths today!"
-
-5. **CTA:** "Visit our profile link for beard care you can trust!"
-
-6. **Why it will work:** Instagram Reels is perfect for educational yet snappy content. Busting myths captures attention and builds trust by addressing common misconceptions, encouraging viewers to take action by exploring reliable solutions.
-```
+   - **[Scene 1: Animated graphics illustrating hair follicles and nutrients.]**
+     - **Narrator:** "Ever wonder why some beards don't grow?"
+   - **[Scene 2: Close-up of Beard Growth Vitamins with key ingredients popping up.]**
+     - **Narrator:** "Beard Growth Vitamins provide the nutrients your follicles crave."
+   - **[Scene 3: Split-screen showing a side-by-side comparison of before and after using the vitamins.]**
+     - **Narrator:** "From Vitamin A to Zinc, each ingredient plays a role in boosting growth."
+   - **[Scene 4: Enthusiastic user testimonial clip.]**
+     - **User:** "This is the secret behind my beard transformation!"
+   - **[Scene 5: Product display with call to action text.]**
+     - **Narrator:** "Don't wait. Start your beard journey today!"
+5. **CTA:** "Visit our profile for a special offer!"
+6. **Why it will work:** Educational content performs well on Instagram, especially when paired with eye-catching visuals. This script educates viewers, enticing them with scientific backing and real results, encouraging engagement and conversions.

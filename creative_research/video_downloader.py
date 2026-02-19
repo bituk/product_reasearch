@@ -11,6 +11,8 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+from creative_research.constants import APIFY_API_TOKEN, TIKTOK_COOKIES_FROM_BROWSER
+
 # Optional: youtube-transcript-api as fallback when yt-dlp subs unavailable
 try:
     from youtube_transcript_api import YouTubeTranscriptApi
@@ -82,15 +84,38 @@ def _extract_youtube_id(url: str) -> str | None:
     return m.group(1) if m else None
 
 
-def _download_direct_video(url: str, output_path: Path) -> bool:
-    """Download video from direct URL (e.g. Instagram CDN from Apify). Returns True if success."""
+def _extract_tiktok_id(url: str) -> str | None:
+    """Extract TikTok video ID from URL like https://www.tiktok.com/@user/video/7204347705928191259"""
+    import re
+    m = re.search(r"tiktok\.com.*?/video/(\d+)", url)
+    return m.group(1) if m else None
+
+
+def _download_direct_video(
+    url: str, output_path: Path, *, is_tiktok: bool = False, apify_token: str | None = None
+) -> bool:
+    """Download video from direct URL (Instagram CDN, TikTok CDN, or Apify storage). Returns True if success."""
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+    if is_tiktok:
+        headers["Referer"] = "https://www.tiktok.com/"
+    if apify_token:
+        headers["Authorization"] = f"Bearer {apify_token}"
+    # Prefer httpx (better SSL handling); fallback to urllib
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; VideoDownloader/1.0)"})
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            output_path.write_bytes(resp.read())
+        import httpx
+        with httpx.Client(follow_redirects=True, timeout=90) as client:
+            resp = client.get(url, headers=headers)
+            resp.raise_for_status()
+            output_path.write_bytes(resp.content)
         return output_path.exists() and output_path.stat().st_size > 0
     except Exception:
-        return False
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                output_path.write_bytes(resp.read())
+            return output_path.exists() and output_path.stat().st_size > 0
+        except Exception:
+            return False
 
 
 def download_video(
@@ -132,16 +157,25 @@ def download_video(
         "error": None,
     }
 
-    # Try direct download first when we have Apify CDN URL (Instagram, TikTok)
+    # Try direct download first when we have CDN or Apify storage URL (Instagram, TikTok)
+    is_tiktok_cdn = "tiktok" in (video_direct_url or "").lower()
+    is_apify_storage = "api.apify.com" in (video_direct_url or "")
     if video_direct_url and (
         ".mp4" in video_direct_url
         or "cdninstagram" in video_direct_url
-        or "tiktok" in video_direct_url.lower()
+        or is_tiktok_cdn
+        or is_apify_storage
     ):
         import re
-        vid_id = _extract_youtube_id(url) or re.sub(r"[^\w\-]", "_", (url or "")[-60:]) or "video"
+        vid_id = _extract_youtube_id(url) or _extract_tiktok_id(url) or re.sub(r"[^\w\-]", "_", (url or "")[-60:]) or "video"
         out_path = out_dir / f"{vid_id}.mp4"
-        if _download_direct_video(video_direct_url, out_path):
+        apify_token = APIFY_API_TOKEN if is_apify_storage else None
+        if _download_direct_video(
+            video_direct_url,
+            out_path,
+            is_tiktok=(is_tiktok_cdn and not is_apify_storage),
+            apify_token=apify_token,
+        ):
             result["success"] = True
             result["video_path"] = str(out_path.absolute())
             # No transcript from direct download; try yt-dlp for transcript only if we have page URL
@@ -170,6 +204,12 @@ def download_video(
         # Platform-specific options for TikTok and Instagram
         if "tiktok.com" in url:
             ydl_opts.setdefault("extractor_args", {})["tiktok"] = {"format": "best"}
+            ydl_opts["http_headers"] = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Referer": "https://www.tiktok.com/",
+            }
+            if TIKTOK_COOKIES_FROM_BROWSER:
+                ydl_opts["cookiesfrombrowser"] = (TIKTOK_COOKIES_FROM_BROWSER.lower(),)
         if "instagram.com" in url:
             ydl_opts.setdefault("extractor_args", {})["instagram"] = {"format": "best"}
         if extract_transcript:
@@ -191,6 +231,11 @@ def download_video(
                     "no_warnings": True,
                     "match_filter": _duration_filter,
                 }
+                if "tiktok.com" in url:
+                    ydl_opts_no_subs["http_headers"] = {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                        "Referer": "https://www.tiktok.com/",
+                    }
                 with yt_dlp.YoutubeDL(ydl_opts_no_subs) as ydl:
                     info = ydl.extract_info(url, download=True)
             else:
@@ -277,5 +322,5 @@ def download_and_transcript_batch(
 
 def _sanitize_url_for_dir(url: str) -> str:
     import re
-    vid_id = _extract_youtube_id(url) or re.sub(r"[^\w\-]", "_", url[:50])
+    vid_id = _extract_youtube_id(url) or _extract_tiktok_id(url) or re.sub(r"[^\w\-]", "_", url[:50])
     return f"vid_{vid_id}"

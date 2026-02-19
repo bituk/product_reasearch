@@ -218,11 +218,19 @@ class ScrapedData:
         self,
         limit: int = 12,
         min_per_source: int = 1,
+        min_tiktok: int = 2,
+        min_instagram: int = 2,
     ) -> list["VideoItem"]:
         """
-        Select videos for report_popular: top by views + at least 1 from each source
-        (youtube_videos, youtube_shorts, tiktok_videos, instagram_videos).
+        Select videos for reports: top by views + at least min_tiktok/min_instagram from TikTok/Instagram.
+        Ensures both reports have at least 2 TikTok and 2 Instagram when available.
         """
+        source_min = {
+            "youtube": min_per_source,
+            "youtube_shorts": min_per_source,
+            "tiktok": min_tiktok,
+            "instagram": min_instagram,
+        }
         sources = [
             ("youtube", self.youtube_videos),
             ("youtube_shorts", self.youtube_shorts),
@@ -241,12 +249,17 @@ class ScrapedData:
         selected: list[VideoItem] = list(by_views[:base_limit])
         seen_urls = {v.url for v in selected}
 
-        # Ensure at least min_per_source from each source that has videos
-        for _, lst in sources:
-            source_videos = sorted([v for v in lst if v.url], key=lambda v: v.views or 0, reverse=True)
+        # Ensure at least min_tiktok/min_instagram from TikTok/Instagram, min_per_source from others
+        for src, lst in sources:
+            min_needed = source_min[src]
+            source_videos = [v for v in lst if v.url]
+            source_videos.sort(
+                key=lambda v: (1 if getattr(v, "video_direct_url", "") else 0, v.views or 0),
+                reverse=True,
+            )
             added = 0
             for v in source_videos:
-                if v.url not in seen_urls and added < min_per_source:
+                if v.url not in seen_urls and added < min_needed:
                     selected.append(v)
                     seen_urls.add(v.url)
                     added += 1
@@ -301,7 +314,9 @@ class ScrapedData:
         videos_with_url = [v for v in all_videos if v.url]
 
         if ensure_platform_diversity and limit is not None:
-            videos_with_url = self._select_videos_for_popular(limit=limit, min_per_source=1)
+            videos_with_url = self._select_videos_for_popular(
+                limit=limit, min_per_source=1, min_tiktok=2, min_instagram=2
+            )
         else:
             if sort_by_popularity:
                 videos_with_url = sorted(videos_with_url, key=lambda v: v.views or 0, reverse=True)

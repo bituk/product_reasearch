@@ -43,6 +43,10 @@ TAVILY_API_KEY = _env("TAVILY_API_KEY")
 # --- Product ---
 PRODUCT_URL = _env("PRODUCT_URL")
 
+# --- TikTok download (yt-dlp fallback when Apify has no direct URL) ---
+# Set to "chrome", "firefox", "safari" etc. to use browser cookies for TikTok (close browser first)
+TIKTOK_COOKIES_FROM_BROWSER = _env("TIKTOK_COOKIES_FROM_BROWSER")
+
 # --- Gemini ---
 GEMINI_MODEL = _env("GEMINI_MODEL") or "gemini-2.0-flash"
 GEMINI_BATCH_DELAY = _env_float("GEMINI_BATCH_DELAY", 3.0)

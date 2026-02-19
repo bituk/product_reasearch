@@ -29,6 +29,7 @@ def main() -> int:
     parser.add_argument("--product-url", help="Override PRODUCT_URL from .env")
     parser.add_argument("--no-download", action="store_true", help="Skip video download (faster, uses URLs only)")
     parser.add_argument("--skip-apify", action="store_true", help="Skip Apify scrapers (if Apify client crashes)")
+    parser.add_argument("--apify-only", action="store_true", help="Only scrape Apify TikTok + Instagram (same as test_apify_video_scrape)")
     args = parser.parse_args()
     if args.skip_apify:
         os.environ["SKIP_APIFY"] = "1"
@@ -43,6 +44,7 @@ def main() -> int:
     result = run_pipeline_v2(
         product_url,
         download_videos=not args.no_download,
+        apify_only=args.apify_only,
         max_videos_total=20,
         max_videos_to_download=5,
         max_videos_to_analyze=5,

@@ -31,6 +31,7 @@ def main() -> int:
     parser.add_argument("-o", "--output-dir", default=".", help="Output directory (default: project root)")
     parser.add_argument("--no-download", action="store_true", help="Skip video download")
     parser.add_argument("--skip-apify", action="store_true", help="Skip Apify scrapers")
+    parser.add_argument("--apify-only", action="store_true", help="Only scrape Apify TikTok + Instagram")
     args = parser.parse_args()
 
     if args.skip_apify:
@@ -48,6 +49,7 @@ def main() -> int:
     result = run_pipeline_v2(
         product_url,
         download_videos=not args.no_download,
+        apify_only=args.apify_only,
         max_videos_total=20,
         max_videos_to_download=5,
         max_videos_to_analyze=5,

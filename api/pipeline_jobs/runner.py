@@ -180,6 +180,7 @@ def run_pipeline_for_job(job_id: str) -> None:
         result = run_pipeline_v2(
             job.product_url,
             download_videos=True,
+            apify_only=False,  # Use all four scrapers: YouTube, Shorts, TikTok, Instagram
             max_videos_total=20,
             max_videos_to_download=5,
             max_videos_to_analyze=5,

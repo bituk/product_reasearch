@@ -30,6 +30,7 @@ def run_pipeline_v2(
     search_queries_override: list[str] | None = None,
     subreddits_override: list[str] | None = None,
     download_videos: bool = True,
+    apify_only: bool = False,
     max_videos_total: int = 20,
     max_videos_to_download: int = 5,
     max_videos_to_analyze: int = 5,
@@ -53,6 +54,7 @@ def run_pipeline_v2(
         search_queries_override: Override search queries.
         subreddits_override: Override subreddits.
         download_videos: If True, download top videos with yt-dlp.
+        apify_only: If True, skip YouTube/Reddit and only scrape Apify TikTok + Instagram (same as test).
         max_videos_total: Max videos to scrape across all platforms (default 20).
         max_videos_to_download: Max videos to download (default 5).
         max_videos_to_analyze: Max videos to send to Gemini (default 5).
@@ -98,14 +100,18 @@ def run_pipeline_v2(
     result["keywords"] = keywords
     search_queries = keywords.get("search_queries") or ["product review", "best"]
     subreddits = keywords.get("subreddits") or ["all"]
+    if apify_only:
+        search_queries = search_queries or ["productreview"]
 
-    # 3) Video scrape
+    # 3) Video scrape (tiktok_download_videos so Apify downloads TikTok to storage; same logic as test_apify_video_scrape)
     _stage("video_scrape")
     scraped = run_all_scrapes(
         product_link,
         search_queries=search_queries,
         subreddits=subreddits,
         product_page_text=product_page_text,
+        tiktok_download_videos=download_videos,
+        apify_only=apify_only,
     )
     scraped.truncate_videos_to_max(max_total=max_videos_total)
     result["scraped_data"] = scraped
