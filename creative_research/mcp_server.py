@@ -69,6 +69,7 @@ def run_full_research_pipeline(
     product_link: str = "",
     output_path: str | None = None,
     download_videos: bool = True,
+    max_videos_total: int = 20,
     max_videos_to_download: int = 5,
     max_videos_to_analyze: int = 5,
     model: str = "gpt-4o",
@@ -87,6 +88,7 @@ def run_full_research_pipeline(
         product_link: Full URL of the product.
         output_path: Optional path to save report + scripts Markdown.
         download_videos: If True, download top videos with yt-dlp.
+        max_videos_total: Max videos to scrape across all platforms (default 20).
         max_videos_to_download: Max videos to download (default 5).
         max_videos_to_analyze: Max videos to analyze with Gemini (default 5).
         model: OpenAI model for report and scripts.
@@ -105,6 +107,7 @@ def run_full_research_pipeline(
             product_link.strip(),
             model=model,
             download_videos=download_videos,
+            max_videos_total=max_videos_total,
             max_videos_to_download=max_videos_to_download,
             max_videos_to_analyze=max_videos_to_analyze,
         )

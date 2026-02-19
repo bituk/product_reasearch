@@ -35,7 +35,9 @@ def _parse_retry_seconds(err_str: str) -> float | None:
     return float(m.group(1)) if m else None
 
 # Gemini supports YouTube URLs directly - no download needed for analysis
+# TikTok/Instagram: use local video file (uploaded via Files API)
 GEMINI_VIDEO_ANALYSIS_PROMPT = """Analyze this video for creative/ad research purposes.
+The video may be from YouTube, YouTube Shorts, TikTok, Instagram, or other platforms.
 
 Extract and structure:
 1. **Hook** (first 3-5 seconds): What grabs attention? Visual, text, sound?

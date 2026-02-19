@@ -38,6 +38,7 @@ class PipelineJobSerializer(serializers.ModelSerializer):
 class PipelineJobDetailSerializer(serializers.ModelSerializer):
     """Full job details including report, scripts, and structured data."""
     stages = PipelineStageSerializer(many=True, read_only=True)
+    report_popular = serializers.CharField(source="report", read_only=True)
 
     class Meta:
         model = PipelineJob
@@ -52,6 +53,8 @@ class PipelineJobDetailSerializer(serializers.ModelSerializer):
             "completed_at",
             "metadata",
             "report",
+            "report_popular",
+            "report_all_videos",
             "scripts",
             "keywords",
             "video_analyses",

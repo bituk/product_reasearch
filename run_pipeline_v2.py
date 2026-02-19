@@ -24,7 +24,8 @@ from creative_research.pipeline_v2 import run_pipeline_v2
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Run Pipeline v2 (uses PRODUCT_URL from .env)")
-    parser.add_argument("-o", "--output", help="Save report + scripts to file")
+    parser.add_argument("-o", "--output", help="Save report_popular (most popular videos) to file")
+    parser.add_argument("--output-all", action="store_true", help="Also save report_all_videos.md and report_popular.md to project root")
     parser.add_argument("--product-url", help="Override PRODUCT_URL from .env")
     parser.add_argument("--no-download", action="store_true", help="Skip video download (faster, uses URLs only)")
     parser.add_argument("--skip-apify", action="store_true", help="Skip Apify scrapers (if Apify client crashes)")
@@ -42,18 +43,25 @@ def main() -> int:
     result = run_pipeline_v2(
         product_url,
         download_videos=not args.no_download,
+        max_videos_total=20,
         max_videos_to_download=5,
         max_videos_to_analyze=5,
     )
 
-    content = result["report"] + "\n\n---\n\n# Generated Scripts\n\n" + result["scripts"]
+    # report_popular already includes scripts; support --output-all for both reports
+    content = result.get("report_popular", result["report"])
 
+    project_root = Path(__file__).resolve().parent
     if args.output:
         out = Path(args.output)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(content, encoding="utf-8")
         print(f"Saved to {out.absolute()}", file=sys.stderr)
-    else:
+    if args.output_all:
+        (project_root / "report_popular.md").write_text(result.get("report_popular", ""), encoding="utf-8")
+        (project_root / "report_all_videos.md").write_text(result.get("report_all_videos", ""), encoding="utf-8")
+        print("Saved report_popular.md and report_all_videos.md", file=sys.stderr)
+    if not args.output and not args.output_all:
         print(content, end="")
 
     return 0
