@@ -36,7 +36,8 @@ class PipelineJob(models.Model):
     completed_at = models.DateTimeField(blank=True, null=True)
 
     # Output: report and scripts (primary deliverables)
-    report = models.TextField(blank=True, null=True)
+    report = models.TextField(blank=True, null=True)  # report_popular (most popular videos)
+    report_all_videos = models.TextField(blank=True, null=True)  # report with all videos (max 25)
     scripts = models.TextField(blank=True, null=True)
 
     # Structured data (JSONB for flexible querying)

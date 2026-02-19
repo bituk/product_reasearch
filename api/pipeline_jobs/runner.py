@@ -180,6 +180,8 @@ def run_pipeline_for_job(job_id: str) -> None:
         result = run_pipeline_v2(
             job.product_url,
             download_videos=True,
+            apify_only=False,  # Use all four scrapers: YouTube, Shorts, TikTok, Instagram
+            max_videos_total=20,
             max_videos_to_download=5,
             max_videos_to_analyze=5,
             output_dir=str(output_dir),
@@ -188,11 +190,13 @@ def run_pipeline_for_job(job_id: str) -> None:
 
         serialized = _serialize_result(result)
 
-        report = result.get("report", "")
+        report_popular = result.get("report_popular", result.get("report", ""))
+        report_all_videos = result.get("report_all_videos", "")
         scripts_only = result.get("scripts", "")
-        job.report = report
+        job.report = report_popular
+        job.report_all_videos = report_all_videos
         # scripts field stores full report + generated scripts (complete deliverable)
-        job.scripts = (report + "\n\n---\n\n# Generated Scripts\n\n" + scripts_only) if (report or scripts_only) else ""
+        job.scripts = report_popular if report_popular else ""
         job.keywords = serialized["keywords"]
         job.video_analyses = serialized["video_analyses"]
         job.download_results = serialized["download_results"]
@@ -250,13 +254,17 @@ def run_pipeline_for_job(job_id: str) -> None:
                 metadata=stage_metadata_map.get(stage_name, {}),
             )
 
-        # Save full report + scripts to report_full.md
-        if job.scripts:
-            report_path = _project_root / "report_full.md"
-            try:
-                report_path.write_text(job.scripts, encoding="utf-8")
-            except OSError:
-                pass
+        # Save reports to disk
+        try:
+            if report_popular:
+                (_project_root / "report_popular.md").write_text(report_popular, encoding="utf-8")
+            if report_all_videos:
+                (_project_root / "report_all_videos.md").write_text(report_all_videos, encoding="utf-8")
+            # Backward compat: report_full.md = popular variant
+            if job.scripts:
+                (_project_root / "report_full.md").write_text(job.scripts, encoding="utf-8")
+        except OSError:
+            pass
 
     except Exception as e:
         job.status = PipelineJob.Status.FAILED

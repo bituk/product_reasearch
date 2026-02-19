@@ -33,6 +33,13 @@ Implements the full orchestration requested:
   - `generate_video_scripts_from_research`
 - Cursor/Claude can orchestrate via MCP
 
+## Troubleshooting
+
+### TikTok videos not downloading via POST/API
+- **Restart the Celery worker** after code changes: `Ctrl+C` then `celery -A api worker -l info`
+- The worker caches code at startup; it won't pick up changes until restarted
+- Ensure `APIFY_API_TOKEN` is set (required for TikTok download via Apify storage)
+
 ## Usage
 
 ### Full pipeline (Python)

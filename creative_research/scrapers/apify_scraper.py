@@ -43,23 +43,60 @@ def _run_actor(
 
 
 def run_apify_tiktok(
-    queries: list[str], max_results: int = 20, product_link: str | None = None
+    queries: list[str],
+    max_results: int = 20,
+    product_link: str | None = None,
+    *,
+    should_download_videos: bool = False,
 ) -> list[VideoItem]:
-    """Scrape TikTok by hashtag/search. Returns list of VideoItem."""
+    """Scrape TikTok by hashtag/search. Returns list of VideoItem.
+    If should_download_videos=True, Apify downloads videos to its storage (higher cost, slower).
+    """
     client = _get_client()
     items: list[VideoItem] = []
     for q in queries[:3]:  # Limit to 3 queries to stay within free tier
+        # When downloading videos, limit to 8 per hashtag (Apify cost); otherwise up to 30
+        per_page = min(8, max_results) if should_download_videos else min(max_results, 30)
+        run_input = {
+            "hashtags": [q.replace("#", "").strip()],
+            "resultsPerPage": per_page,
+            "shouldDownloadVideos": should_download_videos,
+        }
         raw = _run_actor(
             client,
             ACTOR_TIKTOK_HASHTAG,
-            {"hashtags": [q.replace("#", "").strip()], "resultsLimit": min(max_results, 30)},
-            timeout_secs=90,
+            run_input,
+            timeout_secs=120 if should_download_videos else 90,
         )
         for r in raw:
+            # webVideoUrl may be wrapped in angle brackets by Apify: "<https://...>"
+            tiktok_url = (r.get("webVideoUrl") or r.get("videoUrl") or "").strip().strip("<>")
+            if not tiktok_url:
+                continue
+            if not tiktok_url.startswith("http"):
+                tiktok_url = f"https://www.tiktok.com/{tiktok_url}" if tiktok_url.startswith("@") else ""
+            if not tiktok_url.startswith("http"):
+                continue
+            # Direct video URL: Apify storage (when shouldDownloadVideos), CDN (v16-webapp), or .mp4
+            tiktok_direct = ""
+            media_urls = r.get("mediaUrls") or []
+            for m in media_urls:
+                u = (m if isinstance(m, str) else "").strip().strip("<>")
+                if u and (".mp4" in u or "v16-webapp" in u or "tiktokv" in u or "api.apify.com" in u):
+                    tiktok_direct = u
+                    break
+            if not tiktok_direct:
+                vm = r.get("videoMeta") or {}
+                for k in ("downloadAddr", "originalDownloadAddr"):
+                    u = (vm.get(k) or "").strip().strip("<>")
+                    if u and (".mp4" in u or "v16-webapp" in u or "tiktokv" in u or "api.apify.com" in u):
+                        tiktok_direct = u
+                        break
             items.append(VideoItem(
                 platform="TikTok",
                 title=r.get("text") or r.get("desc") or "",
-                url=r.get("webVideoUrl") or r.get("videoUrl") or "",
+                url=tiktok_url,
+                video_direct_url=tiktok_direct,
                 description=r.get("text", "")[:500],
                 views=r.get("playCount") or 0,
                 likes=r.get("diggCount") or 0,
@@ -86,10 +123,17 @@ def run_apify_instagram(
         )
         for r in raw:
             caption = (r.get("caption") or "")[:500]
+            page_url = r.get("url") or ""
+            if not page_url and r.get("shortCode"):
+                # Build URL from shortCode (reel vs post)
+                sc = r.get("shortCode", "")
+                page_url = f"https://www.instagram.com/reel/{sc}/" if r.get("type") == "Video" else f"https://www.instagram.com/p/{sc}/"
+            video_direct = r.get("videoUrl", "") if r.get("type") == "Video" else ""
             items.append(VideoItem(
                 platform="Instagram",
                 title=caption or "Instagram post",
-                url=r.get("url") or r.get("shortCode", ""),
+                url=page_url,
+                video_direct_url=video_direct,
                 description=caption,
                 views=r.get("videoViewCount") or r.get("likesCount") or 0,
                 likes=r.get("likesCount") or 0,
@@ -115,13 +159,18 @@ def run_apify_scrapes(
     search_hashtags: list[str],
     *,
     max_videos_per_platform: int = 15,
+    tiktok_download_videos: bool = True,
 ) -> tuple[list[VideoItem], list[VideoItem], list[dict], list[dict], list[dict]]:
     """
     Run TikTok, Instagram, and Amazon scrapes via Apify.
+    When tiktok_download_videos=True, Apify downloads TikTok videos to its storage (enables direct download).
     Returns (tiktok_videos, instagram_videos, amazon_raw, apify_tiktok_raw, apify_instagram_raw).
     """
     tiktok = run_apify_tiktok(
-        search_hashtags, max_results=max_videos_per_platform, product_link=product_url
+        search_hashtags,
+        max_results=max_videos_per_platform,
+        product_link=product_url,
+        should_download_videos=tiktok_download_videos,
     )
     instagram = run_apify_instagram(
         search_hashtags, max_results=max_videos_per_platform, product_link=product_url

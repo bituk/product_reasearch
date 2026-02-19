@@ -11,9 +11,9 @@ from typing import TYPE_CHECKING, Optional
 
 import httpx
 from bs4 import BeautifulSoup
-from openai import OpenAI
 
-from creative_research.constants import OPENAI_API_KEY
+from creative_research.constants import GEMINI_API_KEY, OPENAI_API_KEY
+from creative_research.llm_client import call_llm
 
 if TYPE_CHECKING:
     from creative_research.scraped_data import ScrapedData
@@ -41,27 +41,6 @@ def fetch_product_page(url: str, timeout: float = 15.0) -> str:
         return text[:50_000]
 
 
-def get_client() -> OpenAI:
-    if not OPENAI_API_KEY:
-        raise ValueError(
-            "OPENAI_API_KEY environment variable is required. "
-            "Set it or pass product_page_content to avoid fetching."
-        )
-    return OpenAI(api_key=OPENAI_API_KEY)
-
-
-def _call_llm(client: OpenAI, system: str, user: str, model: str = "gpt-4o") -> str:
-    out = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
-        temperature=0.4,
-    )
-    return (out.choices[0].message.content or "").strip()
-
-
 def generate_report(
     product_link: str,
     product_page_content: Optional[str] = None,
@@ -87,7 +66,10 @@ def generate_report(
     if openai_api_key:
         os.environ["OPENAI_API_KEY"] = openai_api_key
 
-    client = get_client()
+    if not (os.environ.get("OPENAI_API_KEY") or OPENAI_API_KEY) and not GEMINI_API_KEY:
+        raise ValueError(
+            "OPENAI_API_KEY or GEMINI_API_KEY (or GOOGLE_API_KEY) required. Set in .env"
+        )
 
     if product_page_content is None and (not scraped_data or not scraped_data.product_page_text):
         try:
@@ -133,7 +115,7 @@ Product page content (excerpt):
         "Use the **Competitor analysis (Tavily search)** data when present.\n\n"
         + product_context
     )
-    part1 = _call_llm(client, system1, user1, model=model)
+    part1 = call_llm(system1, user1, openai_model=model)
 
     user2 = (
         "Continue the same Creative Research Report. "
@@ -142,7 +124,7 @@ Product page content (excerpt):
         "5) **1D. Organic Concepts**: 5–10 standout organic video ideas.\n\n"
         + product_context
     )
-    part2 = _call_llm(client, system1, user2, model=model)
+    part2 = call_llm(system1, user2, openai_model=model)
 
     user3 = (
         "Continue the report. "
@@ -151,7 +133,7 @@ Product page content (excerpt):
         "7) **2B. Thematic Clusters**: Desires, Objections, Questions, Comparisons, Surprise.\n\n"
         + product_context
     )
-    part3 = _call_llm(client, system1, user3, model=model)
+    part3 = call_llm(system1, user3, openai_model=model)
 
     user4 = (
         "Finish the report. "
@@ -161,7 +143,7 @@ Product page content (excerpt):
         "10) **3C. Client Details**: Brand voice, do's and don'ts, gaps vs. research.\n\n"
         + product_context
     )
-    part4 = _call_llm(client, system1, user4, model=model)
+    part4 = call_llm(system1, user4, openai_model=model)
 
     report_date = datetime.utcnow().strftime("%Y-%m-%d")
     cover = (

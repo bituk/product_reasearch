@@ -28,8 +28,12 @@ def run_all_scrapes(
     max_youtube_videos: int = 20,
     max_apify_per_platform: int = 15,
     max_reddit_posts: int = 25,
+    tiktok_download_videos: bool = True,
+    apify_only: bool = False,
 ) -> ScrapedData:
-    """Run product page fetch + YouTube + Reddit + Apify (if tokens set)."""
+    """Run product page fetch + YouTube + Reddit + Apify (if tokens set).
+    When apify_only=True, skip YouTube/Reddit and only run Apify TikTok + Instagram (same as test_apify_video_scrape).
+    """
     queries = search_queries or []
     subs = subreddits or []
     data = ScrapedData(product_url=product_link)
@@ -42,7 +46,7 @@ def run_all_scrapes(
         except Exception:
             data.product_page_text = ""
 
-    if _has_youtube() and queries:
+    if not apify_only and _has_youtube() and queries:
         try:
             from creative_research.scrapers.youtube_scraper import fetch_youtube_videos_and_comments
             long_form, shorts, yt_comments = fetch_youtube_videos_and_comments(
@@ -54,7 +58,7 @@ def run_all_scrapes(
         except Exception:
             pass
 
-    if queries or subs:
+    if not apify_only and (queries or subs):
         try:
             from creative_research.scrapers.reddit_scraper import fetch_reddit_posts_and_comments
             if not subs:
@@ -68,11 +72,12 @@ def run_all_scrapes(
     if _has_apify():
         try:
             from creative_research.scrapers.apify_scraper import run_apify_scrapes
-            hashtags = [q.replace(" ", "") for q in queries[:5]] or ["product", "review"]
+            hashtags = [q.replace(" ", "") for q in queries[:5]] if queries else ["product", "review"]
             tiktok, instagram, amazon_raw, _, _ = run_apify_scrapes(
                 product_link,
                 hashtags,
                 max_videos_per_platform=max_apify_per_platform,
+                tiktok_download_videos=tiktok_download_videos,
             )
             data.tiktok_videos = tiktok
             data.instagram_videos = instagram

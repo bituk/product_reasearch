@@ -57,8 +57,6 @@
 
 **Suggested Time Range**: Last 3-6 months
 
----
-
 ## 1C. Competitors
 
 1. **Viking Revolution**
@@ -156,11 +154,11 @@
    - **Why it Works**: The promise of quick results is appealing, and the video likely includes compelling before-and-after visuals.
 
 
-## 1B.1 Reference Video Details (Most Popular)
+## 1B.1 Reference Video Details (All Scraped Videos)
 
 Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms when available. transcripts via yt-dlp, analyzed with Gemini (YouTube, Instagram, TikTok, others)). Stats: Views, Likes, Comments, Shares, CTA.
 
-**Video counts:** YouTube: 4 | YouTube Shorts: 6 | Instagram: 2
+**Video counts:** YouTube: 5 | YouTube Shorts: 13 | Instagram: 2
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
@@ -173,15 +171,25 @@ Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms
 | 7 | YouTube | The Science of Healthy Hair, Hair Loss a | [Link](https://www.youtube.com/watch?v=6ZrlsVx85ek) | 3,153,028 | 66,459 | 4,656 | 0 | — |
 | 8 | YouTube Shorts | Fast Beard Growth | [Link](https://www.youtube.com/watch?v=zyVhdomazxc) | 2,902,376 | 85,088 | 278 | 0 | — |
 | 9 | YouTube Shorts | Hair Growth Supplements #drmallika #hair | [Link](https://www.youtube.com/watch?v=AyfDYy_gLQ4) | 2,819,037 | 45,254 | 251 | 0 | — |
-| 10 | YouTube | Vitamin E Capsule For Skin✨💫    How To U | [Link](https://www.youtube.com/watch?v=hOdtCls4xpQ) | 2,519,407 | 0 | 406 | 0 | — |
-| 11 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/BeardGrowthVitaminsreview) | 0 | 0 | 0 | 0 | — |
-| 12 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/TheBeardClubvitaminsunboxing) | 0 | 0 | 0 | 0 | — |
+| 10 | YouTube Shorts | THIS IS MY 31 WEEK BEARD GROWTH BY USING | [Link](https://www.youtube.com/watch?v=WbWe-9tpByo) | 2,757,841 | 44,209 | 220 | 0 | — |
+| 11 | YouTube Shorts | Pilgrim Hair Growth Serum Review   shadh | [Link](https://www.youtube.com/watch?v=GdfbCXsNJZQ) | 2,688,211 | 101,158 | 992 | 0 | — |
+| 12 | YouTube Shorts | Beard Dermaroller update | [Link](https://www.youtube.com/watch?v=ySoLvQUfrTM) | 2,600,149 | 44,326 | 223 | 0 | — |
+| 13 | YouTube | Vitamin E Capsule For Skin✨💫    How To U | [Link](https://www.youtube.com/watch?v=hOdtCls4xpQ) | 2,519,407 | 0 | 406 | 0 | — |
+| 14 | YouTube Shorts | Minoxidil Routine For Beard Growth (Begi | [Link](https://www.youtube.com/watch?v=67kFH_dYDOI) | 2,232,103 | 30,886 | 657 | 0 | — |
+| 15 | YouTube Shorts | 😃 No side effects serums ‼️ #hairregrowt | [Link](https://www.youtube.com/watch?v=JncBo3SLQwA) | 2,045,782 | 71,007 | 288 | 0 | — |
+| 16 | YouTube Shorts | Vitamin E Capsules-ஐ எப்படி முறையாக பயன் | [Link](https://www.youtube.com/watch?v=u-nO3nYMQvc) | 2,036,195 | 62,988 | 411 | 0 | — |
+| 17 | YouTube Shorts | Shocking Truth Of Biotin & Vitamin D3 Su | [Link](https://www.youtube.com/watch?v=dYApTkZ7mMo) | 1,941,767 | 59,807 | 652 | 0 | — |
+| 18 | YouTube | सिर्फ़ एक कैप्सूल हज़ारो फ़ायदे - Benefi | [Link](https://www.youtube.com/watch?v=-famaCozy08) | 1,779,725 | 22,169 | 373 | 0 | — |
+| 19 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/BeardGrowthVitaminsreview) | 0 | 0 | 0 | 0 | — |
+| 20 | Instagram | Instagram post | [Link](https://www.instagram.com/explore/tags/TheBeardClubvitaminsunboxing) | 0 | 0 | 0 | 0 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
 ### Video 1: Evion 400 for skin | Vitamin E Capsule | skin care #evion #v...
 - **URL:** https://www.youtube.com/watch?v=I0uxazUaJ3A
 - **Stats:** Views 6,563,017 | Likes 73,645 | Comments 406 | Shares 0
+- **Author:** Altaf Malik
+- **Description:** Stop applying Evion capsule directly on your face These days, almost everyone is misusing the power of Vitamin E by applying Evion 400 oil directly to their skin. In this video, I’ll explain why you should stop doing that immediately and the right way to use it for glowing and healthy skin. Vitamin E is a powerful antioxidant that protects your skin cells from damage, reduces signs of aging, and improves your overall skin texture. But when you apply it directly to your face, its oil is too thick
 - **CTA:** 3. CTA (Call-to-Action)
 - **Gemini Analysis:**
 
@@ -202,6 +210,12 @@ Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms
 ### Video 2: 3 SUPPLEMENTS FOR HAIR & SKIN CARE✅ #multivitamin #skincare ...
 - **URL:** https://www.youtube.com/watch?v=VXqZ9SXzjDA
 - **Stats:** Views 6,411,099 | Likes 267,701 | Comments 1,572 | Shares 0
+- **Author:** Harsh Katkade Fitness
+- **Description:** These 3 tablets will help you a lot in your hair growth and skin care✅
+Vitamin E- Evion 400 or Eleen 400(everyday night after food)
+Vitamin C- Vitamin C chewable tablet ( morning and night time after food)
+Fish oil- Omega 3 fatty acid. (Everyday morning after breakfast) Begin with a small dose (500mg) and gradually increase as needed.
+#multivitamin #vitamins #healthcare #skincare #hairgrowth #fitnesscoach #nutritionist #helathylifestyle #vitaminc #vitamine #omega3 #fatlosstips
 - **CTA:** 3. CTA (Call-to-Action)
 - **Gemini Analysis:**
 
@@ -222,6 +236,7 @@ Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms
 ### Video 3: Beard growth SCAM⚠️ #shorts #podcast #beardgrowth
 - **URL:** https://www.youtube.com/watch?v=u3r3NMEGgoo
 - **Stats:** Views 5,833,766 | Likes 261,572 | Comments 1,072 | Shares 0
+- **Author:** Desi Cast 
 - **CTA:** 3. CTA (Call-to-Action)
 - **Gemini Analysis:**
 
@@ -242,6 +257,10 @@ Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms
 ### Video 4: Top 4 supplements every man NEEDS 💊
 - **URL:** https://www.youtube.com/watch?v=v4cwQx2CNSw
 - **Stats:** Views 5,660,681 | Likes 158,119 | Comments 2,143 | Shares 0
+- **Author:** Chad Campbell
+- **Description:** Top 4 supplements every man NEEDS 💊
+Comment “FORGED” to join my free community, which is designed to help Christian men restore their physical and spiritual strength through custom health strategies.
+Over the last 28 years as a medical professional, I’ve helped thousands of men with Low-T, spiritual fatigue, and physical burnout.
 - **CTA:** 3.  **CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
@@ -297,6 +316,9 @@ without K...
 ### Video 5: Chemical Free *HAIR-OILS*🥥🧴 Under 249/- 💸For COLLEGE Student...
 - **URL:** https://www.youtube.com/watch?v=s8h9UVeytT0
 - **Stats:** Views 4,318,658 | Likes 337,119 | Comments 1,573 | Shares 0
+- **Author:** Aye Jude
+- **Description:** #shorts #ayejude #hairoil #haircare #mensfashion 
+TITLE: Chemical Free *HAIR-OILS*🥥🧴 Under 249/- 💸For COLLEGE Students #shorts #hairoil
 - **CTA:** 3. CTA (Call-to-Action)
 - **Gemini Analysis:**
 
@@ -317,28 +339,118 @@ without K...
 ### Video 6: Extra irkunu kuduthan adhu extra hair uh Mariduchu 😍
 - **URL:** https://www.youtube.com/watch?v=pldZEb_rQhw
 - **Stats:** Views 3,580,658 | Likes 107,707 | Comments 179 | Shares 0
+- **Author:** Shadhik Azeez
+- **Description:** Pilgrim advanced hair growth serum- https://amzn.to/4lzs2jt 🤏
+This is @discover.pilgrim’s 3% Redensyl & 4% Anagain Hair Growth Serum is a game-changer for stronger hair🌿 
+My family member has used it for months and it has helped him to regrow their hair and has made the roots 10X stronger. It has also reduced the hairfall and given it a natural shine.
+Clinically tested to reduce hairfall in 1 month and regrow baby hair when used consistently—and, it actually works! ⏳💥
+Lightweight, non-greasy
 
 ### Video 7: The Science of Healthy Hair, Hair Loss and How to Regrow Hai...
 - **URL:** https://www.youtube.com/watch?v=6ZrlsVx85ek
 - **Stats:** Views 3,153,028 | Likes 66,459 | Comments 4,656 | Shares 0
+- **Author:** Andrew Huberman
+- **Description:** In this episode, I explain the biology of hair, hair growth, why hair growth slows and what causes hair to stop growing and/or “fall out.” I discuss the essential role of hair stem cells and other supporting biological factors for healthy hair growth. Then I describe various approaches (mechanical and chemical) to slow hair loss by increasing blood flow to hair stem cells, including minoxidil, tadalafil, PRP, microneedling, Botox and ketoconazole treatments. I also discuss how age-related hormon
 
 ### Video 8: Fast Beard Growth
 - **URL:** https://www.youtube.com/watch?v=zyVhdomazxc
 - **Stats:** Views 2,902,376 | Likes 85,088 | Comments 278 | Shares 0
+- **Author:** Healthy zone
 
 ### Video 9: Hair Growth Supplements #drmallika #hairgrowth #supplements ...
 - **URL:** https://www.youtube.com/watch?v=AyfDYy_gLQ4
 - **Stats:** Views 2,819,037 | Likes 45,254 | Comments 251 | Shares 0
+- **Author:** Dr Mallika
 
-### Video 10: Vitamin E Capsule For Skin✨💫 || How To Use Vitamin E Capsule...
+### Video 10: THIS IS MY 31 WEEK BEARD GROWTH BY USING MINOXIDIL 5%. FOR F...
+- **URL:** https://www.youtube.com/watch?v=WbWe-9tpByo
+- **Stats:** Views 2,757,841 | Likes 44,209 | Comments 220 | Shares 0
+- **Author:** MJR helps to other Athletes
+
+### Video 11: Pilgrim Hair Growth Serum Review | shadhik azeez @PilgrimInd...
+- **URL:** https://www.youtube.com/watch?v=GdfbCXsNJZQ
+- **Stats:** Views 2,688,211 | Likes 101,158 | Comments 992 | Shares 0
+- **Author:** Shadhik Azeez
+- **Description:** Buying link in channel Bio.
+With powerful ingredients like Redensyl and Anagain, it not only boosts hair growth but also controls hair fall.
+Use my code SHA15  for an exclusive 15% discount! 
+Visit @PilgrimIndia  and start your journey for healthier hair.
+#Pilgrim #HairGrowthSerum #PilgrimSerum 
+#AdvanceHairGrowthSerum #Pilgrimnedhoondnikale #ad
+It's a sponsored video by @PilgrimIndia
+
+### Video 12: Beard Dermaroller update
+- **URL:** https://www.youtube.com/watch?v=ySoLvQUfrTM
+- **Stats:** Views 2,600,149 | Likes 44,326 | Comments 223 | Shares 0
+- **Author:** PhdInWaves
+- **Description:** Beard Derma Roller Results To Grow Facial Hair.
+
+### Video 13: Vitamin E Capsule For Skin✨💫 || How To Use Vitamin E Capsule...
 - **URL:** https://www.youtube.com/watch?v=hOdtCls4xpQ
 - **Stats:** Views 2,519,407 | Likes 0 | Comments 406 | Shares 0
+- **Author:** Smart Boy Hacks
+- **Description:** Business E-mail 👉   smartamit7373@gmail.com
+Vitamin E Capsule For Skin✨💫 || How To Use Vitamin E Capsule 💥 || How To Get Bright Skin || 
+My face wash 👉 https://amzn.to/44oZIXJ
+My Ring Light 👉 https://amzn.to/3Peeool
+Real boya m1 mic 👉 https://amzn.to/44ouWhE
+Urban Gabru Hair Volumizing Powder 👉https://amzn.to/3st1XMt
+Iphone 13 👉 ₹59900 https://amzn.to/3EcUl3c
+My Hair Dryer https://amzn.to/3KV6DB2
+Iphone 14 pro 512Gb https://amzn.to/3KRMU5h
+aloe vera gel 👉 https://amzn.to/3PeO11v
+Man u
 
-### Video 11: Instagram post
+### Video 14: Minoxidil Routine For Beard Growth (Beginner)
+- **URL:** https://www.youtube.com/watch?v=67kFH_dYDOI
+- **Stats:** Views 2,232,103 | Likes 30,886 | Comments 657 | Shares 0
+- **Author:** Tarik LaRoda
+
+### Video 15: 😃 No side effects serums ‼️ #hairregrowth
+- **URL:** https://www.youtube.com/watch?v=JncBo3SLQwA
+- **Stats:** Views 2,045,782 | Likes 71,007 | Comments 288 | Shares 0
+- **Author:** Loki Man
+
+### Video 16: Vitamin E Capsules-ஐ எப்படி முறையாக பயன்படுத்துவது? | Dr.Rad...
+- **URL:** https://www.youtube.com/watch?v=u-nO3nYMQvc
+- **Stats:** Views 2,036,195 | Likes 62,988 | Comments 411 | Shares 0
+- **Author:** Dr Radha Dermatology
+- **Description:** Vitamin E Capsules-ஐ எப்படி முறையாக பயன்படுத்துவது? | Dr.Radha Dermatology
+#vitamine #tablet #vitamin #dermatology #dermatologist 
+Dr. Radha Subramaniyan MD ( DVL), DNB (DVL)
+Consultant Interventional Dermatologist 
+Clinic Address:
+Spade Skin & Aesthetics by Dr Radha Subramaniyan
+17A, 2, Periyar Rd, Darmapuram, T. Nagar, Chennai, Tamil Nadu 600017
+Location: https://maps.app.goo.gl/YTq9UKEMX5fsda878
+Contact / Follow us at
+Phone / Whatsapp: +91-8300190636
+Youtube: https://www.youtube.com/@D
+
+### Video 17: Shocking Truth Of Biotin & Vitamin D3 Supplements | Ft Mihir...
+- **URL:** https://www.youtube.com/watch?v=dYApTkZ7mMo
+- **Stats:** Views 1,941,767 | Likes 59,807 | Comments 652 | Shares 0
+- **Author:** Raj Shamani
+
+### Video 18: सिर्फ़ एक कैप्सूल हज़ारो फ़ायदे - Benefits Of Vitamin E Caps...
+- **URL:** https://www.youtube.com/watch?v=-famaCozy08
+- **Stats:** Views 1,779,725 | Likes 22,169 | Comments 373 | Shares 0
+- **Author:** MotivationForYou
+- **Description:** Vitamin E is a group of eight fat soluble compounds that include four tocopherols and four tocotrienols. Vitamin E deficiency, which is rare and usually due to an underlying problem with digesting dietary fat rather than from a diet low in vitamin E, can cause nerve problems. 2026
+I hope you learn this video
+hit likes.
+And do subscribe to my channel
+Thank you so much for watching
+god bless you all.
+lots of  ❤️
+🔴Bedhead by Purrple Cat | https://purrplecat.com/
+Music promoted by https://www.ch
+
+### Video 19: Instagram post
 - **URL:** https://www.instagram.com/explore/tags/BeardGrowthVitaminsreview
 - **Stats:** Views 0 | Likes 0 | Comments 0 | Shares 0
 
-### Video 12: Instagram post
+### Video 20: Instagram post
 - **URL:** https://www.instagram.com/explore/tags/TheBeardClubvitaminsunboxing
 - **Stats:** Views 0 | Likes 0 | Comments 0 | Shares 0
 
@@ -380,7 +492,7 @@ without K...
 
 ---
 
-## 6) 2A. Comment Scrapes
+## 6) **2A. Comment Scrapes**
 
 ### Platforms:
 - **YouTube**
@@ -416,7 +528,7 @@ without K...
 - "I didn't expect such quick results, pleasantly surprised!"
 - "My beard started growing faster than I thought it would."
 
-## 7) 2B. Thematic Clusters
+## 7) **2B. Thematic Clusters**
 
 ### Desires
 - Achieving a fuller, thicker beard.
@@ -527,90 +639,7 @@ without K...
     - **Objections:** Concerns about product safety for older adults
     - **Message that resonates:** "Look and feel your best at any age."
 
-```markdown
-## 8. 3A. Avatars (10 Different Avatars to Target)
-
-1. **Name:** Young Professional
-   - **Demographics:** Males, 25-34, urban areas, middle to high income.
-   - **Psychographics:** Career-focused, values appearance and grooming, follows trends.
-   - **Where they are:** Major cities, co-working spaces, online forums about career growth.
-   - **Relationship to product:** Seeks to maintain a professional look with a well-groomed beard.
-   - **Objections:** Concerns about product effectiveness and skin sensitivity.
-   - **Message that resonates:** "Achieve a polished, professional look effortlessly."
-
-2. **Name:** Fitness Enthusiast
-   - **Demographics:** Males, 18-35, active lifestyle, health-conscious.
-   - **Psychographics:** Values health and fitness, spends on wellness products.
-   - **Where they are:** Gyms, fitness clubs, online fitness communities.
-   - **Relationship to product:** Interested in products that complement a healthy lifestyle.
-   - **Objections:** Worries about product ingredients and naturalness.
-   - **Message that resonates:** "Natural ingredients for a healthy, vibrant beard."
-
-3. **Name:** The Minimalist
-   - **Demographics:** Males, 30-45, prefers simplicity, eco-conscious.
-   - **Psychographics:** Values sustainability, minimalism, and quality over quantity.
-   - **Where they are:** Eco-friendly stores, minimalist lifestyle blogs.
-   - **Relationship to product:** Seeks efficient, high-quality grooming solutions.
-   - **Objections:** Concerns about product waste and environmental impact.
-   - **Message that resonates:** "Sustainable grooming for the modern minimalist."
-
-4. **Name:** The Trendsetter
-   - **Demographics:** Males, 18-30, fashion-forward, social media active.
-   - **Psychographics:** Follows fashion trends, influencer-driven purchases.
-   - **Where they are:** Social media platforms, fashion events.
-   - **Relationship to product:** Uses grooming products to enhance personal style.
-   - **Objections:** Skeptical about brand authenticity and uniqueness.
-   - **Message that resonates:** "Set the trend with a standout beard."
-
-5. **Name:** The Family Man
-   - **Demographics:** Males, 35-50, married, children.
-   - **Psychographics:** Values family time, seeks convenience in products.
-   - **Where they are:** Family-oriented communities, parenting blogs.
-   - **Relationship to product:** Needs reliable, easy-to-use grooming products.
-   - **Objections:** Concerns about safety and ease of use.
-   - **Message that resonates:** "Effortless grooming, more time for family."
-
-6. **Name:** The Adventurer
-   - **Demographics:** Males, 25-40, loves outdoor activities.
-   - **Psychographics:** Thrill-seeker, values durability and functionality.
-   - **Where they are:** Outdoor gear stores, adventure travel forums.
-   - **Relationship to product:** Needs products that withstand outdoor conditions.
-   - **Objections:** Doubts about product durability and portability.
-   - **Message that resonates:** "Rugged grooming for the adventurous spirit."
-
-7. **Name:** The Tech Savvy
-   - **Demographics:** Males, 20-35, tech enthusiasts, early adopters.
-   - **Psychographics:** Enjoys gadgets, values innovation.
-   - **Where they are:** Tech forums, gadget review sites.
-   - **Relationship to product:** Interested in innovative grooming solutions.
-   - **Objections:** Concerns about product technology and features.
-   - **Message that resonates:** "Innovative grooming for the tech-savvy man."
-
-8. **Name:** The Bearded Veteran
-   - **Demographics:** Males, 40-60, experienced beard growers.
-   - **Psychographics:** Values tradition, seeks premium quality.
-   - **Where they are:** Traditional barber shops, beard enthusiast clubs.
-   - **Relationship to product:** Prefers high-end, well-established products.
-   - **Objections:** Skeptical of new brands and trends.
-   - **Message that resonates:** "Time-tested quality for the seasoned beard."
-
-9. **Name:** The Student
-   - **Demographics:** Males, 18-24, college students.
-   - **Psychographics:** Budget-conscious, seeks convenience.
-   - **Where they are:** College campuses, student forums.
-   - **Relationship to product:** Needs affordable, easy-to-use grooming kits.
-   - **Objections:** Price sensitivity and product accessibility.
-   - **Message that resonates:** "Affordable grooming for students on the go."
-
-10. **Name:** The Eco-Warrior
-    - **Demographics:** Males, 25-40, environmentally conscious.
-    - **Psychographics:** Prioritizes sustainability, ethical consumption.
-    - **Where they are:** Eco-friendly marketplaces, sustainability forums.
-    - **Relationship to product:** Seeks eco-friendly grooming solutions.
-    - **Objections:** Concerns about product sustainability and ethical sourcing.
-    - **Message that resonates:** "Eco-friendly grooming for a better planet."
-
-## 9. 3B. Messaging Pillars
+## 9) **3B. Messaging Pillars**
 
 ### Top 10 Key Selling Points
 1. Contains essential vitamins for beard growth.
@@ -675,12 +704,9 @@ without K...
   - Emphasize eco-friendly practices to appeal to environmentally conscious consumers.
   - Provide clear, step-by-step usage guides for new users.
 
-**[45-60 seconds]**  
-*Visual:* The user confidently styling their beard, smiling at the mirror.  
-*Voiceover:* "Join thousands who’ve made the switch to The Beard Club."
+---
 
-### CTA
-"Swipe up to shop your transformation kit now! #BeardJourney #MensGrooming"
+# Generated Scripts
 
 ### Script 1: YouTube Shorts
 
@@ -722,39 +748,7 @@ without K...
 5. **CTA:** "Swipe up for your exclusive discount and gift!"
 6. **Why it will work:** TikTok thrives on relatable and authentic content. This UGC format builds trust, showing real people with real results, encouraging others to try the product.
 
-### Platform
-YouTube Shorts
-
-### Format
-Talking Head Review
-
-### Hook
-(Visual: A man with a well-groomed beard faces the camera. Sound: Calm, confident voiceover.)  
-"Want a beard like this? Here’s how I did it with The Beard Club."
-
-### Full Script
-**[0-5 seconds]**  
-*Visual:* The man points at his beard, which looks thick and healthy.  
-*Voiceover:* "It’s easier than you think!"
-
-**[5-10 seconds]**  
-*Visual:* The man holds up The Beard Club products.  
-*Voiceover:* "Meet my secret weapon."
-
-**[10-20 seconds]**  
-*Visual:* Clips showing the application of different products.  
-*Voiceover:* "With oils, vitamins, and the derma roller, it’s all about consistency."
-
-**[20-30 seconds]**  
-*Visual:* The user's beard before using the products vs now.  
-*Voiceover:* "Check out my progress after just three months."
-
-**[30-45 seconds]**  
-*Visual:* The man lightly combs through his beard, smiling.  
-*Voiceover:* "It’s not just about growth, it’s about confidence."
-
-### CTA
-"Subscribe for more beard tips and grab your kit at The Beard Club. #BeardTransformation"
+---
 
 ### Script 3: Instagram Reels
 

@@ -30,6 +30,8 @@ def run_pipeline_v2(
     search_queries_override: list[str] | None = None,
     subreddits_override: list[str] | None = None,
     download_videos: bool = True,
+    apify_only: bool = False,
+    max_videos_total: int = 20,
     max_videos_to_download: int = 5,
     max_videos_to_analyze: int = 5,
     output_dir: Path | str | None = None,
@@ -52,6 +54,8 @@ def run_pipeline_v2(
         search_queries_override: Override search queries.
         subreddits_override: Override subreddits.
         download_videos: If True, download top videos with yt-dlp.
+        apify_only: If True, skip YouTube/Reddit and only scrape Apify TikTok + Instagram (same as test).
+        max_videos_total: Max videos to scrape across all platforms (default 20).
         max_videos_to_download: Max videos to download (default 5).
         max_videos_to_analyze: Max videos to send to Gemini (default 5).
         output_dir: Directory for downloaded videos/transcripts.
@@ -70,6 +74,8 @@ def run_pipeline_v2(
         "download_results": [],
         "video_analyses": [],
         "report": "",
+        "report_popular": "",
+        "report_all_videos": "",
         "scripts": "",
     }
 
@@ -94,33 +100,42 @@ def run_pipeline_v2(
     result["keywords"] = keywords
     search_queries = keywords.get("search_queries") or ["product review", "best"]
     subreddits = keywords.get("subreddits") or ["all"]
+    if apify_only:
+        search_queries = search_queries or ["productreview"]
 
-    # 3) Video scrape
+    # 3) Video scrape (tiktok_download_videos so Apify downloads TikTok to storage; same logic as test_apify_video_scrape)
     _stage("video_scrape")
     scraped = run_all_scrapes(
         product_link,
         search_queries=search_queries,
         subreddits=subreddits,
         product_page_text=product_page_text,
+        tiktok_download_videos=download_videos,
+        apify_only=apify_only,
     )
+    scraped.truncate_videos_to_max(max_total=max_videos_total)
     result["scraped_data"] = scraped
 
-    # Collect video URLs (YouTube first, then TikTok, Instagram)
-    video_urls: list[str] = []
-    for v in scraped.youtube_videos + scraped.youtube_shorts:
-        if v.url and v.url not in video_urls:
-            video_urls.append(v.url)
-    for v in scraped.tiktok_videos + scraped.instagram_videos:
-        if v.url and v.url not in video_urls:
-            video_urls.append(v.url)
-    video_urls = video_urls[:max_videos_to_download]
+    # Collect videos for download with platform diversity (YouTube, Shorts, TikTok, Instagram)
+    videos_for_download = scraped.select_videos_for_analysis(limit=max_videos_to_download)
+    # Build download list: include video_direct_url for Apify Instagram/TikTok when available
+    seen_urls: set[str] = set()
+    download_items: list[dict[str, Any]] = []
+    for v in videos_for_download:
+        if not v.url or v.url in seen_urls:
+            continue
+        seen_urls.add(v.url)
+        download_items.append({
+            "url": v.url,
+            "video_direct_url": getattr(v, "video_direct_url", "") or "",
+        })
 
-    # 4) Download via yt-dlp + transcript
+    # 4) Download via yt-dlp or direct (Apify Instagram CDN) + transcript
     _stage("download")
-    if download_videos and video_urls:
+    if download_videos and download_items:
         out_dir = Path(output_dir or Path.cwd() / "downloads" / "videos")
         try:
-            dl_results = download_and_transcript_batch(video_urls, out_dir)
+            dl_results = download_and_transcript_batch(download_items, out_dir)
             result["download_results"] = dl_results
             # Enrich VideoItems with transcripts
             for r in dl_results:
@@ -134,13 +149,38 @@ def run_pipeline_v2(
         except Exception as e:
             result["download_results"] = [{"error": str(e)}]
 
-    # 5) Gemini video analysis (use URLs directly - no download needed for Gemini)
+    # 5) Gemini video analysis (YouTube URLs; TikTok/Instagram via downloaded files)
+    # Ensure participation from all scrapers: YouTube, YouTube Shorts, TikTok, Instagram
     _stage("analysis")
-    urls_to_analyze = video_urls[:max_videos_to_analyze]
-    if urls_to_analyze:
+    videos_for_analysis = scraped.select_videos_for_analysis(limit=max_videos_to_analyze)
+    # Build path->url mapping from download results (for TikTok/Instagram)
+    path_to_url: dict[str, str] = {}
+    for r in result.get("download_results", []):
+        url = r.get("url", "")
+        vpath = r.get("video_path")
+        if url and vpath and Path(vpath).exists():
+            path_to_url[str(vpath)] = url
+
+    inputs_to_analyze: list[tuple[str, str | Path]] = []  # (url, input_for_gemini)
+    for v in videos_for_analysis:
+        if not v.url:
+            continue
+        is_youtube = "youtube.com" in v.url or "youtu.be" in v.url
+        if is_youtube:
+            inputs_to_analyze.append((v.url, v.url))
+        else:
+            # TikTok/Instagram: use downloaded file if available
+            matched_path = next((p for p, u in path_to_url.items() if u == v.url), None)
+            if matched_path:
+                inputs_to_analyze.append((v.url, Path(matched_path)))
+            # else skip (Gemini doesn't support TikTok/Instagram URLs directly)
+
+    if inputs_to_analyze:
         try:
+            gemini_inputs = [inp for _, inp in inputs_to_analyze]
+            url_by_input = {str(inp): url for url, inp in inputs_to_analyze}
             analyses = analyze_videos_batch(
-                urls_to_analyze,
+                gemini_inputs,
                 product_context=product_page_text[:500] or product_link,
                 model=gemini_model,
             )
@@ -151,11 +191,13 @@ def run_pipeline_v2(
                 analysis = a.get("analysis", "") or ""
                 if not inp or not analysis:
                     continue
+                match_url = url_by_input.get(inp)
+                if not match_url:
+                    match_url = inp  # might be URL if passed as string
                 for v in scraped.youtube_videos + scraped.youtube_shorts + scraped.tiktok_videos + scraped.instagram_videos:
                     v_url = (v.url or "").strip()
-                    if v_url and (v_url == inp or inp in v_url or v_url in inp):
+                    if v_url and (v_url == match_url or match_url == v_url or match_url in v_url or v_url in match_url):
                         v.gemini_analysis = analysis
-                        # Extract CTA from Gemini analysis (look for CTA / Call-to-Action section)
                         cta_candidates = []
                         for line in analysis.split("\n"):
                             line = line.strip().strip("-*: ")
@@ -185,22 +227,47 @@ def run_pipeline_v2(
     )
     result["report"] = report
 
-    # 6b) Inject Reference Video Details (scraped links, stats, transcripts, CTA, Gemini analysis)
-    ref_section = scraped.build_reference_video_section(limit=10)
-    if ref_section:
-        # Insert after "## 4) 1B. Video Scrapes" or "## 1B. Video Scrapes", before "## 5) 1D"
+    # 6b) Build two report variants with Reference Video Details
+    def _inject_ref_section(base: str, ref_section: str) -> str:
+        if not ref_section:
+            return base
         marker = "## 5) 1D"
-        if marker in report:
-            idx = report.find(marker)
-            result["report"] = report[:idx] + ref_section + "\n---\n\n" + report[idx:]
-        else:
-            result["report"] = report + "\n\n---\n\n" + ref_section
+        if marker in base:
+            idx = base.find(marker)
+            return base[:idx] + ref_section + "\n---\n\n" + base[idx:]
+        return base + "\n\n---\n\n" + ref_section
+
+    # Report 1: Most popular (top 12 by views) + ensure 1-2 from TikTok/Instagram, shorter analysis
+    ref_popular = scraped.build_reference_video_section(
+        limit=12,
+        sort_by_popularity=True,
+        section_title="Reference Video Details (Most Popular)",
+        ensure_platform_diversity=True,
+        max_analysis_lines=12,  # Shorter Gemini analysis
+    )
+    result["report_popular"] = _inject_ref_section(report, ref_popular)
+
+    # Report 2: All scraped videos (max 25) with full info and shorter analysis
+    # ensure_platform_diversity=True so TikTok/Instagram are included when available
+    ref_all = scraped.build_reference_video_section(
+        limit=25,
+        sort_by_popularity=True,
+        section_title="Reference Video Details (All Scraped Videos)",
+        ensure_platform_diversity=True,
+        include_full_info=True,
+        show_full_analysis=False,
+        max_analysis_lines=12,  # Shorter Gemini analysis (hook, message, CTA, why it works)
+    )
+    result["report_all_videos"] = _inject_ref_section(report, ref_all)
+
+    # Keep report as popular variant (backward compatible)
+    result["report"] = result["report_popular"]
 
     # 7) Script generation
     _stage("scripts")
     try:
         scripts = generate_video_scripts(
-            report,
+            result["report"],
             scraped_data=scraped,
             video_analyses=result.get("video_analyses", []),
             product_summary=product_page_text[:300] if product_page_text else "",
@@ -209,5 +276,11 @@ def run_pipeline_v2(
         result["scripts"] = scripts
     except Exception as e:
         result["scripts"] = f"Error generating scripts: {e}"
+
+    # Append scripts to both report variants
+    scripts_block = "\n\n---\n\n# Generated Scripts\n\n" + result["scripts"]
+    result["report_popular"] = result["report_popular"] + scripts_block
+    result["report_all_videos"] = result["report_all_videos"] + scripts_block
+    result["report"] = result["report_popular"]
 
     return result
