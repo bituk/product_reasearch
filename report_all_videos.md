@@ -418,11 +418,11 @@ This structured analysis of user-generated content provides insights into consum
 ---
 
 
-## 1B.1 Reference Video Details (Most Popular)
+## 1B.1 Reference Video Details (All Scraped Videos)
 
 Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms when available. transcripts via yt-dlp, analyzed with Gemini (YouTube, Instagram, TikTok, others)). Stats: Views, Likes, Comments, Shares, CTA.
 
-**Video counts:** YouTube: 6 | YouTube Shorts: 4 | Instagram: 1
+**Video counts:** YouTube: 12 | YouTube Shorts: 6 | Instagram: 2
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
@@ -436,13 +436,30 @@ Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms
 | 8 | YouTube Shorts | How many times should you roll the derma | [Link](https://www.youtube.com/watch?v=wEdyPH9YUf8) | 1,177,214 | 35,715 | 368 | 0 | — |
 | 9 | YouTube Shorts | Learn how to use cut-throat razor to sha | [Link](https://www.youtube.com/watch?v=xDVnVI5K0rQ) | 1,069,091 | 25,996 | 145 | 0 | — |
 | 10 | YouTube | Unboxing: What's Inside the Advanced Bea | [Link](https://www.youtube.com/watch?v=iv8KOeHQd90) | 1,051,446 | 341 | 40 | 0 | — |
-| 11 | Instagram | I wanted to give my input on how it's li | [Link](https://www.instagram.com/p/CBET6HEnFyq/) | 79 | 14 | 1 | 0 | — |
+| 11 | YouTube Shorts | 3 tips to grow a beard with a derma roll | [Link](https://www.youtube.com/watch?v=LXRujvOMqfU) | 872,747 | 20,799 | 109 | 0 | — |
+| 12 | YouTube | How to know if you can grow a beard   4  | [Link](https://www.youtube.com/watch?v=6AUXV4PZ7YY) | 854,457 | 11,493 | 1,784 | 0 | — |
+| 13 | YouTube | How To Grow & Maintain A Beard Properly | [Link](https://www.youtube.com/watch?v=3L7ioS-ZcYM) | 711,952 | 14,002 | 548 | 0 | — |
+| 14 | YouTube | How To GROW A BEARD In 90 Days Using MIN | [Link](https://www.youtube.com/watch?v=PjYLlddmlUw) | 682,255 | 8,623 | 348 | 0 | — |
+| 15 | YouTube | HOW I GREW MY BEARD USING MINOXIDIL / GE | [Link](https://www.youtube.com/watch?v=2GJD-Wkkyhg) | 608,609 | 12,841 | 732 | 0 | — |
+| 16 | YouTube | How To Use The Derma Roller For Beard Gr | [Link](https://www.youtube.com/watch?v=MQdUAOhKDwQ) | 602,765 | 6,279 | 106 | 0 | — |
+| 17 | YouTube Shorts | Best beard trimmer for men | [Link](https://www.youtube.com/watch?v=XUZai_myw90) | 571,772 | 4,049 | 75 | 0 | — |
+| 18 | YouTube | How to grow a thicker fuller beard   Bea | [Link](https://www.youtube.com/watch?v=z4-oQzur5Qc) | 448,224 | 6,477 | 296 | 0 | — |
+| 19 | Instagram | I wanted to give my input on how it's li | [Link](https://www.instagram.com/p/CBET6HEnFyq/) | 79 | 14 | 1 | 0 | — |
+| 20 | Instagram | Hey guys, take a moment to check out my  | [Link](https://www.instagram.com/p/CA_KbKBhaMo/) | 4 | 4 | 3 | 0 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
 ### Video 1: Growing Wild! | The Beard Club
 - **URL:** https://www.youtube.com/watch?v=qAIXC4hOsHo
 - **Stats:** Views 7,675,004 | Likes 1,830 | Comments 158 | Shares 0
+- **Author:** Beard Club
+- **Description:** Everything you need to grow a beard, made easy. 
+Check out https://www.thebeardclub.com to join the club today!
+The Beard Club delivers beard care kits and beard growth kits right to your door, every month!  Pause or cancel your subscription at anytime.
+Snapchat:  @thebeardclub
+Our products include:
+- Sandalwood Beard Oil
+- Original B
 - **CTA:** 3.  **CTA (Call-to-Action):**  The main CTAs are
 - **Transcript (yt-dlp):**
   ```
@@ -495,6 +512,19 @@ alone with a weakness just imagine how...
 ### Video 2: THE TRUTH ABOUT BEARDS | The Beard Club
 - **URL:** https://www.youtube.com/watch?v=8oprHsA0B5k
 - **Stats:** Views 6,417,900 | Likes 2,137 | Comments 143 | Shares 0
+- **Author:** Beard Club
+- **Description:** There's a lot of misconceptions about bearded men... Discover the TRUTH for yourself. 
+Join the Revolution at www.TheBeardClub.com
+TALENT:
+Sean Whalen - Facebook Influencer
+Nicely - World Famous Barista
+Riley Hawk - Professional Skateboarder (son of Tony Hawk)
+Clint Walker - Professional Skateboarder
+Mischa Janiec - World Natural Bodybuilding Champion
+Kurt Year - Actor, Sons of Anarchy, NCIS LA
+Maddison Rowley - 2x World Beard Champion
+The Man Spot - Instagram Infleuncer
+Gay Beards - Instagram
 - **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
@@ -557,6 +587,8 @@ we're all ...
 ### Video 3: Why Some Men Can't Grow Beards
 - **URL:** https://www.youtube.com/watch?v=aukTxMq-VwU
 - **Stats:** Views 4,826,577 | Likes 71,915 | Comments 9,428 | Shares 0
+- **Author:** Insider Science
+- **Description:** We asked a dermatologist to explain the scientific reasons that some men aren't able to grow thick, dense facial hair. Dr. Jennifer Chwalek is a Board Certified dermatologist at Union Square Laser Dermatology in New York. Chwalek explained that an inability to grow thick facial hair is not directly related to low levels of testosterone. Facial hair growth is largely determined by genetics, which can determine the number of hair follicles a person has, as well as how the follicles react to a bypr
 - **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
@@ -612,6 +644,10 @@ t...
 ### Video 4: Unboxing the Advanced Beard Growth Kit | The Beard Club
 - **URL:** https://www.youtube.com/watch?v=wNzA7xd7RJQ
 - **Stats:** Views 1,615,699 | Likes 603 | Comments 120 | Shares 0
+- **Author:** Beard Club
+- **Description:** https://thebeardclub.com/products/advanced-beard-growth-kit 
+Our proprietary blend of healthy ingredients to help you thicken and grow your beard while increasing your confidence.
+Get your own today at TheBeardClub.com
 - **CTA:** 3.  **CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
@@ -668,6 +704,9 @@ or maybe you're growing your beard o...
 ### Video 5: This is how you start your Beard Growth ! - 1000 micro needl...
 - **URL:** https://www.youtube.com/watch?v=YbX4NDa0ipo
 - **Stats:** Views 1,528,725 | Likes 42,329 | Comments 282 | Shares 0
+- **Author:** Copenhagen Grooming
+- **Description:** Who do you know that should get on this kit ASAP ? 🙃
+Check out our products here 👉 https://cphgroo.com/ShopNow
 - **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
@@ -722,26 +761,149 @@ pokes your skin with hundreds...
 ### Video 6: THE BEARD CLUB - How It Works
 - **URL:** https://www.youtube.com/watch?v=HMcWX2lrpAY
 - **Stats:** Views 1,510,381 | Likes 432 | Comments 18 | Shares 0
+- **Author:** Beard Club
+- **Description:** Everything you need to grow a beard, made easy. 
+The Beard Club delivers beard care kits and beard growth kits right to your door, every month!  Pause or cancel your subscription at anytime.
+Check out https://www.thebeardclub.com to join the club today!
+Our products include:
+- Sandalwood Beard Oil
+- Original Beard Oil
+- Sandalwood Beard Balm
+- Original Beard Balm
+- Beard Cream
+- Beard Shampoo
+- Body Wash
+- Beard Growth Vitamins
+- Beard Growth Oil
+- Beard Growth Vitamin Spray
+- Hair Pomade
 
 ### Video 7: ⁠​⁠@TheBeardStruggle Carbon X Beard Straightener 🧔🏻 link in ...
 - **URL:** https://www.youtube.com/watch?v=-PVt4W5Ai1Q
 - **Stats:** Views 1,362,214 | Likes 20,079 | Comments 229 | Shares 0
+- **Author:** jjaybeardedbarber
 
 ### Video 8: How many times should you roll the derma roller on your bear...
 - **URL:** https://www.youtube.com/watch?v=wEdyPH9YUf8
 - **Stats:** Views 1,177,214 | Likes 35,715 | Comments 368 | Shares 0
+- **Author:** Black Men's Beard
 
 ### Video 9: Learn how to use cut-throat razor to shape your beard #short...
 - **URL:** https://www.youtube.com/watch?v=xDVnVI5K0rQ
 - **Stats:** Views 1,069,091 | Likes 25,996 | Comments 145 | Shares 0
+- **Author:** Russell's Shave Club
+- **Description:** 🔥 Check out the best men's grooming products in the universe! 😎
+Save 20% on your order with code: RSC20. 🛒
+🔗 Link: [Russell's Shave Club](https://linktr.ee/russellsshaveclub)
+🔪 Beginner's guide to using a cut-throat razor: 👇
+📺 Video: [YouTube](https://youtu.be/yZ64YnJrpKg)
+✂️ Advanced guide to getting the perfect shape-up with a cut-throat razor: 👇
+📺 Video: [YouTube](https://youtu.be/mnzdt4pBk1Y)
 
 ### Video 10: Unboxing: What's Inside the Advanced Beard Growth Kit | The ...
 - **URL:** https://www.youtube.com/watch?v=iv8KOeHQd90
 - **Stats:** Views 1,051,446 | Likes 341 | Comments 40 | Shares 0
+- **Author:** Beard Club
+- **Description:** Take a look inside our Advanced Beard Growth Kit, a collection of premium beard care products bundled together for a single amazing price. Get your own at https://thebeardclub.com/grow-your-beard — and check out https://www.thebeardclub.com to join the club today!
+The Beard Club delivers beard care kits and beard growth kits right to your door, every month!  Pause or cancel your subscription at anytime.
+Instagram : https://www.instagra
 
-### Video 11: I wanted to give my input on how it's like ordering from @th...
+### Video 11: 3 tips to grow a beard with a derma roller
+- **URL:** https://www.youtube.com/watch?v=LXRujvOMqfU
+- **Stats:** Views 872,747 | Likes 20,799 | Comments 109 | Shares 0
+- **Author:** AL GARRIDO
+- **Description:** For a Derma Roller with real needles, search FolliRoll on Amazon. 
+#dermaroller #microneedling #minoxidil #beard #beardgrowth
+
+### Video 12: How to know if you can grow a beard | 4 simple checks...
+- **URL:** https://www.youtube.com/watch?v=6AUXV4PZ7YY
+- **Stats:** Views 854,457 | Likes 11,493 | Comments 1,784 | Shares 0
+- **Author:** Beard Growing Pro
+- **Description:** Full article: https://beardgrowingpro.com/how-to-know-if-you-can-grow-a-beard/
+Before launching into a potentially long beard growing journey it would be nice to set expectations. 
+Are you even capable of growing a beard? 
+What would the end result look like and if there are any techniques that could be used to grow a thicker beard? 
+How to know if you can grow a beard or not comes down to these four simple questions…
+Before launching into growing a beard (and all of the waiting that comes with
+
+### Video 13: How To Grow & Maintain A Beard Properly
+- **URL:** https://www.youtube.com/watch?v=3L7ioS-ZcYM
+- **Stats:** Views 711,952 | Likes 14,002 | Comments 548 | Shares 0
+- **Author:** Tim Dessaint
+- **Description:** Use code TIM80 to get 80% off your Geologie personalized trial set: https://geolog.ie/TIM80
+Bulldog Beard Balm: https://amzn.to/3KEguLa
+Bulldog Beard Oil: https://amzn.to/3RkdHdA
+Ruffians Beard Oil: https://ruffians.co.uk/products/ruffians-argan-beard-oil-30ml
+Beard Brush: https://amzn.to/3XcnjuN
+Timestamps:
+0:00 - Intro
+1:00 - Tip 1
+1:29 - Tip 2 
+2:19 - Tip 3
+3:03 - Tip 4
+4:36 - Tip 5
+6:07 - Tip 6
+7:30 - Tip 7
+Music downloaded from Musicbed: https://fm.pxf.io/timdessaint
+Shot with:
+
+### Video 14: How To GROW A BEARD In 90 Days Using MINOXIDIL & DERMA ROLLE...
+- **URL:** https://www.youtube.com/watch?v=PjYLlddmlUw
+- **Stats:** Views 682,255 | Likes 8,623 | Comments 348 | Shares 0
+- **Author:** Victor Emery
+- **Description:** Looking to grow a beard in 90 days? Well, look no further! In this video, I'll show you how to grow a beard using minoxidil and a derma roller, and you will get insane before and after results.
+Minoxidil is a drug commonly used to treat hair loss. It works by increasing the production of hair growth hormones in the scalp. Derma roller is a type of apparatus used to stimulate collagen production. Together, these two products can help you grow your beard in a fast and effective way! I've tried th
+
+### Video 15: HOW I GREW MY BEARD USING MINOXIDIL / GET RID OF PATCHY BEAR...
+- **URL:** https://www.youtube.com/watch?v=2GJD-Wkkyhg
+- **Stats:** Views 608,609 | Likes 12,841 | Comments 732 | Shares 0
+- **Author:** Sierra Cameroon
+- **Description:** MY BEARD GROWTH JOURNEY
+In this video I explained my routine and the products that I use on a daily bases to get rid of my patchy beard. It took me a while but with Patience and a good beard routine I was able to grow my beard and get rid of majority of the patchiness.
+LIST OF THINGS I USE
+Black Jamaican Castor OIL
+Wild Growth
+Softee Coconut Oil
+Derma Roller
+Brush
+Comb
+All the products listed above can be found ON Amazon, your local beauty supply store. CVS carries the Minoxidil. 
+Subscribe
+
+### Video 16: How To Use The Derma Roller For Beard Growth | Beard Club
+- **URL:** https://www.youtube.com/watch?v=MQdUAOhKDwQ
+- **Stats:** Views 602,765 | Likes 6,279 | Comments 106 | Shares 0
+- **Author:** Beard Club
+- **Description:** Looking to grow out your patchy beard? Just picked up one of our Derma Roller Kits? Interested in what a Derma Roller does? You've come to the right place! 
+Watch us break our Derma Roller Routine in 6 easy steps!
+Grab one of our Growth Kits today at https://thebeardclub.com/collections/beard-growth-kits!
+
+### Video 17: Best beard trimmer for men
+- **URL:** https://www.youtube.com/watch?v=XUZai_myw90
+- **Stats:** Views 571,772 | Likes 4,049 | Comments 75 | Shares 0
+- **Author:** Bad Boys Depot
+- **Description:** Elevate your grooming game now!
+
+### Video 18: How to grow a thicker fuller beard | Beard Tips 2025
+- **URL:** https://www.youtube.com/watch?v=z4-oQzur5Qc
+- **Stats:** Views 448,224 | Likes 6,477 | Comments 296 | Shares 0
+- **Author:** King Bril
+- **Description:** King Bril shares tips and tricks around maximizing your beard’s potential.
+🔥 Get some of my favorite haircare products ➡️ https://richroyals.com/ 
+📚Here's a link to Rich Royals hair education blog https://richroyals.com/blogs/hair-care 
+Connect with me!
+
+### Video 19: I wanted to give my input on how it's like ordering from @th...
 - **URL:** https://www.instagram.com/p/CBET6HEnFyq/
 - **Stats:** Views 79 | Likes 14 | Comments 1 | Shares 0
+- **Author:** connycarcino
+- **Description:** I wanted to give my input on how it's like ordering from @thebeardclub for anyone that's curious about investing in beard treatments, hope it helps, they make subsriptions based on what you ordered and you can customize you're box with what ever you want and will charge only on delivery so it helps to double check your subscriptions on your account on the site , it's super easy #thebeardclub #thebeardclubreview
+
+### Video 20: Hey guys, take a moment to check out my YouTube video of my ...
+- **URL:** https://www.instagram.com/p/CA_KbKBhaMo/
+- **Stats:** Views 4 | Likes 4 | Comments 3 | Shares 0
+- **Author:** jfelfig
+- **Description:** Hey guys, take a moment to check out my YouTube video of my results from using The Beard Club for about a month. Link is in my bio @thebeardclub #healthbeard #thebeardclub #thebeardclubreview
 
 
 ---

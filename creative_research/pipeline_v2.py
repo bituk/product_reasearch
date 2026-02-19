@@ -110,16 +110,26 @@ def run_pipeline_v2(
     scraped.truncate_videos_to_max(max_total=max_videos_total)
     result["scraped_data"] = scraped
 
-    # Collect video URLs with platform diversity (YouTube, Shorts, TikTok, Instagram)
+    # Collect videos for download with platform diversity (YouTube, Shorts, TikTok, Instagram)
     videos_for_download = scraped.select_videos_for_analysis(limit=max_videos_to_download)
-    video_urls = list(dict.fromkeys(v.url for v in videos_for_download if v.url))
+    # Build download list: include video_direct_url for Apify Instagram/TikTok when available
+    seen_urls: set[str] = set()
+    download_items: list[dict[str, Any]] = []
+    for v in videos_for_download:
+        if not v.url or v.url in seen_urls:
+            continue
+        seen_urls.add(v.url)
+        download_items.append({
+            "url": v.url,
+            "video_direct_url": getattr(v, "video_direct_url", "") or "",
+        })
 
-    # 4) Download via yt-dlp + transcript
+    # 4) Download via yt-dlp or direct (Apify Instagram CDN) + transcript
     _stage("download")
-    if download_videos and video_urls:
+    if download_videos and download_items:
         out_dir = Path(output_dir or Path.cwd() / "downloads" / "videos")
         try:
-            dl_results = download_and_transcript_batch(video_urls, out_dir)
+            dl_results = download_and_transcript_batch(download_items, out_dir)
             result["download_results"] = dl_results
             # Enrich VideoItems with transcripts
             for r in dl_results:

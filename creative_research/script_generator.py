@@ -1,19 +1,14 @@
 """
 LLM-based video script generation from research + video analysis.
 Generates creative scripts inspired by reference videos and research insights.
+Uses OpenAI with Gemini fallback.
 """
 
 from typing import Any
 
-from creative_research.constants import OPENAI_API_KEY
+from creative_research.constants import GEMINI_API_KEY, OPENAI_API_KEY
 from creative_research.scraped_data import VideoItem, ScrapedData
-
-
-def _get_openai_client():
-    from openai import OpenAI
-    if not OPENAI_API_KEY:
-        raise ValueError("OPENAI_API_KEY required for script generation. Set in .env")
-    return OpenAI(api_key=OPENAI_API_KEY)
+from creative_research.llm_client import call_llm
 
 
 def _build_script_context(
@@ -76,20 +71,15 @@ def generate_video_scripts(
     Returns:
         Markdown with 3 generated scripts.
     """
-    client = _get_openai_client()
+    if not OPENAI_API_KEY and not GEMINI_API_KEY:
+        raise ValueError("OPENAI_API_KEY or GEMINI_API_KEY required for script generation. Set in .env")
+
     context = _build_script_context(
         research_report,
         scraped_data,
         video_analyses or [],
         product_summary,
     )
+    system = "You are an expert creative director. Output only valid Markdown."
     user_msg = f"{SCRIPT_GENERATION_PROMPT}\n\n---\n\n{context}"
-    resp = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": "You are an expert creative director. Output only valid Markdown."},
-            {"role": "user", "content": user_msg},
-        ],
-        temperature=0.7,
-    )
-    return (resp.choices[0].message.content or "").strip()
+    return call_llm(system, user_msg, openai_model=model, temperature=0.7)

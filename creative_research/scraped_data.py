@@ -48,6 +48,7 @@ class VideoItem:
     platform: str
     title: str
     url: str = ""
+    video_direct_url: str = ""  # Direct CDN URL for download (from Apify videoUrl)
     description: str = ""
     views: int = 0
     likes: int = 0

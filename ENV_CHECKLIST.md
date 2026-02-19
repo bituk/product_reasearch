@@ -6,11 +6,11 @@ Use this to confirm your `.env` is set for the features you need. Copy from `.en
 
 | You have | Env variable(s) | Used for |
 |----------|-----------------|----------|
-| **OpenAI** | `OPENAI_API_KEY` | Keywords, report, scripts |
+| **OpenAI** | `OPENAI_API_KEY` | Keywords, report, scripts (primary; Gemini used as fallback if OpenAI fails) |
 | **Apify** | `APIFY_API_TOKEN` | TikTok, Instagram, Amazon scrapers |
 | **YouTube** | `YOUTUBE_API_KEY` **or** `GOOGLE_API_KEY` | YouTube Data API (search, Shorts, comments) |
 | **Tavily** | `TAVILY_API_KEY` | Competitor research |
-| **Gemini** | `GEMINI_API_KEY` **or** `GOOGLE_API_KEY` | Video analysis (hooks, CTAs, format) |
+| **Gemini** | `GEMINI_API_KEY` **or** `GOOGLE_API_KEY` | Video analysis (hooks, CTAs, format); fallback for keywords/report/scripts when OpenAI fails |
 | **Reddit** | — | No key; public API with User-Agent |
 
 ## Django API

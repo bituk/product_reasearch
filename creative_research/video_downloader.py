@@ -1,11 +1,13 @@
 """
 Video download and transcript extraction via yt-dlp.
-Downloads videos from scraped links and extracts transcripts/scripts.
+Downloads videos from scraped links (YouTube, TikTok, Instagram) and extracts transcripts/scripts.
+Supports direct CDN URLs from Apify (Instagram videoUrl) for faster downloads.
 """
 
 import os
 import subprocess
 import tempfile
+import urllib.request
 from pathlib import Path
 from typing import Any
 
@@ -80,19 +82,32 @@ def _extract_youtube_id(url: str) -> str | None:
     return m.group(1) if m else None
 
 
+def _download_direct_video(url: str, output_path: Path) -> bool:
+    """Download video from direct URL (e.g. Instagram CDN from Apify). Returns True if success."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; VideoDownloader/1.0)"})
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            output_path.write_bytes(resp.read())
+        return output_path.exists() and output_path.stat().st_size > 0
+    except Exception:
+        return False
+
+
 def download_video(
     url: str,
     output_dir: str | Path,
     *,
+    video_direct_url: str | None = None,
     max_duration_sec: int = 600,
     extract_transcript: bool = True,
 ) -> dict[str, Any]:
     """
-    Download video via yt-dlp and optionally extract transcript.
+    Download video via yt-dlp or direct download (for Apify CDN URLs).
 
     Args:
-        url: Video URL (YouTube, TikTok, etc.).
+        url: Video page URL (YouTube, TikTok, Instagram) or identifier.
         output_dir: Directory to save video and transcript.
+        video_direct_url: Optional direct CDN URL (from Apify Instagram videoUrl) for fast download.
         max_duration_sec: Skip videos longer than this (default 10 min).
         extract_transcript: If True, also extract transcript/script.
 
@@ -117,6 +132,27 @@ def download_video(
         "error": None,
     }
 
+    # Try direct download first when we have Apify CDN URL (Instagram, TikTok)
+    if video_direct_url and (
+        ".mp4" in video_direct_url
+        or "cdninstagram" in video_direct_url
+        or "tiktok" in video_direct_url.lower()
+    ):
+        import re
+        vid_id = _extract_youtube_id(url) or re.sub(r"[^\w\-]", "_", (url or "")[-60:]) or "video"
+        out_path = out_dir / f"{vid_id}.mp4"
+        if _download_direct_video(video_direct_url, out_path):
+            result["success"] = True
+            result["video_path"] = str(out_path.absolute())
+            # No transcript from direct download; try yt-dlp for transcript only if we have page URL
+            if extract_transcript and ("instagram.com" in url):
+                try:
+                    transcript = extract_transcript_yt_dlp(url, out_dir)
+                    result["transcript"] = transcript
+                except Exception:
+                    pass
+            return result
+
     try:
         import yt_dlp
         def _duration_filter(info, *, incomplete=False):
@@ -131,6 +167,11 @@ def download_video(
             "no_warnings": True,
             "match_filter": _duration_filter,
         }
+        # Platform-specific options for TikTok and Instagram
+        if "tiktok.com" in url:
+            ydl_opts.setdefault("extractor_args", {})["tiktok"] = {"format": "best"}
+        if "instagram.com" in url:
+            ydl_opts.setdefault("extractor_args", {})["instagram"] = {"format": "best"}
         if extract_transcript:
             ydl_opts["writesubtitles"] = True
             ydl_opts["writeautomaticsub"] = True
@@ -199,18 +240,25 @@ def _parse_vtt_to_text(vtt_path: Path) -> str:
 
 
 def download_and_transcript_batch(
-    urls: list[str],
+    urls: list[str] | list[dict[str, Any]],
     output_dir: str | Path,
     *,
     max_per_video_sec: int = 600,
 ) -> list[dict[str, Any]]:
     """
     Download multiple videos and extract transcripts.
+    Accepts list of URLs (str) or list of dicts with "url" and optional "video_direct_url".
     Returns list of results (one per URL).
     """
     out_dir = Path(output_dir)
     results = []
-    for url in urls:
+    for item in urls:
+        if isinstance(item, dict):
+            url = item.get("url", "")
+            video_direct_url = item.get("video_direct_url") or ""
+        else:
+            url = str(item) if item else ""
+            video_direct_url = ""
         if not url or not url.strip():
             continue
         vid_dir = out_dir / _sanitize_url_for_dir(url)
@@ -218,6 +266,7 @@ def download_and_transcript_batch(
         r = download_video(
             url,
             vid_dir,
+            video_direct_url=video_direct_url or None,
             max_duration_sec=max_per_video_sec,
             extract_transcript=True,
         )

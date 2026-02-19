@@ -52,14 +52,38 @@ def run_apify_tiktok(
         raw = _run_actor(
             client,
             ACTOR_TIKTOK_HASHTAG,
-            {"hashtags": [q.replace("#", "").strip()], "resultsLimit": min(max_results, 30)},
+            {"hashtags": [q.replace("#", "").strip()], "resultsPerPage": min(max_results, 30)},
             timeout_secs=90,
         )
         for r in raw:
+            # webVideoUrl may be wrapped in angle brackets by Apify: "<https://...>"
+            tiktok_url = (r.get("webVideoUrl") or r.get("videoUrl") or "").strip().strip("<>")
+            if not tiktok_url:
+                continue
+            if not tiktok_url.startswith("http"):
+                tiktok_url = f"https://www.tiktok.com/{tiktok_url}" if tiktok_url.startswith("@") else ""
+            if not tiktok_url.startswith("http"):
+                continue
+            # Direct video URL: only use CDN URLs (.mp4 or v16-webapp-prime, etc.), not page URLs
+            tiktok_direct = ""
+            media_urls = r.get("mediaUrls") or []
+            for m in media_urls:
+                u = (m if isinstance(m, str) else "").strip().strip("<>")
+                if u and (".mp4" in u or "v16-webapp" in u or "tiktokv" in u):
+                    tiktok_direct = u
+                    break
+            if not tiktok_direct:
+                vm = r.get("videoMeta") or {}
+                for k in ("downloadAddr", "originalDownloadAddr"):
+                    u = (vm.get(k) or "").strip().strip("<>")
+                    if u and (".mp4" in u or "v16-webapp" in u or "tiktokv" in u):
+                        tiktok_direct = u
+                        break
             items.append(VideoItem(
                 platform="TikTok",
                 title=r.get("text") or r.get("desc") or "",
-                url=r.get("webVideoUrl") or r.get("videoUrl") or "",
+                url=tiktok_url,
+                video_direct_url=tiktok_direct,
                 description=r.get("text", "")[:500],
                 views=r.get("playCount") or 0,
                 likes=r.get("diggCount") or 0,
@@ -86,10 +110,17 @@ def run_apify_instagram(
         )
         for r in raw:
             caption = (r.get("caption") or "")[:500]
+            page_url = r.get("url") or ""
+            if not page_url and r.get("shortCode"):
+                # Build URL from shortCode (reel vs post)
+                sc = r.get("shortCode", "")
+                page_url = f"https://www.instagram.com/reel/{sc}/" if r.get("type") == "Video" else f"https://www.instagram.com/p/{sc}/"
+            video_direct = r.get("videoUrl", "") if r.get("type") == "Video" else ""
             items.append(VideoItem(
                 platform="Instagram",
                 title=caption or "Instagram post",
-                url=r.get("url") or r.get("shortCode", ""),
+                url=page_url,
+                video_direct_url=video_direct,
                 description=caption,
                 views=r.get("videoViewCount") or r.get("likesCount") or 0,
                 likes=r.get("likesCount") or 0,
