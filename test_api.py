@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Test both API endpoints: start pipeline and get status.
-Uses PRODUCT_URL from .env. Cache is used automatically when available (Apify, YouTube, etc.).
+Uses PRODUCT_URL from .env.
 
 Usage:
   # Terminal 1: start server (with SQLite if no PostgreSQL)
@@ -87,7 +87,7 @@ def main():
     print(f"Product URL: {PRODUCT_URL[:60]}...")
     print(f"Base URL: {BASE_URL}")
 
-    # Test with product_url from env and skip_apify=False (uses Apify cache when available)
+    # Test with product_url from env and skip_apify=False
     job_id = test_start_pipeline(product_url=PRODUCT_URL, skip_apify=False)
     if not job_id:
         sys.exit(1)

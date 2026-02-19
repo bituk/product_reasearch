@@ -26,7 +26,13 @@ CREATE DATABASE product_research;
 
 ### 3. Environment
 
-Add to `.env` (or use defaults):
+Copy `.env.example` to `.env` and fill in values:
+
+```bash
+cp .env.example .env
+```
+
+**Minimal for API** (PostgreSQL defaults):
 
 ```
 POSTGRES_DB=product_research
@@ -35,6 +41,8 @@ POSTGRES_PASSWORD=postgres
 POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
 ```
+
+**Pipeline** requires `OPENAI_API_KEY` and `PRODUCT_URL`. See `.env.example` for full options (Apify, YouTube, Gemini, Celery, CORS, etc.).
 
 ### 4. Migrations
 
@@ -64,7 +72,7 @@ Requires Redis. When Redis is unavailable, the API falls back to threading.
 celery -A api worker -l info
 ```
 
-Env: `CELERY_BROKER_URL=redis://localhost:6379/0` (default)
+Env: `CELERY_BROKER_URL=redis://localhost:6379/0` (default). See `.env.example`.
 
 ## API Endpoints
 

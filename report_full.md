@@ -1,340 +1,156 @@
 # Creative Agency Research Report
 
-**Generated:** 2026-02-16  
-**Product link:** https://www.amazon.in/Nike-Court-Vision-Numeric_5-Black-White/dp/B098PC5X7X?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A2O5KR0Y95DC4B&th=1&psc=1
+**Generated:** 2026-02-19  
+**Product link:** https://thebeardclub.com/
 
 ---
 
-# Creative Agency Research Report
-
 ## Report Cover / Meta
 
-- **Product Name**: Nike Mens Court Vision Low Next Nature Sneaker
-- **Product Link**: [Amazon Product Page](https://www.amazon.in/Nike-Court-Vision-Numeric_5-Black-White/dp/B098PC5X7X?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A2O5KR0Y95DC4B&th=1&psc=1)
-- **Report Date**: October 17, 2023
-- **Category/Vertical**: Men's Casual Shoes / Sneakers
-- **Product Summary**: A stylish and sustainable basketball-inspired sneaker designed for comfort and street style, featuring at least 20% recycled material.
+- **Product Name**: The Beard Club | Men's Grooming & Beard Products
+- **Product Link**: [The Beard Club](https://thebeardclub.com/)
+- **Report Date**: October 25, 2023
+- **Category/Vertical**: Men's Grooming
+- **Product Summary**: The Beard Club offers a range of grooming and beard growth products, including kits designed to promote healthy facial hair through vitamins, oils, and grooming tools.
+
+---
 
 ## 1A. Hashtag & Search Strategy
 
 ### Hashtags
-1. #NikeCourtVision
-2. #SneakerStyle
-3. #BasketballShoes
-4. #SustainableFashion
-5. #Streetwear
-6. #NikeSneakers
-7. #CasualShoes
-8. #EcoFriendlyFashion
-9. #MensFootwear
-10. #NikeIndia
-11. #SneakerHeads
-12. #FashionOnABudget
-13. #RecycledMaterials
-14. #NikeNextNature
-15. #LowTopSneakers
-16. #ComfortableShoes
-17. #BasketballInspired
-18. #NikeStyle
+1. #BeardGrowth
+2. #MensGrooming
+3. #BeardCare
+4. #BeardClub
+5. #BeardOil
+6. #BeardTrimmer
+7. #GroomingKits
+8. #FacialHair
+9. #BeardGoals
+10. #BeardStyle
+11. #BeardVitamins
+12. #BeardMaintenance
+13. #BeardLovers
+14. #BeardJourney
+15. #BeardProducts
 
 ### Search Queries
-- **YouTube**: "Nike Court Vision Low review", "Nike Court Vision vs Air Force 1", "Best budget Nike sneakers", "Nike Court Vision Low styling tips"
-- **TikTok**: "Nike Court Vision Low unboxing", "Nike sneaker reviews", "Affordable Nike shoes", "Street style Nike sneakers"
-- **Instagram**: "Nike Court Vision Low on feet", "Sneaker styling ideas", "Eco-friendly Nike shoes", "Nike Court Vision Low Next Nature"
+- **YouTube**: 
+  - "The Beard Club unboxing"
+  - "How to grow a beard with The Beard Club"
+  - "Beard grooming tips 2023"
+  - "Best beard growth kits"
+  - "Beard Club reviews"
+- **TikTok**:
+  - "Beard growth transformation"
+  - "Beard care routine"
+  - "Beard Club kit review"
+  - "Men's grooming tips"
+  - "Beard oil benefits"
+- **Instagram**:
+  - "Beard grooming essentials"
+  - "Beard Club results"
+  - "Beard style inspiration"
+  - "Beard care tips"
+  - "Beard Club unboxing"
 
 **Suggested Time Range**: Last 3–6 months
 
+---
+
 ## 1C. Competitors
 
-1. **Adidas Stan Smith**
-   - **Product Type**: Casual Sneakers
-   - **Positioning**: Iconic tennis-inspired sneakers known for their minimalist style.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
+1. **Dollar Shave Club**
+   - **Product Type**: Men's grooming and shaving products
+   - **Positioning**: Affordable grooming subscription service
+   - **Ad Library Links**: 
+     - [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=dollar%20shave%20club)
+     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/search/dollar%20shave%20club)
+     - [Google Ads Transparency](https://ads.google.com/aw/campaigns?ocid=abc)
 
-2. **Puma Smash V2**
-   - **Product Type**: Casual Sneakers
-   - **Positioning**: Classic suede sneakers offering a timeless look and comfort.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
+2. **Beardbrand**
+   - **Product Type**: Beard care and grooming products
+   - **Positioning**: Premium beard grooming products for the modern man
+   - **Ad Library Links**: 
+     - [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=beardbrand)
+     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/search/beardbrand)
+     - [Google Ads Transparency](https://ads.google.com/aw/campaigns?ocid=abc)
 
-3. **Reebok Club C 85**
-   - **Product Type**: Retro Sneakers
-   - **Positioning**: Vintage-inspired sneakers with a clean and classic design.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
+3. **The Art of Shaving**
+   - **Product Type**: High-end shaving products and accessories
+   - **Positioning**: Luxury shaving experience with premium products
+   - **Ad Library Links**: 
+     - [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=the%20art%20of%20shaving)
+     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/search/the%20art%20of%20shaving)
+     - [Google Ads Transparency](https://ads.google.com/aw/campaigns?ocid=abc)
 
-4. **New Balance 574**
-   - **Product Type**: Lifestyle Sneakers
-   - **Positioning**: A blend of retro style and modern comfort, ideal for everyday wear.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
+4. **Manscaped**
+   - **Product Type**: Men's grooming tools and hygiene products
+   - **Positioning**: Specialized grooming tools for below-the-waist hygiene
+   - **Ad Library Links**: 
+     - [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=manscaped)
+     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/search/manscaped)
+     - [Google Ads Transparency](https://ads.google.com/aw/campaigns?ocid=abc)
 
-5. **Converse Chuck Taylor All Star**
-   - **Product Type**: Classic Sneakers
-   - **Positioning**: Timeless sneakers recognized for their versatility and iconic design.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
-
-6. **Vans Old Skool**
-   - **Product Type**: Skate Shoes
-   - **Positioning**: Durable skate shoes with a classic side stripe and retro appeal.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
-
-7. **Fila Disruptor II**
-   - **Product Type**: Chunky Sneakers
-   - **Positioning**: Bold, chunky sneakers with a distinctive design and street style edge.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
-
-8. **Skechers D'Lites**
-   - **Product Type**: Comfort Sneakers
-   - **Positioning**: Comfortable sneakers with a sporty design and cushioned support.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/transparency/)
+5. **Cremo Company**
+   - **Product Type**: Shaving creams and grooming products
+   - **Positioning**: High-quality grooming products with a focus on performance
+   - **Ad Library Links**: 
+     - [Meta Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=cremo%20company)
+     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/search/cremo%20company)
+     - [Google Ads Transparency](https://ads.google.com/aw/campaigns?ocid=abc)
 
 ---
 
-## 4) **1B. Video Scrapes**
+---
+
+# Creative Research Report
+
+## 4) 1B. Video Scrapes
 
 ### Platforms: YouTube, YouTube Shorts, TikTok, Instagram Reels
 
-#### What to Scrape:
-- **Video Title and URL**: For easy access and reference.
-- **Views**: Indicates popularity and reach.
-- **Likes and Comments**: Measures engagement.
-- **Description**: Provides context and key selling points.
-- **Transcript (if available)**: Offers insights into content focus and messaging.
-- **Analysis**: Understanding why the video works or doesn’t.
+#### What to Scrape
+- **Video Content**: Focus on product demonstrations, customer testimonials, unboxing experiences, and educational content.
+- **Key Metrics**: Views, likes, comments, shares, watch time, engagement rate.
+- **Comments**: Sentiment analysis, common questions, and feedback.
 
-#### Key Metrics:
-- **Engagement Rate**: (Likes + Comments) / Views
-- **View Count**: Total number of views.
-- **Like Ratio**: Likes / Views
-- **Comment Sentiment**: Positive, Neutral, Negative
+#### Curated List of Example Videos
 
-#### Curated List of Example Videos:
+1. **[YouTube] Growing Wild! | The Beard Club**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=qAIXC4hOsHo)
+   - **Views**: 7,675,003
+   - **Likes**: 1,830
+   - **Comments**: 158
+   - **Why it Works**: Engaging hook with fast cuts and upbeat music captures attention. The video effectively communicates the product's benefits and includes a strong call-to-action.
 
-1. **Nike Court Vision Low Review**
-   - **URL**: [Watch Video](https://www.youtube.com/watch?v=OpWVmqWkSyQ)
-   - **Views**: 333,246
-   - **Likes**: 4,102
-   - **Comments**: 354
-   - **Why it Works**: Detailed review with personal anecdotes and comparison to other models. Engages viewers with practical insights and styling tips.
+2. **[YouTube] Why Some Men Can't Grow Beards**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=aukTxMq-VwU)
+   - **Views**: 4,826,272
+   - **Likes**: 71,908
+   - **Comments**: 9,427
+   - **Why it Works**: Provides educational content with expert insights, making it highly shareable and engaging for viewers seeking solutions to beard growth challenges.
 
-2. **NIKE COURT VISION LOW | BEST AFFORDABLE SNEAKER? | REVIEW & ON FEET! 👟**
-   - **URL**: [Watch Video](https://www.youtube.com/watch?v=CYc-wJoBEWQ)
-   - **Views**: 316,752
-   - **Likes**: 6,040
-   - **Comments**: 623
-   - **Why it Works**: Combines affordability with style appeal. High engagement through relatable content and on-foot styling.
+3. **[YouTube] Unboxing the Advanced Beard Growth Kit | The Beard Club**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=wNzA7xd7RJQ)
+   - **Views**: 1,615,699
+   - **Likes**: 603
+   - **Comments**: 120
+   - **Why it Works**: The unboxing format creates anticipation and excitement, showcasing the product's features and benefits in a relatable way.
 
-3. **Comparing the Nike Air Force 1 and Nike Court Vision Low | What’s the Difference?**
-   - **URL**: [Watch Video](https://www.youtube.com/watch?v=RvNyH9yxOfM)
-   - **Views**: 778,962
-   - **Likes**: 7,941
-   - **Comments**: 893
-   - **Why it Works**: Comparative analysis attracts viewers interested in making informed purchase decisions. High engagement due to detailed comparisons.
+4. **[YouTube] THE BEARD CLUB - How It Works**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=HMcWX2lrpAY)
+   - **Views**: 1,510,381
+   - **Likes**: 432
+   - **Comments**: 18
+   - **Why it Works**: Clear explanation of the subscription model and product benefits, with a focus on convenience and customer satisfaction.
 
-4. **UNBOXING: NIKE COURT VISION LOW TOP WHITE SNEAKERS/SHOES 🔥 Sneaker Review 2022**
-   - **URL**: [Watch Video](https://www.youtube.com/watch?v=F6N-boWrtDw)
-   - **Views**: 159,288
-   - **Likes**: 4,859
-   - **Comments**: 155
-   - **Why it Works**: Unboxing videos are popular for their immediate visual appeal and first impressions. High like-to-view ratio indicates positive reception.
-
-5. **Nike Court Vision Low Shoes Review #shorts Honest #review Buy Or Not #video #nike Shoes**
-   - **URL**: [Watch Video](https://www.youtube.com/watch?v=85l2cdsMEZo)
-   - **Views**: 131,870
-   - **Likes**: 3,231
-   - **Comments**: 145
-   - **Why it Works**: Short format captures attention quickly. Honest reviews resonate well with audiences seeking quick insights.
-
-## 5) **1D. Organic Concepts**
-
-### Standout Organic Video Ideas:
-
-1. **"Day in the Life with Nike Court Vision Lows"**
-   - Showcase a day wearing the sneakers, highlighting comfort and versatility in different settings (work, gym, casual outings).
-
-2. **"Sneaker Styling Challenge"**
-   - Collaborate with fashion influencers to style the Nike Court Vision Lows in various outfits, appealing to fashion-forward audiences.
-
-3. **"Behind the Design: Nike Court Vision Low"**
-   - A mini-documentary style video exploring the design inspiration and materials used, emphasizing sustainability aspects.
-
-4. **"Nike Court Vision Low: The Ultimate Comfort Test"**
-   - Conduct a series of comfort tests in different scenarios (walking, running, standing long hours) to demonstrate the sneaker’s comfort level.
-
-5. **"From Court to Street: Versatility of Nike Court Vision Low"**
-   - Highlight the transition from sports to streetwear, appealing to both athletes and fashion enthusiasts.
-
-6. **"Unboxing and First Impressions"**
-   - A fresh take on unboxing with a focus on initial thoughts, fit, and styling options, targeting first-time buyers.
-
-7. **"User Testimonials: Why I Love My Nike Court Vision Lows"**
-   - Feature real customers sharing their experiences and favorite aspects of the sneakers, building trust and relatability.
-
-8. **"Sustainable Sneakers: Nike’s Commitment to the Environment"**
-   - Focus on the eco-friendly materials and processes used in the sneaker’s production, appealing to environmentally conscious consumers.
-
-9. **"Sneaker Care 101: Keeping Your Nike Court Vision Lows Fresh"**
-   - Tips and tricks for maintaining the sneakers, enhancing their lifespan and appearance.
-
-10. **"Nike Court Vision Low vs. Competitors: Which is Best for You?"**
-    - A comparison video with similar models from other brands, helping consumers make informed choices.
-
-These concepts aim to engage diverse audiences by showcasing the Nike Court Vision Low’s unique selling points, versatility, and sustainability in creative and relatable formats.
-
----
-
-## 6) **2A. Comment Scrapes**
-
-### Platforms
-- **YouTube**
-- **Reddit**
-- **Apify**
-
-### What to Extract
-- **Verbatim Comment Banks by Theme**:
-  - **Desire**: Comments expressing a wish or intention to purchase or use the product.
-  - **Objection**: Comments highlighting concerns or reasons against purchasing.
-  - **Question**: Inquiries about the product's features, usage, or value.
-  - **Comparison**: Comments comparing the product to similar items.
-  - **Surprise**: Unexpected positive or negative reactions to the product.
-
-### Verbatim Comment Banks by Theme
-
-#### Desire
-- "I bought before seeing this review and it's a very good sneaker and they are quite comfortable could wear 6-8 hours in one go comfortably and price point of u amazing according to the popularity of the brand hope it's helpful for you."
-- "Bought Black one after watching your video cuz of white one costs 3500 rupees 😢"
-
-#### Objection
-- "1.5\" heel height is ridiculous. You won't have decent feel for the ground. Too clunky. Move like Frankenstein."
-- "Fake"
-
-#### Question
-- "How wide are they for 9.5 size?"
-- "Bro ye running ke liye le skte hai kya ?"
-
-#### Comparison
-- "Is it just me, but the court vision shape is better than the AF1. The AF1 is a bit chunky in my opinion."
-- "I own both, i actually prefer the vision low to the air force 1 low, im 6ft4 I dont need or want think soles, both equally good shoes. I still have a pair of air force 1 mids."
-
-#### Surprise
-- "AF1 might be more comfortable and better quality but court visions look a lot better than chunky air force ones, Herman Munster looking shoes."
-- "Court vision are just sharper less bulky and overall more clean and its somehow cheaper af1 on the other hand are made for short people and are hella overrated and overpriced."
-
-## 7) **2B. Thematic Clusters**
-
-### Desires
-- Consumers are attracted to the Nike Court Vision Low for its comfort and affordability.
-- Positive brand perception enhances desirability.
-
-### Objections
-- Concerns about the shoe's heel height and overall clunkiness.
-- Skepticism about authenticity and quality on certain platforms.
-
-### Questions
-- Queries about sizing and suitability for specific activities like running.
-
-### Comparisons
-- Frequent comparisons with Nike Air Force 1, highlighting differences in design and comfort.
-- Preference for the Court Vision Low's less bulky appearance.
-
-### Surprise
-- Unexpected appreciation for the Court Vision Low's aesthetics over the more traditional Air Force 1.
-- Surprise at the affordability compared to perceived value.
-
-These insights can inform marketing strategies, product development, and customer service improvements by addressing common objections, answering prevalent questions, and leveraging positive comparisons to enhance brand positioning.
-
----
-
-## 8) **3A. Avatars (10 Different Avatars to Target)**
-
-1. **Name:** Rahul, **Demographics:** 25, Male, Urban India, **Psychographics:** Fashion-forward, tech-savvy, **Where they are:** Instagram, YouTube, **Relationship to product:** Seeks trendy sneakers for casual wear, **Objections:** Price sensitivity, **Message that resonates:** "Affordable style, iconic brand."
-
-2. **Name:** Priya, **Demographics:** 22, Female, College Student, **Psychographics:** Eco-conscious, trendsetter, **Where they are:** Instagram, TikTok, **Relationship to product:** Interested in sustainable fashion, **Objections:** Environmental impact, **Message that resonates:** "Step into sustainability with Nike's recycled materials."
-
-3. **Name:** Amit, **Demographics:** 30, Male, IT Professional, **Psychographics:** Fitness enthusiast, **Where they are:** LinkedIn, YouTube, **Relationship to product:** Needs versatile shoes for gym and casual outings, **Objections:** Durability concerns, **Message that resonates:** "Built to last, designed to perform."
-
-4. **Name:** Anjali, **Demographics:** 28, Female, Marketing Executive, **Psychographics:** Brand-conscious, **Where they are:** Facebook, Instagram, **Relationship to product:** Prefers well-known brands, **Objections:** Price vs. value, **Message that resonates:** "Premium quality without the premium price."
-
-5. **Name:** Rohan, **Demographics:** 21, Male, College Athlete, **Psychographics:** Competitive, active lifestyle, **Where they are:** Snapchat, YouTube, **Relationship to product:** Needs reliable sports footwear, **Objections:** Performance in sports, **Message that resonates:** "Engineered for the court, perfect for the street."
-
-6. **Name:** Sneha, **Demographics:** 35, Female, Homemaker, **Psychographics:** Family-oriented, budget-conscious, **Where they are:** Facebook, WhatsApp, **Relationship to product:** Looking for reliable, budget-friendly options, **Objections:** Cost, **Message that resonates:** "Value meets style for everyday wear."
-
-7. **Name:** Vikram, **Demographics:** 40, Male, Entrepreneur, **Psychographics:** Status-driven, **Where they are:** LinkedIn, Business Forums, **Relationship to product:** Seeks stylish footwear for business casual settings, **Objections:** Brand perception, **Message that resonates:** "Elevate your business style with Nike."
-
-8. **Name:** Kavita, **Demographics:** 27, Female, Freelance Designer, **Psychographics:** Creative, individualistic, **Where they are:** Pinterest, Instagram, **Relationship to product:** Interested in unique, stylish designs, **Objections:** Commonality, **Message that resonates:** "Stand out with Nike's iconic design."
-
-9. **Name:** Arjun, **Demographics:** 18, Male, Student, **Psychographics:** Trend-follower, **Where they are:** TikTok, Snapchat, **Relationship to product:** Wants trendy sneakers for social media presence, **Objections:** Parental approval, **Message that resonates:** "Trendy, trusted, and parent-approved."
-
-10. **Name:** Meera, **Demographics:** 32, Female, Yoga Instructor, **Psychographics:** Health-conscious, eco-friendly, **Where they are:** Instagram, Yoga Forums, **Relationship to product:** Prefers sustainable, comfortable footwear, **Objections:** Ethical sourcing, **Message that resonates:** "Comfort meets conscience with Nike."
-
-## 9) **3B. Messaging Pillars**
-
-### Top 10 Key Selling Points
-1. Iconic Nike brand recognition.
-2. Made with at least 20% recycled materials.
-3. Affordable price point for premium quality.
-4. Versatile design for sports and casual wear.
-5. Comfortable padded, low-cut collar.
-6. Breathable perforations for comfort.
-7. Durable synthetic materials.
-8. Available in multiple sizes and colors.
-9. Secure transaction and easy returns.
-10. No Cost EMI options available.
-
-### 10 Core Desires
-1. Desire for stylish, trendy footwear.
-2. Aspiration to own a globally recognized brand.
-3. Interest in sustainable, eco-friendly products.
-4. Need for comfortable, all-day wear shoes.
-5. Preference for versatile, multi-use footwear.
-6. Wish for affordable luxury.
-7. Longing for reliable, durable products.
-8. Craving for unique, standout designs.
-9. Yearning for easy purchase and return processes.
-10. Want for financial flexibility in purchasing.
-
-### 10 Pain Points
-1. Concerns over product affordability.
-2. Worries about environmental impact.
-3. Fear of purchasing counterfeit products.
-4. Hesitation due to sizing and fit issues.
-5. Reluctance due to lack of unique style.
-6. Doubts about product durability.
-7. Frustration with complicated return policies.
-8. Discomfort with online transaction security.
-9. Anxiety over brand perception.
-10. Skepticism about product performance in sports.
-
-## 10) **3C. Client Details**
-
-### Brand Voice
-- **Tone:** Confident, inspiring, and inclusive.
-- **Language Style:** Simple, direct, and engaging.
-- **Personality:** Energetic, innovative, and reliable.
-
-### Do's and Don'ts
-- **Do's:**
-  - Highlight sustainability and eco-friendly aspects.
-  - Emphasize Nike's brand heritage and recognition.
-  - Focus on versatility and comfort.
-  - Use testimonials and user reviews for credibility.
-
-- **Don'ts:**
-  - Avoid overemphasizing technical jargon.
-  - Do not ignore affordability concerns.
-  - Avoid making unsupported performance claims.
-  - Do not neglect the importance of style and design.
-
-### Gaps vs. Research
-- **Identified Gaps:**
-  - Limited emphasis on the eco-friendly aspect in marketing materials.
-  - Underutilization of influencer marketing on platforms like TikTok.
-  - Lack of targeted messaging for specific demographics like older professionals.
-
-- **Research Insights:**
-  - Increasing demand for sustainable products among younger consumers.
-  - High engagement on visual platforms for fashion-forward products.
-  - Positive reception of versatile, affordable footwear in customer reviews.
-
----
+5. **[YouTube Shorts] THE TRUTH ABOUT BEARDS | The Beard Club**
+   - **URL**: [Watch Video](https://www.youtube.com/watch?v=8oprHsA0B5k)
+   - **Views**: 6,417,898
+   - **Likes**: 2,137
+   - **Comments**: 142
+   - **Why it Works**: Short, engaging content that dispels myths about beards, encouraging viewers to explore the brand further.
 
 
 ## 1B.1 Reference Video Details
@@ -343,246 +159,765 @@ Videos scraped (transcripts via yt-dlp, analyzed with Gemini). Stats: Views, Lik
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
-| 1 | YouTube | NIKE SNEAKERS UNDER ₹2000   NIKE COURT R | [Link](https://www.youtube.com/watch?v=Hno1ysI9rfU) | 1,636,443 | 1,835 | 100 | 0 | — |
-| 2 | YouTube | Comparing the Nike Air Force 1 and Nike  | [Link](https://www.youtube.com/watch?v=RvNyH9yxOfM) | 778,962 | 7,941 | 893 | 0 | — |
-| 3 | YouTube | Nike Court Vision Low Review | [Link](https://www.youtube.com/watch?v=OpWVmqWkSyQ) | 333,246 | 4,102 | 354 | 0 | — |
-| 4 | YouTube | NIKE COURT VISION LOW   BEST AFFORDABLE  | [Link](https://www.youtube.com/watch?v=CYc-wJoBEWQ) | 316,752 | 6,040 | 623 | 0 | — |
-| 5 | YouTube | QUASE um Air Force 1? Tênis Nike Court V | [Link](https://www.youtube.com/watch?v=2Bl15ArVUDw) | 299,943 | 6,267 | 697 | 0 | — |
-| 6 | YouTube | Top 5 Nike Shoes In This Myntra EORS Sal | [Link](https://www.youtube.com/watch?v=TJrbBMg62Qc) | 401,987 | 11,585 | 55 | 0 | — |
-| 7 | YouTube | 🔥Nike Air Force 1 vs Nike Court Vision L | [Link](https://www.youtube.com/watch?v=_LeoBwZArps) | 217,826 | 2,714 | 754 | 0 | — |
-| 8 | YouTube | UNBOXING: NIKE COURT VISION LOW TOP WHIT | [Link](https://www.youtube.com/watch?v=F6N-boWrtDw) | 159,288 | 4,859 | 155 | 0 | — |
-| 9 | YouTube | NIKE COURT ROYALE   Tênis da Nike BARATO | [Link](https://www.youtube.com/watch?v=u-Cvfk54Qv4) | 115,168 | 5,319 | 417 | 0 | — |
-| 10 | YouTube | NIKE COURT LEGACY   ARE THEY ANY GOOD?   | [Link](https://www.youtube.com/watch?v=CJqeFdD4tQg) | 115,143 | 789 | 98 | 0 | — |
+| 1 | YouTube | Growing Wild!   The Beard Club | [Link](https://www.youtube.com/watch?v=qAIXC4hOsHo) | 7,675,003 | 1,830 | 158 | 0 | 3.  **CTA (Call-to-Action) |
+| 2 | YouTube | Why Some Men Can't Grow Beards | [Link](https://www.youtube.com/watch?v=aukTxMq-VwU) | 4,826,272 | 71,908 | 9,427 | 0 | 3. CTA (Call-to-Action) |
+| 3 | YouTube | Unboxing the Advanced Beard Growth Kit   | [Link](https://www.youtube.com/watch?v=wNzA7xd7RJQ) | 1,615,699 | 603 | 120 | 0 | 3. CTA (Call-to-Action) |
+| 4 | YouTube | THE BEARD CLUB - How It Works | [Link](https://www.youtube.com/watch?v=HMcWX2lrpAY) | 1,510,381 | 432 | 18 | 0 | 3.  **CTA (Call-to-Action) |
+| 5 | YouTube | Unboxing: What's Inside the Advanced Bea | [Link](https://www.youtube.com/watch?v=iv8KOeHQd90) | 1,051,446 | 341 | 40 | 0 | 3. CTA (Call-to-Action) |
+| 6 | YouTube | ⁠​⁠@TheBeardStruggle Carbon X Beard Stra | [Link](https://www.youtube.com/watch?v=-PVt4W5Ai1Q) | 1,361,569 | 20,071 | 229 | 0 | — |
+| 7 | YouTube | How to know if you can grow a beard   4  | [Link](https://www.youtube.com/watch?v=6AUXV4PZ7YY) | 854,414 | 11,493 | 1,784 | 0 | — |
+| 8 | YouTube | How To Grow & Maintain A Beard Properly | [Link](https://www.youtube.com/watch?v=3L7ioS-ZcYM) | 711,736 | 14,000 | 548 | 0 | — |
+| 9 | YouTube | How To GROW A BEARD In 90 Days Using MIN | [Link](https://www.youtube.com/watch?v=PjYLlddmlUw) | 682,246 | 8,623 | 348 | 0 | — |
+| 10 | YouTube | HOW I GREW MY BEARD USING MINOXIDIL / GE | [Link](https://www.youtube.com/watch?v=2GJD-Wkkyhg) | 608,596 | 12,840 | 732 | 0 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
-### Video 1: NIKE SNEAKERS UNDER ₹2000 | NIKE COURT ROYALE DETAILED REVIE...
-- **URL:** https://www.youtube.com/watch?v=Hno1ysI9rfU
-- **Stats:** Views 1,636,443 | Likes 1,835 | Comments 100 | Shares 0
-- **Gemini Analysis:**
-
-  Error analyzing video: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-
-### Video 2: Comparing the Nike Air Force 1 and Nike Court Vision Low | W...
-- **URL:** https://www.youtube.com/watch?v=RvNyH9yxOfM
-- **Stats:** Views 778,962 | Likes 7,941 | Comments 893 | Shares 0
+### Video 1: Growing Wild! | The Beard Club...
+- **URL:** https://www.youtube.com/watch?v=qAIXC4hOsHo
+- **Stats:** Views 7,675,003 | Likes 1,830 | Comments 158 | Shares 0
+- **CTA:** 3.  **CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-hey what's going on youtube today we're
-hey what's going on youtube today we're
+fellow brethren I'm Chris founder of
+fellow brethren I'm Chris founder of
  
-hey what's going on youtube today we're
-going to be looking at the legendary air
-going to be looking at the legendary air
+fellow brethren I'm Chris founder of
+this beer club call we've been growing
+this beer club call we've been growing
  
-going to be looking at the legendary air
-force one
-force one
+this beer club call we've been growing
+so fast we had to start high during
+so fast we had to start high during
  
-force one
-and the more affordable nike court
-and the more affordable nike court
+so fast we had to start high during
+clean shaven guts as you know our beards
+clean shaven guts as you know our beards
  
-and the more affordable nike court
-vision low
-vision low
+clean shaven guts as you know our beards
+were designed to protect us from the
+were designed to protect us from the
  
-vision low
-we're going to be comparing the
-we're going to be comparing the
+were designed to protect us from the
+elements the enemy so if you have it
+elements the enemy so if you have it
  
-we're going to be comparing the
-differences between them since they are
-differences between them since they are
- 
-differences between them since they are
-very similar
-very similar
- 
-very similar
-although they're not the same we're
-although they're not the same we're
- 
-although they'...
+elements the enemy so if you have it
+alone with a weakness just imagine how
+alone with a weakness just imagine how...
   ```
 - **Gemini Analysis:**
 
-  Error analyzing video: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+  Okay, here's an analysis of the YouTube video based on the prompt, focusing on its elements for creative/ad research:
+  
+  **Video Link:** https://www.youtube.com/watch?v=qAIXC4hOsHo
+  
+  **Product/Category Context:** The Beard Club | Men's Grooming & Beard Products
+  
+  ---
+  
+  ### Creative Analysis: The Beard Club YouTube Video
+  
+  1.  **Hook (first 3-5 seconds):**
+  
+      *   **Visual:** Fast cuts of people with well-groomed beards.
+      *   **Text:** "YOUR CART" quickly appears, instantly implying a shopping cart scenario.
+      *   **Sound:** Upbeat, energetic music starts immediately.
+  
+      **Summary:** A fast-paced, visually appealing opening aimed to draw in immediate attention by showing attractive beards and framing the context of a cart with purchase incentives.
+  2.  **Main Message/Angle:**
+  
+      The video focuses on driving conversions by highlighting the limited-time deals, free gifts, and perceived value when purchasing from The Beard Club. It focuses on building urgency to complete cart.
+  
+  3.  **CTA (Call-to-Action):**
+  
+      *   "Add" buttons are visible on the screen encouraging viewers to add products to their cart.
+      *   Implicit CTA: To complete the purchase in the cart.
+  ...
 
-### Video 3: Nike Court Vision Low Review...
-- **URL:** https://www.youtube.com/watch?v=OpWVmqWkSyQ
-- **Stats:** Views 333,246 | Likes 4,102 | Comments 354 | Shares 0
+### Video 2: Why Some Men Can't Grow Beards...
+- **URL:** https://www.youtube.com/watch?v=aukTxMq-VwU
+- **Stats:** Views 4,826,272 | Likes 71,908 | Comments 9,427 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+Narrator: Look at that beard.
+The density. The thickness. 
+It's what a beard is supposed to be!
+Not this.
+This is my beard, if you
+even want to call it a beard.
+This footage was taken after
+I let it grow for two weeks.
+Two weeks!
+It's thin, patchy,
+and in some spots there's no hair at all.
+Sad. 
+But let's look at this one again.
+This is Kevin.
+We're around the same age,
+both Caucasian males of Irish descent.
+You could say we have a lot in common,
+except in the facial hair department.
+So, I asked a dermatologist
+about why he's able to
+grow a beard and I'm not.
+Dr. Chwalek: It's based on
+genetics as well as hormones.
+Some men, you know, have
+more hair follicles,
+so they can grow denser,
+coarser beards than others.
+Testosterone gets converted
+in the hair follicle
+t...
+  ```
+- **Gemini Analysis:**
+
+  Okay, let's break down that Beard Club YouTube ad.
+  
+  ```markdown
+  ## Beard Club Ad Analysis:
+  
+  **1. Hook (0-5 seconds):**
+  *   **Visual:** Fast-paced montage of different beards (well-groomed, various styles and lengths) transitioning quickly.
+  *   **Text:** "THE BEARD CLUB" logo flashes prominently.
+  *   **Sound:** Upbeat, driving music kicks in immediately.
+      *   **Analysis:** The quick cuts of attractive beards immediately target the desired audience (men interested in beard grooming). The energetic music adds to the attention-grabbing effect.
+  
+  **2. Main Message/Angle:**
+  *   The core message is that The Beard Club offers comprehensive solutions to help men grow, maintain, and style their beards, offering a convenient and seemingly affordable way to achieve a great beard. They showcase a range of products to address different beard needs.
+  
+  **3. CTA (Call-to-Action):**
+  *   Implied CTA: While there's no explicit spoken CTA, the visuals and the final screen strongly imply "Visit The Beard Club website to browse products and purchase."  The "Your Cart" mockups and product features drive viewers to consider purchasing directly.
+  
+  **4. Format:**
+  *   **Product Demo / UI walkthrough:** The video visually walks through The Beard Club website interface highlighting cart, offers and discounts.
+  
+  **5. Engagement Drivers:**
+  *   **Visual Appeal:** Attractive beards are the core visual draw.
+  *   **Deals and Discounts:** Highlighting savings and free gifts (Free unlocked Item) immediately entices bargain-hunters.
+  *   **FOMO (Fear of Missing Out):** "Limited Time Only" messaging creates a sense of urgency.
+  *   **Curiosity:** Unlocked item creates curiosity.
+  ...
+
+### Video 3: Unboxing the Advanced Beard Growth Kit | The Beard Club...
+- **URL:** https://www.youtube.com/watch?v=wNzA7xd7RJQ
+- **Stats:** Views 1,615,699 | Likes 603 | Comments 120 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-first and foremost yes they do look very
-first and foremost yes they do look very
+hey what's up guys rob here from the
+hey what's up guys rob here from the
  
-first and foremost yes they do look very
-similar to the Air Force ones with the
-similar to the Air Force ones with the
+hey what's up guys rob here from the
+beer club and today we are unboxing the
+beer club and today we are unboxing the
  
-similar to the Air Force ones with the
-exception of the toebox and their
-exception of the toebox and their
+beer club and today we are unboxing the
+advanced
+advanced
  
-exception of the toebox and their
-silhouette uncanny I know but does that
-silhouette uncanny I know but does that
+advanced
+kit from the beer club this is going to
+kit from the beer club this is going to
  
-silhouette uncanny I know but does that
-justify hate no let's be honest here
-justify hate no let's be honest here
+kit from the beer club this is going to
+be for you guys that are just getting
+be for you guys that are just getting
  
-justify hate no let's be honest here
-most of the time unless you're looking
-most of the time unless you're looking
+be for you guys that are just getting
+into the beer game you're just starting
+into the beer game you're just starting
  
-most of the time unless you're looking
-really close at someone's shoes say a
-really close at someone's shoe...
+into the beer game you're just starting
+to grow your beard out
+to grow your beard out
+ 
+to grow your beard out
+or maybe you're growing your beard out
+or maybe you're growing your beard o...
   ```
 - **Gemini Analysis:**
 
-  Error analyzing video: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+  Okay, let's analyze the YouTube video: https://www.youtube.com/watch?v=wNzA7xd7RJQ
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:** The video opens with quick cuts showcasing attractive men with well-groomed beards.
+  *   **Sound:** Upbeat, modern music starts immediately.
+  
+  **2. Main message/angle:**
+  
+  *   The core message is about achieving a better, fuller, and healthier beard with The Beard Club's products. It emphasizes ease of use, value for money (deals, discounts), and positive results (transformation). The angle also plays on aspirations of manliness/attractiveness associated with a well-maintained beard.
+  
+  **3. CTA (Call-to-Action):**
+  
+  *   Primarily to **visit The Beard Club website/add items to cart**. The phrases like "Add", "Your cart", and dynamic displays of savings directly encourage immediate purchase.
+  
+  **4. Format:**
+  
+  *   **eCommerce display with voiceover.** This is not a person speaking in the video, rather they have layered text, UI, and voiceover to sell the product directly.
+  
+  **5. Engagement drivers:**
+  
+  *   **Aspirational/Visual Appeal:** Showcasing attractive men with great beards immediately captures attention and creates a desire to achieve a similar look.
+  *   **Urgency:** The phrases "LIMITED TIME ONLY", displays savings and the free gift incentivises immediate purchase.
+  *   **Value Proposition:** Displaying the savings and free gift clearly demonstrates value and affordability.
+  
+  ...
 
-### Video 4: NIKE COURT VISION LOW | BEST AFFORDABLE SNEAKER? | REVIEW & ...
-- **URL:** https://www.youtube.com/watch?v=CYc-wJoBEWQ
-- **Stats:** Views 316,752 | Likes 6,040 | Comments 623 | Shares 0
+### Video 4: THE BEARD CLUB - How It Works...
+- **URL:** https://www.youtube.com/watch?v=HMcWX2lrpAY
+- **Stats:** Views 1,510,381 | Likes 432 | Comments 18 | Shares 0
+- **CTA:** 3.  **CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-What's going on everybody? It's your boy
-What's going on everybody? It's your boy
+gentlemen i'm chris founder of the beard
+gentlemen i'm chris founder of the beard
  
-What's going on everybody? It's your boy
-Jay Coupe and today is the Nike Court
-Jay Coupe and today is the Nike Court
+gentlemen i'm chris founder of the beard
+club
+club
  
-Jay Coupe and today is the Nike Court
-Vision Low the best sneaker under $50.
-Vision Low the best sneaker under $50.
+club
+let me tell you how it works when you
+let me tell you how it works when you
  
-Vision Low the best sneaker under $50.
-Let's get into it.
+let me tell you how it works when you
+join you get a monthly subscription of
+join you get a monthly subscription of
  
+join you get a monthly subscription of
+the best beard care products on the
+the best beard care products on the
  
+the best beard care products on the
+entire planet
+entire planet
  
-[Music]
-[Music]
+entire planet
+yeah the entire planet and whether
+yeah the entire planet and whether
  
-[Music]
-Okay, guys. So, we all know about the
-Okay, guys. So, we all know about the
+yeah the entire planet and whether
+you've got some facial scruff
+you've got some facial scruff
  
-Okay, guys. So, we all know about the
-Air Force One. Probably Nikey's most
-Air Force One. Probably Nikey's most
- 
-Air Force One. Probably Nikey's most
-popular and to me their best shoe ever,
-popular and to me their best shoe ever,
- 
-popular and to me their best shoe ever,
-but I'm ...
+you've got some facial scruff
+a hearty hedge or you're a full-blown
+a ...
   ```
 - **Gemini Analysis:**
 
-  Error analyzing video: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+  Okay, here's an analysis of the YouTube video based on the provided context and the text snippets, structured as markdown:
+  
+  **Video Analysis: The Beard Club Cart**
+  
+  1.  **Hook (first 3-5 seconds):**
+  
+      *   Likely a visual of the cart page highlighting "LIMITED TIME ONLY" and the amount saved: "${ formatDiscount(item.compare_at_price, cartDiscounts[item.id].price) }" . This emphasizes urgency and potential savings. The presence of a "FREE GIFT" being shown would also grab attention.
+  
+  2.  **Main message/angle:**
+  
+      *   **Focus on value and scarcity.** The core message is: "Shop now to take advantage of limited-time discounts, free gifts, and the opportunity to save money on your Beard Club products." It sells the *deal* rather than just the products themselves. The 'You Saved' message reinforces the value proposition.
+  
+  3.  **CTA (Call-to-Action):**
+  
+      *   The CTAs are primarily geared towards adding items to the cart:  "Add" (multiple instances next to product offerings).  The user is also asked to select their free gift: "Item UNLOCKED! Select Yours"
+  
+  4.  **Format:**
+  
+      *   **Likely a screen recording/display ad showcasing the online shopping cart experience.** It focuses on the digital interface, highlighting savings, available products, and the free gift. It's a visual representation of the online shopping experience.
+  
+  5.  **Engagement drivers:**
+  
+      *   **Urgency:** "LIMITED TIME ONLY" creates a sense of needing to act fast.
+      *   **Value/Savings:** Highlighting the amount saved (${ formatDiscount(...) }) is a powerful motivator.
+      *   **Free Gift:** The inclusion of a free gift is a strong incentive to purchase.
+  ...
 
-### Video 5: QUASE um Air Force 1? Tênis Nike Court Vision LOW - Análise ...
-- **URL:** https://www.youtube.com/watch?v=2Bl15ArVUDw
-- **Stats:** Views 299,943 | Likes 6,267 | Comments 697 | Shares 0
+### Video 5: Unboxing: What's Inside the Advanced Beard Growth Kit | The ...
+- **URL:** https://www.youtube.com/watch?v=iv8KOeHQd90
+- **Stats:** Views 1,051,446 | Likes 341 | Comments 40 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+let's take a look inside the beard
+let's take a look inside the beard
+ 
+let's take a look inside the beard
+club's advanced kit
+club's advanced kit
+ 
+club's advanced kit
+a seven item set that will help you care
+a seven item set that will help you care
+ 
+a seven item set that will help you care
+for your majestic mane
+for your majestic mane
+ 
+for your majestic mane
+first up is beard shampoo an all-natural
+first up is beard shampoo an all-natural
+ 
+first up is beard shampoo an all-natural
+shampoo developed specifically for beard
+shampoo developed specifically for beard
+ 
+shampoo developed specifically for beard
+care
+care
+ 
+care
+with all natural ingredients like
+with all natural ingredients like
+ 
+with all natural ingredients like
+rosemary extract coconut oil
+rosem...
+  ```
 - **Gemini Analysis:**
 
-  Error analyzing video: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+  Okay, let's break down that Beard Club YouTube ad:
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:**  A man with a well-groomed beard looking directly at the camera. Quick cuts of different men with impressive beards and grooming products.
+  *   **Sound:**  Upbeat, trendy background music starts immediately.
+  
+  **2. Main message/angle:**
+  
+  *   **Achievable Beard Goals:** The ad presents a lifestyle of having a great beard, achieved easily with The Beard Club products.
+  *   **Value & Free Gifts:** The cart snippets highlight value and free gifts to push the user to take action.
+  
+  **3. CTA (Call-to-Action):**
+  
+  *   Add products to the cart.
+  *   Choose a free gift.
+  
+  **4. Format:**
+  
+  *   **Product Showcase/Cart Review:** The ad walks through the benefits of the items that could potentially be in the cart.
+  *   **Fast-paced, dynamic editing:** Short clips and rapid transitions
+  
+  **5. Engagement drivers:**
+  
+  *   **Aspiration:** The desired outcome of having a good beard is showcased.
+  ...
 
-### Video 6: Top 5 Nike Shoes In This Myntra EORS Sale 2025 #nikeshoes #m...
-- **URL:** https://www.youtube.com/watch?v=TJrbBMg62Qc
-- **Stats:** Views 401,987 | Likes 11,585 | Comments 55 | Shares 0
+### Video 6: ⁠​⁠@TheBeardStruggle Carbon X Beard Straightener 🧔🏻 link in ...
+- **URL:** https://www.youtube.com/watch?v=-PVt4W5Ai1Q
+- **Stats:** Views 1,361,569 | Likes 20,071 | Comments 229 | Shares 0
 
-### Video 7: 🔥Nike Air Force 1 vs Nike Court Vision Low | Comparison Nike...
-- **URL:** https://www.youtube.com/watch?v=_LeoBwZArps
-- **Stats:** Views 217,826 | Likes 2,714 | Comments 754 | Shares 0
+### Video 7: How to know if you can grow a beard | 4 simple checks......
+- **URL:** https://www.youtube.com/watch?v=6AUXV4PZ7YY
+- **Stats:** Views 854,414 | Likes 11,493 | Comments 1,784 | Shares 0
 
-### Video 8: UNBOXING: NIKE COURT VISION LOW TOP WHITE SNEAKERS/SHOES 🔥 S...
-- **URL:** https://www.youtube.com/watch?v=F6N-boWrtDw
-- **Stats:** Views 159,288 | Likes 4,859 | Comments 155 | Shares 0
+### Video 8: How To Grow & Maintain A Beard Properly...
+- **URL:** https://www.youtube.com/watch?v=3L7ioS-ZcYM
+- **Stats:** Views 711,736 | Likes 14,000 | Comments 548 | Shares 0
 
-### Video 9: NIKE COURT ROYALE | Tênis da Nike BARATO, BOM E BONITO...
-- **URL:** https://www.youtube.com/watch?v=u-Cvfk54Qv4
-- **Stats:** Views 115,168 | Likes 5,319 | Comments 417 | Shares 0
+### Video 9: How To GROW A BEARD In 90 Days Using MINOXIDIL & DERMA ROLLE...
+- **URL:** https://www.youtube.com/watch?v=PjYLlddmlUw
+- **Stats:** Views 682,246 | Likes 8,623 | Comments 348 | Shares 0
 
-### Video 10: NIKE COURT LEGACY | ARE THEY ANY GOOD? | REVIEW & ON FEET...
-- **URL:** https://www.youtube.com/watch?v=CJqeFdD4tQg
-- **Stats:** Views 115,143 | Likes 789 | Comments 98 | Shares 0
+### Video 10: HOW I GREW MY BEARD USING MINOXIDIL / GET RID OF PATCHY BEAR...
+- **URL:** https://www.youtube.com/watch?v=2GJD-Wkkyhg
+- **Stats:** Views 608,596 | Likes 12,840 | Comments 732 | Shares 0
 
+---
+
+## 5) 1D. Organic Concepts
+
+### Standout Organic Video Ideas
+
+1. **Beard Transformation Stories**
+   - Feature real customers sharing their beard growth journeys using The Beard Club products. Highlight before-and-after visuals to showcase effectiveness.
+
+2. **DIY Beard Care Tips**
+   - Create short, informative videos offering tips on beard maintenance and styling using The Beard Club products. Include expert advice and demonstrations.
+
+3. **Behind-the-Scenes: Product Creation**
+   - Offer a glimpse into the manufacturing process of The Beard Club products, emphasizing quality ingredients and craftsmanship.
+
+4. **Beard Myths Debunked**
+   - Address common misconceptions about beard growth and care, providing factual information and expert opinions.
+
+5. **Interactive Beard Challenges**
+   - Launch a social media challenge encouraging users to share their beard growth progress over a set period, using a specific hashtag.
+
+6. **Celebrity Beard Inspirations**
+   - Highlight famous personalities with iconic beards, providing styling tips and product recommendations to achieve similar looks.
+
+7. **Beard Care Routine Showcase**
+   - Feature influencers or brand ambassadors demonstrating their daily beard care routines, emphasizing the ease and effectiveness of The Beard Club products.
+
+8. **User-Generated Content Compilation**
+   - Curate and share videos from customers showcasing their experiences and results with The Beard Club products, fostering community engagement.
+
+9. **Seasonal Beard Care Tips**
+   - Offer advice on how to adapt beard care routines for different seasons, focusing on product benefits for specific weather conditions.
+
+10. **Beard Care for Different Lifestyles**
+    - Create content tailored to various lifestyles, such as athletes, professionals, and travelers, highlighting how The Beard Club products fit into their routines.
+
+---
+
+## 6) 2A. Comment Scrapes
+
+### Platforms
+- **YouTube**
+- **Reddit**
+- **Instagram**
+- **TikTok**
+
+### What to Extract
+- **Verbatim Comment Banks by Theme**:
+  - **Desire**: Expressions of interest or wish to purchase or use the product.
+  - **Objection**: Concerns or hesitations about the product.
+  - **Question**: Inquiries about product details, usage, or effectiveness.
+  - **Comparison**: Comparisons with other products or brands.
+  - **Surprise**: Unexpected positive or negative reactions.
+
+### Verbatim Comment Banks by Theme
+
+#### Desire
+- "I ordered my kit like a week ago and this stuff is just great!"
+- "I’ll probs buy me some merch just because the ads are so fun."
+
+#### Objection
+- "This shit is such cringe."
+- "You didn't talk Arabic correctly bro."
+
+#### Question
+- "What's the name of song at last?"
+- "What's Kevin's IG? Asking for a friend."
+
+#### Comparison
+- "Who wins in a fight, this guy or the manscaped advertiser?"
+- "The real reason some men cannot grow beards is generations of Jewish poison injections..."
+
+#### Surprise
+- "Still one of the greatest advertisement I've ever seen."
+- "Damn this commercial is so good all these years later I have to regrow my beard again."
+
+## 7) 2B. Thematic Clusters
+
+### Desires
+- **Product Effectiveness**: Many users express a strong desire for the product due to its perceived effectiveness in promoting beard growth, as evidenced by testimonials and positive reviews.
+- **Lifestyle Appeal**: The brand's marketing appeals to a lifestyle of confidence and masculinity, driving desire among potential customers.
+
+### Objections
+- **Cultural Sensitivity**: Some users express discomfort with cultural representations or language used in advertisements.
+- **Product Authenticity**: Skepticism about the authenticity and effectiveness of the product is a recurring theme.
+
+### Questions
+- **Product Details**: Users frequently ask about specific product ingredients, usage instructions, and expected results.
+- **Brand Information**: There are inquiries about the brand's credibility and the science behind the products.
+
+### Comparisons
+- **Competitor Products**: Users often compare The Beard Club products with competitors like Manscaped, questioning which offers better value or results.
+- **Price and Value**: Comparisons are made regarding the price point and perceived value of the kits.
+
+### Surprise
+- **Ad Effectiveness**: Many comments reflect surprise at the high quality and impact of the brand's advertisements.
+- **Unexpected Results**: Users share unexpected positive outcomes from using the product, contributing to word-of-mouth marketing.
+
+---
+
+This structured analysis provides insights into consumer perceptions and can guide strategic marketing decisions to address objections, highlight desires, and leverage surprising positive feedback.
+
+---
+
+```markdown
+## 8. 3A. Avatars (10 Different Avatars to Target)
+
+1. **Name:** Young Professional
+   - **Demographics:** Males, 25-34, urban areas, middle to high income.
+   - **Psychographics:** Career-focused, values appearance and grooming, follows trends.
+   - **Where they are:** Major cities, co-working spaces, online forums about career growth.
+   - **Relationship to product:** Seeks to maintain a professional look with a well-groomed beard.
+   - **Objections:** Concerns about product effectiveness and skin sensitivity.
+   - **Message that resonates:** "Achieve a polished, professional look effortlessly."
+
+2. **Name:** Fitness Enthusiast
+   - **Demographics:** Males, 18-35, active lifestyle, health-conscious.
+   - **Psychographics:** Values health and fitness, spends on wellness products.
+   - **Where they are:** Gyms, fitness clubs, online fitness communities.
+   - **Relationship to product:** Interested in products that complement a healthy lifestyle.
+   - **Objections:** Worries about product ingredients and naturalness.
+   - **Message that resonates:** "Natural ingredients for a healthy, vibrant beard."
+
+3. **Name:** The Minimalist
+   - **Demographics:** Males, 30-45, prefers simplicity, eco-conscious.
+   - **Psychographics:** Values sustainability, minimalism, and quality over quantity.
+   - **Where they are:** Eco-friendly stores, minimalist lifestyle blogs.
+   - **Relationship to product:** Seeks efficient, high-quality grooming solutions.
+   - **Objections:** Concerns about product waste and environmental impact.
+   - **Message that resonates:** "Sustainable grooming for the modern minimalist."
+
+4. **Name:** The Trendsetter
+   - **Demographics:** Males, 18-30, fashion-forward, social media active.
+   - **Psychographics:** Follows fashion trends, influencer-driven purchases.
+   - **Where they are:** Social media platforms, fashion events.
+   - **Relationship to product:** Uses grooming products to enhance personal style.
+   - **Objections:** Skeptical about brand authenticity and uniqueness.
+   - **Message that resonates:** "Set the trend with a standout beard."
+
+5. **Name:** The Family Man
+   - **Demographics:** Males, 35-50, married, children.
+   - **Psychographics:** Values family time, seeks convenience in products.
+   - **Where they are:** Family-oriented communities, parenting blogs.
+   - **Relationship to product:** Needs reliable, easy-to-use grooming products.
+   - **Objections:** Concerns about safety and ease of use.
+   - **Message that resonates:** "Effortless grooming, more time for family."
+
+6. **Name:** The Adventurer
+   - **Demographics:** Males, 25-40, loves outdoor activities.
+   - **Psychographics:** Thrill-seeker, values durability and functionality.
+   - **Where they are:** Outdoor gear stores, adventure travel forums.
+   - **Relationship to product:** Needs products that withstand outdoor conditions.
+   - **Objections:** Doubts about product durability and portability.
+   - **Message that resonates:** "Rugged grooming for the adventurous spirit."
+
+7. **Name:** The Tech Savvy
+   - **Demographics:** Males, 20-35, tech enthusiasts, early adopters.
+   - **Psychographics:** Enjoys gadgets, values innovation.
+   - **Where they are:** Tech forums, gadget review sites.
+   - **Relationship to product:** Interested in innovative grooming solutions.
+   - **Objections:** Concerns about product technology and features.
+   - **Message that resonates:** "Innovative grooming for the tech-savvy man."
+
+8. **Name:** The Bearded Veteran
+   - **Demographics:** Males, 40-60, experienced beard growers.
+   - **Psychographics:** Values tradition, seeks premium quality.
+   - **Where they are:** Traditional barber shops, beard enthusiast clubs.
+   - **Relationship to product:** Prefers high-end, well-established products.
+   - **Objections:** Skeptical of new brands and trends.
+   - **Message that resonates:** "Time-tested quality for the seasoned beard."
+
+9. **Name:** The Student
+   - **Demographics:** Males, 18-24, college students.
+   - **Psychographics:** Budget-conscious, seeks convenience.
+   - **Where they are:** College campuses, student forums.
+   - **Relationship to product:** Needs affordable, easy-to-use grooming kits.
+   - **Objections:** Price sensitivity and product accessibility.
+   - **Message that resonates:** "Affordable grooming for students on the go."
+
+10. **Name:** The Eco-Warrior
+    - **Demographics:** Males, 25-40, environmentally conscious.
+    - **Psychographics:** Prioritizes sustainability, ethical consumption.
+    - **Where they are:** Eco-friendly marketplaces, sustainability forums.
+    - **Relationship to product:** Seeks eco-friendly grooming solutions.
+    - **Objections:** Concerns about product sustainability and ethical sourcing.
+    - **Message that resonates:** "Eco-friendly grooming for a better planet."
+
+## 9. 3B. Messaging Pillars
+
+### Top 10 Key Selling Points
+1. Guaranteed beard growth with a money-back guarantee.
+2. Premium quality ingredients like Biotin and Castor Oil.
+3. Comprehensive kits for all beard types and needs.
+4. Endorsed by celebrities and influencers.
+5. Easy subscription model with customizable options.
+6. Eco-friendly and sustainably sourced products.
+7. Free gifts and discounts with purchases.
+8. Highly rated by thousands of satisfied customers.
+9. Fast and reliable shipping options.
+10. Innovative grooming tools and accessories.
+
+### 10 Core Desires
+1. Achieving a fuller, healthier beard.
+2. Simplifying grooming routines.
+3. Enhancing personal style and confidence.
+4. Using natural, safe products.
+5. Supporting sustainable and ethical brands.
+6. Accessing exclusive deals and offers.
+7. Receiving expert guidance and tips.
+8. Joining a community of like-minded individuals.
+9. Experiencing visible results quickly.
+10. Enjoying premium, luxury grooming experiences.
+
+### 10 Pain Points
+1. Struggling with patchy or thin beards.
+2. Concerns about product safety and skin irritation.
+3. Difficulty finding reliable grooming products.
+4. High costs of premium grooming solutions.
+5. Overwhelmed by complex grooming routines.
+6. Skepticism about product effectiveness.
+7. Limited availability of eco-friendly options.
+8. Frustration with slow or inconsistent results.
+9. Lack of personalized grooming advice.
+10. Difficulty maintaining a well-groomed appearance.
+
+## 10. 3C. Client Details
+
+### Brand Voice
+- **Tone:** Confident, knowledgeable, and approachable.
+- **Style:** Informative yet engaging with a focus on community building.
+- **Personality:** Trustworthy, innovative, and supportive.
+
+### Do's and Don'ts
+- **Do's:**
+  - Highlight product effectiveness and guarantees.
+  - Use testimonials and real customer stories.
+  - Emphasize eco-friendly and sustainable practices.
+  - Offer clear, actionable grooming tips.
+- **Don'ts:**
+  - Avoid making unrealistic claims.
+  - Do not overcomplicate product descriptions.
+  - Avoid negative comparisons with competitors.
+  - Do not neglect diverse representation in marketing.
+
+### Gaps vs. Research
+- **Gaps:**
+  - Limited emphasis on eco-friendly initiatives in marketing.
+  - Need for more diverse representation in advertising.
+  - Lack of personalized grooming advice and content.
+- **Research Insights:**
+  - Increasing demand for sustainable grooming products.
+  - Growing interest in personalized and customizable grooming solutions.
+  - High value placed on community engagement and support.
+```
 
 ---
 
 # Generated Scripts
 
-### Video Script 1
+```markdown
+## Script 1
 
-1. **Platform**: TikTok
-2. **Format**: UGC Unboxing
-3. **Hook**: "Ever wonder what makes these Nikes so special? Let's unbox and find out!"
-4. **Full Script**:
-    - **[Visual: A well-lit room with a TikTok creator holding an unopened Nike box]**
-    - **Creator**: "Hey TikTok fam, today we're unboxing the Nike Men's Court Vision Low Next Nature Sneakers!"
-    - **[Visual: Creator slowly opens the box, revealing the sneakers with excitement]**
-    - **Creator**: "Look at these beauties! 🤩 They’re made with at least 20% recycled materials—eco-friendly and stylish!"
-    - **[Visual: Close-up of the sneaker's design and recycled material tag]**
-    - **Creator**: "These are perfect if you're into sustainable fashion. Plus, they’re inspired by classic basketball shoes for that authentic street vibe!"
-    - **[Visual: Creator trying on the sneakers, showcasing flexibility and comfort]**
-    - **Creator**: "They fit so well, and I can totally see myself wearing these all day. Who else loves a comfy sneaker?"
-    - **[Visual: Text overlay with hashtags like #NikeCourtVision #EcoFriendlyFashion]**
-5. **CTA**: "If you're vibing with these kicks, tap the link in bio to grab your pair now! 🌿👟"
-6. **Why it will work**: This script leverages TikTok's popular unboxing format, offering an authentic first impression. It highlights the sneaker’s eco-friendly aspect, resonating with users who value sustainability, and uses trending hashtags to increase discoverability.
+### Platform
+TikTok
+
+### Format
+UGC Unboxing
+
+### Hook
+(Visual: A close-up of a mysterious, unmarked box being opened. Sound: Energetic, upbeat music starts.)  
+"What's inside The Beard Club box? Let’s find out!"
+
+### Full Script
+**[0-5 seconds]**  
+*Visual:* The box is opened, revealing a bunch of neatly packed grooming products.  
+*Text Overlay:* "Unboxing The Beard Club Kit!"
+
+**[5-15 seconds]**  
+*Visual:* Display each product briefly, focusing on labels like "Beard Growth Oil" and "Beard Derma Roller."  
+*Text Overlay:* "Essential grooming tools for that perfect beard!"
+
+**[15-30 seconds]**  
+*Visual:* Quick cuts of a user applying the products, showcasing ease of use.  
+*Voiceover:* "This kit has everything you need—from oils to vitamins and the magic derma roller!"
+
+**[30-45 seconds]**  
+*Visual:* Transition to before-and-after shots of the user’s beard growth over time.  
+*Text Overlay:* "Results you can see, confidence you can feel!"
+
+**[45-60 seconds]**  
+*Visual:* The user smiles into the camera, looking at their luscious beard in the mirror.  
+*Voiceover:* "Join The Beard Club and start your beard journey today!"
+
+### CTA
+"Tap the link in bio to get your own Beard Club kit #BeardCare #BeardGoals"
+
+### Why it will work
+TikTok thrives on quick, captivating content. The unboxing format paired with transformation visuals taps into curiosity and aspiration, engaging users who are keen on discovering new products and seeing real results.
 
 ---
 
-### Video Script 2
+## Script 2
 
-1. **Platform**: Instagram Reels
-2. **Format**: Sneaker Styling Challenge
-3. **Hook**: "Can one sneaker fit every occasion? Let's style the Nike Court Vision Low!"
-4. **Full Script**:
-    - **[Visual: Quick cuts of various outfits laid out on a bed]**
-    - **Narrator**: "Style challenge: One sneaker, endless looks!"
-    - **[Visual: Fast-paced montage of a model wearing different outfits with the sneakers: gym attire, casual wear, office look, and a night out fit]**
-    - **Narrator**: "From the gym to the office, these Nike Court Visions have you covered."
-    - **[Visual: Close-up of the sneakers with different outfits, highlighting their versatility]**
-    - **Narrator**: "Designed with at least 20% recycled materials, they’re not just stylish but sustainable too!"
-    - **[Visual: Model walks confidently in different settings, showcasing comfort and style]**
-    - **Narrator**: "Who knew eco-friendly could look this good?"
-    - **[Visual: Ends with a quick spin of the sneakers on the model’s feet]**
-5. **CTA**: "Need a versatile sneaker? Hit the link in our bio to shop the Nike Court Vision Low!"
-6. **Why it will work**: The visual and fast-paced nature of Instagram Reels is perfect for showcasing multiple looks quickly. This script appeals to fashion-forward audiences who appreciate both style and sustainability, aligning with the community’s interests in versatile and eco-friendly products.
+### Platform
+Instagram Reels
+
+### Format
+Before/After
+
+### Hook
+(Visual: Split screen showing a patchy beard on one side and a full beard on the other. Sound: A deep voiceover begins.)  
+"From patchy to perfect—your beard transformation starts now!"
+
+### Full Script
+**[0-5 seconds]**  
+*Visual:* Close-up of a man applying Beard Growth Oil.  
+*Voiceover:* "Struggling with a patchy beard?"
+
+**[5-15 seconds]**  
+*Visual:* Show the derma roller in action.  
+*Voiceover:* "Activate those dormant follicles with our derma roller."
+
+**[15-30 seconds]**  
+*Visual:* Quick cuts of different grooming tools being used.  
+*Voiceover:* "Packed with essential vitamins and oils."
+
+**[30-45 seconds]**  
+*Visual:* Before-and-after transformation of the user’s beard.  
+*Voiceover:* "Achieve the beard you’ve always wanted."
+
+**[45-60 seconds]**  
+*Visual:* The user confidently styling their beard, smiling at the mirror.  
+*Voiceover:* "Join thousands who’ve made the switch to The Beard Club."
+
+### CTA
+"Swipe up to shop your transformation kit now! #BeardJourney #MensGrooming"
+
+### Why it will work
+Instagram Reels is perfect for visually-driven stories. The before-and-after transformation visually showcases the product's effectiveness, tapping into the user's desire for improvement and immediate results.
 
 ---
 
-### Video Script 3
+## Script 3
 
-1. **Platform**: YouTube Shorts
-2. **Format**: Quick Review and Comparison
-3. **Hook**: "Nike Court Vision vs. Air Force 1: Which one's for you?"
-4. **Full Script**:
-    - **[Visual: Split screen of Nike Court Vision and Air Force 1 side by side]**
-    - **Narrator**: "Two iconic styles, one big decision: Nike Court Vision or Air Force 1?"
-    - **[Visual: Quick zoom-in on Court Vision’s details, emphasizing its sleek design]**
-    - **Narrator**: "Court Vision offers a sleek, less bulky design. Perfect for those who prefer a sharper look."
-    - **[Visual: Zoom-in on Air Force 1, highlighting its chunkier style]**
-    - **Narrator**: "Air Force 1 is for those who love a classic, bold style."
-    - **[Visual: On-foot shots of both sneakers in action]**
-    - **Narrator**: "With sustainability in mind, Court Vision is crafted with recycled materials. Eco-conscious and stylish!"
-    - **[Visual: Text overlay with a poll asking viewers to comment their preference]**
-5. **CTA**: "Comment below which one’s your favorite! And check the link to explore more on the Court Vision Low."
-6. **Why it will work**: This script taps into the popular comparison genre, providing quick, digestible insights. It leverages the community's existing interest in comparing these two models and encourages engagement through a call-to-action poll, increasing interaction and views.
+### Platform
+YouTube Shorts
+
+### Format
+Talking Head Review
+
+### Hook
+(Visual: A man with a well-groomed beard faces the camera. Sound: Calm, confident voiceover.)  
+"Want a beard like this? Here’s how I did it with The Beard Club."
+
+### Full Script
+**[0-5 seconds]**  
+*Visual:* The man points at his beard, which looks thick and healthy.  
+*Voiceover:* "It’s easier than you think!"
+
+**[5-10 seconds]**  
+*Visual:* The man holds up The Beard Club products.  
+*Voiceover:* "Meet my secret weapon."
+
+**[10-20 seconds]**  
+*Visual:* Clips showing the application of different products.  
+*Voiceover:* "With oils, vitamins, and the derma roller, it’s all about consistency."
+
+**[20-30 seconds]**  
+*Visual:* The user's beard before using the products vs now.  
+*Voiceover:* "Check out my progress after just three months."
+
+**[30-45 seconds]**  
+*Visual:* The man lightly combs through his beard, smiling.  
+*Voiceover:* "It’s not just about growth, it’s about confidence."
+
+### CTA
+"Subscribe for more beard tips and grab your kit at The Beard Club. #BeardTransformation"
+
+### Why it will work
+YouTube Shorts leverages quick, consumable content that can easily spread. The personal testimonial and transformation story builds authenticity and trust, encouraging viewers to explore the product for similar results.
+```

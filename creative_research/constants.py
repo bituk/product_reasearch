@@ -59,9 +59,6 @@ def get_skip_apify() -> bool:
 
 APIFY_AMAZON_ACTOR_ID = _env("APIFY_AMAZON_ACTOR_ID") or "delicious_zebu/amazon-product-details-scraper"
 
-# --- Cache ---
-CREATIVE_RESEARCH_NO_CACHE = _env_bool("CREATIVE_RESEARCH_NO_CACHE")
-
 # --- MCP ---
 CREATIVE_RESEARCH_MCP_HTTP = _env_bool("CREATIVE_RESEARCH_MCP_HTTP")
 

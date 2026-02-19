@@ -2,7 +2,6 @@
 Gemini multimodal video analysis.
 Analyzes videos (via YouTube URL or local file) for creative insights:
 hooks, CTAs, format, engagement patterns, script/structure.
-Responses are cached (disable with CREATIVE_RESEARCH_NO_CACHE=1).
 
 Rate limits: https://ai.google.dev/gemini-api/docs/rate-limits
 - Adds delay between batch requests to respect RPM limits
@@ -13,7 +12,6 @@ import time
 from pathlib import Path
 from typing import Any
 
-from creative_research.cache import load_cached, save_cached
 from creative_research.constants import (
     GEMINI_API_KEY,
     GEMINI_BATCH_DELAY,
@@ -77,7 +75,6 @@ def analyze_video_with_gemini(
 ) -> str:
     """
     Analyze a video using Gemini (multimodal).
-    Caches responses by video URL + product_context.
 
     Args:
         video_input: YouTube URL (str) or path to local video file (Path).
@@ -106,15 +103,6 @@ def analyze_video_with_gemini(
     last_error = None
     retry_start = time.monotonic()
     for try_model in models_to_try:
-        cached, hit = load_cached(
-            "gemini_analysis",
-            video_input=inp_str,
-            product_context=product_context[:500],
-            model=try_model,
-        )
-        if hit and isinstance(cached, str) and cached.strip():
-            return cached
-
         attempt = 0
         while True:
             try:
@@ -127,16 +115,7 @@ def analyze_video_with_gemini(
                 else:
                     return f"Error: Invalid video input. Expected YouTube URL or file path: {video_input}"
 
-                analysis = (response.text or "No analysis generated.").strip()
-                if analysis and not analysis.startswith("Error"):
-                    save_cached(
-                        "gemini_analysis",
-                        analysis,
-                        video_input=inp_str,
-                        product_context=product_context[:500],
-                        model=try_model,
-                    )
-                return analysis
+                return (response.text or "No analysis generated.").strip()
             except Exception as e:
                 last_error = e
                 err_str = str(e)

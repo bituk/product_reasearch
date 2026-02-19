@@ -3,10 +3,8 @@ Reddit public JSON API: fetch posts and comments from subreddits.
 No credentials required (User-Agent: creative-research-bot/1.0).
 """
 
-import dataclasses
 import httpx
 from creative_research.scraped_data import CommentItem
-from creative_research.cache import load_cached, save_cached
 
 USER_AGENT = "creative-research-bot/1.0"
 
@@ -19,12 +17,6 @@ def fetch_reddit_posts_and_comments(
     product_link: str | None = None,
 ) -> list[CommentItem]:
     """Fetch hot posts from subreddits, optionally filtered by queries."""
-    cache_key = (product_link or "").strip() or "_"
-    cached, hit = load_cached("reddit", subreddits=str(subreddits), queries=str(queries[:3]), product_link=cache_key)
-    if hit and isinstance(cached, list):
-        valid = {f.name for f in dataclasses.fields(CommentItem)}
-        return [CommentItem(**{k: v for k, v in d.items() if k in valid}) for d in cached]
-
     items: list[CommentItem] = []
     subs = subreddits if subreddits else ["all"]
     for sub in subs[:5]:
@@ -55,7 +47,4 @@ def fetch_reddit_posts_and_comments(
         except Exception:
             continue
 
-    if items:
-        save_cached("reddit", [dataclasses.asdict(c) for c in items],
-                   subreddits=str(subs), queries=str(queries[:3]), product_link=cache_key)
     return items

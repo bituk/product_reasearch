@@ -17,7 +17,7 @@ def start_pipeline(request):
     Start the product research pipeline for a given product URL.
     Returns immediately with job ID; pipeline runs in background.
     product_url: optional, defaults to PRODUCT_URL from .env
-    skip_apify: when True, skip Apify scrapers (uses cache for other services)
+    skip_apify: when True, skip Apify scrapers
     """
     from creative_research.constants import PRODUCT_URL
     serializer = StartPipelineSerializer(data=request.data)

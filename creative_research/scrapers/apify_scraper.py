@@ -1,14 +1,12 @@
 """
 Apify-based scrapers for TikTok, Instagram, Amazon.
 Requires APIFY_API_TOKEN in env. Uses official Apify actors.
-Successful responses are cached (disable with CREATIVE_RESEARCH_NO_CACHE=1).
 """
 
 import dataclasses
 from typing import Any
 
 from creative_research.scraped_data import ScrapedData, VideoItem, CommentItem
-from creative_research.cache import load_cached, save_cached
 from creative_research.constants import APIFY_API_TOKEN, APIFY_AMAZON_ACTOR_ID
 
 # Apify actor IDs (from apify.com store). Override via env if needed.
@@ -33,27 +31,13 @@ def _get_client():
 def _run_actor(
     client, actor_id: str, run_input: dict, timeout_secs: int = 120, product_link: str | None = None
 ) -> list[dict]:
-    """Run an Apify actor and return dataset items. Uses cache on hit. When product_link is set, cache is keyed by it (same product = hit)."""
-    if product_link:
-        cache_key = (product_link or "").strip() or "_"
-        cached, hit = load_cached("apify", actor_id=actor_id, product_link=cache_key)
-    else:
-        cached, hit = load_cached("apify", actor_id=actor_id, run_input=run_input)
-    if hit and isinstance(cached, list):
-        return cached
+    """Run an Apify actor and return dataset items."""
     try:
         run = client.actor(actor_id).call(run_input=run_input, timeout_secs=timeout_secs)
         store_id = run.get("defaultDatasetId")
         if not store_id:
             return []
-        raw = list(client.dataset(store_id).iterate_items())
-        if raw:
-            if product_link:
-                cache_key = (product_link or "").strip() or "_"
-                save_cached("apify", raw, actor_id=actor_id, product_link=cache_key)
-            else:
-                save_cached("apify", raw, actor_id=actor_id, run_input=run_input)
-        return raw
+        return list(client.dataset(store_id).iterate_items())
     except Exception:
         return []
 
@@ -61,12 +45,7 @@ def _run_actor(
 def run_apify_tiktok(
     queries: list[str], max_results: int = 20, product_link: str | None = None
 ) -> list[VideoItem]:
-    """Scrape TikTok by hashtag/search. Returns list of VideoItem. Cache keyed by product_link so same product reuses cache."""
-    cache_key = (product_link or "").strip() or "_"
-    cached, hit = load_cached("apify_tiktok", product_link=cache_key)
-    if hit and isinstance(cached, list):
-        valid = {f.name for f in dataclasses.fields(VideoItem)}
-        return [VideoItem(**{k: v for k, v in d.items() if k in valid}) for d in cached]
+    """Scrape TikTok by hashtag/search. Returns list of VideoItem."""
     client = _get_client()
     items: list[VideoItem] = []
     for q in queries[:3]:  # Limit to 3 queries to stay within free tier
@@ -89,25 +68,13 @@ def run_apify_tiktok(
                 author=r.get("authorMeta", {}).get("name", ""),
                 raw=r,
             ))
-    result = items[:max_results]
-    if result:
-        save_cached(
-            "apify_tiktok",
-            [dataclasses.asdict(v) for v in result],
-            product_link=cache_key,
-        )
-    return result
+    return items[:max_results]
 
 
 def run_apify_instagram(
     queries: list[str], max_results: int = 20, product_link: str | None = None
 ) -> list[VideoItem]:
-    """Scrape Instagram Reels/posts by hashtag. Cache keyed by product_link so same product reuses cache."""
-    cache_key = (product_link or "").strip() or "_"
-    cached, hit = load_cached("apify_instagram", product_link=cache_key)
-    if hit and isinstance(cached, list):
-        valid = {f.name for f in dataclasses.fields(VideoItem)}
-        return [VideoItem(**{k: v for k, v in d.items() if k in valid}) for d in cached]
+    """Scrape Instagram Reels/posts by hashtag."""
     client = _get_client()
     items: list[VideoItem] = []
     for q in queries[:3]:
@@ -131,18 +98,11 @@ def run_apify_instagram(
                 author=r.get("ownerUsername", ""),
                 raw=r,
             ))
-    result = items[:max_results]
-    if result:
-        save_cached(
-            "apify_instagram",
-            [dataclasses.asdict(v) for v in result],
-            product_link=cache_key,
-        )
-    return result
+    return items[:max_results]
 
 
 def run_apify_amazon(product_url: str) -> list[dict]:
-    """Scrape Amazon product page (reviews, title, etc.). Returns raw items for LLM. Cache keyed by product URL."""
+    """Scrape Amazon product page (reviews, title, etc.). Returns raw items for LLM."""
     client = _get_client()
     actor = ACTOR_AMAZON_PRODUCT
     run_input = {"startUrls": [{"url": product_url}]}
