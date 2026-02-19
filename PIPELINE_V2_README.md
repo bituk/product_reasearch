@@ -71,8 +71,7 @@ Then use `run_full_research_pipeline` tool with your product URL.
 
 ### CLI (run script)
 ```bash
-# Install new deps
-pip install yt-dlp youtube-transcript-api google-generativeai
+pip install -r requirements.txt
 
 # Run full pipeline
 python -c "
@@ -83,6 +82,8 @@ print(r['scripts'])
 ```
 
 ## Env Variables
+
+See `.env.example` for the full list. Key variables:
 
 | Variable | Purpose |
 |----------|---------|
