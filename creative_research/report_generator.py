@@ -2,9 +2,9 @@
 Creative Agency Research Report Generator.
 Uses LLM to produce a full report from a product URL (and optional product page content).
 Supports optional ScrapedData from Apify, YouTube Data API, and Reddit for richer reports.
-OpenAI report response is cached by product_link + model (same product = cache hit).
 """
 
+import os
 import re
 from datetime import datetime
 from typing import TYPE_CHECKING, Optional
@@ -13,7 +13,6 @@ import httpx
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
-from creative_research.cache import load_cached, save_cached
 from creative_research.constants import OPENAI_API_KEY
 
 if TYPE_CHECKING:
@@ -87,12 +86,6 @@ def generate_report(
     """
     if openai_api_key:
         os.environ["OPENAI_API_KEY"] = openai_api_key
-
-    cache_key = (product_link or "").strip() or "_"
-    cache_suffix = "_enriched" if has_enriched_videos else ""
-    cached, hit = load_cached("openai_report", product_link=cache_key + cache_suffix, model=model)
-    if hit and isinstance(cached, str) and cached.strip():
-        return cached
 
     client = get_client()
 
@@ -177,6 +170,4 @@ Product page content (excerpt):
         f"**Product link:** {product_link}\n\n"
         "---\n\n"
     )
-    report = cover + part1 + "\n\n---\n\n" + part2 + "\n\n---\n\n" + part3 + "\n\n---\n\n" + part4
-    save_cached("openai_report", report, product_link=cache_key + cache_suffix, model=model)
-    return report
+    return cover + part1 + "\n\n---\n\n" + part2 + "\n\n---\n\n" + part3 + "\n\n---\n\n" + part4

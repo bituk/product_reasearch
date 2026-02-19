@@ -1,7 +1,6 @@
 """
 Video download and transcript extraction via yt-dlp.
 Downloads videos from scraped links and extracts transcripts/scripts.
-Transcript results are cached (disable with CREATIVE_RESEARCH_NO_CACHE=1).
 """
 
 import os
@@ -9,8 +8,6 @@ import subprocess
 import tempfile
 from pathlib import Path
 from typing import Any
-
-from creative_research.cache import load_cached, save_cached
 
 # Optional: youtube-transcript-api as fallback when yt-dlp subs unavailable
 try:
@@ -120,21 +117,6 @@ def download_video(
         "error": None,
     }
 
-    # Check cache for transcript (avoids re-download if we have transcript)
-    cached, hit = load_cached("video_transcript", url=url)
-    if hit and isinstance(cached, dict) and cached.get("transcript"):
-        result["transcript"] = cached["transcript"]
-        result["success"] = True
-        # Still need to check if video exists on disk for video_path
-        out_dir = Path(output_dir)
-        vid_id = _extract_youtube_id(url)
-        if vid_id:
-            for p in out_dir.glob(f"{vid_id}.*"):
-                if p.suffix.lower() in (".mp4", ".mkv", ".webm", ".mov") and p.exists():
-                    result["video_path"] = str(p.absolute())
-                    break
-        return result
-
     try:
         import yt_dlp
         def _duration_filter(info, *, incomplete=False):
@@ -195,9 +177,6 @@ def download_video(
                 result["transcript"] = _parse_vtt_to_text(sub_files[0])
             if not result["transcript"] and "youtube" in url.lower():
                 result["transcript"] = _extract_transcript_fallback(url)
-            # Cache transcript for reuse
-            if result.get("transcript"):
-                save_cached("video_transcript", {"transcript": result["transcript"]}, url=url)
 
     except Exception as e:
         result["error"] = str(e)

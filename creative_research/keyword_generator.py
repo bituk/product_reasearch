@@ -1,11 +1,9 @@
 """
 Keyword generator: uses LLM to produce search_queries and subreddits from product link + page content.
-Cached by product_link + model.
 """
 
 from openai import OpenAI
 
-from creative_research.cache import load_cached, save_cached
 from creative_research.constants import OPENAI_API_KEY
 
 
@@ -27,11 +25,6 @@ def generate_keywords(
     Returns:
         {"search_queries": [...], "subreddits": [...]}
     """
-    cache_key = (product_link or "").strip() or "_"
-    cached, hit = load_cached("openai_keywords", product_link=cache_key, model=model)
-    if hit and isinstance(cached, dict) and cached.get("search_queries"):
-        return cached
-
     client = get_client()
     context = product_page_text[:8000] if product_page_text else "No product page content."
     prompt = f"""Product URL: {product_link}
@@ -65,5 +58,4 @@ Use product name, category, and features. Queries should find reviews, unboxing,
         data["search_queries"] = ["product review", "best"]
     if not isinstance(data.get("subreddits"), list):
         data["subreddits"] = ["all"]
-    save_cached("openai_keywords", data, product_link=cache_key, model=model)
     return data

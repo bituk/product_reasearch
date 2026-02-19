@@ -2,7 +2,7 @@
 """
 Run Pipeline v2: Research doc → Video scrape → Download → Analysis → Competitor research → LLM generation → Scripts.
 
-Uses PRODUCT_URL from .env. All API responses (Apify, YouTube, Tavily, Gemini, etc.) are cached.
+Uses PRODUCT_URL from .env.
 """
 
 import argparse

@@ -2,10 +2,8 @@
 YouTube Data API v3: search videos, detect Shorts, fetch comments.
 """
 
-import dataclasses
 from creative_research.constants import YOUTUBE_OR_GOOGLE_API_KEY
 from creative_research.scraped_data import VideoItem, CommentItem
-from creative_research.cache import load_cached, save_cached
 
 SHORTS_MAX_DURATION_SEC = 60
 
@@ -40,14 +38,6 @@ def fetch_youtube_videos_and_comments(
     product_link: str | None = None,
 ) -> tuple[list[VideoItem], list[VideoItem], list[CommentItem]]:
     """Search YouTube by query; split into long-form and Shorts; fetch comments."""
-    cache_key = (product_link or "").strip() or "_"
-    cached, hit = load_cached("youtube", product_link=cache_key)
-    if hit and isinstance(cached, dict) and "long_form" in cached:
-        long_form = [VideoItem(**d) for d in cached.get("long_form", [])]
-        shorts = [VideoItem(**d) for d in cached.get("shorts", [])]
-        comments = [CommentItem(**d) for d in cached.get("comments", [])]
-        return long_form, shorts, comments
-
     from googleapiclient.discovery import build
     youtube = build("youtube", "v3", developerKey=_get_api_key())
     all_video_ids: list[str] = []
@@ -132,10 +122,4 @@ def fetch_youtube_videos_and_comments(
         except Exception:
             continue
 
-    if long_form or shorts or comments:
-        save_cached("youtube", {
-            "long_form": [dataclasses.asdict(v) for v in long_form],
-            "shorts": [dataclasses.asdict(v) for v in shorts],
-            "comments": [dataclasses.asdict(v) for v in comments],
-        }, product_link=cache_key)
     return long_form, shorts, comments

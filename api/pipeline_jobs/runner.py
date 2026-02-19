@@ -3,6 +3,7 @@ Background pipeline runner with stage tracking and DB persistence.
 Uses Celery when available (Redis broker), otherwise falls back to threading.
 """
 import json
+import shutil
 import threading
 from dataclasses import asdict
 from pathlib import Path
@@ -10,50 +11,15 @@ from pathlib import Path
 from django.utils import timezone
 
 
-def _delete_downloaded_videos(download_results: list) -> None:
-    """Delete video files and related artifacts from download_results."""
-    video_extensions = {".mp4", ".mkv", ".webm", ".mov"}
-    for item in download_results or []:
-        video_path = item.get("video_path")
-        if not video_path:
-            continue
-        path = Path(video_path)
-        if path.exists() and path.suffix.lower() in video_extensions:
-            try:
-                path.unlink()
-            except OSError:
-                pass
-        # Delete .vtt transcript files in same directory
-        parent = path.parent
-        if parent.exists():
-            for vtt in parent.glob("*.vtt"):
-                try:
-                    vtt.unlink()
-                except OSError:
-                    pass
-            # Remove directory if empty
-            try:
-                if not any(parent.iterdir()):
-                    parent.rmdir()
-            except OSError:
-                pass
-
-
-def _delete_output_dir_contents(output_dir: Path) -> None:
-    """Delete all video files and .vtt files in output_dir. Used when job fails before result is available."""
+def _delete_job_downloads(output_dir: Path) -> None:
+    """
+    Recursively delete the job's download directory (videos, transcripts, subdirs).
+    Videos are stored in output_dir/vid_xxx/video.mp4, so we need rmtree.
+    """
     if not output_dir.exists():
         return
-    video_extensions = {".mp4", ".mkv", ".webm", ".mov"}
-    for p in output_dir.iterdir():
-        if p.is_file():
-            if p.suffix.lower() in video_extensions or p.suffix.lower() == ".vtt":
-                try:
-                    p.unlink()
-                except OSError:
-                    pass
     try:
-        if not any(output_dir.iterdir()):
-            output_dir.rmdir()
+        shutil.rmtree(output_dir)
     except OSError:
         pass
 
@@ -205,7 +171,7 @@ def run_pipeline_for_job(job_id: str) -> None:
     result = None
 
     try:
-        # Set SKIP_APIFY for this run if requested (uses cache for other services)
+        # Set SKIP_APIFY for this run if requested
         if job.skip_apify:
             os.environ["SKIP_APIFY"] = "1"
         else:
@@ -308,9 +274,7 @@ def run_pipeline_for_job(job_id: str) -> None:
             )
     finally:
         # Delete downloaded videos after job finishes (success or failure)
-        if result:
-            _delete_downloaded_videos(result.get("download_results", []))
-        _delete_output_dir_contents(output_dir)
+        _delete_job_downloads(output_dir)
 
 
 def start_pipeline_async(product_url: str, *, skip_apify: bool = False) -> tuple["PipelineJob", bool]:
@@ -318,7 +282,7 @@ def start_pipeline_async(product_url: str, *, skip_apify: bool = False) -> tuple
     Create a PipelineJob and start the pipeline via Celery (or threading fallback).
     Returns (job, created) - created is False if existing job was returned.
     Skips starting if a job with same product_url is already PENDING, RUNNING, or COMPLETED.
-    skip_apify: when True, skip Apify scrapers (uses cached data for other services)
+    skip_apify: when True, skip Apify scrapers
     """
     from pipeline_jobs.models import PipelineJob
 
