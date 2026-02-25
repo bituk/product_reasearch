@@ -3,7 +3,8 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 from .models import PipelineJob
-from .runner import start_pipeline_async
+from .runner import start_pipeline_async, start_pipeline_cached_async
+from .cache_pipeline import upload_videos_from_cache
 from .serializers import (
     PipelineJobSerializer,
     PipelineJobDetailSerializer,
@@ -39,6 +40,49 @@ def start_pipeline(request):
         PipelineJobSerializer(job).data,
         status=status.HTTP_201_CREATED if created else status.HTTP_200_OK,
     )
+
+
+@api_view(["POST"])
+def start_pipeline_cached(request):
+    """
+    Start the cache pipeline: keeps downloads on disk, uploads to S3, saves PipelineVideo.
+    Use until main pipeline S3/DB upload is fixed.
+    """
+    from creative_research.constants import PRODUCT_URL
+    serializer = StartPipelineSerializer(data=request.data)
+    if not serializer.is_valid():
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    product_url = (serializer.validated_data.get("product_url") or "").strip()
+    if not product_url:
+        product_url = (PRODUCT_URL or "").strip()
+    if not product_url:
+        return Response(
+            {"product_url": ["product_url required or set PRODUCT_URL in .env"]},
+            status=status.HTTP_400_BAD_REQUEST,
+        )
+
+    skip_apify = serializer.validated_data.get("skip_apify", False)
+    job, created = start_pipeline_cached_async(product_url, skip_apify=skip_apify)
+    return Response(
+        PipelineJobSerializer(job).data,
+        status=status.HTTP_201_CREATED if created else status.HTTP_200_OK,
+    )
+
+
+@api_view(["POST"])
+def upload_job_videos(request, job_id):
+    """
+    Upload cached videos to S3 and create PipelineVideo records for a completed job.
+    Job must have cache_output_dir in metadata (from cache pipeline) or downloads at default path.
+    """
+    try:
+        job = PipelineJob.objects.get(pk=job_id)
+    except PipelineJob.DoesNotExist:
+        return Response({"detail": "Job not found"}, status=status.HTTP_404_NOT_FOUND)
+
+    result = upload_videos_from_cache(str(job_id))
+    return Response(result, status=status.HTTP_200_OK)
 
 
 @api_view(["GET"])

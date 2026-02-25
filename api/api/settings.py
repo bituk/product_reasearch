@@ -1,6 +1,7 @@
 """
 Django settings for Product Research API.
 """
+import dj_database_url
 import os
 from pathlib import Path
 
@@ -66,7 +67,7 @@ TEMPLATES = [
         },
     },
 ]
-
+_db_url = None #os.environ.get("SUPABASE_DB_URL")
 if os.environ.get("USE_SQLITE"):
     DATABASES = {
         "default": {
@@ -74,6 +75,8 @@ if os.environ.get("USE_SQLITE"):
             "NAME": BASE_DIR / "db.sqlite3",
         }
     }
+elif _db_url:
+    DATABASES = {"default": dj_database_url.parse(_db_url)}
 else:
     DATABASES = {
         "default": {

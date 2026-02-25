@@ -80,7 +80,8 @@ def _extract_transcript_fallback(url: str) -> str | None:
 
 def _extract_youtube_id(url: str) -> str | None:
     import re
-    m = re.search(r"(?:youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]{11})", url)
+    # youtube.com/watch?v=, youtu.be/, youtube.com/shorts/
+    m = re.search(r"(?:youtube\.com/(?:watch\?v=|shorts/)|youtu\.be/)([a-zA-Z0-9_-]{11})", url)
     return m.group(1) if m else None
 
 
@@ -248,13 +249,19 @@ def download_video(
         result["duration_sec"] = info.get("duration")
         result["success"] = True
 
-        # Find downloaded file (yt-dlp saves to outtmpl path)
+        # Find downloaded file (yt-dlp saves to outtmpl path; may have no extension)
         vid_id = info.get("id", "unknown")
         candidates = list(out_dir.glob(f"{vid_id}.*")) + list(out_dir.glob("*.*"))
         for p in candidates:
-            if p.suffix.lower() in (".mp4", ".mkv", ".webm", ".mov") and p.exists():
-                result["video_path"] = str(p.absolute())
-                break
+            if p.is_file() and p.exists():
+                if p.suffix.lower() in (".mp4", ".mkv", ".webm", ".mov"):
+                    result["video_path"] = str(p.absolute())
+                    break
+        if not result["video_path"]:
+            # yt-dlp may save without extension (e.g. vid_xxx/abc123)
+            no_ext = out_dir / vid_id
+            if no_ext.exists() and no_ext.is_file():
+                result["video_path"] = str(no_ext.absolute())
 
         # Transcript from subtitle file or fallback (youtube-transcript-api for 429/YouTube)
         if extract_transcript:

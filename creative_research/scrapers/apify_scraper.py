@@ -118,17 +118,25 @@ def run_apify_instagram(
         raw = _run_actor(
             client,
             ACTOR_INSTAGRAM_HASHTAG,
-            {"hashtags": [q.replace("#", "").strip()], "resultsLimit": min(max_results, 30)},
+            {
+                "hashtags": [q.replace("#", "").strip()],
+                "resultsLimit": min(max_results, 30),
+                "resultsType": "reels",  # Reels only = videos (no image posts)
+            },
             timeout_secs=90,
         )
         for r in raw:
             caption = (r.get("caption") or "")[:500]
-            page_url = r.get("url") or ""
-            if not page_url and r.get("shortCode"):
-                # Build URL from shortCode (reel vs post)
-                sc = r.get("shortCode", "")
+            # Prefer shortCode to build proper post/reel URL (r.get("url") may be explore/tags page)
+            sc = r.get("shortCode", "")
+            if sc:
                 page_url = f"https://www.instagram.com/reel/{sc}/" if r.get("type") == "Video" else f"https://www.instagram.com/p/{sc}/"
-            video_direct = r.get("videoUrl", "") if r.get("type") == "Video" else ""
+            else:
+                page_url = r.get("url") or ""
+            # Only include Video posts (images can't be downloaded as video)
+            if r.get("type") != "Video":
+                continue
+            video_direct = r.get("videoUrl", "") or ""
             items.append(VideoItem(
                 platform="Instagram",
                 title=caption or "Instagram post",

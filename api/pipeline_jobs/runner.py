@@ -3,12 +3,16 @@ Background pipeline runner with stage tracking and DB persistence.
 Uses Celery when available (Redis broker), otherwise falls back to threading.
 """
 import json
+import logging
+import os
 import shutil
 import threading
 from dataclasses import asdict
 from pathlib import Path
 
 from django.utils import timezone
+
+logger = logging.getLogger(__name__)
 
 
 def _delete_job_downloads(output_dir: Path) -> None:
@@ -28,6 +32,165 @@ import sys
 _project_root = Path(__file__).resolve().parent.parent.parent
 if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
+
+
+def _upload_videos_and_save_to_db(
+    job_id: str,
+    result: dict,
+    serialized: dict,
+    output_dir: Path,
+) -> None:
+    """
+    Upload downloaded videos to S3 and create PipelineVideo records.
+    Runs after pipeline completes, before local downloads are deleted.
+    """
+    from pipeline_jobs.models import PipelineJob, PipelineVideo
+
+    # Ensure .env is loaded (Celery worker may not have inherited env)
+    _env_path = _project_root / ".env"
+    if _env_path.exists():
+        try:
+            from dotenv import load_dotenv
+            load_dotenv(_env_path)
+        except ImportError:
+            pass
+
+    download_results = result.get("download_results", [])
+    logger.info("S3 upload: job=%s, download_results=%d", job_id, len(download_results))
+    if download_results:
+        sample = download_results[0]
+        logger.info("S3 upload: sample keys=%s", list(sample.keys()) if isinstance(sample, dict) else type(sample))
+    if not download_results:
+        return
+
+    # Build url -> video meta from scraped_data
+    scraped = serialized.get("full_result", {}).get("scraped_data", {})
+    all_videos: list[dict] = []
+    for key in ("youtube_videos", "youtube_shorts", "tiktok_videos", "instagram_videos"):
+        all_videos.extend(scraped.get(key, []))
+
+    try:
+        from creative_research.s3_upload import upload_video_to_s3, get_video_meta_from_url
+    except ImportError as e:
+        logger.warning("S3 upload skipped: cannot import s3_upload: %s", e)
+        return
+
+    # Check S3 env vars
+    if not all([
+        os.environ.get("AWS_ACCESS_KEY_ID"),
+        os.environ.get("AWS_SECRET_ACCESS_KEY"),
+        os.environ.get("AWS_STORAGE_BUCKET_NAME"),
+        os.environ.get("AWS_S3_ENDPOINT_URL"),
+    ]):
+        logger.warning("S3 upload skipped: AWS_* env vars not set")
+        return
+
+    def _get_video_path(dr):
+        return dr.get("video_path") or dr.get("videoPath") or dr.get("path")
+
+    def _get_success(dr):
+        s = dr.get("success")
+        if s is None:
+            s = dr.get("Success")
+        return bool(s)
+
+    # Fallback: if download_results lack video_path, scan output_dir for downloaded files
+    # yt-dlp may save without extension (e.g. vid_xxx/abc123)
+    def _find_video_for_url(url: str) -> str | None:
+        if not url or not output_dir.exists():
+            return None
+        import re
+        vid_id = None
+        if "youtube.com" in url or "youtu.be" in url:
+            m = re.search(r"(?:v=|shorts/|youtu\.be/)([a-zA-Z0-9_-]{11})", url)
+            vid_id = m.group(1) if m else None
+        elif "tiktok.com" in url:
+            m = re.search(r"/video/(\d+)", url)
+            vid_id = m.group(1) if m else None
+        elif "instagram.com" in url:
+            m = re.search(r"instagram\.com/(?:p|reel)/([a-zA-Z0-9_-]+)", url)
+            if not m:
+                m = re.search(r"instagram\.com/explore/tags/([a-zA-Z0-9_]+)", url)
+            vid_id = m.group(1) if m else None
+        if not vid_id:
+            return None
+        for p in output_dir.rglob("*"):
+            if not p.is_file() or p.name == ".DS_Store":
+                continue
+            if p.suffix.lower() in (".mp4", ".webm", ".mkv", ".mov"):
+                if vid_id in str(p):
+                    return str(p)
+            elif vid_id in p.name or vid_id in str(p):
+                return str(p)  # No extension - yt-dlp often saves MP4 without ext
+        return None
+
+    success_count = 0
+    for dr in download_results:
+        video_path = _get_video_path(dr)
+        if not video_path and dr.get("url"):
+            video_path = _find_video_for_url(dr.get("url", ""))
+        if not video_path:
+            continue
+        if not _get_success(dr) and not Path(video_path).exists():
+            continue
+        path_obj = Path(video_path)
+        if not path_obj.exists():
+            logger.warning("S3 upload: file not found: %s", video_path)
+            continue
+
+        source_url = dr.get("url", "")
+        meta = get_video_meta_from_url(source_url, all_videos)
+        platform = meta.get("platform", "")
+        if not platform and "youtube.com" in source_url:
+            platform = "youtube"
+        elif not platform and "tiktok.com" in source_url:
+            platform = "tiktok"
+        elif not platform and "instagram.com" in source_url:
+            platform = "instagram"
+
+        s3_path = upload_video_to_s3(
+            video_path,
+            job_id,
+            source_url,
+            platform=platform,
+        )
+        if not s3_path:
+            logger.warning("S3 upload failed for %s", source_url[:80])
+            continue
+
+        try:
+            job = PipelineJob.objects.get(pk=job_id)
+            from creative_research.s3_upload import extract_video_id
+            vid_id = extract_video_id(source_url)
+
+            file_size = path_obj.stat().st_size if path_obj.exists() else None
+
+            PipelineVideo.objects.create(
+                job=job,
+                s3_path=s3_path,
+                source_url=source_url,
+                platform=platform,
+                video_id=vid_id,
+                title=(meta.get("title") or "")[:512],
+                duration_sec=dr.get("duration_sec"),
+                file_size_bytes=file_size,
+                transcript=(dr.get("transcript") or "")[:10000],
+                views=meta.get("views"),
+                likes=meta.get("likes"),
+                comments_count=meta.get("comments_count"),
+                shares=meta.get("shares"),
+                author=(meta.get("author") or "")[:256],
+                published_at=(meta.get("published_at") or "")[:64],
+                metadata={
+                    "gemini_analysis": (meta.get("gemini_analysis") or "")[:5000],
+                    "cta_summary": (meta.get("cta_summary") or "")[:500],
+                },
+            )
+            success_count += 1
+            logger.info("PipelineVideo created: %s -> %s", source_url[:50], s3_path[:80])
+        except Exception as e:
+            logger.exception("PipelineVideo create failed for %s: %s", source_url[:50], e)
+    logger.info("S3 upload complete: %d videos uploaded and saved", success_count)
 
 
 def _serialize_scraped_data(scraped) -> dict:
@@ -182,7 +345,7 @@ def run_pipeline_for_job(job_id: str) -> None:
             download_videos=True,
             apify_only=False,  # Use all four scrapers: YouTube, Shorts, TikTok, Instagram
             max_videos_total=20,
-            max_videos_to_download=5,
+            max_videos_to_download=20,  # Download all videos shown in report (align with DB/S3)
             max_videos_to_analyze=5,
             output_dir=str(output_dir),
             on_stage=on_stage,
@@ -220,6 +383,9 @@ def run_pipeline_for_job(job_id: str) -> None:
         job.metadata = meta
         job.completed_at = timezone.now()
         job.save()
+
+        # Upload downloaded videos to S3 and create PipelineVideo records
+        _upload_videos_and_save_to_db(job_id, result, serialized, output_dir)
 
         # Mark all stages completed and populate stage metadata
         scraped_summary = serialized.get("scraped_data_summary", {})
@@ -319,6 +485,43 @@ def start_pipeline_async(product_url: str, *, skip_apify: bool = False) -> tuple
     except Exception:
         # Fallback to threading when Celery/Redis unavailable
         thread = threading.Thread(target=run_pipeline_for_job, args=(str(job.id),))
+        thread.daemon = True
+        thread.start()
+
+    return job, True
+
+
+def start_pipeline_cached_async(product_url: str, *, skip_apify: bool = False) -> tuple["PipelineJob", bool]:
+    """
+    Start the cache pipeline: same as main but keeps downloads, uploads to S3, saves PipelineVideo.
+    Use until main pipeline S3/DB upload is fixed.
+    """
+    from pipeline_jobs.models import PipelineJob
+
+    existing = PipelineJob.objects.filter(
+        product_url=product_url,
+        status__in=[
+            PipelineJob.Status.PENDING,
+            PipelineJob.Status.RUNNING,
+            PipelineJob.Status.COMPLETED,
+        ],
+    ).order_by("-created_at").first()
+
+    if existing:
+        return existing, False
+
+    job = PipelineJob.objects.create(
+        product_url=product_url,
+        skip_apify=skip_apify,
+        status=PipelineJob.Status.PENDING,
+    )
+
+    try:
+        from pipeline_jobs.tasks import run_pipeline_cached_task
+        run_pipeline_cached_task.delay(str(job.id))
+    except Exception:
+        from pipeline_jobs.cache_pipeline import run_pipeline_for_job_cached
+        thread = threading.Thread(target=run_pipeline_for_job_cached, args=(str(job.id),))
         thread.daemon = True
         thread.start()
 
