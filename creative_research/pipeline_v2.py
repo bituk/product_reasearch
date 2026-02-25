@@ -116,12 +116,14 @@ def run_pipeline_v2(
     scraped.truncate_videos_to_max(max_total=max_videos_total)
     result["scraped_data"] = scraped
 
-    # Collect videos for download with platform diversity (YouTube, Shorts, TikTok, Instagram)
-    videos_for_download = scraped.select_videos_for_analysis(limit=max_videos_to_download)
-    # Build download list: include video_direct_url for Apify Instagram/TikTok when available
+    # Collect ALL scraped videos for download (so every scraped video is uploaded to S3 and saved in DB)
+    all_scraped_videos = (
+        scraped.youtube_videos + scraped.youtube_shorts
+        + scraped.tiktok_videos + scraped.instagram_videos
+    )
     seen_urls: set[str] = set()
     download_items: list[dict[str, Any]] = []
-    for v in videos_for_download:
+    for v in all_scraped_videos:
         if not v.url or v.url in seen_urls:
             continue
         seen_urls.add(v.url)
