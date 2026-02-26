@@ -18,7 +18,7 @@ except ImportError:
 
 
 def test_tiktok_via_apify_and_download():
-    """Scrape 1 TikTok via Apify, then download it."""
+    """Scrape TikTok via Apify, then download. Uses direct URL when available, yt-dlp fallback when not."""
     from creative_research.scrapers.apify_scraper import run_apify_tiktok
     from creative_research.video_downloader import download_video
 
@@ -26,20 +26,24 @@ def test_tiktok_via_apify_and_download():
         print("SKIP: APIFY_API_TOKEN not set. Set in .env to test Apify + download.")
         return 1
 
-    print("1. Scraping TikTok via Apify (hashtag: productreview, shouldDownloadVideos=True)...")
-    videos = run_apify_tiktok(["productreview"], max_results=2, should_download_videos=True)
+    # Try without download first (often no direct URL → yt-dlp fallback), then with download
+    print("1. Scraping TikTok via Apify (hashtag: productreview)...")
+    videos = run_apify_tiktok(["productreview"], max_results=3, should_download_videos=False)
+    if not videos:
+        videos = run_apify_tiktok(["productreview"], max_results=3, should_download_videos=True)
     if not videos:
         print("   No TikTok videos returned from Apify.")
         return 1
 
     v = videos[0]
+    has_direct = bool(v.video_direct_url)
     print(f"   Got: {v.url}")
-    print(f"   video_direct_url: {v.video_direct_url[:80] if v.video_direct_url else 'None'}...")
+    print(f"   video_direct_url: {'yes' if has_direct else 'no (yt-dlp fallback)'}")
 
     out_dir = Path(__file__).parent / "downloads" / "test_tiktok"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    print("2. Downloading (direct first, then yt-dlp fallback)...")
+    print("2. Downloading (direct first, yt-dlp fallback when no direct URL)...")
     result = download_video(
         v.url,
         out_dir,

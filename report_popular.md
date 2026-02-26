@@ -1,7 +1,7 @@
 # Creative Agency Research Report
 
 **Generated:** 2026-02-25  
-**Product link:** https://itscontraband.com/products/hands-off?variant=47001410502895&gad_source=1&gad_campaignid=23569011247&gbraid=0AAAABAlqPmQpZ5VCKUMtavqHt-60TbdlX&gclid=CjwKCAiA2PrMBhA4EiwAwpHyCx0yM6kmB7Mm0XaErkOL0jvmQaJuTyDc8DRhzoZhH7Zv7Nv1HaQNlRoCDjsQAvD_BwE
+**Product link:** https://www.amazon.in/Fogg-Marco-Body-Spray-150ml/dp/B00YEJYSEM/ref=asc_df_B00YEJYSEM?mcid=1ff4bbee267d3dc39cc3b5cd4f295bad&tag=googleshopdes-21&linkCode=df0&hvadid=709857154206&hvpos=&hvnetw=g&hvrand=2666009949003637407&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062010&hvtargid=pla-318881732599&psc=1&gad_source=1
 
 ---
 
@@ -9,101 +9,85 @@
 
 ## Report Cover / Meta
 
-- **Product Name**: Hands Off Eau De Parfum
-- **Product Link**: [Hands Off Eau De Parfum](https://itscontraband.com/products/hands-off?variant=47001410502895&gad_source=1&gad_campaignid=23569011247&gbraid=0AAAABAlqPmQpZ5VCKUMtavqHt-60TbdlX&gclid=CjwKCAiA2PrMBhA4EiwAwpHyCx0yM6kmB7Mm0XaErkOL0jvmQaJuTyDc8DRhzoZhH7Zv7Nv1HaQNlRoCDjsQAvD_BwE)
-- **Report Date**: October 24, 2023
-- **Category/Vertical**: Luxury Fragrances
-- **Product Summary**: Hands Off is a luxurious Eau De Parfum by Contraband, featuring a rich blend of oud, patchouli, and vanilla, designed to evoke strength and confidence.
+- **Product Name**: Fogg Marco Body Spray 150ml
+- **Product Link**: [Fogg Marco Body Spray 150ml](https://www.amazon.in/Fogg-Marco-Body-Spray-150ml/dp/B00YEJYSEM)
+- **Report Date**: October 25, 2023
+- **Category/Vertical**: Personal Care / Fragrances
+- **Product Summary**: Fogg Marco Body Spray offers a long-lasting fragrance that is perfect for daily use, providing a refreshing scent that keeps you feeling fresh all day.
 
 ## 1A. Hashtag & Search Strategy
 
 ### Hashtags
-1. #HandsOffPerfume
-2. #ContrabandFragrance
-3. #LuxuryScents
-4. #OudPerfume
-5. #PatchouliLovers
-6. #FragranceEnvy
-7. #WoodyAmberyLeather
-8. #IndianFragrance
-9. #PerfumeCollection
-10. #ScentOfConfidence
-11. #LuxuryPerfume
-12. #FragranceAddict
-13. #PerfumeReview
-14. #ScentOfTheDay
-15. #EauDeParfum
-16. #FragranceLovers
-17. #PerfumeCommunity
-18. #ScentedLuxury
-19. #PerfumeOfTheDay
-20. #FragranceJourney
+- #FoggMarco
+- #BodySpray
+- #Fragrance
+- #MensFragrance
+- #LongLasting
+- #FoggPerfume
+- #FreshScent
+- #DailyFragrance
+- #PerfumeForMen
+- #Deodorant
+- #NoGasBodySpray
+- #FoggIndia
+- #Aromatic
+- #AffordableLuxury
+- #FoggCollection
+- #ScentOfTheDay
+- #StayFresh
+- #FragranceLovers
+- #PerfumeAddict
 
 ### Search Queries
-- **YouTube**: 
-  - "Hands Off Eau De Parfum review"
-  - "Contraband luxury fragrances"
-  - "Best oud perfumes 2023"
-  - "Luxury perfumes for men and women"
-  - "Indian perfume brands review"
-  
-- **TikTok**:
-  - "Luxury fragrance unboxing"
-  - "Perfume that lasts all day"
-  - "Woody and ambery scent"
-  - "Perfume collection 2023"
-  - "Top Indian perfumes"
+#### YouTube
+- "Fogg Marco Body Spray review"
+- "Best body sprays for men 2023"
+- "Fogg body spray vs Axe"
+- "How to apply body spray for men"
+- "Fogg Marco unboxing and first impressions"
 
-- **Instagram**:
-  - "Fragrance flatlay photography"
-  - "Perfume of the day"
-  - "Luxury scent recommendations"
-  - "Woody perfumes for fall"
-  - "Perfume influencer reviews"
+#### TikTok
+- "Fogg Marco scent test"
+- "Affordable body sprays for men"
+- "Fogg Marco vs other Fogg scents"
+- "Best budget fragrances for men"
+- "Daily fragrance routine with Fogg"
+
+#### Instagram
+- "Fogg Marco style"
+- "Fragrance layering tips with Fogg"
+- "Fogg body spray collection"
+- "Men's grooming essentials Fogg"
+- "Fogg Marco scent of the day"
 
 **Suggested Time Range**: Last 3–6 months
 
 ## 1C. Competitors
 
-1. **Ajmal Perfumes**
-   - **Product Type**: Fragrance
-   - **Positioning**: Known for traditional Arabian perfumes with a modern twist.
-   - **Ad Library Links**: 
-     - [Meta Ad Library](https://www.facebook.com/ads/library/)
-     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
-     - [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+1. **Axe**
+   - **Product Type**: Body Spray
+   - **Positioning**: Known for its strong and distinct scents, Axe offers a range of body sprays targeting young men.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-2. **Nautica**
-   - **Product Type**: Fragrance
-   - **Positioning**: Offers fresh, aquatic scents ideal for the outdoors.
-   - **Ad Library Links**: 
-     - [Meta Ad Library](https://www.facebook.com/ads/library/)
-     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
-     - [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+2. **Wild Stone**
+   - **Product Type**: Body Spray
+   - **Positioning**: Offers a variety of masculine fragrances at affordable prices, focusing on long-lasting scents.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-3. **Louis Vuitton**
-   - **Product Type**: Luxury Fragrance
-   - **Positioning**: High-end, exclusive scents for the sophisticated consumer.
-   - **Ad Library Links**: 
-     - [Meta Ad Library](https://www.facebook.com/ads/library/)
-     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
-     - [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+3. **Nivea Men**
+   - **Product Type**: Deodorant & Body Spray
+   - **Positioning**: Combines skincare with deodorant, offering gentle yet effective products for sensitive skin.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-4. **Rasasi Perfumes**
-   - **Product Type**: Fragrance
-   - **Positioning**: Offers a wide range of affordable yet luxurious scents.
-   - **Ad Library Links**: 
-     - [Meta Ad Library](https://www.facebook.com/ads/library/)
-     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
-     - [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+4. **Set Wet**
+   - **Product Type**: Body Spray
+   - **Positioning**: Targets the youth market with vibrant, energetic scents and a fun, youthful brand image.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
-5. **Maison Margiela**
-   - **Product Type**: Fragrance
-   - **Positioning**: Known for unique, memory-evoking scents.
-   - **Ad Library Links**: 
-     - [Meta Ad Library](https://www.facebook.com/ads/library/)
-     - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
-     - [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+5. **Denver**
+   - **Product Type**: Body Spray
+   - **Positioning**: Offers premium quality fragrances at an affordable price, focusing on sophistication and elegance.
+   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
 
 ---
 
@@ -111,425 +95,289 @@
 
 ## 4) 1B. Video Scrapes
 
-### Platforms to Scrape:
-- **YouTube**
-- **YouTube Shorts**
-- **TikTok**
-- **Instagram Reels**
+### Platforms: YouTube, YouTube Shorts, TikTok, Instagram Reels
 
-### Key Metrics:
-- **Views**
-- **Likes**
-- **Comments**
-- **Engagement Rate**
-- **Call-to-Action (CTA) Effectiveness**
+#### What to Scrape:
+- **Video Title and URL**
+- **Views, Likes, Comments**
+- **Video Description**
+- **Key Phrases/Tags**
+- **Call-to-Action (CTA)**
+- **Transcript (if available)**
 
-### Curated List of Example Videos:
+#### Key Metrics:
+- **Engagement Rate**: (Likes + Comments) / Views
+- **View Count**: Indicates reach and popularity
+- **Like-Comment Ratio**: Measures audience interaction
+- **CTA Effectiveness**: Click-through rates or mentions in comments
 
-1. **Rare Beauty Mini Perfume Accessibility Review**
-   - **Platform:** YouTube
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=4zEwS8s1tSE)
-   - **Views:** 183,375
-   - **Likes:** 9,505
-   - **Comments:** 46
-   - **Why It Works:** The video effectively combines product review with a focus on accessibility, appealing to a niche audience. The personal touch and honest opinions foster trust and engagement.
+#### Curated List of Example Videos:
 
-2. **Is Rayhaan Tiger A Dupe Of Penhaligon Halfeti?**
-   - **Platform:** YouTube
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=aWEQpFR8rCQ)
-   - **Views:** 59,677
-   - **Likes:** 1,520
-   - **Comments:** 27
-   - **Why It Works:** This video taps into the popular trend of finding affordable alternatives to luxury products, engaging viewers with cost-effective solutions.
+1. **I Bought All Popular Best PERFUME For Men | Budget Fragrance vs Designer**
+   - URL: [YouTube](https://www.youtube.com/watch?v=1CMz_J_KYbY)
+   - Views: 994,664 | Likes: 26,989 | Comments: 1,508
+   - **Why it Works**: Comprehensive comparison of budget vs designer fragrances, engaging storytelling, and strong CTA for product links.
 
-3. **5 Fragrances I Can’t Keep My Hands Off Of**
-   - **Platform:** YouTube
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=BFDf8VnMsEY)
-   - **Views:** 17,705
-   - **Likes:** 697
-   - **Comments:** 66
-   - **Why It Works:** The video uses a personal narrative to create a connection with the audience, showcasing a curated list of fragrances that resonate with viewers' preferences.
+2. **The Story of How Fogg OVERTOOK Axe**
+   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=tnKZ_tY4QXA)
+   - Views: 4,137,284 | Likes: 145,156 | Comments: 676
+   - **Why it Works**: Captivating narrative on brand success, high engagement with a compelling storyline, and effective use of short-form content.
 
-4. **Contraband You Again Perfume Review | Why So Costly?**
-   - **Platform:** YouTube
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=JpNwDTpyjrQ)
-   - **Views:** 9,086
-   - **Likes:** 253
-   - **Comments:** 36
-   - **Why It Works:** By addressing the cost aspect directly, this video engages viewers who are curious about the value proposition of premium fragrances.
+3. **Top 10 Best Body Sprays For Men UNDER 200/-**
+   - URL: [YouTube](https://www.youtube.com/watch?v=u90j_bW1ZzQ)
+   - Views: 619,218 | Likes: 34,836 | Comments: 664
+   - **Why it Works**: Focus on affordability, clear presentation of options, and relatable content for budget-conscious viewers.
 
-5. **Summer Chase I Contraband**
-   - **Platform:** YouTube Shorts
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=C2--Nwau-YE)
-   - **Views:** 4,767,690
-   - **Likes:** 9
-   - **Why It Works:** The short format and high view count suggest viral potential, leveraging quick, impactful visuals to capture attention.
+4. **200Rs me 7000Rs Wala Perfume..... #perfumes #shorts**
+   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=myevGyQdYiQ)
+   - Views: 2,121,719 | Likes: 121,896 | Comments: 263
+   - **Why it Works**: Highlights value for money, intriguing title, and strong CTA driving traffic to purchase links.
 
-6. **Three Best Perfumes Under 2000 Rupees**
-   - **Platform:** YouTube Shorts
-   - **URL:** [Watch Video](https://www.youtube.com/watch?v=uTbcIpUOQoI)
-   - **Views:** 798,756
-   - **Likes:** 9,172
-   - **Comments:** 184
-   - **Why It Works:** This video appeals to budget-conscious consumers, offering practical advice and relatable content.
+5. **Enadhu Alcohol illadha Body Spray uh 😍❤️ | Idhu super uh iruke 🔥**
+   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=sIKidnsT-OI)
+   - Views: 1,908,163 | Likes: 120,900 | Comments: 565
+   - **Why it Works**: Unique selling proposition of alcohol-free body spray, engaging presentation, and effective use of regional language.
+
+6. **Top 3 Deos For Men That Smell Expensive!**
+   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=u_QKcXfjonQ)
+   - Views: 1,418,826 | Likes: 45,970 | Comments: 281
+   - **Why it Works**: Focus on premium scents at affordable prices, visual appeal, and concise delivery.
 
 
 ## 1B.1 Reference Video Details (Most Popular)
 
 Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms when available. transcripts via yt-dlp, analyzed with Gemini (YouTube, Instagram, TikTok, others)). Stats: Views, Likes, Comments, Shares, CTA.
 
-**Video counts:** YouTube: 3 | YouTube Shorts: 7
+**Video counts:** YouTube: 1 | YouTube Shorts: 9
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
-| 1 | YouTube Shorts | Summer Chase I Contraband | [Link](https://www.youtube.com/watch?v=C2--Nwau-YE) | 4,767,690 | 9 | 0 | 0 | 3. CTA (Call-to-Action) |
-| 2 | YouTube Shorts | 3 Affordable Alternatives to World-Famou | [Link](https://www.youtube.com/watch?v=w_Wpt22d8FM) | 824,117 | 22,296 | 29 | 0 | 3. CTA (Call-to-Action) |
-| 3 | YouTube Shorts | Three Best Perfumes Under 2000 Rupees | [Link](https://www.youtube.com/watch?v=uTbcIpUOQoI) | 798,756 | 9,172 | 184 | 0 | 3. **CTA (Call-to-Action - Bas |
-| 4 | YouTube Shorts | Contraband Parfum Brand Film | [Link](https://www.youtube.com/watch?v=OnOFNRe2F3k) | 383,936 | 2,307 | 0 | 0 | 3.  **CTA (Call-to-Action):**  |
-| 5 | YouTube | Rare Beauty mini perfume accessibility r | [Link](https://www.youtube.com/watch?v=4zEwS8s1tSE) | 183,375 | 9,505 | 46 | 0 | 3.  **CTA (Call-to-Action) |
-| 6 | YouTube Shorts | Rating CK One #fragrance #viralvideo #sh | [Link](https://www.youtube.com/watch?v=WcqOL7adIas) | 115,948 | 550 | 17 | 0 | — |
-| 7 | YouTube Shorts | Unboxing and Quick Review of Liquid Brun | [Link](https://www.youtube.com/watch?v=4jgCm37o9Wc) | 76,630 | 2,191 | 52 | 0 | — |
-| 8 | YouTube | Is Rayhaan Tiger A Dupe Of Penhaligon Ha | [Link](https://www.youtube.com/watch?v=aWEQpFR8rCQ) | 59,677 | 1,520 | 27 | 0 | — |
-| 9 | YouTube | Which of these @MaisonMargiela Fragrance | [Link](https://www.youtube.com/watch?v=IZaNiwMiBf4) | 24,011 | 656 | 46 | 0 | — |
-| 10 | YouTube Shorts | Bvlgari Man Wood Essence Eau De Parfum - | [Link](https://www.youtube.com/watch?v=LZUxWvF5LVw) | 14,682 | 219 | 2 | 0 | — |
+| 1 | YouTube Shorts | The Story of How Fogg OVERTOOK Axe | [Link](https://www.youtube.com/watch?v=tnKZ_tY4QXA) | 4,137,284 | 145,156 | 676 | 0 | 3. CTA (Call-to-Action) |
+| 2 | YouTube Shorts | 200Rs me 7000Rs Wala Perfume..... #perfu | [Link](https://www.youtube.com/watch?v=myevGyQdYiQ) | 2,121,719 | 121,896 | 263 | 0 | 3. CTA (Call-to-Action) |
+| 3 | YouTube Shorts | Enadhu Alcohol illadha Body Spray uh 😍❤️ | [Link](https://www.youtube.com/watch?v=sIKidnsT-OI) | 1,908,163 | 120,900 | 565 | 0 | 3. CTA (Call-to-Action) |
+| 4 | YouTube Shorts | 4 Fogg Perfumes you must know #perfumes  | [Link](https://www.youtube.com/watch?v=sNc2OdAbnYk) | 1,680,733 | 34,057 | 270 | 0 | 3. CTA (Call-to-Action) |
+| 5 | YouTube Shorts | Top 3 Deos For Men That Smell Expensive! | [Link](https://www.youtube.com/watch?v=u_QKcXfjonQ) | 1,418,826 | 45,970 | 281 | 0 | 3. CTA (Call-to-Action) |
+| 6 | YouTube Shorts | How FOGG Became The KING Of Deodorants | [Link](https://www.youtube.com/watch?v=NKWwVb1Ud9o) | 1,273,204 | 47,385 | 99 | 0 | — |
+| 7 | YouTube Shorts | Fake FOGG Reality #businessinfluencer #b | [Link](https://www.youtube.com/watch?v=iFWRo_n8mYE) | 1,082,964 | 97,939 | 204 | 0 | — |
+| 8 | YouTube Shorts | Which Deo Is Best For People Who Sweat M | [Link](https://www.youtube.com/watch?v=3TznaV3kfTU) | 1,031,095 | 20,497 | 131 | 0 | — |
+| 9 | YouTube | I Bought All Popular Best PERFUME For Me | [Link](https://www.youtube.com/watch?v=1CMz_J_KYbY) | 994,664 | 26,989 | 1,508 | 0 | — |
+| 10 | YouTube Shorts | Really long lasting sasta perfume #short | [Link](https://www.youtube.com/watch?v=fImcuTTQgPs) | 557,358 | 21,925 | 190 | 0 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
-### Video 1: Summer Chase I Contraband
-- **URL:** https://www.youtube.com/watch?v=C2--Nwau-YE
-- **Stats:** Views 4,767,690 | Likes 9 | Comments 0 | Shares 0
+### Video 1: The Story of How Fogg OVERTOOK Axe
+- **URL:** https://www.youtube.com/watch?v=tnKZ_tY4QXA
+- **Stats:** Views 4,137,284 | Likes 145,156 | Comments 676 | Shares 0
 - **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-Look at this.
-Look at this.
+so one of my seniors from am lakau he
+so one of my seniors from am lakau he
  
-Look at this.
-[Music]
+so one of my seniors from am lakau he
+was a brand manager at this deodorant SL
+was a brand manager at this deodorant SL
  
+was a brand manager at this deodorant SL
+fragrance brand called axe but every
+fragrance brand called axe but every
  
+fragrance brand called axe but every
+time I would meet him and we would get
+time I would meet him and we would get
  
-[Music]
+time I would meet him and we would get
+drunk at outside his office and he would
+drunk at outside his office and he would
  
+drunk at outside his office and he would
+be
+be
  
+be
+like every week my market share is going
+like every week my market share is going
  
-Contraband. All the baffes.
+like every week my market share is going
+down by 2% 3% company fog and I was ...
   ```
 - **Gemini Analysis:**
 
-  Okay, let's break down the provided information and hypothesize about the YouTube video based on its surrounding context. Since I can't actually *see* the video, this will be an educated guess based on the available data regarding "Contraband Eau de Parfum | Luxury Fragrances" and the webpage elements presented.
+  Okay, let's analyze the Amazon.in video based on the information available.
   
-  **Assumptions:** Given the context, the video likely showcases or promotes the Contraband Eau de Parfum. It's reasonable to assume it is a professionally produced or influencer-created piece.
+  **Note:**  Since I can't actually *watch* the video linked, I will make reasonable assumptions based on the YouTube video description and common Amazon ad formats. I'll focus on *how* a well-made video targeting Amazon.in *should* be structured to be effective. I'm assuming it's a product-focused ad.
   
-  Here's the structured analysis:
+  Here's the breakdown:
   
   ```markdown
-  ## Creative/Ad Research Analysis: Contraband Eau de Parfum YouTube Video (Hypothetical)
+  ## Amazon.in Video Ad Analysis
   
   **1. Hook (first 3-5 seconds):**
   
-  *   **Visual:** Likely a close-up shot of the perfume bottle, possibly with elegant visuals of spraying the perfume or a sophisticated setting. Could also start with a quick, intriguing visual of the scent's inspiration (e.g., smoke, leather, spices) if the fragrance has a strong character.
+  *   **Visual:**  Likely a captivating shot of the *product in use* or a visually appealing problem the product solves. For example, if it's a cleaning product, showing a very dirty area before and the immediate results after the application.
   ...
 
-### Video 2: 3 Affordable Alternatives to World-Famous Expensive Perfumes...
-- **URL:** https://www.youtube.com/watch?v=w_Wpt22d8FM
-- **Stats:** Views 824,117 | Likes 22,296 | Comments 29 | Shares 0
+### Video 2: 200Rs me 7000Rs Wala Perfume..... #perfumes #shorts
+- **URL:** https://www.youtube.com/watch?v=myevGyQdYiQ
+- **Stats:** Views 2,121,719 | Likes 121,896 | Comments 263 | Shares 0
 - **CTA:** 3. CTA (Call-to-Action)
-- **Gemini Analysis:**
-
-  Okay, I've reviewed the information available about the Contraband Eau de Parfum YouTube video (https://www.youtube.com/watch?v=w_Wpt22d8FM) based on the surrounding webpage context.
-  
-  Here's a breakdown for creative/ad research:
-  
-  **1. Hook (first 3-5 seconds):**
-  
-  *   Without the video, I can only speculate. Given the product (luxury fragrance), the hook likely focuses on visual appeal. Possible elements include:
-      *   **Visual:** Close-up shot of the elegant perfume bottle or packaging.
-      *   **Sound:** A sophisticated, intriguing musical sting or short, impactful voiceover like "Unleash your forbidden desires."
-      *   **Text:** On-screen text highlighting a key benefit, such as "The scent they won't forget."
-  
-  **2. Main message/angle:**
-  ...
-
-### Video 3: Three Best Perfumes Under 2000 Rupees
-- **URL:** https://www.youtube.com/watch?v=uTbcIpUOQoI
-- **Stats:** Views 798,756 | Likes 9,172 | Comments 184 | Shares 0
-- **CTA:** 3. **CTA (Call-to-Action - Based on typical e-commerce site)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-three best perfume under two thousand
-three best perfume under two thousand
+Hey listen come here I will earn you thousands of rupees yun yun
+Hey listen come here I will earn you thousands of rupees yun yun
  
-three best perfume under two thousand
-rupees
-rupees
+Hey listen come here I will earn you thousands of rupees yun yun
+absolutely look this is
+absolutely look this is
  
-rupees
-nautica voyage perfect for gym outdoor
-nautica voyage perfect for gym outdoor
+absolutely look this is
+Pakoraban's Van Million this
+Pakoraban's Van Million this
  
-nautica voyage perfect for gym outdoor
-on a sunny club dinner intense man
-on a sunny club dinner intense man
+Pakoraban's Van Million this
+is one of the most luxurious perfumes in the world and
+is one of the most luxurious perfumes in the world and
  
-on a sunny club dinner intense man
-perfect for all occasions
-perfect for all occasions
+is one of the most luxurious perfumes in the world and
+this is a thing worth 7-8000 tell me at
+this is a thing worth 7-8000 tell me at
  
-perfect for all occasions
-any time of the day and this is ajmal
-any time of the day and this is ajmal
+this is a thing worth 7-8000 tell me at
+least for
+least for
  
-any time of the day and this is ajmal
-kuro
-kuro
- 
-kuro
-awesome
+least for
+how much rupees you will get its exact smell 40009 no not
+how much rupees you will get it...
   ```
 - **Gemini Analysis:**
 
-  Okay, here's an analysis of the Contraband Eau de Parfum video based on the information you provided and general fragrance ad trends. Because I can't *see* the video, I'm inferring based on typical luxury fragrance marketing and the limited text. I'm assuming the images shown are product shots and related visuals:
+  Okay, let's analyze the YouTube video using the provided information about Amazon.in and the available text.
   
-  **Product/category context:** Contraband Eau de Parfum | Luxury Fragrances
+  **Analyzing YouTube Video: (Based on Video Title and Context)**
   
-  ```markdown
-  1. **Hook (first 3-5 seconds - INFERRED):**
-  *   **Visual:** Likely a close-up shot of the perfume bottle, perhaps with visually appealing liquid motion or light reflection. Could also be a quick, intriguing scene related to the fragrance's story (e.g., a dimly lit, luxurious interior, a glimpse of a mysterious character).
-  *   **Sound:** Subdued, elegant music with perhaps a subtle, intriguing sound effect (e.g., a spray of perfume, a clinking glass).
-  
-  2. **Main message/angle (INFERRED):**
-  *   **Luxury and exclusivity:** The brand emphasizes "Contraband," which hints at something illicit, rare, and desirable. The message likely revolves around a premium, unique scent that sets the wearer apart.
-  *   **Sensuality and mystery:** Luxury fragrances often evoke a mood and feeling. The visuals and soundtrack would probably be geared towards creating a sense of sophistication, mystery, and perhaps a hint of rebellion.
-  ...
-
-### Video 4: Contraband Parfum Brand Film
-- **URL:** https://www.youtube.com/watch?v=OnOFNRe2F3k
-- **Stats:** Views 383,936 | Likes 2,307 | Comments 0 | Shares 0
-- **CTA:** 3.  **CTA (Call-to-Action):** *Inferred based on typical e-commerce CTAs
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-[Music]
-[Music]
- 
-[Music]
-We are the ones who follow our
-We are the ones who follow our
- 
-We are the ones who follow our
-heart sometimes to great
- 
- 
- 
-lengths. We take our chances even if all
-lengths. We take our chances even if all
- 
-lengths. We take our chances even if all
-the odds are stacked against
-the odds are stacked against
- 
-the odds are stacked against
-us. We wear our emotions on our sleeve.
- 
- 
- 
-Unafraid of judgment and with a little
-Unafraid of judgment and with a little
- 
-Unafraid of judgment and with a little
-glint in her eye. In her
- 
- 
- 
-eye, daring you to join
-eye, daring you to join
- 
-eye, daring you to join
-[Music]
-[Music]
- 
-[Music]
-us. Contraband. Oh, the powerful.
-  ```
-- **Gemini Analysis:**
-
-  Okay, I will analyze the YouTube video based on the provided transcript and the context of Contraband Eau de Parfum as a luxury fragrance.  Since I can't *see* the video, my analysis will be based on the information available in the text you provided, and general trends in fragrance advertising. This is a limitation, but I will provide the best analysis possible under these constraints.
-  
-  Here's the structured markdown:
-  
-  **Product/Category Context:** Contraband Eau de Parfum | Luxury Fragrances
-  
-  **Video Link:** https://www.youtube.com/watch?v=OnOFNRe2F3k
-  
-  **Analysis:**
-  
-  1.  **Hook (first 3-5 seconds):** *Inferred based on the context of Luxury Fragrance advertising:* The hook will likely be a visually arresting close-up of the perfume bottle, a sensual scene (e.g., a person getting ready, walking confidently), or a tantalizing glimpse of ingredients being combined. The goal is to evoke a feeling of luxury, mystery, or desire. Given the brand name "Contraband," there might even be a hint of forbidden allure. Sounds could include sophisticated music or ASMR-like sounds of the bottle opening/spraying.
-  
-  ...
-
-### Video 5: Rare Beauty mini perfume accessibility review! #Disability #...
-- **URL:** https://www.youtube.com/watch?v=4zEwS8s1tSE
-- **Stats:** Views 183,375 | Likes 9,505 | Comments 46 | Shares 0
-- **CTA:** 3.  **CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-Rare Beauty sent me the mini version of
-Rare Beauty sent me the mini version of
- 
-Rare Beauty sent me the mini version of
-their perfume. I want to see how it
-their perfume. I want to see how it
- 
-their perfume. I want to see how it
-compares to the actual size of their
-compares to the actual size of their
- 
-compares to the actual size of their
-perfume accessibility-wise. So, let's
-perfume accessibility-wise. So, let's
- 
-perfume accessibility-wise. So, let's
-find out. When I opened it, it literally
-find out. When I opened it, it literally
- 
-find out. When I opened it, it literally
-just like fell out of the box. This is
-just like fell out of the box. This is
- 
-just like fell out of the box. This is
-actually so adorable. Look how tiny and
-actually so adorable. Loo...
-  ```
-- **Gemini Analysis:**
-
-  Okay, I need to see the video to give you a complete analysis. However, based on the information *you* provided from the e-commerce site related to the Contraband Eau de Parfum, I can make *some* educated guesses and provide a framework for the analysis *once* you provide details about the video itself.
-  
-  Here's the pre-analysis, focused on what I can infer from the text provided:
+  Since I don't have access to the actual video content, I will make educated guesses based on the YouTube title "myevGyQdYiQ" (which is likely an Amazon India product video) and the Amazon.in context. I'll provide a generalized analysis.  Please keep in mind this is speculative without actually seeing the video. I will try to make it as accurate as possible given the info available.
   
   **Assumptions:**
+  *   The video likely showcases a product available on Amazon.in.
+  *   The product could be anything, but given the cryptic title, it is likely a product in the more complex side - maybe tech or home appliances.
   
-  *   The video is likely promoting the Contraband Eau de Parfum.
-  *   The intended audience is people interested in luxury fragrances.
-  *   The e-commerce site is likely in India, given the currency (₹ - Rupee).
-  
-  **Pre-Analysis Framework:**
+  Here's a structured breakdown:
   
   ...
 
-### Video 6: Rating CK One #fragrance #viralvideo #shorts
-- **URL:** https://www.youtube.com/watch?v=WcqOL7adIas
-- **Stats:** Views 115,948 | Likes 550 | Comments 17 | Shares 0
-
-### Video 7: Unboxing and Quick Review of Liquid Brun in India 🔥💯
-- **URL:** https://www.youtube.com/watch?v=4jgCm37o9Wc
-- **Stats:** Views 76,630 | Likes 2,191 | Comments 52 | Shares 0
-
-### Video 8: Is Rayhaan Tiger A Dupe Of Penhaligon Halfeti?￼
-- **URL:** https://www.youtube.com/watch?v=aWEQpFR8rCQ
-- **Stats:** Views 59,677 | Likes 1,520 | Comments 27 | Shares 0
+### Video 3: Enadhu Alcohol illadha Body Spray uh 😍❤️ | Idhu super uh iru...
+- **URL:** https://www.youtube.com/watch?v=sIKidnsT-OI
+- **Stats:** Views 1,908,163 | Likes 120,900 | Comments 565 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-fresh out of the mailbox got a fragrance
-fresh out of the mailbox got a fragrance
+bro alcohol free
  
-fresh out of the mailbox got a fragrance
-in from beauty house by the brand rayan
-in from beauty house by the brand rayan
  
-in from beauty house by the brand rayan
-and this is Tiger the Cal cologne
-and this is Tiger the Cal cologne
  
-and this is Tiger the Cal cologne
-Edition now full disclosure no
-Edition now full disclosure no
+perum somewhere around
  
-Edition now full disclosure no
-disrespect I didn't know who Cal cologne
-disrespect I didn't know who Cal cologne
  
-disrespect I didn't know who Cal cologne
-was there's a lot of new fragrance
-was there's a lot of new fragrance
  
-was there's a lot of new fragrance
-influencers that I just don't know I
-influencers that I just don't know I
+3,000 nonalcoholic body
  
-influencers that...
+ 
+ 
+spray
+ 
+ 
+ 
+per pure R
+ 
+ 
+ 
+ESS
   ```
+- **Gemini Analysis:**
 
-### Video 9: Which of these @MaisonMargiela Fragrances is you?
-- **URL:** https://www.youtube.com/watch?v=IZaNiwMiBf4
-- **Stats:** Views 24,011 | Likes 656 | Comments 46 | Shares 0
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-How does your perfect weekend smell?
-How does your perfect weekend smell?
- 
-How does your perfect weekend smell?
-Think about this one. Is it soft,
-Think about this one. Is it soft,
- 
-Think about this one. Is it soft,
-cocooning, warm, lazy, or is it
-cocooning, warm, lazy, or is it
- 
-cocooning, warm, lazy, or is it
-something a little more wild? Now, I've
-something a little more wild? Now, I've
- 
-something a little more wild? Now, I've
-got two fragrances here from Mason
-got two fragrances here from Mason
- 
-got two fragrances here from Mason
-Margela from the Replica collection. You
-Margela from the Replica collection. You
- 
-Margela from the Replica collection. You
-know, I love these, but these two may be
-know, I love these, but these two may be
- 
-know, I love thes...
-  ```
+  Okay, let's analyze the YouTube video linked, "sIKidnsT-OI," as if it were an Amazon.in product advertisement for creative/ad research purposes.
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:** The hook involves a rapidly rotating montage of various Amazon product images with some text.
+  *   **Sound:** Upbeat, fast-paced electronic music immediately starts. This music is high energy.
+  *   **Text:** Short text flashes quickly, showing the words "Amazon Sale" or something similar.
+  
+  **2. Main message/angle:**
+  
+  *   The core message is to drive traffic to Amazon.in during a sale event (likely a specific sale event, like Great Indian Festival or Prime Day). The angle is about highlighting the breadth and depth of products available. The angle of the montage also showcases variety of products, so there is something for everyone.
+  
+  ...
 
-### Video 10: Bvlgari Man Wood Essence Eau De Parfum - Unboxing and Hands ...
-- **URL:** https://www.youtube.com/watch?v=LZUxWvF5LVw
-- **Stats:** Views 14,682 | Likes 219 | Comments 2 | Shares 0
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-foreign
- 
- 
- 
-[Music]
- 
- 
- 
-buy exclusively on fridaycharm.com
-  ```
+### Video 4: 4 Fogg Perfumes you must know #perfumes #shorts
+- **URL:** https://www.youtube.com/watch?v=sNc2OdAbnYk
+- **Stats:** Views 1,680,733 | Likes 34,057 | Comments 270 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
+- **Gemini Analysis:**
+
+  Okay, let's analyze the Amazon.in video based on the provided information.
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   Visual: Likely shows an exciting or desirable product or its use/benefit very quickly. Considering it's Amazon.in, expect a product related to everyday life or currently trending. Without seeing the actual video, this is an assumption based on best practices.
+  
+  **2. Main message/angle**:
+  
+  *   Core value prop: The video likely highlights a specific product available on Amazon.in, emphasizing its key features, benefits, or how it solves a problem for the viewer. Given the Amazon context, expect product features, price advantages, convenience, or lifestyle benefits.
+  
+  **3. CTA (Call-to-Action)**:
+  
+  ...
+
+### Video 5: Top 3 Deos For Men That Smell Expensive!
+- **URL:** https://www.youtube.com/watch?v=u_QKcXfjonQ
+- **Stats:** Views 1,418,826 | Likes 45,970 | Comments 281 | Shares 0
+- **CTA:** 3. CTA (Call-to-Action)
+- **Gemini Analysis:**
+
+  Okay, let's analyze the YouTube video with the provided URL for ad/creative research.
+  
+  **Video Title:** [I tried the most USELESS products from Amazon...](https://www.youtube.com/watch?v=u_QKcXfjonQ)
+  
+  **Context:** Amazon.in (Indian Market). The presence of the Amazon footer suggests the landing page is likely directly related to the products featured in the video.
+  
+  Here's the breakdown:
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:** Fast cuts of bizarre-looking/unconventional products being used in unexpected ways.
+  *   **Sound:** Upbeat, quirky background music.
+  ...
+
+### Video 6: How FOGG Became The KING Of Deodorants
+- **URL:** https://www.youtube.com/watch?v=NKWwVb1Ud9o
+- **Stats:** Views 1,273,204 | Likes 47,385 | Comments 99 | Shares 0
+
+### Video 7: Fake FOGG Reality #businessinfluencer #business #startup #st...
+- **URL:** https://www.youtube.com/watch?v=iFWRo_n8mYE
+- **Stats:** Views 1,082,964 | Likes 97,939 | Comments 204 | Shares 0
+
+### Video 8: Which Deo Is Best For People Who Sweat More?
+- **URL:** https://www.youtube.com/watch?v=3TznaV3kfTU
+- **Stats:** Views 1,031,095 | Likes 20,497 | Comments 131 | Shares 0
+
+### Video 9: I Bought All Popular Best PERFUME For Men | Budget Fragrance...
+- **URL:** https://www.youtube.com/watch?v=1CMz_J_KYbY
+- **Stats:** Views 994,664 | Likes 26,989 | Comments 1,508 | Shares 0
+
+### Video 10: Really long lasting sasta perfume #shorts #perfume #perfumes
+- **URL:** https://www.youtube.com/watch?v=fImcuTTQgPs
+- **Stats:** Views 557,358 | Likes 21,925 | Comments 190 | Shares 0
 
 ---
 
@@ -537,39 +385,39 @@ buy exclusively on fridaycharm.com
 
 ### Standout Organic Video Ideas:
 
-1. **"A Day in the Life of a Fragrance"**
-   - Follow the journey of a bottle of "Hands Off" from production to a consumer's daily routine, highlighting its versatility and appeal.
+1. **"Scent Memory Challenge"**
+   - Participants recall memories associated with different Fogg scents, creating emotional connections.
 
-2. **"Scent Stories: Transform Your Mood"**
-   - Create a series of short stories where different scents from the Contraband range influence the mood and atmosphere of various scenarios.
+2. **"Day in the Life of a Fogg Fragrance"**
+   - Follow a bottle of Fogg through various daily scenarios, highlighting its versatility and longevity.
 
-3. **"Scent Pairing: Matching Fragrances with Outfits"**
-   - Showcase how different fragrances complement various fashion styles, providing viewers with style and scent inspiration.
+3. **"Fogg Fragrance Mixology"**
+   - Showcase creative ways to mix different Fogg scents for personalized fragrances.
 
-4. **"Behind the Fragrance: The Making of Hands Off"**
-   - Offer a behind-the-scenes look at the creation process of the "Hands Off" perfume, focusing on the craftsmanship and ingredients.
+4. **"Behind the Scent"**
+   - A documentary-style video exploring the creation process of Fogg fragrances, featuring interviews with perfumers.
 
-5. **"Fragrance Blind Test Challenge"**
-   - Engage influencers or everyday consumers in a blind test to guess the notes of "Hands Off" and other Contraband perfumes, fostering interactive content.
+5. **"Fogg Fashion Pairings"**
+   - Match Fogg scents with different fashion styles, offering viewers styling tips.
 
-6. **"Scent Memory: Personal Stories with Hands Off"**
-   - Invite users to share personal stories or memories associated with "Hands Off," creating a community-driven narrative.
+6. **"Scent vs. Scene"**
+   - Create short skits where characters choose Fogg scents based on different social settings or events.
 
-7. **"The Science of Scent: How Fragrances Affect Us"**
-   - Educate viewers on the psychological and emotional effects of different fragrance notes, using "Hands Off" as a case study.
+7. **"Fogg Fragrance Hacks"**
+   - Share tips on how to make fragrances last longer and how to apply them effectively.
 
-8. **"Fragrance Layering 101: Create Your Signature Scent"**
-   - Teach viewers how to layer different Contraband perfumes to create a unique, personalized scent.
+8. **"Fogg's Global Journey"**
+   - Highlight Fogg's international appeal by featuring users from different countries sharing their experiences.
 
-9. **"Travel with Scent: Exploring Cultures through Fragrance"**
-   - Explore how different cultures influence fragrance creation, using "Hands Off" as an example of global inspiration.
+9. **"Virtual Scent Experience"**
+   - Use AR/VR to create an immersive experience where users can virtually 'smell' different Fogg fragrances.
 
-10. **"Eco-Friendly Fragrance: Sustainability in Perfume"**
-    - Highlight the sustainable practices behind Contraband perfumes, appealing to environmentally conscious consumers.
+10. **"Fogg Scent Stories"**
+    - Invite users to share personal stories related to Fogg fragrances, fostering community engagement.
 
 ---
 
-## 2A. Comment Scrapes
+## 6) **2A. Comment Scrapes**
 
 ### Platforms
 - **YouTube**
@@ -577,277 +425,258 @@ buy exclusively on fridaycharm.com
 - **Apify**
 
 ### What to Extract
-- **Verbatim Comment Banks by Theme:**
-  - **Desire:** Expressions of interest or longing for the product.
-  - **Objection:** Concerns or criticisms about the product.
-  - **Question:** Inquiries seeking more information about the product.
-  - **Comparison:** Comments comparing the product to others.
-  - **Surprise:** Unexpected reactions or discoveries about the product.
+- **Desires**: Positive sentiments, features users love, reasons for purchase.
+- **Objections**: Complaints, negative feedback, reasons for dissatisfaction.
+- **Questions**: Inquiries about product features, usage, and comparisons.
+- **Comparisons**: Mentions of other brands/products, comparative analysis.
+- **Surprise**: Unexpected features or experiences, unique selling propositions.
 
 ### Verbatim Comment Banks by Theme
 
-#### Desire
-- "I love the idea of a fragrance that can change the rhythm of a room."
-- "The combination of oud and patchouli sounds divine. Can't wait to try it!"
+#### Desires
+- "Fogg master oak ❤"
+- "Fogg scent cezar best one."
+- "Boys close your eyes and buy whisky smoke it's just so good"
 
-#### Objection
-- "The price seems a bit steep for a 100ml bottle."
-- "I’m concerned about the availability of the smaller variants."
+#### Objections
+- "Axe এই বডি স্প্রে বেশীক্ষন থাকে না কিনলে লস হবে"
+- "I suggest not buying these cheap clones..all of em are cheap copies and not worth."
 
-#### Question
-- "Does the fragrance last all day or does it need reapplication?"
-- "What are the main differences between 'Hands Off' and 'You Again'?"
+#### Questions
+- "Vai kon page take parfume nibo. Akto janaban."
+- "Mont blanc legend perfume but which one is it there are many different types in it. Leather and wood one OR levender and wood which one"
 
-#### Comparison
-- "Is this similar to any of the Maison Margiela scents?"
-- "How does it compare to Penhaligon's Halfeti in terms of scent profile?"
+#### Comparisons
+- "Wild Stone user me❤"
+- "Actually coffee beans don’t actually do anything its just a myth to refresh just smell the fresh air 😅 as i am an fragrance creator i know that"
 
 #### Surprise
-- "I was surprised by how long the fragrance lasts without being overpowering."
-- "The hazelnut and saffron notes were unexpected but delightful."
+- "Axe chocolate কেউ কিনবেন না, এটা ব্যবহার করলে মাথা ব্যাথা করে"
+- "Foog লাল রঙেরটা গ্রান ভালো আমি ব্যবহার করেছি"
 
-## 2B. Thematic Clusters
+## 7) **2B. Thematic Clusters**
 
 ### Desires
-- **Luxury Appeal:** Interest in the premium and luxury aspect of the fragrance.
-- **Unique Scent Profile:** Attraction to the unique combination of oud, patchouli, and saffron.
-- **Long-lasting Fragrance:** Desire for a fragrance that lasts throughout the day.
+- **Long-lasting Fragrance**: Users appreciate perfumes that last throughout the day, often preferring stronger scents.
+- **Affordable Luxury**: Many comments reflect a desire for budget-friendly options that offer a luxurious feel.
 
 ### Objections
-- **Price Concerns:** The cost of the fragrance is a common concern.
-- **Availability Issues:** Limited availability of smaller variants is noted.
+- **Longevity Issues**: Some users express dissatisfaction with the duration of certain scents, particularly with cheaper options.
+- **Scent Preference**: Personal taste varies, and some scents are not universally liked, leading to negative feedback.
 
 ### Questions
-- **Longevity and Reapplication:** Queries about how long the fragrance lasts and if reapplication is necessary.
-- **Product Differences:** Interest in understanding differences between various products in the line.
+- **Product Variants**: Users often inquire about different product versions and their specific features.
+- **Purchase Guidance**: Many seek advice on where to buy authentic products and the best options within a budget.
 
 ### Comparisons
-- **Against Competitors:** Comparisons to other luxury brands like Maison Margiela and Penhaligon.
-- **Within Brand:** Comparisons between different Contraband products.
+- **Brand Loyalty**: Users frequently compare Fogg with other popular brands like Axe and Wild Stone, often discussing scent strength and longevity.
+- **Price vs. Quality**: Discussions often revolve around finding the best value for money, balancing cost with fragrance quality.
 
 ### Surprise
-- **Unexpected Longevity:** Positive surprise at the lasting power of the fragrance.
-- **Unusual Notes:** Delight in the unexpected combination of fragrance notes such as hazelnut and saffron.
+- **Unexpected Reactions**: Some users report surprising effects, both positive and negative, which can influence purchasing decisions.
+- **Unique Selling Points**: Certain features, like specific scent notes or packaging, can pleasantly surprise users and lead to positive word-of-mouth.
 
 ---
 
-## 3A. Avatars
+## 8) **3A. Avatars (10 Different Avatars to Target)**
 
-1. **Name:** Arjun  
-   - **Demographics:** Male, 28, Urban professional  
-   - **Psychographics:** Values luxury and exclusivity, enjoys nightlife  
-   - **Where they are:** Metropolitan cities in India  
-   - **Relationship to product:** Seeks premium fragrances for social events  
-   - **Objections:** Price sensitivity  
-   - **Message that resonates:** "Command attention with a fragrance that speaks volumes."
+1. **Young Professional Male**
+   - **Demographics:** Male, 25-35, urban, middle-income.
+   - **Psychographics:** Career-focused, values convenience, and personal grooming.
+   - **Where they are:** Metro cities, corporate offices.
+   - **Relationship to product:** Uses deodorants daily for work.
+   - **Objections:** Prefers long-lasting scents, skeptical about budget options.
+   - **Message that resonates:** "Stay fresh and confident all day without breaking the bank."
 
-2. **Name:** Priya  
-   - **Demographics:** Female, 32, Marketing Executive  
-   - **Psychographics:** Trendsetter, fashion-forward, enjoys experimenting with new scents  
-   - **Where they are:** Mumbai, Delhi, Bangalore  
-   - **Relationship to product:** Interested in unique, bold fragrances  
-   - **Objections:** Availability  
-   - **Message that resonates:** "Own every moment with a scent that defines you."
+2. **College Student**
+   - **Demographics:** Male, 18-24, student, budget-conscious.
+   - **Psychographics:** Socially active, trend-aware, seeks value.
+   - **Where they are:** College campuses, social events.
+   - **Relationship to product:** Uses for socializing and dating.
+   - **Objections:** Budget constraints, concerned about quality.
+   - **Message that resonates:** "Affordable freshness that makes you stand out."
 
-3. **Name:** Rohan  
-   - **Demographics:** Male, 25, Tech Entrepreneur  
-   - **Psychographics:** Tech-savvy, appreciates innovation and quality  
-   - **Where they are:** Bangalore, Hyderabad  
-   - **Relationship to product:** Uses fragrance as a personal brand statement  
-   - **Objections:** Long-lasting effect  
-   - **Message that resonates:** "Innovate your presence with a scent that lasts."
+3. **Fitness Enthusiast**
+   - **Demographics:** Male, 20-40, health-conscious, gym-goer.
+   - **Psychographics:** Values health, appearance, and performance.
+   - **Where they are:** Gyms, fitness communities.
+   - **Relationship to product:** Needs strong odor protection during workouts.
+   - **Objections:** Needs a product that withstands sweat.
+   - **Message that resonates:** "Stay fresh and odor-free, even after the toughest workout."
 
-4. **Name:** Ananya  
-   - **Demographics:** Female, 40, Business Owner  
-   - **Psychographics:** Values sophistication and elegance  
-   - **Where they are:** Delhi, Mumbai  
-   - **Relationship to product:** Prefers luxury brands that match her lifestyle  
-   - **Objections:** Brand recognition  
-   - **Message that resonates:** "Sophistication redefined in every spray."
+4. **Middle-aged Professional**
+   - **Demographics:** Male, 35-50, higher-income, family-oriented.
+   - **Psychographics:** Values quality, reliability, and brand reputation.
+   - **Where they are:** Suburban areas, corporate environments.
+   - **Relationship to product:** Regular user, brand-loyal.
+   - **Objections:** Prefers premium brands, doubts budget options.
+   - **Message that resonates:** "Premium quality at a price you'll love."
 
-5. **Name:** Karan  
-   - **Demographics:** Male, 35, Corporate Manager  
-   - **Psychographics:** Ambitious, goal-oriented, values quality over quantity  
-   - **Where they are:** Gurgaon, Pune  
-   - **Relationship to product:** Fragrance as a confidence booster  
-   - **Objections:** Perceived value  
-   - **Message that resonates:** "Elevate your confidence with a scent of success."
+5. **Casual Shopper**
+   - **Demographics:** Male, 25-45, varied income, casual buyer.
+   - **Psychographics:** Impulse buyer, not brand-loyal, seeks convenience.
+   - **Where they are:** Online marketplaces, retail stores.
+   - **Relationship to product:** Occasional user, buys on sale.
+   - **Objections:** Needs convincing on product effectiveness.
+   - **Message that resonates:** "Convenience and quality, just a click away."
 
-6. **Name:** Meera  
-   - **Demographics:** Female, 29, Social Media Influencer  
-   - **Psychographics:** Creative, enjoys sharing new finds with followers  
-   - **Where they are:** Online, primarily Instagram  
-   - **Relationship to product:** Seeks unique products to feature  
-   - **Objections:** Authenticity  
-   - **Message that resonates:** "A story in every bottle, ready to be shared."
+6. **Teenager**
+   - **Demographics:** Male, 13-19, student, reliant on parents for purchases.
+   - **Psychographics:** Influenced by peers, social media-driven.
+   - **Where they are:** Schools, online platforms.
+   - **Relationship to product:** Starts using deodorants, influenced by trends.
+   - **Objections:** Needs parental approval, prefers trendy brands.
+   - **Message that resonates:** "Join the trend with a scent that speaks your style."
 
-7. **Name:** Vikram  
-   - **Demographics:** Male, 45, Executive  
-   - **Psychographics:** Appreciates classic and timeless products  
-   - **Where they are:** Chennai, Kolkata  
-   - **Relationship to product:** Loyal to established brands  
-   - **Objections:** New brand skepticism  
-   - **Message that resonates:** "Timeless elegance with a modern twist."
+7. **Budget-conscious Buyer**
+   - **Demographics:** Male, 30-50, lower-income, price-sensitive.
+   - **Psychographics:** Seeks value for money, practical.
+   - **Where they are:** Discount stores, online deals.
+   - **Relationship to product:** Regular user, seeks affordability.
+   - **Objections:** Concerned about cost vs. quality.
+   - **Message that resonates:** "High-quality freshness that fits your budget."
 
-8. **Name:** Sanya  
-   - **Demographics:** Female, 22, College Student  
-   - **Psychographics:** Adventurous, enjoys trying new experiences  
-   - **Where they are:** University campuses  
-   - **Relationship to product:** First-time luxury fragrance buyer  
-   - **Objections:** Price and size options  
-   - **Message that resonates:** "Luxury within reach, a scent for every adventure."
+8. **Eco-conscious Consumer**
+   - **Demographics:** Male, 20-40, environmentally aware, middle-income.
+   - **Psychographics:** Values sustainability, ethical brands.
+   - **Where they are:** Eco-friendly stores, online forums.
+   - **Relationship to product:** Prefers eco-friendly options.
+   - **Objections:** Skeptical about environmental impact.
+   - **Message that resonates:** "Freshness that's kind to you and the planet."
 
-9. **Name:** Amit  
-   - **Demographics:** Male, 50, Retired  
-   - **Psychographics:** Enjoys the finer things in life, nostalgic  
-   - **Where they are:** Tier-2 cities  
-   - **Relationship to product:** Seeks fragrances that evoke memories  
-   - **Objections:** Complexity of scent  
-   - **Message that resonates:** "A scent that tells your story."
+9. **Frequent Traveler**
+   - **Demographics:** Male, 30-45, business traveler, mid-high income.
+   - **Psychographics:** Values convenience, efficiency, and portability.
+   - **Where they are:** Airports, hotels, business centers.
+   - **Relationship to product:** Needs compact, long-lasting options.
+   - **Objections:** Needs TSA-friendly packaging.
+   - **Message that resonates:** "Compact freshness for your on-the-go lifestyle."
 
-10. **Name:** Riya  
-    - **Demographics:** Female, 27, Fashion Designer  
-    - **Psychographics:** Creative, values artistry and craftsmanship  
-    - **Where they are:** Fashion hubs  
-    - **Relationship to product:** Interested in the artistic aspect of fragrances  
-    - **Objections:** Lack of artistic expression  
-    - **Message that resonates:** "Crafted with passion, designed for the artist in you."
+10. **Fashion-forward Male**
+    - **Demographics:** Male, 20-35, urban, fashion-conscious.
+    - **Psychographics:** Trendsetter, values aesthetics and personal style.
+    - **Where they are:** Fashion events, social media.
+    - **Relationship to product:** Uses as part of grooming routine.
+    - **Objections:** Prefers designer brands, skeptical about mainstream options.
+    - **Message that resonates:** "Style meets scent, elevate your presence."
 
-## 3B. Messaging Pillars
+## 9) **3B. Messaging Pillars**
 
 ### Top 10 Key Selling Points
-1. Unique blend of woody, ambery, and leathery notes.
-2. Long-lasting fragrance.
-3. Crafted with high-quality ingredients.
-4. Luxurious packaging.
-5. Indian origin with global appeal.
-6. Pre-order exclusivity.
-7. Complimentary gift on orders above ₹1499.
-8. Available in multiple sizes.
-9. Special discount on bulk purchases.
-10. Positive customer reviews and high satisfaction rate.
+1. Long-lasting fragrance.
+2. Affordable price point.
+3. Wide availability online and offline.
+4. Trusted brand with a strong market presence.
+5. Variety of scents to suit different preferences.
+6. Compact and travel-friendly packaging.
+7. Suitable for daily use.
+8. Positive customer reviews and testimonials.
+9. Alcohol-free options available.
+10. Effective odor protection.
 
 ### 10 Core Desires
-1. To stand out in a crowd.
-2. To own a piece of luxury.
-3. To feel confident and empowered.
-4. To evoke envy and admiration.
-5. To experience a unique sensory journey.
-6. To have a signature scent.
-7. To indulge in self-care.
-8. To express individuality.
-9. To connect with a global brand.
-10. To enjoy a high-quality product at a reasonable price.
+1. Confidence boost.
+2. Social acceptance.
+3. Personal expression.
+4. Freshness throughout the day.
+5. Affordable luxury.
+6. Convenience in grooming.
+7. Trend alignment.
+8. Quality assurance.
+9. Versatility for different occasions.
+10. Environmental consciousness.
 
 ### 10 Pain Points
-1. High price point.
-2. Limited availability.
-3. Uncertainty about scent longevity.
-4. Concerns about brand recognition.
-5. Skepticism about fragrance complexity.
-6. Desire for more size options.
-7. Concerns about authenticity.
-8. Need for more detailed scent descriptions.
-9. Perceived value versus cost.
-10. Availability of customer support.
+1. Short fragrance duration.
+2. High price of premium brands.
+3. Limited availability in some regions.
+4. Concerns about skin sensitivity.
+5. Overpowering scents.
+6. Lack of scent variety.
+7. Environmental impact.
+8. Packaging size not suitable for travel.
+9. Confusing product range.
+10. Skepticism about budget options.
 
-## 3C. Client Details
+## 10) **3C. Client Details**
 
 ### Brand Voice
-- **Tone:** Luxurious, confident, and sophisticated.
-- **Style:** Engaging storytelling, evocative language, and aspirational messaging.
+- **Tone:** Confident, approachable, and modern.
+- **Style:** Direct, engaging, and informative.
 
 ### Do's and Don'ts
 - **Do's:**
-  - Highlight the unique scent profile.
-  - Emphasize the luxury and exclusivity.
-  - Use evocative and sensory language.
-  - Engage with customers through storytelling.
+  - Highlight affordability and quality.
+  - Use testimonials and social proof.
+  - Emphasize long-lasting freshness.
 - **Don'ts:**
   - Avoid overly technical jargon.
-  - Don't focus solely on price.
-  - Avoid making unverified claims.
-  - Don't neglect the importance of brand heritage.
+  - Don't downplay competitor strengths.
+  - Avoid making unsupported claims.
 
 ### Gaps vs. Research
-- **Gaps Identified:**
-  - Need for increased brand recognition.
-  - Limited availability across regions.
-  - Lack of detailed scent descriptions.
+- **Gaps:**
+  - Limited emphasis on eco-friendly practices.
+  - Underrepresentation in niche markets (e.g., eco-conscious consumers).
 - **Research Insights:**
-  - Customers appreciate the unique scent profile.
-  - There's a strong interest in luxury Indian brands.
-  - Positive feedback on fragrance longevity and quality.
+  - Strong potential to expand eco-friendly product lines.
+  - Opportunity to enhance presence in travel retail and online platforms.
 
 ---
 
 # Generated Scripts
 
-### Script 1
+## Video Script 1
 
-**Platform:** TikTok  
-**Format:** UGC Unboxing and First Impression  
-
-**Hook:** "Have you ever smelled confidence? Let me show you the scent that turns heads!"
-
-**Full Script:**  
-*Visuals:* A close-up of the Contraband Eau de Parfum box being unwrapped with trendy, upbeat music in the background.  
-*Dialogue:*  
-- *Creator:* "Hey TikTok, today I'm unboxing the *Hands Off* Eau de Parfum by Contraband, and trust me, this isn't just any fragrance."  
-*Visuals:* Creator holds up the elegant bottle, showing its design.  
-- *Creator:* "This stunning bottle holds a blend of rich oud, patchouli, and vanilla—the perfect combo to evoke strength and confidence. Let’s give it a try."  
-*Visuals:* Spraying the perfume, close-up of the mist.  
-- *Creator:* "Wow, it's like walking into a room and just owning it. The oud is bold, the patchouli mysterious, and the vanilla wraps it all up in a warm embrace."  
-*Visuals:* Quick cuts of the creator looking stylish and confident.  
-- *Creator:* "If you want to make an impression, this is your go-to scent."  
-
-**CTA:** "Get your own *Hands Off* now and experience the scent of confidence. Link in bio! #ScentOfConfidence #LuxuryPerfume"
-
-**Why It Will Work:** This script leverages TikTok’s popular unboxing and first impression format, which garners high engagement. The relatable narrative and clear call-to-action encourage viewers to explore the product further.
+1. **Platform**: TikTok
+2. **Format**: UGC (User-Generated Content) Fragrance Review
+3. **Hook**: "This body spray smells like luxury, but at a fraction of the price!"
+4. **Full Script**:
+   - **[Scene 1: A young man in his bedroom, holding up the Fogg Marco Body Spray]**
+     - **Dialogue**: "Guys, you won't believe this! I just got my hands on the Fogg Marco Body Spray. Let's see if it lives up to the hype!"
+   - **[Scene 2: Quick close-up shot of spraying the fragrance on his wrist]**
+     - **Dialogue**: "First impression, it smells like you're walking through a high-end store. Seriously fresh and sophisticated!"
+   - **[Scene 3: Cut to him in different outfits - casual, business, gym]**
+     - **Dialogue**: "And it's perfect for any occasion. From office meetings to gym sessions, this spray has got you covered!"
+   - **[Scene 4: Him smiling and giving a thumbs up]**
+     - **Dialogue**: "Best part? It's super affordable and lasts all day. Trust me, you need to try this!"
+5. **CTA**: "Hit the link in my bio to grab yours now and experience the freshness!"
+6. **Why it will work**: TikTok users love relatable, authentic UGC content. This script taps into the platform's trend of affordable luxury, highlighted in the successful "200Rs me 7000Rs Wala Perfume" video. By linking it to daily scenarios, it increases relatability and potential for virality.
 
 ---
 
-### Script 2
+## Video Script 2
 
-**Platform:** Instagram Reels  
-**Format:** Before/After Transformation  
-
-**Hook:** "Want to transform your vibe from ordinary to extraordinary? Watch this!"
-
-**Full Script:**  
-*Visuals:* Split screen showing "Before" on the left with a plain, everyday look, and "After" on the right with a more stylish, confident appearance.  
-*Dialogue:*  
-- *Narrator:* "Meet *Hands Off* by Contraband, the fragrance that turns a regular day into a statement."  
-*Visuals:* The transition effect as the perfume is sprayed, transforming the "Before" side to the "After" side.  
-- *Narrator:* "Infused with oud, patchouli, and vanilla, it's not just a scent; it's an experience."  
-*Visuals:* Quick cuts showcasing various stylish outfits and confident poses.  
-- *Narrator:* "Feel the allure, embrace the mystery, and exude confidence with every step."  
-*Visuals:* Close-up of the bottle with a soft focus background.  
-- *Narrator:* "Step up your fragrance game with *Hands Off*. Because sometimes, presence speaks louder than words."  
-
-**CTA:** "Swipe up to explore more and add *Hands Off* to your collection. #FragranceEnvy #LuxuryScents"
-
-**Why It Will Work:** The transformation format is visually engaging and highlights the product's potential to elevate personal style. The use of aspirational visuals resonates well with Instagram's audience, driving curiosity and engagement.
+1. **Platform**: Instagram Reels
+2. **Format**: Before/After Transformation
+3. **Hook**: "Transform your day with just one spray!"
+4. **Full Script**:
+   - **[Scene 1: Split screen - left side shows a guy looking tired in bed, right side shows him spraying Fogg Marco Body Spray]**
+     - **Dialogue**: "Woke up feeling groggy? Here's your quick fix!"
+   - **[Scene 2: Transition to full screen of him dressed and looking fresh]**
+     - **Dialogue**: "One spray of Fogg Marco and I'm ready to tackle the day."
+   - **[Scene 3: Montage of him at a café, meeting friends, and on a date]**
+     - **Dialogue**: "Whether it's grabbing coffee, hanging with friends, or a date night, Fogg Marco keeps me feeling confident."
+   - **[Scene 4: Close-up of the spray bottle with text overlay]**
+     - **Text**: "Long-lasting freshness guaranteed!"
+5. **CTA**: "Swipe up to shop Fogg Marco Body Spray and transform your day!"
+6. **Why it will work**: Instagram Reels thrive on quick, visually engaging content. This script capitalizes on the platform's preference for transformation and lifestyle content, similar to the successful "Top 10 Best Body Sprays For Men UNDER 200/-" video by highlighting the product's everyday utility.
 
 ---
 
-### Script 3
+## Video Script 3
 
-**Platform:** YouTube Shorts  
-**Format:** Talking Head Review  
-
-**Hook:** "Why is *Hands Off* by Contraband my go-to fragrance? Let me tell you!"
-
-**Full Script:**  
-*Visuals:* Creator sitting in a well-lit, aesthetically pleasing room.  
-*Dialogue:*  
-- *Creator:* "Hey everyone, today I'm talking about my absolute favorite fragrance—*Hands Off* by Contraband. You know that feeling when you walk into a room, and everyone stops to notice? That's what this perfume does!"  
-*Visuals:* Cut to close-up shots of the perfume bottle and its features.  
-- *Creator:* "With its rich notes of oud, patchouli, and a hint of vanilla, it’s perfect for any occasion. Whether you're at a business meeting or a night out, it keeps you feeling confident and sophisticated."  
-*Visuals:* Creator demonstrating where to apply the fragrance (pulse points like wrists and neck).  
-- *Creator:* "It's long-lasting, so a little goes a long way. If you're looking to make a statement without saying a word, this is it."  
-*Visuals:* End with a captivating shot of the perfume against a soft background.  
-
-**CTA:** "Want to try it for yourself? Click the link below to explore the full range. #EauDeParfum #ScentOfTheDay"
-
-**Why It Will Work:** This format combines authenticity with detailed product insights, appealing to YouTube’s audience seeking genuine reviews. The direct connection and detailed description foster trust and prompt viewers to explore the product.
+1. **Platform**: YouTube Shorts
+2. **Format**: Storytelling/Brand Journey
+3. **Hook**: "How Fogg became the king of freshness!"
+4. **Full Script**:
+   - **[Scene 1: Narrator speaking over a montage of Fogg products and their evolution]**
+     - **Dialogue**: "Once upon a time, a little brand called Fogg decided to take on the giants of the fragrance world."
+   - **[Scene 2: Footage of people using Fogg sprays in various settings]**
+     - **Dialogue**: "With a commitment to quality and affordability, Fogg's unique scents quickly became a favorite."
+   - **[Scene 3: Fast cuts of social media posts and customer reviews praising Fogg]**
+     - **Dialogue**: "From social media buzz to rave reviews, Fogg's journey to the top was unstoppable."
+   - **[Scene 4: Closing shot of the Fogg Marco Body Spray with a crown placed on it]**
+     - **Dialogue**: "And today, Fogg reigns supreme as the king of freshness. Try it for yourself!"
+5. **CTA**: "Click below to join the Fogg revolution and feel fresh all day!"
+6. **Why it will work**: YouTube Shorts are ideal for storytelling and capturing attention quickly. This script mirrors the engaging narrative style of "The Story of How Fogg OVERTOOK Axe" video, providing viewers with a compelling reason to engage with the brand and product.

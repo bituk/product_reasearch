@@ -67,7 +67,7 @@ TEMPLATES = [
         },
     },
 ]
-_db_url = None #os.environ.get("SUPABASE_DB_URL")
+_db_url = os.environ.get("DATABASE_URL") or os.environ.get("SUPABASE_DB_URL")
 if os.environ.get("USE_SQLITE"):
     DATABASES = {
         "default": {

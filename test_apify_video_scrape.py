@@ -82,9 +82,11 @@ def test_download_sample():
     out_dir = Path(__file__).parent / "downloads" / "test_apify_scrape"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # TikTok
+    # TikTok (direct URL when available, yt-dlp fallback when not)
     print("\n--- Download test: TikTok ---")
-    tiktok = run_apify_tiktok(["productreview"], max_results=1, should_download_videos=True)
+    tiktok = run_apify_tiktok(["productreview"], max_results=3, should_download_videos=False)
+    if not tiktok:
+        tiktok = run_apify_tiktok(["productreview"], max_results=3, should_download_videos=True)
     if tiktok:
         v = tiktok[0]
         r = download_video(v.url, out_dir / "tiktok", video_direct_url=v.video_direct_url or None)
@@ -94,14 +96,13 @@ def test_download_sample():
             print(f"  FAIL: {r.get('error', 'Unknown error')}")
             return False
     else:
-        print("  SKIP: No TikTok videos to download")
+        print("  SKIP: No TikTok videos returned")
 
-    # Instagram (Apify returns videoUrl only for type=Video; posts may be images)
+    # Instagram (direct URL when available, yt-dlp fallback when not)
     print("\n--- Download test: Instagram ---")
     insta = run_apify_instagram(["productreview"], max_results=5)
-    insta_videos = [v for v in insta if v.video_direct_url]
-    if insta_videos:
-        v = insta_videos[0]
+    if insta:
+        v = insta[0]
         r = download_video(v.url, out_dir / "instagram", video_direct_url=v.video_direct_url or None)
         if r["success"]:
             print(f"  OK: Downloaded {r['video_path']} ({Path(r['video_path']).stat().st_size:,} bytes)")
@@ -109,7 +110,7 @@ def test_download_sample():
             print(f"  FAIL: {r.get('error', 'Unknown error')}")
             return False
     else:
-        print("  SKIP: No Instagram Video posts (Apify may return images; videoUrl only for type=Video)")
+        print("  SKIP: No Instagram videos returned")
 
     return True
 

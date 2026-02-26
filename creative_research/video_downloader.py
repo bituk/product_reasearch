@@ -159,14 +159,17 @@ def download_video(
     }
 
     # Try direct download first when we have CDN or Apify storage URL (Instagram, TikTok)
+    is_instagram = "instagram.com" in (url or "")
     is_tiktok_cdn = "tiktok" in (video_direct_url or "").lower()
     is_apify_storage = "api.apify.com" in (video_direct_url or "")
-    if video_direct_url and (
+    has_direct = video_direct_url and (
         ".mp4" in video_direct_url
         or "cdninstagram" in video_direct_url
+        or "scontent" in video_direct_url
         or is_tiktok_cdn
         or is_apify_storage
-    ):
+    )
+    if has_direct:
         import re
         vid_id = _extract_youtube_id(url) or _extract_tiktok_id(url) or re.sub(r"[^\w\-]", "_", (url or "")[-60:]) or "video"
         out_path = out_dir / f"{vid_id}.mp4"
@@ -180,14 +183,16 @@ def download_video(
             result["success"] = True
             result["video_path"] = str(out_path.absolute())
             # No transcript from direct download; try yt-dlp for transcript only if we have page URL
-            if extract_transcript and ("instagram.com" in url):
+            if extract_transcript and is_instagram:
                 try:
                     transcript = extract_transcript_yt_dlp(url, out_dir)
                     result["transcript"] = transcript
                 except Exception:
                     pass
             return result
+        # Direct download failed — fall through to yt-dlp (Instagram/TikTok)
 
+    # Fallback: yt-dlp from page URL (works for Instagram/TikTok when no direct URL or direct failed)
     try:
         import yt_dlp
         def _duration_filter(info, *, incomplete=False):

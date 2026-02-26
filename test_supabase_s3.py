@@ -25,7 +25,7 @@ if _env_path.exists():
 
 def test_supabase_db() -> bool:
     """Test Supabase PostgreSQL connection."""
-    db_url = os.environ.get("DATABASE_URL") or os.environ.get("SUPABASE_DB_URL")
+    db_url = os.environ.get("SUPABASE_DB_URL")
     if not db_url:
         print("  SKIP: DATABASE_URL or SUPABASE_DB_URL not set in .env")
         return False
