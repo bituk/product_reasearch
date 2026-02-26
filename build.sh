@@ -1,11 +1,9 @@
 #!/usr/bin/env bash
 set -o errexit
 
-# Install dependencies
+# Install dependencies (requirements.txt at root includes api/requirements.txt)
 pip install -r requirements.txt
 
-# Collect static files (run from api/ where manage.py lives)
+# Collect static files and run migrations
 cd api && python manage.py collectstatic --no-input --clear
-
-# Run migrations
 python manage.py migrate --no-input

@@ -1,0 +1,16 @@
+[Unit]
+Description=Product Research Gunicorn
+After=network.target redis-server.service
+
+[Service]
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/opt/product_research/api
+Environment="PATH=/opt/product_research/venv/bin"
+EnvironmentFile=/opt/product_research/.env
+ExecStart=/opt/product_research/venv/bin/gunicorn api.wsgi:application --bind 0.0.0.0:8000 --workers 2 --threads 2
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

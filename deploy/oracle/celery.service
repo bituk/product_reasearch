@@ -1,0 +1,16 @@
+[Unit]
+Description=Product Research Celery Worker
+After=network.target redis-server.service
+
+[Service]
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/opt/product_research/api
+Environment="PATH=/opt/product_research/venv/bin"
+EnvironmentFile=/opt/product_research/.env
+ExecStart=/opt/product_research/venv/bin/celery -A api worker -l info
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

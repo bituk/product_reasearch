@@ -1,3 +1,12 @@
+# Deployment
+
+| Platform | Guide |
+|----------|-------|
+| **Render** | [Quick start](#quick-start) below |
+| **Oracle Cloud VM** | [DEPLOY_ORACLE.md](DEPLOY_ORACLE.md) |
+
+---
+
 # Deploy to Render
 
 ## Quick start

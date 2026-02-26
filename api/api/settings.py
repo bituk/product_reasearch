@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [h.strip() for h in _allowed] + [".ngrok-free.app", ".ngrok-free
 if _host := os.environ.get("RENDER_EXTERNAL_HOSTNAME"):
     ALLOWED_HOSTS.append(_host)
 ALLOWED_HOSTS.extend([".onrender.com"])  # *.onrender.com for Render preview URLs
+# Oracle VM: set DJANGO_ALLOWED_HOSTS to your VM public IP or domain
 
 INSTALLED_APPS = [
     "corsheaders",
