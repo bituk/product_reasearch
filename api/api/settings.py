@@ -23,9 +23,14 @@ if _env_path.exists():
         pass
 
 SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "dev-secret-key-change-in-production")
-DEBUG = os.environ.get("DJANGO_DEBUG", "1") == "1"
+# Disable DEBUG on Render (RENDER env var is set automatically)
+DEBUG = os.environ.get("DJANGO_DEBUG", "1") == "1" and "RENDER" not in os.environ
 _allowed = os.environ.get("DJANGO_ALLOWED_HOSTS", "localhost,127.0.0.1").split(",")
 ALLOWED_HOSTS = [h.strip() for h in _allowed] + [".ngrok-free.app", ".ngrok-free.dev"]
+# Add Render hostname when deployed
+if _host := os.environ.get("RENDER_EXTERNAL_HOSTNAME"):
+    ALLOWED_HOSTS.append(_host)
+ALLOWED_HOSTS.extend([".onrender.com"])  # *.onrender.com for Render preview URLs
 
 INSTALLED_APPS = [
     "corsheaders",
@@ -41,6 +46,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "corsheaders.middleware.CorsMiddleware",  # Must be before CommonMiddleware
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -101,7 +107,10 @@ TIME_ZONE = "UTC"
 USE_I18N = True
 USE_TZ = True
 
-STATIC_URL = "static/"
+STATIC_URL = "/static/"
+STATIC_ROOT = BASE_DIR / "staticfiles"
+if not DEBUG:
+    STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # CORS — allow all origins when sharing via ngrok so external integrators don't get CORS errors
@@ -130,3 +139,6 @@ CELERY_ACCEPT_CONTENT = ["json"]
 CELERY_TASK_SERIALIZER = "json"
 CELERY_RESULT_SERIALIZER = "json"
 CELERY_TIMEZONE = "UTC"
+CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True
+CELERY_TASKS_ACKS_LATE = True
+CELERY_WORKER_PREFETCH_MULTIPLIER = 1

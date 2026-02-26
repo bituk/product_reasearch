@@ -1,0 +1,64 @@
+# Render Blueprint — Product Research API
+# Deploy: Dashboard → New → Blueprint → Connect repo
+# Set env vars in Render Dashboard (see DEPLOY.md)
+
+services:
+  # Free Redis (Key Value) for Celery broker + result backend
+  - type: keyvalue
+    name: product-research-redis
+    plan: free
+    maxmemoryPolicy: noeviction  # Don't evict queued tasks
+    ipAllowList: []  # Internal connections only
+
+  # Django web API
+  - type: web
+    plan: free
+    name: product-research-api
+    runtime: python
+
+    buildCommand: chmod +x build.sh && ./build.sh
+    startCommand: cd api && gunicorn api.wsgi:application --bind 0.0.0.0:$PORT
+
+    envVars:
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_DEBUG
+        value: "0"
+      - key: CELERY_BROKER_URL
+        fromService:
+          type: keyvalue
+          name: product-research-redis
+          property: connectionString
+      - key: CELERY_RESULT_BACKEND
+        fromService:
+          type: keyvalue
+          name: product-research-redis
+          property: connectionString
+      # Add in Render Dashboard: DATABASE_URL/SUPABASE_DB_URL, OPENAI_API_KEY, etc.
+
+  # Celery background worker (uses starter plan; free not available for workers)
+  - type: worker
+    plan: starter
+    name: product-research-celery-worker
+    runtime: python
+
+    buildCommand: pip install -r requirements.txt
+    startCommand: cd api && celery -A api worker -l info
+
+    envVars:
+      - key: DJANGO_SECRET_KEY
+        fromService:
+          type: web
+          name: product-research-api
+          envVarKey: DJANGO_SECRET_KEY
+      # Add DATABASE_URL or SUPABASE_DB_URL in Dashboard (same as web service)
+      - key: CELERY_BROKER_URL
+        fromService:
+          type: keyvalue
+          name: product-research-redis
+          property: connectionString
+      - key: CELERY_RESULT_BACKEND
+        fromService:
+          type: keyvalue
+          name: product-research-redis
+          property: connectionString
