@@ -100,17 +100,22 @@ Product page content (excerpt):
         "You produce structured, actionable research reports in Markdown. "
         "Output only valid Markdown, no preamble."
     )
+    report_date = datetime.utcnow().strftime("%B %d, %Y")  # e.g. "February 28, 2025"
     use_scraped = " Use the scraped videos and comments data below when present to ground your analysis in real examples." if scraped_data else ""
     user1 = (
         "Using the product link and page content below, produce the following sections "
         "for a Creative Agency Research Report. Output each section with the exact headings."
         + use_scraped + "\n\n"
-        "1) **Report Cover / Meta**: Product name, product link, report date (today), "
+        f"**IMPORTANT: Use this exact report date: {report_date}** (do not invent or use any other date).\n\n"
+        "1) **Report Cover / Meta**: Product name, product link, report date (" + report_date + "), "
         "category/vertical, and a one-line product summary.\n\n"
         "2) **1A. Hashtag & Search Strategy**: List 10–20 product-related hashtags. "
+        "Include BOTH direct product hashtags (e.g. #beardgrowth #beardoil) AND indirect/broader category hashtags "
+        "(e.g. #hairgrowth #mensfashion #Menscuts #beard #mensgrooming #grooming) to reach wider audiences. "
         "Then list search queries to use on YouTube, TikTok, and Instagram. "
         "Add a suggested time range (e.g. last 3–6 months).\n\n"
         "3) **1C. Competitors**: List 5–15 competitors (name, product type, positioning one-liner). "
+        "Prioritize direct-response / DTC brands in the same style culture (e.g. Beardbrand, Dollar Shave Club for grooming). "
         "Include ad library links: Meta Ad Library, TikTok Creative Center, Google Ads Transparency. "
         "Use the **Competitor analysis (Tavily search)** data when present.\n\n"
         + product_context
@@ -120,16 +125,23 @@ Product page content (excerpt):
     user2 = (
         "Continue the same Creative Research Report. "
         "4) **1B. Video Scrapes**: For YouTube, YouTube Shorts, TikTok, Instagram Reels: "
-        "what to scrape, key metrics, curated list of 5–8 example videos with metrics and why they work. "
-        "5) **1D. Organic Concepts**: 5–10 standout organic video ideas.\n\n"
+        "what to scrape, key metrics. Curate 5–8 example videos from the scraped data—ALWAYS include the [Link](URL) "
+        "for each video so readers can click through. PREFER third-party/creator content over brand-owned channels; "
+        "prioritize videos with strong engagement (views, likes, comments). Explain why each works.\n\n"
+        "5) **1D. Organic Concepts**: 5–10 standout organic video ideas that are actionable and high-value. "
+        "Each idea must be specific: hook angle, key message, format (e.g. before/after, day-in-life, transformation), "
+        "and why it would resonate. Avoid generic fillers—focus on concepts that could directly inform ad creative.\n\n"
         + product_context
     )
     part2 = call_llm(system1, user2, openai_model=model)
 
     user3 = (
         "Continue the report. "
-        "6) **2A. Comment Scrapes**: Platforms, what to extract, verbatim comment banks by theme "
-        "(desire, objection, question, comparison, surprise). "
+        "6) **2A. Comment Scrapes**: Clearly describe what was scraped (YouTube comments from third-party videos, "
+        "Reddit posts/discussions). For each platform, list verbatim comment banks organized by theme: "
+        "Desire (what people want), Objection (skepticism/doubts), Question (common questions), "
+        "Comparison (vs. alternatives), Surprise (unexpected positive feedback). "
+        "Cite specific quotes from the scraped data—if no relevant comments were found, say so and explain why.\n\n"
         "7) **2B. Thematic Clusters**: Desires, Objections, Questions, Comparisons, Surprise.\n\n"
         + product_context
     )
@@ -145,10 +157,10 @@ Product page content (excerpt):
     )
     part4 = call_llm(system1, user4, openai_model=model)
 
-    report_date = datetime.utcnow().strftime("%Y-%m-%d")
+    cover_date = datetime.utcnow().strftime("%Y-%m-%d")
     cover = (
         f"# Creative Agency Research Report\n\n"
-        f"**Generated:** {report_date}  \n"
+        f"**Generated:** {cover_date}  \n"
         f"**Product link:** {product_link}\n\n"
         "---\n\n"
     )

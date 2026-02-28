@@ -33,11 +33,17 @@ Product page excerpt:
 
 Generate JSON only (no markdown):
 {{
-  "search_queries": ["query1", "query2", ...],  // 8-12 queries for YouTube/TikTok/Instagram search
-  "subreddits": ["sub1", "sub2", ...]          // 5-10 relevant subreddits
+  "search_queries": ["query1", "query2", ...],  // 8-12 clever, thought-out queries
+  "subreddits": ["sub1", "sub2", ...],         // 5-10 relevant subreddits
+  "hashtags": ["tag1", "tag2", ...]            // 8-12 hashtags: mix direct (product-specific) and indirect (broader: #hairgrowth #mensfashion #beard #grooming)
 }}
 
-Use product name, category, and features. Queries should find reviews, unboxing, comparisons."""
+Search query guidelines—be creative and specific, not generic:
+- Use phrases real people type: "does [product type] actually work", "honest [product] review", "[product] before and after"
+- Include pain-point angles: "patchy beard fix", "beard growth journey", "best beard oil for dry skin"
+- Add format-specific: "unboxing [product]", "[product] vs [competitor]", "30 day [product] results"
+- Vary specificity: some broad (#mensgrooming), some niche (exact product name)
+- Avoid bland queries like "product review" or "best product"—craft queries that surface authentic UGC and third-party creators."""
 
     text = call_llm_json(prompt, openai_model=model)
     # Parse JSON from response (may be wrapped in ```json)
@@ -46,9 +52,11 @@ Use product name, category, and features. Queries should find reviews, unboxing,
     try:
         data = json.loads(text)
     except json.JSONDecodeError:
-        data = {"search_queries": ["product review", "best"], "subreddits": ["all"]}
+        data = {"search_queries": ["product review", "best"], "subreddits": ["all"], "hashtags": []}
     if not isinstance(data.get("search_queries"), list):
         data["search_queries"] = ["product review", "best"]
     if not isinstance(data.get("subreddits"), list):
         data["subreddits"] = ["all"]
+    if not isinstance(data.get("hashtags"), list):
+        data["hashtags"] = []
     return data

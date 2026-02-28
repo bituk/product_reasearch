@@ -69,7 +69,7 @@ def run_pipeline_v2(
 
     result: dict[str, Any] = {
         "product_link": product_link,
-        "keywords": {"search_queries": [], "subreddits": []},
+        "keywords": {"search_queries": [], "subreddits": [], "hashtags": []},
         "scraped_data": None,
         "download_results": [],
         "video_analyses": [],
@@ -90,7 +90,7 @@ def run_pipeline_v2(
     # 2) Keywords
     _stage("keywords")
     if search_queries_override is not None and subreddits_override is not None:
-        keywords = {"search_queries": search_queries_override, "subreddits": subreddits_override}
+        keywords = {"search_queries": search_queries_override, "subreddits": subreddits_override, "hashtags": []}
     else:
         keywords = generate_keywords(product_link, product_page_text, model=model)
         if search_queries_override is not None:
@@ -100,6 +100,7 @@ def run_pipeline_v2(
     result["keywords"] = keywords
     search_queries = keywords.get("search_queries") or ["product review", "best"]
     subreddits = keywords.get("subreddits") or ["all"]
+    hashtags = keywords.get("hashtags") or []
     if apify_only:
         search_queries = search_queries or ["productreview"]
 
@@ -109,6 +110,7 @@ def run_pipeline_v2(
         product_link,
         search_queries=search_queries,
         subreddits=subreddits,
+        hashtags=hashtags,
         product_page_text=product_page_text,
         tiktok_download_videos=download_videos,
         apify_only=apify_only,

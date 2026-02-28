@@ -82,8 +82,8 @@ if os.environ.get("USE_SQLITE"):
             "NAME": BASE_DIR / "db.sqlite3",
         }
     }
-elif _db_url:
-    DATABASES = {"default": dj_database_url.parse(_db_url)}
+# elif _db_url:
+#     DATABASES = {"default": dj_database_url.parse(_db_url)}
 else:
     DATABASES = {
         "default": {

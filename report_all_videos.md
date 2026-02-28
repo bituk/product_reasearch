@@ -1,1041 +1,1026 @@
 # Creative Agency Research Report
 
-**Generated:** 2026-02-25  
-**Product link:** https://www.amazon.in/Fogg-Marco-Body-Spray-150ml/dp/B00YEJYSEM/ref=asc_df_B00YEJYSEM?mcid=1ff4bbee267d3dc39cc3b5cd4f295bad&tag=googleshopdes-21&linkCode=df0&hvadid=709857154206&hvpos=&hvnetw=g&hvrand=2666009949003637407&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062010&hvtargid=pla-318881732599&psc=1&gad_source=1
+**Generated:** 2026-02-28  
+**Product link:** https://thebeardclub.com/
 
 ---
-
-# Creative Agency Research Report
 
 ## Report Cover / Meta
 
-- **Product Name**: Fogg Marco Body Spray 150ml
-- **Product Link**: [Fogg Marco Body Spray 150ml](https://www.amazon.in/Fogg-Marco-Body-Spray-150ml/dp/B00YEJYSEM)
-- **Report Date**: October 25, 2023
-- **Category/Vertical**: Personal Care / Fragrances
-- **Product Summary**: Fogg Marco Body Spray offers a long-lasting fragrance that is perfect for daily use, providing a refreshing scent that keeps you feeling fresh all day.
-
-## 1A. Hashtag & Search Strategy
-
-### Hashtags
-- #FoggMarco
-- #BodySpray
-- #Fragrance
-- #MensFragrance
-- #LongLasting
-- #FoggPerfume
-- #FreshScent
-- #DailyFragrance
-- #PerfumeForMen
-- #Deodorant
-- #NoGasBodySpray
-- #FoggIndia
-- #Aromatic
-- #AffordableLuxury
-- #FoggCollection
-- #ScentOfTheDay
-- #StayFresh
-- #FragranceLovers
-- #PerfumeAddict
-
-### Search Queries
-#### YouTube
-- "Fogg Marco Body Spray review"
-- "Best body sprays for men 2023"
-- "Fogg body spray vs Axe"
-- "How to apply body spray for men"
-- "Fogg Marco unboxing and first impressions"
-
-#### TikTok
-- "Fogg Marco scent test"
-- "Affordable body sprays for men"
-- "Fogg Marco vs other Fogg scents"
-- "Best budget fragrances for men"
-- "Daily fragrance routine with Fogg"
-
-#### Instagram
-- "Fogg Marco style"
-- "Fragrance layering tips with Fogg"
-- "Fogg body spray collection"
-- "Men's grooming essentials Fogg"
-- "Fogg Marco scent of the day"
-
-**Suggested Time Range**: Last 3–6 months
-
-## 1C. Competitors
-
-1. **Axe**
-   - **Product Type**: Body Spray
-   - **Positioning**: Known for its strong and distinct scents, Axe offers a range of body sprays targeting young men.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
-
-2. **Wild Stone**
-   - **Product Type**: Body Spray
-   - **Positioning**: Offers a variety of masculine fragrances at affordable prices, focusing on long-lasting scents.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
-
-3. **Nivea Men**
-   - **Product Type**: Deodorant & Body Spray
-   - **Positioning**: Combines skincare with deodorant, offering gentle yet effective products for sensitive skin.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
-
-4. **Set Wet**
-   - **Product Type**: Body Spray
-   - **Positioning**: Targets the youth market with vibrant, energetic scents and a fun, youthful brand image.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
-
-5. **Denver**
-   - **Product Type**: Body Spray
-   - **Positioning**: Offers premium quality fragrances at an affordable price, focusing on sophistication and elegance.
-   - **Ad Library Links**: [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/tools/ads-transparency/)
+**Product Name:** The Beard Club | Men's Grooming & Beard Products  
+**Product Link:** [The Beard Club](https://thebeardclub.com/)  
+**Report Date:** February 28, 2026  
+**Category/Vertical:** Men's Grooming  
+**Product Summary:** The Beard Club offers a range of grooming products and kits designed to enhance beard growth and maintenance, backed by a growth guarantee.
 
 ---
 
-# Creative Research Report
+## 1A. Hashtag & Search Strategy
 
-## 4) 1B. Video Scrapes
+**Product-Related Hashtags:**
 
-### Platforms: YouTube, YouTube Shorts, TikTok, Instagram Reels
+1. #BeardGrowth
+2. #BeardActivator
+3. #BeardOil
+4. #BeardClub
+5. #BeardCare
+6. #MensGrooming
+7. #FacialHair
+8. #BeardStyle
+9. #BeardKits
+10. #BeardProducts
+11. #MensFashion
+12. #GroomingEssentials
+13. #BeardGoals
+14. #BeardMaintenance
+15. #BeardJourney
+16. #HealthyBeard
+17. #BeardTrends
+18. #BeardTips
+19. #BeardLife
+20. #BeardGang
 
-#### What to Scrape:
-- **Video Title and URL**
-- **Views, Likes, Comments**
-- **Video Description**
-- **Key Phrases/Tags**
-- **Call-to-Action (CTA)**
-- **Transcript (if available)**
+**Search Queries:**
 
-#### Key Metrics:
-- **Engagement Rate**: (Likes + Comments) / Views
-- **View Count**: Indicates reach and popularity
-- **Like-Comment Ratio**: Measures audience interaction
-- **CTA Effectiveness**: Click-through rates or mentions in comments
+- YouTube: "How to grow a beard fast", "Beard growth tips", "Best beard growth products", "Beard care routine"
+- TikTok: "Beard growth journey", "Beard grooming hacks", "Beard transformation", "Beard oil benefits"
+- Instagram: "Beard styles 2026", "Beard care products", "Beard grooming tips", "Beard growth before and after"
 
-#### Curated List of Example Videos:
+**Suggested Time Range:** Last 3–6 months
 
-1. **I Bought All Popular Best PERFUME For Men | Budget Fragrance vs Designer**
-   - URL: [YouTube](https://www.youtube.com/watch?v=1CMz_J_KYbY)
-   - Views: 994,664 | Likes: 26,989 | Comments: 1,508
-   - **Why it Works**: Comprehensive comparison of budget vs designer fragrances, engaging storytelling, and strong CTA for product links.
+---
 
-2. **The Story of How Fogg OVERTOOK Axe**
-   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=tnKZ_tY4QXA)
-   - Views: 4,137,284 | Likes: 145,156 | Comments: 676
-   - **Why it Works**: Captivating narrative on brand success, high engagement with a compelling storyline, and effective use of short-form content.
+## 1C. Competitors
 
-3. **Top 10 Best Body Sprays For Men UNDER 200/-**
-   - URL: [YouTube](https://www.youtube.com/watch?v=u90j_bW1ZzQ)
-   - Views: 619,218 | Likes: 34,836 | Comments: 664
-   - **Why it Works**: Focus on affordability, clear presentation of options, and relatable content for budget-conscious viewers.
+1. **Beardbrand**  
+   - **Product Type:** Comprehensive grooming products  
+   - **Positioning:** Elevates grooming with versatile products for beard, hair, and skin care.  
+   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
 
-4. **200Rs me 7000Rs Wala Perfume..... #perfumes #shorts**
-   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=myevGyQdYiQ)
-   - Views: 2,121,719 | Likes: 121,896 | Comments: 263
-   - **Why it Works**: Highlights value for money, intriguing title, and strong CTA driving traffic to purchase links.
+2. **Dollar Shave Club**  
+   - **Product Type:** Shaving and grooming kits  
+   - **Positioning:** Affordable, high-quality grooming essentials delivered to your door.  
+   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
 
-5. **Enadhu Alcohol illadha Body Spray uh 😍❤️ | Idhu super uh iruke 🔥**
-   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=sIKidnsT-OI)
-   - Views: 1,908,163 | Likes: 120,900 | Comments: 565
-   - **Why it Works**: Unique selling proposition of alcohol-free body spray, engaging presentation, and effective use of regional language.
+3. **BeardBox**  
+   - **Product Type:** Beard care subscription kit  
+   - **Positioning:** Monthly subscription featuring essentials to nourish, style, and refresh your beard.  
+   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
 
-6. **Top 3 Deos For Men That Smell Expensive!**
-   - URL: [YouTube Shorts](https://www.youtube.com/watch?v=u_QKcXfjonQ)
-   - Views: 1,418,826 | Likes: 45,970 | Comments: 281
-   - **Why it Works**: Focus on premium scents at affordable prices, visual appeal, and concise delivery.
+4. **Mumkin Store**  
+   - **Product Type:** Beard growth kits  
+   - **Positioning:** Enhances beard growth and reduces breakage with comprehensive kits.  
+   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+
+5. **Raffin**  
+   - **Product Type:** Beard growth kits with dermaroller  
+   - **Positioning:** Utilizes dermarollers to stimulate beard growth effectively.  
+   - **Ad Library Links:** [Meta Ad Library](https://www.facebook.com/ads/library/), [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/), [Google Ads Transparency](https://ads.google.com/intl/en_us/home/)
+
+---
+
+---
+
+## 1B. Video Scrapes
+
+For this section, we have curated a selection of videos from YouTube, YouTube Shorts, TikTok, and Instagram Reels that showcase effective third-party content related to beard growth and grooming. These videos were chosen based on their engagement metrics, including views, likes, and comments, to ensure they resonate with audiences.
+
+### YouTube Videos
+
+1. **How to Grow Beard Faster (दाढ़ी को तेजी से कैसे बढ़ाएं) | HairMD, Pune**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=cPyOXBkuCs8)
+   - **Views:** 6,997,443 | **Likes:** 151,603 | **Comments:** 10,768
+   - **Why it Works:** This video features a dermatologist explaining how to grow a beard faster, providing scientific insights and practical tips. The credibility of a medical professional and the educational content make it engaging and trustworthy.
+
+2. **Why Some Men Can't Grow Beards**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=aukTxMq-VwU)
+   - **Views:** 4,848,227 | **Likes:** 72,447 | **Comments:** 9,481
+   - **Why it Works:** By addressing a common concern with scientific explanations, this video appeals to viewers seeking understanding and solutions. The expert commentary adds authority and interest.
+
+3. **Is MICRONEEDLING Worth the Hype? Doctorly Explains**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=JPWycy8cwN8)
+   - **Views:** 3,101,011 | **Likes:** 42,777 | **Comments:** 2,425
+   - **Why it Works:** The video discusses microneedling, a popular topic in beard growth, with insights from medical professionals. The detailed explanation and potential benefits attract viewers interested in advanced grooming techniques.
+
+4. **How to Grow a Beard | 5 Things EVERY Beginner Should Know!!**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=of7BPvhMwbw)
+   - **Views:** 2,911,235 | **Likes:** 59,393 | **Comments:** 2,386
+   - **Why it Works:** This video provides beginner-friendly tips in a straightforward manner, making it accessible and actionable for viewers new to beard grooming.
+
+5. **8 BEARD GROWING MISTAKES YOU NEED TO AVOID with Matty Conrad**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=pEXx2MFJsFU)
+   - **Views:** 2,336,178 | **Likes:** 48,911 | **Comments:** 1,267
+   - **Why it Works:** The video highlights common mistakes, offering practical advice and engaging storytelling from a well-known barber, which resonates with viewers looking to improve their beard grooming routine.
+
+### YouTube Shorts
+
+1. **Minoxidil Beard Growth First 47 Days Result**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=yZCZafyCpWU)
+   - **Views:** 10,634,775 | **Likes:** 137,097 | **Comments:** 739
+   - **Why it Works:** The short format and dramatic before-and-after visuals capture attention quickly, making it ideal for viewers seeking quick inspiration and proof of product effectiveness.
+
+2. **How to Fasten Your Beard Growth?**
+   - **URL:** [Watch Video](https://www.youtube.com/watch?v=2B4aInCuFAM)
+   - **Views:** 6,112,908 | **Likes:** 239,138 | **Comments:** 851
+   - **Why it Works:** The video combines quick tips with engaging visuals, appealing to viewers looking for rapid advice and easy-to-implement strategies.
+
+### TikTok Videos
+
+1. **Looking a Little Unhinged in Week 7**
+   - **URL:** [Watch Video](https://www.tiktok.com/@connorpatrick12/video/7289174780971011374)
+   - **Views:** 14,400,000 | **Likes:** 770,600 | **Comments:** 5,542
+   - **Why it Works:** The relatable and humorous approach to documenting beard growth over time engages viewers and encourages them to follow the journey.
+
+2. **Sorry About the Jumpscare on Day Two’s Growth**
+   - **URL:** [Watch Video](https://www.tiktok.com/@connorpatrick12/video/7205260497359211819)
+   - **Views:** 13,700,000 | **Likes:** 1,500,000 | **Comments:** 13,700
+   - **Why it Works:** The playful tone and unexpected content create a memorable experience, encouraging shares and discussions among viewers.
+
+### Instagram Reels
+
+1. **No Shave November: Day 14**
+   - **URL:** [Watch Video](https://www.instagram.com/reel/DRCjux2jrD7/)
+   - **Views:** 6,332 | **Likes:** 6,332 | **Comments:** 199
+   - **Why it Works:** The seasonal theme and community-driven challenge encourage participation and engagement, making it timely and relevant.
+
+2. **How to Make a White Beard Black?**
+   - **URL:** [Watch Video](https://www.instagram.com/reel/DBsqYR-h8rM/)
+   - **Views:** 8,253 | **Likes:** 8,253 | **Comments:** 215
+   - **Why it Works:** The video offers a solution to a specific problem, using natural remedies, which appeals to viewers interested in holistic and sustainable grooming solutions.
+
+## 1D. Organic Concepts
+
+Here are standout organic video ideas that align with The Beard Club's brand and products. These concepts are designed to be actionable and resonate with target audiences.
+
+1. **Transformation Journey: From Patchy to Full Beard**
+   - **Hook Angle:** Start with a close-up of a patchy beard, then transition to a full beard.
+   - **Key Message:** "Unlock your beard's potential with The Beard Club."
+   - **Format:** Before/after transformation.
+   - **Resonance:** Visual transformations are compelling and provide tangible proof of product effectiveness.
+
+2. **Day-in-the-Life of a Beard Enthusiast**
+   - **Hook Angle:** Morning routine focusing on grooming products.
+   - **Key Message:** "Start your day with confidence."
+   - **Format:** Day-in-life vlog.
+   - **Resonance:** Relatable content that integrates products into daily life, showcasing ease of use.
+
+3. **Myth-Busting: Beard Growth Edition**
+   - **Hook Angle:** "Think shaving makes your beard grow faster? Think again!"
+   - **Key Message:** "Discover the truth with The Beard Club."
+   - **Format:** Educational myth-busting.
+   - **Resonance:** Engages viewers by challenging common misconceptions and providing expert insights.
+
+4. **Beard Care Tips from Professional Barbers**
+   - **Hook Angle:** "Top tips from the pros for a healthier beard."
+   - **Key Message:** "Professional advice, at your fingertips."
+   - **Format:** Interview or tutorial.
+   - **Resonance:** Leverages authority and expertise, appealing to viewers seeking professional guidance.
+
+5. **The Science of Beard Growth**
+   - **Hook Angle:** "Ever wondered how beard growth actually works?"
+   - **Key Message:** "Science-backed solutions for your beard."
+   - **Format:** Animated explainer.
+   - **Resonance:** Appeals to viewers interested in the 'why' behind product claims, enhancing credibility.
+
+6. **User Testimonials: Real Results**
+   - **Hook Angle:** "See what our customers have to say!"
+   - **Key Message:** "Join the Beard Club community."
+   - **Format:** Testimonial montage.
+   - **Resonance:** Builds trust through authentic user experiences and community-driven content.
+
+7. **Seasonal Grooming Guide: Winter Beard Care**
+   - **Hook Angle:** "Keep your beard healthy this winter."
+   - **Key Message:** "Seasonal tips for optimal beard health."
+   - **Format:** Seasonal guide.
+   - **Resonance:** Timely content that addresses seasonal concerns, providing value to the audience.
+
+8. **Quick Tips: Daily Beard Maintenance**
+   - **Hook Angle:** "5 quick tips for a perfect beard every day."
+   - **Key Message:** "Effortless grooming with The Beard Club."
+   - **Format:** Quick tips/tutorial.
+   - **Resonance:** Provides actionable advice in a concise format, ideal for busy viewers.
+
+---
+
+## 6) **2A. Comment Scrapes**
+
+### YouTube Comments
+
+**Platform:** YouTube
+
+**Themes:**
+
+- **Desire (What People Want):**
+  - "Hamko lena hai 😊" - Users express interest in purchasing products.
+  - "Sir berad grey ho gaya (29 year) koi beard oil suggest kar do" - Desire for products that address beard graying.
+
+- **Objection (Skepticism/Doubts):**
+  - "BEARDS ARE UGLY" - Negative perception of beards.
+  - "No proper beard. Deep AF voice. An Adam's Apple which wants to escape. Hairy Ass. Yup, checks out." - Skepticism about beard growth effectiveness.
+
+- **Question (Common Questions):**
+  - "Sir phle Mera bearded achha grow kr rha tha pr kuch dino se like before 15-20 day, mera bearded ka kuch hissa khali sa ho gya h, waha pr hair hi nhi h. toh mai kya jo mera bearded hair grow krne lage phir se ussi jagah pe ??" - Questions about uneven beard growth.
+  - "Kya Pimple hone sey Beard Nahi Ati hai" - Inquiry about acne affecting beard growth.
+
+- **Comparison (vs. Alternatives):**
+  - "Topical monoxidil. You can thank me later." - Comparison with other beard growth solutions like Minoxidil.
+
+- **Surprise (Unexpected Positive Feedback):**
+  - "Hah bro still can grow my facial hair in 2 weeks than me. But honestly I have so little that I don't even mind it. I just need a 30 second shave once a week :)" - Surprised at the ease of maintenance with minimal beard growth.
+
+### Reddit Discussions
+
+**Platform:** Reddit
+
+**Themes:**
+
+- **Desire (What People Want):**
+  - "Do beard growth kits really grow hair?" - Interest in effectiveness of beard growth kits.
+
+- **Objection (Skepticism/Doubts):**
+  - "Beard growth kits do work in reason meaning if you already have decent genetics and can grow a beard then it can accelerate growth and maintain..." - Skepticism about effectiveness without genetic predisposition.
+
+- **Question (Common Questions):**
+  - "What Beard Growth Products Should You Avoid?" - Seeking advice on ineffective products.
+
+- **Comparison (vs. Alternatives):**
+  - "The Truth About Beard Growth Products: What Really Works" - Comparing effectiveness of various products.
+
+- **Surprise (Unexpected Positive Feedback):**
+  - No specific comments found indicating surprise; discussions are generally focused on expectations and skepticism.
+
+## 7) **2B. Thematic Clusters**
+
+### Desires
+- Users express a strong desire for effective beard growth solutions and products that address specific issues like graying or patchiness.
+
+### Objections
+- Skepticism exists regarding the effectiveness of beard growth products, with some users questioning the necessity of these products.
+
+### Questions
+- Common questions revolve around the effectiveness of products, how to address specific beard growth issues, and comparisons with alternative solutions.
+
+### Comparisons
+- Users often compare beard growth products to other solutions like Minoxidil, seeking the most effective option.
+
+### Surprise
+- Positive surprises are less common, but some users express satisfaction with minimal maintenance or unexpected results from using certain products.
+
+---
+
+## 8) 3A. Avatars (10 Different Avatars to Target)
+
+1. **Name:** Clean-Shaven Professional  
+   **Demographics:** Male, 25-35, Urban, Mid-level professional  
+   **Psychographics:** Career-focused, values appearance, time-conscious  
+   **Where they are:** Urban centers, corporate offices  
+   **Relationship to product:** New to beard grooming, seeking convenience  
+   **Objections:** Concerns about time commitment and effectiveness  
+   **Message that resonates:** "Achieve a polished look effortlessly."
+
+2. **Name:** The Hipster  
+   **Demographics:** Male, 28-40, Urban, Creative industry  
+   **Psychographics:** Trendsetter, eco-conscious, values authenticity  
+   **Where they are:** Coffee shops, co-working spaces  
+   **Relationship to product:** Already using grooming products, looking for quality  
+   **Objections:** Skeptical of commercial products  
+   **Message that resonates:** "Craft your unique style with natural ingredients."
+
+3. **Name:** The Fitness Enthusiast  
+   **Demographics:** Male, 22-35, Suburban, Active lifestyle  
+   **Psychographics:** Health-conscious, disciplined, goal-oriented  
+   **Where they are:** Gyms, outdoor activities  
+   **Relationship to product:** Interested in holistic health, including grooming  
+   **Objections:** Concerns about product ingredients  
+   **Message that resonates:** "Nourish your beard as you do your body."
+
+4. **Name:** The Family Man  
+   **Demographics:** Male, 30-45, Suburban, Married with children  
+   **Psychographics:** Family-oriented, values practicality, budget-conscious  
+   **Where they are:** Family events, community centers  
+   **Relationship to product:** Needs easy grooming solutions  
+   **Objections:** Price sensitivity, time constraints  
+   **Message that resonates:** "Look great with minimal effort."
+
+5. **Name:** The Young Adventurer  
+   **Demographics:** Male, 18-25, Urban/Suburban, Student or early career  
+   **Psychographics:** Adventurous, experimental, values experiences  
+   **Where they are:** Universities, social gatherings  
+   **Relationship to product:** Exploring personal style  
+   **Objections:** Limited budget, lack of experience  
+   **Message that resonates:** "Start your beard journey with confidence."
+
+6. **Name:** The Mature Gentleman  
+   **Demographics:** Male, 45-60, Urban/Suburban, Established career  
+   **Psychographics:** Values tradition, quality-focused, sophisticated  
+   **Where they are:** Golf clubs, business meetings  
+   **Relationship to product:** Experienced with grooming, seeks premium products  
+   **Objections:** High expectations for product quality  
+   **Message that resonates:** "Elevate your grooming routine with premium care."
+
+7. **Name:** The Eco-Warrior  
+   **Demographics:** Male, 25-40, Urban, Environmentally conscious  
+   **Psychographics:** Eco-friendly, socially responsible, minimalist  
+   **Where they are:** Farmers markets, eco-friendly events  
+   **Relationship to product:** Prefers sustainable grooming options  
+   **Objections:** Environmental impact of products  
+   **Message that resonates:** "Sustainably crafted for the conscious consumer."
+
+8. **Name:** The Grooming Novice  
+   **Demographics:** Male, 20-30, Urban/Suburban, Entry-level job  
+   **Psychographics:** Learning about self-care, open to guidance, tech-savvy  
+   **Where they are:** Online forums, social media  
+   **Relationship to product:** New to beard care, seeks guidance  
+   **Objections:** Overwhelmed by choices  
+   **Message that resonates:** "Simple steps to a well-groomed beard."
+
+9. **Name:** The Trend Follower  
+   **Demographics:** Male, 18-30, Urban, Socially active  
+   **Psychographics:** Fashion-forward, brand-conscious, social media influencer  
+   **Where they are:** Trendy cafes, fashion events  
+   **Relationship to product:** Follows trends, seeks popular products  
+   **Objections:** Needs assurance of product popularity  
+   **Message that resonates:** "Join the beard revolution with our top-rated kits."
+
+10. **Name:** The DIY Enthusiast  
+    **Demographics:** Male, 25-40, Suburban, Hands-on profession  
+    **Psychographics:** Independent, enjoys crafting, detail-oriented  
+    **Where they are:** Workshops, DIY stores  
+    **Relationship to product:** Interested in customizing grooming routines  
+    **Objections:** Prefers making products himself  
+    **Message that resonates:** "Customize your beard care with our versatile kits."
+
+## 9) 3B. Messaging Pillars
+
+### Top 10 Key Selling Points
+1. Guaranteed beard growth with a money-back promise.
+2. Comprehensive kits with everything needed for grooming.
+3. High-quality, natural ingredients for safe use.
+4. Endorsed by celebrities and influencers.
+5. Over 20,000 positive reviews from satisfied customers.
+6. Easy-to-use products for all beard types.
+7. Affordable luxury with premium kits at discounted prices.
+8. Free gifts and exclusive offers with purchases.
+9. Convenient subscription service for regular delivery.
+10. Expertly formulated products for optimal results.
+
+### 10 Core Desires
+1. Achieving a fuller, thicker beard.
+2. Enhancing personal style and appearance.
+3. Simplifying grooming routines.
+4. Using eco-friendly and sustainable products.
+5. Receiving value for money.
+6. Experiencing a luxurious grooming experience.
+7. Gaining confidence in personal appearance.
+8. Joining a community of like-minded individuals.
+9. Accessing exclusive promotions and offers.
+10. Receiving expert guidance and support.
+
+### 10 Pain Points
+1. Difficulty in growing a full beard.
+2. Frustration with patchy or uneven growth.
+3. Concerns about product safety and ingredients.
+4. Overwhelmed by the variety of grooming products.
+5. High cost of premium grooming solutions.
+6. Lack of time for a detailed grooming routine.
+7. Skepticism about product effectiveness.
+8. Limited availability of quality products locally.
+9. Environmental impact of grooming products.
+10. Uncertainty about the right products for individual needs.
+
+## 10) 3C. Client Details
+
+### Brand Voice
+- Confident, approachable, and knowledgeable.
+- Emphasizes expertise and reliability.
+- Friendly yet professional tone.
+
+### Do's and Don'ts
+- **Do's:** Highlight product benefits, use testimonials, offer clear guidance.
+- **Don'ts:** Avoid overly technical jargon, refrain from making unverified claims, and do not ignore customer feedback.
+
+### Gaps vs. Research
+- **Gaps:** Potential lack of awareness about the environmental impact of products among some consumer segments.
+- **Research:** Indicates a growing demand for sustainable grooming solutions and transparency in product sourcing and manufacturing processes.
+
+---
 
 
 ## 1B.1 Reference Video Details (All Scraped Videos)
 
 Videos scraped (max 25; includes YouTube, Instagram, TikTok, and other platforms when available. transcripts via yt-dlp, analyzed with Gemini (YouTube, Instagram, TikTok, others)). Stats: Views, Likes, Comments, Shares, CTA.
 
-**Video counts:** YouTube: 7 | YouTube Shorts: 13
+**Video counts:** YouTube: 5 | YouTube Shorts: 11 | TikTok: 2 | Instagram: 2
 
 | # | Platform | Title | URL | Views | Likes | Comments | Shares | CTA |
 |---|----------|-------|-----|-------|-------|----------|--------|-----|
-| 1 | YouTube Shorts | The Story of How Fogg OVERTOOK Axe | [Link](https://www.youtube.com/watch?v=tnKZ_tY4QXA) | 4,137,284 | 145,156 | 676 | 0 | 3. CTA (Call-to-Action) |
-| 2 | YouTube Shorts | 200Rs me 7000Rs Wala Perfume..... #perfu | [Link](https://www.youtube.com/watch?v=myevGyQdYiQ) | 2,121,719 | 121,896 | 263 | 0 | 3. CTA (Call-to-Action) |
-| 3 | YouTube Shorts | Enadhu Alcohol illadha Body Spray uh 😍❤️ | [Link](https://www.youtube.com/watch?v=sIKidnsT-OI) | 1,908,163 | 120,900 | 565 | 0 | 3. CTA (Call-to-Action) |
-| 4 | YouTube Shorts | 4 Fogg Perfumes you must know #perfumes  | [Link](https://www.youtube.com/watch?v=sNc2OdAbnYk) | 1,680,733 | 34,057 | 270 | 0 | 3. CTA (Call-to-Action) |
-| 5 | YouTube Shorts | Top 3 Deos For Men That Smell Expensive! | [Link](https://www.youtube.com/watch?v=u_QKcXfjonQ) | 1,418,826 | 45,970 | 281 | 0 | 3. CTA (Call-to-Action) |
-| 6 | YouTube Shorts | How FOGG Became The KING Of Deodorants | [Link](https://www.youtube.com/watch?v=NKWwVb1Ud9o) | 1,273,204 | 47,385 | 99 | 0 | — |
-| 7 | YouTube Shorts | Fake FOGG Reality #businessinfluencer #b | [Link](https://www.youtube.com/watch?v=iFWRo_n8mYE) | 1,082,964 | 97,939 | 204 | 0 | — |
-| 8 | YouTube Shorts | Which Deo Is Best For People Who Sweat M | [Link](https://www.youtube.com/watch?v=3TznaV3kfTU) | 1,031,095 | 20,497 | 131 | 0 | — |
-| 9 | YouTube | I Bought All Popular Best PERFUME For Me | [Link](https://www.youtube.com/watch?v=1CMz_J_KYbY) | 994,664 | 26,989 | 1,508 | 0 | — |
-| 10 | YouTube | ৩৫০টাকার মধ্যে ছেলেদের ৫টি সেরা বডি স্প্ | [Link](https://www.youtube.com/watch?v=VS41HVlV-4g) | 714,800 | 22,732 | 769 | 0 | — |
-| 11 | YouTube | Top 10 Best Body Sprays For Men UNDER 20 | [Link](https://www.youtube.com/watch?v=u90j_bW1ZzQ) | 619,218 | 34,836 | 664 | 0 | — |
-| 12 | YouTube Shorts | Really long lasting sasta perfume #short | [Link](https://www.youtube.com/watch?v=fImcuTTQgPs) | 557,358 | 21,925 | 190 | 0 | — |
-| 13 | YouTube | ২৫০-৪৫০ টাকায় ৫টি সেরা বডিস্প্রে ছেলেদের | [Link](https://www.youtube.com/watch?v=KeK8KeoUI0g) | 438,886 | 11,878 | 342 | 0 | — |
-| 14 | YouTube Shorts | 5 Best DEODORANT For Men  🔥 #ytshorts #t | [Link](https://www.youtube.com/watch?v=mczGVoV3Pak) | 413,838 | 16,038 | 74 | 0 | — |
-| 15 | YouTube Shorts | Fogg Marco Body Splenda   #wholesalerate | [Link](https://www.youtube.com/watch?v=txMoEP2sRCU) | 356,312 | 2,904 | 0 | 0 | — |
-| 16 | YouTube Shorts | Best Deodorants 😍 #perfume #deodorant #s | [Link](https://www.youtube.com/watch?v=4s8JVPwt-nY) | 298,136 | 7,576 | 139 | 0 | — |
-| 17 | YouTube Shorts | how to apply body spray 🧴 | [Link](https://www.youtube.com/watch?v=vAMn0g8EmII) | 296,178 | 1,753 | 36 | 0 | — |
-| 18 | YouTube | Top 10 best deos in India under 200 | [Link](https://www.youtube.com/watch?v=GYsOO51ofCI) | 288,148 | 7,866 | 449 | 0 | — |
-| 19 | YouTube | Konsa Fogg ka Perfume Hai Sbse Aacha🤔?   | [Link](https://www.youtube.com/watch?v=ct6pArsCdSs) | 263,168 | 2,430 | 163 | 0 | — |
-| 20 | YouTube | FOGG DEODORANT REVIEW  MEN'S DEODRANT ST | [Link](https://www.youtube.com/watch?v=vFLNfbBOsdM) | 244,360 | 2,874 | 146 | 0 | — |
+| 1 | TikTok | Looking a little unhinged in week 7 #fyp | [Link](https://www.tiktok.com/@connorpatrick12/video/7289174780971011374) | 14,400,000 | 770,600 | 5,542 | 20,500 | — |
+| 2 | TikTok | Sorry about the jumpscare on day two’s g | [Link](https://www.tiktok.com/@connorpatrick12/video/7205260497359211819) | 13,700,000 | 1,500,000 | 13,700 | 62,500 | — |
+| 3 | YouTube Shorts | Minoxidil Beard Growth first 47 days Res | [Link](https://www.youtube.com/watch?v=yZCZafyCpWU) | 10,634,775 | 137,097 | 739 | 0 | 3. CTA (Call-to-Action) |
+| 4 | YouTube | How to Grow Beard Faster (दाढ़ी को तेजी  | [Link](https://www.youtube.com/watch?v=cPyOXBkuCs8) | 6,997,443 | 151,603 | 10,768 | 0 | 3. CTA (Call-to-Action) |
+| 5 | YouTube Shorts | How to Fasten your Beard Growth?🧔🏻 #dail | [Link](https://www.youtube.com/watch?v=2B4aInCuFAM) | 6,112,908 | 239,138 | 851 | 0 | 3. CTA (Call-to-Action) |
+| 6 | YouTube Shorts | Beard growth SCAM⚠️ #shorts #podcast #be | [Link](https://www.youtube.com/watch?v=u3r3NMEGgoo) | 5,861,037 | 262,056 | 1,075 | 0 | — |
+| 7 | YouTube Shorts | How a derma roller actually works to giv | [Link](https://www.youtube.com/watch?v=z-oCR9yG3lc) | 5,213,031 | 95,851 | 282 | 0 | — |
+| 8 | YouTube | Why Some Men Can't Grow Beards | [Link](https://www.youtube.com/watch?v=aukTxMq-VwU) | 4,848,227 | 72,447 | 9,481 | 0 | — |
+| 9 | YouTube Shorts | Beard 🧔🏻 Grow ese hogi 😳🤦🏻‍♂️✅ | [Link](https://www.youtube.com/watch?v=EgTfA3i5YtE) | 4,035,279 | 194,924 | 493 | 0 | — |
+| 10 | YouTube Shorts | My Minoxidil 5% Journey: Shocking Before | [Link](https://www.youtube.com/watch?v=BbaKN1MLTS4) | 3,188,275 | 43,110 | 585 | 0 | — |
+| 11 | YouTube | Is MICRONEEDLING Worth the Hype? Doctorl | [Link](https://www.youtube.com/watch?v=JPWycy8cwN8) | 3,101,011 | 42,777 | 2,425 | 0 | — |
+| 12 | YouTube | How to grow a beard   5 Things EVERY beg | [Link](https://www.youtube.com/watch?v=of7BPvhMwbw) | 2,911,235 | 59,393 | 2,386 | 0 | — |
+| 13 | YouTube Shorts | Beard Dermaroller update | [Link](https://www.youtube.com/watch?v=ySoLvQUfrTM) | 2,623,807 | 44,495 | 223 | 0 | — |
+| 14 | YouTube Shorts | Rating Best Beard Oil In Indian Market   | [Link](https://www.youtube.com/watch?v=gFDsjPnFjTI) | 2,376,501 | 87,874 | 347 | 0 | — |
+| 15 | YouTube | 8 BEARD GROWING MISTAKES YOU NEED TO AVO | [Link](https://www.youtube.com/watch?v=pEXx2MFJsFU) | 2,336,178 | 48,911 | 1,267 | 0 | — |
+| 16 | YouTube Shorts | Kya DERMA ROLLER se BEARD aati hai | [Link](https://www.youtube.com/watch?v=6xItWAxiy0w) | 2,326,470 | 69,457 | 261 | 0 | — |
+| 17 | YouTube Shorts | Minoxidil Routine For Beard Growth (Begi | [Link](https://www.youtube.com/watch?v=67kFH_dYDOI) | 2,256,194 | 31,066 | 663 | 0 | — |
+| 18 | YouTube Shorts | Will Shaving Actually Grow Your Beard Fa | [Link](https://www.youtube.com/watch?v=p6YTuIa3zZc) | 1,836,943 | 55,019 | 212 | 0 | — |
+| 19 | Instagram | How to make a white beard black ?  इस आय | [Link](https://www.instagram.com/reel/DBsqYR-h8rM/) | 8,253 | 8,253 | 215 | 461,888 | — |
+| 20 | Instagram | No Shave November: Day 14 👹 Are you stil | [Link](https://www.instagram.com/reel/DRCjux2jrD7/) | 6,332 | 6,332 | 199 | 88,226 | — |
 
 > **Note:** Spend, Clicks, CTR are available for paid ads from ad libraries (Meta, TikTok). N/A for organic videos.
 
-### Video 1: The Story of How Fogg OVERTOOK Axe
-- **URL:** https://www.youtube.com/watch?v=tnKZ_tY4QXA
-- **Stats:** Views 4,137,284 | Likes 145,156 | Comments 676 | Shares 0
-- **Author:** The BarberShop with Shantanu
-- **Description:** 🪒 Sometimes all it takes is a dash of genius! Fogg, the deodorant company, stepped up to the Indian market with the nerve to challenge the status quo.
-- **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-so one of my seniors from am lakau he
-so one of my seniors from am lakau he
- 
-so one of my seniors from am lakau he
-was a brand manager at this deodorant SL
-was a brand manager at this deodorant SL
- 
-was a brand manager at this deodorant SL
-fragrance brand called axe but every
-fragrance brand called axe but every
- 
-fragrance brand called axe but every
-time I would meet him and we would get
-time I would meet him and we would get
- 
-time I would meet him and we would get
-drunk at outside his office and he would
-drunk at outside his office and he would
- 
-drunk at outside his office and he would
-be
-be
- 
-be
-like every week my market share is going
-like every week my market share is going
- 
-like every week my market share is going
-down by 2% 3% company fog and I was ...
-  ```
+### Video 1: Looking a little unhinged in week 7 #fyp #beard 
+- **URL:** https://www.tiktok.com/@connorpatrick12/video/7289174780971011374
+- **Stats:** Views 14,400,000 | Likes 770,600 | Comments 5,542 | Shares 20,500
+- **Author:** connorpatrick12
+- **Description:** Looking a little unhinged in week 7 #fyp #beard
 - **Gemini Analysis:**
 
-  Okay, let's analyze the Amazon.in video based on the information available.
+  Error analyzing video: 400 The File pkb6td4161y3 is not in an ACTIVE state and usage is not allowed.
+
+### Video 2: Sorry about the jumpscare on day two’s growth #fyp #beard 
+- **URL:** https://www.tiktok.com/@connorpatrick12/video/7205260497359211819
+- **Stats:** Views 13,700,000 | Likes 1,500,000 | Comments 13,700 | Shares 62,500
+- **Author:** connorpatrick12
+- **Description:** Sorry about the jumpscare on day two’s growth #fyp #beard
+- **Gemini Analysis:**
+
+  Error analyzing video: 400 The File eqft3zo90lw1 is not in an ACTIVE state and usage is not allowed.
+
+### Video 3: Minoxidil Beard Growth first 47 days Result #minoxidil #bear...
+- **URL:** https://www.youtube.com/watch?v=yZCZafyCpWU
+- **Stats:** Views 10,634,775 | Likes 137,097 | Comments 739 | Shares 0
+- **Author:** RF
+- **CTA:** 3. CTA (Call-to-Action)
+- **Gemini Analysis:**
+
+  Okay, let's analyze that Beard Club video based on the provided context and your requested structure.
   
-  **Note:**  Since I can't actually *watch* the video linked, I will make reasonable assumptions based on the YouTube video description and common Amazon ad formats. I'll focus on *how* a well-made video targeting Amazon.in *should* be structured to be effective. I'm assuming it's a product-focused ad.
+  **Video URL:** https://www.youtube.com/watch?v=yZCZafyCpWU
   
   Here's the breakdown:
+  
+  **1. Hook (first 3-5 seconds):**
+  
+  *   **Visual:** Opens with a rapid transition showcasing a before-and-after beard transformation. The before image shows a patchy or thin beard, and the after image shows a fuller, well-groomed beard.
+  *   **Text:** "Beard Goals" is displayed prominently on screen.
+  *   **Sound:** Upbeat, energetic music is playing.
+  
+  ...
+
+### Video 4: How to Grow Beard Faster (दाढ़ी को तेजी से कैसे बढ़ाएं) | Hai...
+- **URL:** https://www.youtube.com/watch?v=cPyOXBkuCs8
+- **Stats:** Views 6,997,443 | Likes 151,603 | Comments 10,768 | Shares 0
+- **Author:** HairMD India
+- **Description:** Do you want to know How To Grow Beard Faster? Do you ever wish to know about how to grow beard faster and thicker? Dr. Dhananjay Chavan gives some tips for growing beard faster, he also gives best advice for growing a beard.
+01:12 - Hair Cycle
+03:15 - Beard Growth Depends Upon Which Factors?
+05:22 - How to Grow Your Beard?
+06:30 - How Dermaroller Helps to Grow a Beard?
+07:47 - PRP For Beard Growth
+08:38 - Minoxidil & Serums For Beard Growth
+09:32 - How Lifestyle Modification Will Help in Beard
+- **CTA:** 3. CTA (Call-to-Action)
+- **Gemini Analysis:**
+
+  Okay, here's a breakdown of the The Beard Club advertisement based on the provided information:
   
   ```markdown
-  ## Amazon.in Video Ad Analysis
+  ## The Beard Club Ad Analysis
   
   **1. Hook (first 3-5 seconds):**
   
-  *   **Visual:**  Likely a captivating shot of the *product in use* or a visually appealing problem the product solves. For example, if it's a cleaning product, showing a very dirty area before and the immediate results after the application.
-  ...
-
-### Video 2: 200Rs me 7000Rs Wala Perfume..... #perfumes #shorts
-- **URL:** https://www.youtube.com/watch?v=myevGyQdYiQ
-- **Stats:** Views 2,121,719 | Likes 121,896 | Comments 263 | Shares 0
-- **Author:** Rahul Sidwan
-- **Description:** Buying Links
-1 Million
-https://www.aarfragrances.com/product/paco-rabanne-1-million-3
-Fogg master royal intense
-https://amzn.to/3OQRwJy
-Fogg Master Royal intense and Napoleon pack
-https://amzn.to/3XM6swI
-Fogg Master Royal Intense Pack of 3
-https://amzn.to/3XPDImE
-- **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-Hey listen come here I will earn you thousands of rupees yun yun
-Hey listen come here I will earn you thousands of rupees yun yun
- 
-Hey listen come here I will earn you thousands of rupees yun yun
-absolutely look this is
-absolutely look this is
- 
-absolutely look this is
-Pakoraban's Van Million this
-Pakoraban's Van Million this
- 
-Pakoraban's Van Million this
-is one of the most luxurious perfumes in the world and
-is one of the most luxurious perfumes in the world and
- 
-is one of the most luxurious perfumes in the world and
-this is a thing worth 7-8000 tell me at
-this is a thing worth 7-8000 tell me at
- 
-this is a thing worth 7-8000 tell me at
-least for
-least for
- 
-least for
-how much rupees you will get its exact smell 40009 no not
-how much rupees you will get it...
-  ```
-- **Gemini Analysis:**
-
-  Okay, let's analyze the YouTube video using the provided information about Amazon.in and the available text.
-  
-  **Analyzing YouTube Video: (Based on Video Title and Context)**
-  
-  Since I don't have access to the actual video content, I will make educated guesses based on the YouTube title "myevGyQdYiQ" (which is likely an Amazon India product video) and the Amazon.in context. I'll provide a generalized analysis.  Please keep in mind this is speculative without actually seeing the video. I will try to make it as accurate as possible given the info available.
-  
-  **Assumptions:**
-  *   The video likely showcases a product available on Amazon.in.
-  *   The product could be anything, but given the cryptic title, it is likely a product in the more complex side - maybe tech or home appliances.
-  
-  Here's a structured breakdown:
-  
-  ...
-
-### Video 3: Enadhu Alcohol illadha Body Spray uh 😍❤️ | Idhu super uh iru...
-- **URL:** https://www.youtube.com/watch?v=sIKidnsT-OI
-- **Stats:** Views 1,908,163 | Likes 120,900 | Comments 565 | Shares 0
-- **Author:** Shadhik Azeez
-- **Description:** Link is given in my Channel Bio
-Go to my Channel and select the Linktree link above subscribe button
-- **CTA:** 3. CTA (Call-to-Action)
-- **Transcript (yt-dlp):**
-  ```
-  Kind: captions
-Language: en
- 
-bro alcohol free
- 
- 
- 
-perum somewhere around
- 
- 
- 
-3,000 nonalcoholic body
- 
- 
- 
-spray
- 
- 
- 
-per pure R
- 
- 
- 
-ESS
-  ```
-- **Gemini Analysis:**
-
-  Okay, let's analyze the YouTube video linked, "sIKidnsT-OI," as if it were an Amazon.in product advertisement for creative/ad research purposes.
-  
-  **1. Hook (first 3-5 seconds):**
-  
-  *   **Visual:** The hook involves a rapidly rotating montage of various Amazon product images with some text.
-  *   **Sound:** Upbeat, fast-paced electronic music immediately starts. This music is high energy.
-  *   **Text:** Short text flashes quickly, showing the words "Amazon Sale" or something similar.
+  *   **Visual:** Rapidly changing screens of text in the cart
+  *   **Text:** Focus on "YOU SAVED" and "FREE GIFT" to highlight the value of the purchase
+  *   **Sound:** Not available but likely upbeat music
   
   **2. Main message/angle:**
-  
-  *   The core message is to drive traffic to Amazon.in during a sale event (likely a specific sale event, like Great Indian Festival or Prime Day). The angle is about highlighting the breadth and depth of products available. The angle of the montage also showcases variety of products, so there is something for everyone.
-  
   ...
 
-### Video 4: 4 Fogg Perfumes you must know #perfumes #shorts
-- **URL:** https://www.youtube.com/watch?v=sNc2OdAbnYk
-- **Stats:** Views 1,680,733 | Likes 34,057 | Comments 270 | Shares 0
-- **Author:** Rahul Sidwan
-- **Description:** buying links
-fogg xtremo
-https://amzn.to/3gUWTuQ
-fogg impressio
-https://amzn.to/3EV16Xi
-fogg intensio
-https://amzn.to/3Vs2tUi
-fogg xpressio
-https://amzn.to/3HdmGJc
-Equipment I use for my videos
-Mic
-https://amzn.to/3Hdgq4a
-Lights
-Without Stand
-https://amzn.to/3VrClJq
-with stand
-https://amzn.to/3VJ1pet
-DSLR Tripod
-https://amzn.to/3XPwI9k
+### Video 5: How to Fasten your Beard Growth?🧔🏻 #dailyshorts #beard #bear...
+- **URL:** https://www.youtube.com/watch?v=2B4aInCuFAM
+- **Stats:** Views 6,112,908 | Likes 239,138 | Comments 851 | Shares 0
+- **Author:** Allen Choudhary
 - **CTA:** 3. CTA (Call-to-Action)
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+[Music]
+[Music]
+ 
+[Music]
+foreign
+foreign
+ 
+foreign
+[Music]
+ 
+ 
+ 
+[Music]
+[Music]
+ 
+[Music]
+[Applause]
+[Applause]
+ 
+[Applause]
+[Music]
+  ```
 - **Gemini Analysis:**
 
-  Okay, let's analyze the Amazon.in video based on the provided information.
+  Okay, here's a breakdown of the YouTube video snippet you provided for creative/ad research purposes:
+  
+  **Video Link:** https://www.youtube.com/watch?v=2B4aInCuFAM
+  
+  Based on the provided context (The Beard Club | Men's Grooming & Beard Products) and the cart UI elements, this is likely a video ad or product demo/tutorial directly related to The Beard Club's website. Given the UI elements, this appears to be screen recording/screen-cast style advertisement
   
   **1. Hook (first 3-5 seconds):**
   
-  *   Visual: Likely shows an exciting or desirable product or its use/benefit very quickly. Considering it's Amazon.in, expect a product related to everyday life or currently trending. Without seeing the actual video, this is an assumption based on best practices.
+  *   **Visual:** The initial focus would be on the shopping cart UI elements. Specifically, the mention of "LIMITED TIME ONLY" and the "YOU SAVED" discounts immediately draws the eye.
+  *   **Text:** Prominent text like "LIMITED TIME ONLY" and "YOU SAVED" creates a sense of urgency and potential value.
   
-  **2. Main message/angle**:
-  
-  *   Core value prop: The video likely highlights a specific product available on Amazon.in, emphasizing its key features, benefits, or how it solves a problem for the viewer. Given the Amazon context, expect product features, price advantages, convenience, or lifestyle benefits.
-  
-  **3. CTA (Call-to-Action)**:
-  
+  **2. Main message/angle:**
   ...
 
-### Video 5: Top 3 Deos For Men That Smell Expensive!
-- **URL:** https://www.youtube.com/watch?v=u_QKcXfjonQ
-- **Stats:** Views 1,418,826 | Likes 45,970 | Comments 281 | Shares 0
-- **Author:** Tarique Fragrance
-- **Description:** #deodrant #deo #top3 #shorts #youtubeshorts #perfumeshorts #shortsindia #perfume 
-The Best Deodorants For Men In India
-Deodorants Mentioned:
-Wild Stone Code Steel
-Fogg Fresh Aromatic
-Frsh 1965 Pour Homme
-#wildstone 
-#fogg
-#frsh
-- **CTA:** 3. CTA (Call-to-Action)
-- **Gemini Analysis:**
+### Video 6: Beard growth SCAM⚠️ #shorts #podcast #beardgrowth
+- **URL:** https://www.youtube.com/watch?v=u3r3NMEGgoo
+- **Stats:** Views 5,861,037 | Likes 262,056 | Comments 1,075 | Shares 0
+- **Author:** Desi Cast 
 
-  Okay, let's analyze the YouTube video with the provided URL for ad/creative research.
-  
-  **Video Title:** [I tried the most USELESS products from Amazon...](https://www.youtube.com/watch?v=u_QKcXfjonQ)
-  
-  **Context:** Amazon.in (Indian Market). The presence of the Amazon footer suggests the landing page is likely directly related to the products featured in the video.
-  
-  Here's the breakdown:
-  
-  **1. Hook (first 3-5 seconds):**
-  
-  *   **Visual:** Fast cuts of bizarre-looking/unconventional products being used in unexpected ways.
-  *   **Sound:** Upbeat, quirky background music.
-  ...
-
-### Video 6: How FOGG Became The KING Of Deodorants
-- **URL:** https://www.youtube.com/watch?v=NKWwVb1Ud9o
-- **Stats:** Views 1,273,204 | Likes 47,385 | Comments 99 | Shares 0
-- **Author:** Unravelled by Shankar
-- **Description:** Have you ever tried FOGG deodorant?
-Source: @thebarbershopwithshantanu6670 
-#india #business #marketing #strategy
-
-### Video 7: Fake FOGG Reality #businessinfluencer #business #startup #st...
-- **URL:** https://www.youtube.com/watch?v=iFWRo_n8mYE
-- **Stats:** Views 1,082,964 | Likes 97,939 | Comments 204 | Shares 0
-- **Author:** Gen-Z Way
-
-### Video 8: Which Deo Is Best For People Who Sweat More?
-- **URL:** https://www.youtube.com/watch?v=3TznaV3kfTU
-- **Stats:** Views 1,031,095 | Likes 20,497 | Comments 131 | Shares 0
-- **Author:** Tarique Fragrance
-- **Description:** #deo #nogas #frenchessence #perfume 
-Which deodorant to select for people who sweat more and have more body odour.
-Perfume Mentioned: French Essence Urban No Gas Deo
-
-### Video 9: I Bought All Popular Best PERFUME For Men | Budget Fragrance...
-- **URL:** https://www.youtube.com/watch?v=1CMz_J_KYbY
-- **Stats:** Views 994,664 | Likes 26,989 | Comments 1,508 | Shares 0
-- **Author:** BeYourBest
-- **Description:** I Bought All Popular Best PERFUME For Men | Budget Fragrance vs Designer | BeYourBest by San Kalra
-Discord Link- https://discord.gg/4Vw9DUJy
-Buying Links :
-1.  Fogg Perfume 
-     https://www.amazon.in/Fogg-Marco-Body-Spray-150ml/dp/B00YEJYSEM/ref=sr_1_6?&tag=in_cs_fip_790-apr24-v1-21&ref=in_cs_fip_790-apr24-v1-21
-2.  Park Avenue Original Collection
-     https://www.amazon.in/Park-Avenue-Good-Morning-Deodorant/dp/B007E9I11K/ref=sr_1_1_sspa?&tag=in_cs_fip_790-apr24-v1-21&ref=in_cs_fip_790-apr2
-
-### Video 10: ৩৫০টাকার মধ্যে ছেলেদের ৫টি সেরা বডি স্প্রে । Best Body Spray...
-- **URL:** https://www.youtube.com/watch?v=VS41HVlV-4g
-- **Stats:** Views 714,800 | Likes 22,732 | Comments 769 | Shares 0
-- **Author:** Ashraf Niloy
-- **Description:** ৩৫০টাকার মধ্যে ছেলেদের ৫টি সেরা বডি স্প্রে । Best Body Spray for Men । Body Spray in Bangladesh
-A good body spray not only provides a pleasant subtle aroma to your style but can also be an effective deodorant to neutralize body odor. And this video will help you to get the best body spray in budget.
-My Social Medias
+### Video 7: How a derma roller actually works to give you thick hair
+- **URL:** https://www.youtube.com/watch?v=z-oCR9yG3lc
+- **Stats:** Views 5,213,031 | Likes 95,851 | Comments 282 | Shares 0
+- **Author:** Dillon Latham
+- **Description:** Learn to make money online (and 1 on 1 access to me) - https://www.skool.com/zerotofulltimeo...
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-let's get started
+You know what's crazy to me? 90% of
+You know what's crazy to me? 90% of
  
+You know what's crazy to me? 90% of
+people don't know that you can take a
+people don't know that you can take a
  
+people don't know that you can take a
+spike roller covering it in rubbing
+spike roller covering it in rubbing
  
-and subscribe to the channel turn on the
-and subscribe to the channel turn on the
+spike roller covering it in rubbing
+alcohol to disinfect it and then start
+alcohol to disinfect it and then start
  
-and subscribe to the channel turn on the
-notification bell so you guys don't miss
-notification bell so you guys don't miss
+alcohol to disinfect it and then start
+rolling it all over your scalp. Once
+rolling it all over your scalp. Once
  
-notification bell so you guys don't miss
-any of my video my next hobby
-any of my video my next hobby
+rolling it all over your scalp. Once
+your scalp gets red or it even starts
+your scalp gets red or it even starts
  
-any of my video my next hobby
-allah hafiz
+your scalp gets red or it even starts
+bleeding, that's how you know it's
+bleeding, that's how you know it's
+ 
+bleeding, that...
   ```
 
-### Video 11: Top 10 Best Body Sprays For Men UNDER 200/- | Men's Fashion ...
-- **URL:** https://www.youtube.com/watch?v=u90j_bW1ZzQ
-- **Stats:** Views 619,218 | Likes 34,836 | Comments 664 | Shares 0
-- **Author:** The Fashion Verge
-- **Description:** Hey beautiful souls,
-In this video , ill be talking about my personal favorite body sprays that are under 200 rupees . Let's have some fun !
-let's video call and interact instantly: https://superpage.to/thefashionverge
-PERFUMES:
-axe signature: https://amzn.to/3m6SW49
-engage xx3 : https://amzn.to/3fqXYat
-engage xx1: https://amzn.to/3dirtsz (only combo available)
-fog master pine : https://amzn.to/3fr5
+### Video 8: Why Some Men Can't Grow Beards
+- **URL:** https://www.youtube.com/watch?v=aukTxMq-VwU
+- **Stats:** Views 4,848,227 | Likes 72,447 | Comments 9,481 | Shares 0
+- **Author:** Insider Science
+- **Description:** We asked a dermatologist to explain the scientific reasons that some men aren't able to grow thick, dense facial hair. Dr. Jennifer Chwalek is a Board Certified dermatologist at Union Square Laser Dermatology in New York. Chwalek explained that an inability to grow thick facial hair is not directly related to low levels of testosterone. Facial hair growth is largely determined by genetics, which can determine the number of hair follicles a person has, as well as how the follicles react to a bypr
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+Narrator: Look at that beard.
+The density. The thickness. 
+It's what a beard is supposed to be!
+Not this.
+This is my beard, if you
+even want to call it a beard.
+This footage was taken after
+I let it grow for two weeks.
+Two weeks!
+It's thin, patchy,
+and in some spots there's no hair at all.
+Sad. 
+But let's look at this one again.
+This is Kevin.
+We're around the same age,
+both Caucasian males of Irish descent.
+You could say we have a lot in common,
+except in the facial hair department.
+So, I asked a dermatologist
+about why he's able to
+grow a beard and I'm not.
+Dr. Chwalek: It's based on
+genetics as well as hormones.
+Some men, you know, have
+more hair follicles,
+so they can grow denser,
+coarser beards than others.
+Testosterone gets converted
+in the hair follicle
+t...
+  ```
+
+### Video 9: Beard 🧔🏻 Grow ese hogi 😳🤦🏻‍♂️✅
+- **URL:** https://www.youtube.com/watch?v=EgTfA3i5YtE
+- **Stats:** Views 4,035,279 | Likes 194,924 | Comments 493 | Shares 0
+- **Author:** i want dush
+
+### Video 10: My Minoxidil 5% Journey: Shocking Before and After Transform...
+- **URL:** https://www.youtube.com/watch?v=BbaKN1MLTS4
+- **Stats:** Views 3,188,275 | Likes 43,110 | Comments 585 | Shares 0
+- **Author:** Reverb Rhythms
+- **Description:** Welcome to my Minoxidil 5% journey! In this video, I will be revealing my shocking before and after transformation that will leave you amazed. I have documented my experience with Minoxidil 5% over the past few months, and the results are truly incredible. If you have been struggling with hair loss or thinning hair, this is a must-watch for you. Join me I share my journey and the amazing results I have achieved with Minoxidil 5%.
+Follow along as I show you the progression of my hair growth and
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-through our nose
-through our nose
- 
-through our nose
-[Music]
-[Music]
- 
-[Music]
-welcome back to the fashion world my
-welcome back to the fashion world my
- 
-welcome back to the fashion world my
-stylist gentlemen
+holy moly holy moly
  
  
  
-is
- 
- 
- 
-number two is fog dynamic fog is a
-number two is fog dynamic fog is a
- 
-number two is fog dynamic fog is a
-pretty popular brand budget segment
-pretty popular brand budget segment
- 
-pretty popular brand budget segment
-i like a challah flavors look at the
-i like a challah flavors look at the
- 
-i like a challah flavors look at the
-inside but this one
-inside but this one
- 
-inside but this one
-i personally like this one concentrated
-i personally like this one concentrated
- 
-i personally like this one concentrated
-on the perfect fit for any casu...
+me
   ```
 
-### Video 12: Really long lasting sasta perfume #shorts #perfume #perfumes
-- **URL:** https://www.youtube.com/watch?v=fImcuTTQgPs
-- **Stats:** Views 557,358 | Likes 21,925 | Comments 190 | Shares 0
-- **Author:** Rahul Sidwan
-- **Description:** fogg perfume impressio
+### Video 11: Is MICRONEEDLING Worth the Hype? Doctorly Explains
+- **URL:** https://www.youtube.com/watch?v=JPWycy8cwN8
+- **Stats:** Views 3,101,011 | Likes 42,777 | Comments 2,425 | Shares 0
+- **Author:** Doctorly
+- **Description:** Today, we discuss all things microneedling, dermarolling, and micro-infusion. 
+Qure Microinfusion Device: https://qureskincare.com/pages/microinfusion
+A link to Dr Portela's video on how to best perform this at home: https://youtu.be/oVm7nbahG68?t=346 
+00:00 - Intro
+01:45 - What is microneedling?
+02:23 - Why microneedling?
+04:34 - Benefits of microneedling
+05:29 - Dermarollers
+08:02 - Dermapen (Sta
 
-### Video 13: ২৫০-৪৫০ টাকায় ৫টি সেরা বডিস্প্রে ছেলেদের জন্য। Top 5 Budget ...
-- **URL:** https://www.youtube.com/watch?v=KeK8KeoUI0g
-- **Stats:** Views 438,886 | Likes 11,878 | Comments 342 | Shares 0
-- **Author:** STYLE HUT by Tonmoy
-- **Description:** ২৫০-৪৫০ টাকায় ৫টি সেরা বডিস্প্রে ছেলেদের জন্য।Top 5 Budget Body Spray for Boys.
-Order T-Shirt on: www.stylehutbd.com
-Inbox Us on Messenger:  http://m.me/stylehutofficial
-Follow Us :
-Business purpose email only: info@stylehutbd.com
-STYLE HUT,TONMOY,stylehuttonmoy,body spray,cheleder best body spray,long lasting body spray,perfume,fogg men’s body spray,top perfume,ছেলেদের জন্য
+### Video 12: How to grow a beard | 5 Things EVERY beginner should know!!
+- **URL:** https://www.youtube.com/watch?v=of7BPvhMwbw
+- **Stats:** Views 2,911,235 | Likes 59,393 | Comments 2,386 | Shares 0
+- **Author:** BeardTube
+- **Description:** 5 tips for starting to grow a beard
+Products in the video:
+Beard Oil: http://amzn.to/2DvpM8z
+2nd Fav Beard Oil: http://amzn.to/2DwtjDK
+Beard Balm: https://amzn.to/3hiT2ED
+Honest Amish: http://amzn.to/2lXfmb4
+Kent Comb: http://amzn.to/2mdSYuZ
+Budget Coms: https://amzn.to/3A68Gus
+Beard Brush: https://amzn.to/2FdfR96
+Biotin: http://amzn.to/2mWxX7t
+Beard Shampoo: https://amzn.to/2IbNrgF
+This is a guide for beginner's who are trying to grow a beard, these are 5 essential tips you need to know befor
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-foreign
- 
- 
- 
-[Applause]
-[Applause]
- 
-[Applause]
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-super smooth among export quality
-super smooth among export quality
- 
-super smooth among export quality
-fabrics
- 
- 
- 
-facebook pages
- 
- 
- 
-[Music]
- 
- 
- 
-[Applause]
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-honestly this one smells really nice
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-[Music]
- 
- 
- 
-[Applause]
- 
- 
- 
-foreign
- 
- 
- 
-product
- 
- 
- 
-[Music]
+Hey guys, what's up? You want to grow a
+Hey guys, what's up? You want to grow a
+ 
+Hey guys, what's up? You want to grow a
+beard like this? Here's five things you
+beard like this? Here's five things you
+ 
+beard like this? Here's five things you
+need to know. Number one, don't shave.
+need to know. Number one, don't shave.
+ 
+need to know. Number one, don't shave.
+Now, you think I wouldn't have to
+Now, you think I wouldn't have to
+ 
+Now, you think I wouldn't have to
+mention this, but there's a myth that if
+mention this, but there's a myth that if
+ 
+mention this, but there's a myth that if
+you shave your hair on your face over
+you shave your hair on your face over
+ 
+you shave your hair on your face over
+and over, it's going to get thicker and
+and over, it's going t...
   ```
 
-### Video 14: 5 Best DEODORANT For Men  🔥 #ytshorts #trending
-- **URL:** https://www.youtube.com/watch?v=mczGVoV3Pak
-- **Stats:** Views 413,838 | Likes 16,038 | Comments 74 | Shares 0
-- **Author:** Asad Styling
-- **Description:** Thanks For Watching. Like, Share & Subscribe.
-
-### Video 15: Fogg Marco Body Splenda | #wholesalerate
-- **URL:** https://www.youtube.com/watch?v=txMoEP2sRCU
-- **Stats:** Views 356,312 | Likes 2,904 | Comments 0 | Shares 0
-- **Author:** Peehu Collection 295
-
-### Video 16: Best Deodorants 😍 #perfume #deodorant #setwet #style
-- **URL:** https://www.youtube.com/watch?v=4s8JVPwt-nY
-- **Stats:** Views 298,136 | Likes 7,576 | Comments 139 | Shares 0
-- **Author:** TheBadExperts
-
-### Video 17: how to apply body spray 🧴
-- **URL:** https://www.youtube.com/watch?v=vAMn0g8EmII
-- **Stats:** Views 296,178 | Likes 1,753 | Comments 36 | Shares 0
-- **Author:** kingppin
+### Video 13: Beard Dermaroller update
+- **URL:** https://www.youtube.com/watch?v=ySoLvQUfrTM
+- **Stats:** Views 2,623,807 | Likes 44,495 | Comments 223 | Shares 0
+- **Author:** PhdInWaves
+- **Description:** Beard Derma Roller Results To Grow Facial Hair.
 - **Transcript (yt-dlp):**
   ```
   Kind: captions
 Language: en
  
-foreign
+this is my Derma roller update to get a
+this is my Derma roller update to get a
  
+this is my Derma roller update to get a
+full beard from a baby face as you can
+full beard from a baby face as you can
  
+full beard from a baby face as you can
+see I grew a lot of hair on my cheeks
+see I grew a lot of hair on my cheeks
  
-[Music]
+see I grew a lot of hair on my cheeks
+but honestly I decided to shave it off
+but honestly I decided to shave it off
+ 
+but honestly I decided to shave it off
+because it wouldn't be fair for me to
+because it wouldn't be fair for me to
+ 
+because it wouldn't be fair for me to
+have abs waves and a beard I gotta save
+have abs waves and a beard I gotta save
+ 
+have abs waves and a beard I gotta save
+some woman for the rest of you guys
   ```
 
-### Video 18: Top 10 best deos in India under 200
-- **URL:** https://www.youtube.com/watch?v=GYsOO51ofCI
-- **Stats:** Views 288,148 | Likes 7,866 | Comments 449 | Shares 0
-- **Author:** Rahul Sidwan
-- **Description:** Interested in Gaming?
-Subscribe to Sidwan The Gamer
-www.youtube.com/@SidwanTheGamer
-Don't buy expensive luxury international perfumes from Ama or Flip. Never. You may get fake perfumes. only Inexpensive or cheap Indian brands can be bought from Amazo and Flipkar but risk of international brands or expensive Indian brands is high there.
-So don't buy international or expensive fragrances from these 2 giants as much risk of fakes is there.
-Below are the authentic and cheapest buying links as there
+### Video 14: Rating Best Beard Oil In Indian Market | Mridul Madhok
+- **URL:** https://www.youtube.com/watch?v=gFDsjPnFjTI
+- **Stats:** Views 2,376,501 | Likes 87,874 | Comments 347 | Shares 0
+- **Author:** Mridul Madhok
+- **Description:** To get chemical free products visit https://mridulmadhok.in/   
+If you have enjoyed this video then don't forget to LIKE, SHARE & COMMENT!!
+▷ CONNECT with us!!
+SNAPCHAT ♥ ♥ @mridulcybie
+DISCLAIMER: The information provided on this channel and its videos is for general purposes only and should NOT be considered as professional advice. We always try our best to provide accurate inform
 
-### Video 19: Konsa Fogg ka Perfume Hai Sbse Aacha🤔? | Lalit Cosmetic fogg...
-- **URL:** https://www.youtube.com/watch?v=ct6pArsCdSs
-- **Stats:** Views 263,168 | Likes 2,430 | Comments 163 | Shares 0
-- **Author:** Lalit Cosmetic & Health Tips
-- **Description:** #fogg perfume #fogg body spray without gas #body spray Bina Gas ka #body spray #sabse Achcha perfume #Aisa perfume Jo Kabhi Na Ude #long lasting Deo kaun sa hai #long lasting body spray #long lasting body perfume #fogg ke sabse Jyada bikane wale body spray
-#Fogg perfume
-Fogg perfume
-fogg fine,
-fogg perfume review,
-fogg new ad,
-fogg master,
-fogg fine ad,
-fogg ad telugu,
-fogg absolute review,
-fogg advertise,
-fogg all perfume review,
-fogg absolute,
-a foggy morning,
-a foggy day in london town,
-a fo
+### Video 15: 8 BEARD GROWING MISTAKES YOU NEED TO AVOID with Matty Conrad
+- **URL:** https://www.youtube.com/watch?v=pEXx2MFJsFU
+- **Stats:** Views 2,336,178 | Likes 48,911 | Comments 1,267 | Shares 0
+- **Author:** Matty Conrad
+- **Description:** SHOP MY FAVOURITE BEARD GROOMING TOOLS:
+Https;//www.rangerandscout.shop
+Are you struggling to grow out that handsome looking face sweater? 
+International barbering ICON, Founder of Victory Barber & Brand, and GQ grooming guru Matty Conrad teaches you some of the most important things you need to know about growing a truly magnificent beard.
+Check out www.victorybarber.com for all your beard care needs
+CLICK SUBSCRIBE AND LEAVE YOU'RE COMMENTS BELOW
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+hi guys i'm maddie conrad and today i
+hi guys i'm maddie conrad and today i
+ 
+hi guys i'm maddie conrad and today i
+want to go over eight mistakes that most
+want to go over eight mistakes that most
+ 
+want to go over eight mistakes that most
+guys are making when it comes to growing
+guys are making when it comes to growing
+ 
+guys are making when it comes to growing
+a beard
+a beard
+ 
+a beard
+[Music]
+[Music]
+ 
+[Music]
+number one don't trim your beard when
+number one don't trim your beard when
+ 
+number one don't trim your beard when
+it's wet now i know this seems like the
+it's wet now i know this seems like the
+ 
+it's wet now i know this seems like the
+most convenient time to do it but when
+most convenient time to do it but when
+ 
+most convenient time to do it but ...
+  ```
 
-### Video 20: FOGG DEODORANT REVIEW| MEN'S DEODRANT STICK| DDAILY REVIEW|
-- **URL:** https://www.youtube.com/watch?v=vFLNfbBOsdM
-- **Stats:** Views 244,360 | Likes 2,874 | Comments 146 | Shares 0
-- **Author:** 💫DDAILY REVIEW09
-- **Description:** price - RS 230
-quantity - 100ml
-FRIENDS do like share and subscribe my channel DAILY REVIEW 
-For business enquiry email address Dailyreview006@gmail.com 
-BUY HERE - https://amzn.to/2MnjgIR
-Axe Signature Intense Deodorant REVIEW in Hindi
-https://youtu.be/2ELH_AVD6hE
-KS deodorant for men REVIEW in Hindi
-https://youtu.be/IidZ1Pzu398
-Axe deodrant gold temptation for men REVIEW
- in Hindi
-https://youtu.be/HgkhtgONqhk
-NIVEA MEN BODY DEO REVIEW IN HINDI
-https://youtu.be/HgkhtgONqhk
-DENVER DEODRAN
+### Video 16: Kya DERMA ROLLER se BEARD aati hai
+- **URL:** https://www.youtube.com/watch?v=6xItWAxiy0w
+- **Stats:** Views 2,326,470 | Likes 69,457 | Comments 261 | Shares 0
+- **Author:** HEAD 2 TOE
 
----
+### Video 17: Minoxidil Routine For Beard Growth (Beginner)
+- **URL:** https://www.youtube.com/watch?v=67kFH_dYDOI
+- **Stats:** Views 2,256,194 | Likes 31,066 | Comments 663 | Shares 0
+- **Author:** Tarik LaRoda
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+what's up guys today i'm going to show
+what's up guys today i'm going to show
+ 
+what's up guys today i'm going to show
+you my minoxidil routine first thing i'm
+you my minoxidil routine first thing i'm
+ 
+you my minoxidil routine first thing i'm
+going to do is make sure that my face is
+going to do is make sure that my face is
+ 
+going to do is make sure that my face is
+freshly washed and i'm going to apply
+freshly washed and i'm going to apply
+ 
+freshly washed and i'm going to apply
+about four to five drops on each side of
+about four to five drops on each side of
+ 
+about four to five drops on each side of
+my face and i'm just going to rub it in
+my face and i'm just going to rub it in
+ 
+my face and i'm just going to rub it in
+just as you see here one thing that i'...
+  ```
 
-## 5) 1D. Organic Concepts
+### Video 18: Will Shaving Actually Grow Your Beard Faster
+- **URL:** https://www.youtube.com/watch?v=p6YTuIa3zZc
+- **Stats:** Views 1,836,943 | Likes 55,019 | Comments 212 | Shares 0
+- **Author:** The Infographics Show
+- **Transcript (yt-dlp):**
+  ```
+  Kind: captions
+Language: en
+ 
+it feels like you've barely shaved and
+it feels like you've barely shaved and
+ 
+it feels like you've barely shaved and
+it's already growing back does shaving
+it's already growing back does shaving
+ 
+it's already growing back does shaving
+actually make your beard grow back even
+actually make your beard grow back even
+ 
+actually make your beard grow back even
+faster this is a common belief in
+faster this is a common belief in
+ 
+faster this is a common belief in
+puberty because facial hair sprouting
+puberty because facial hair sprouting
+ 
+puberty because facial hair sprouting
+for the first time grows faster and
+for the first time grows faster and
+ 
+for the first time grows faster and
+thicker as time goes on the type of
+thicker as time goes on the type of
+ 
+thicke...
+  ```
 
-### Standout Organic Video Ideas:
+### Video 19: How to make a white beard black ?
 
-1. **"Scent Memory Challenge"**
-   - Participants recall memories associated with different Fogg scents, creating emotional connections.
+इस आयुर्वेदिक तेल से आपकी...
+- **URL:** https://www.instagram.com/reel/DBsqYR-h8rM/
+- **Stats:** Views 8,253 | Likes 8,253 | Comments 215 | Shares 461,888
+- **Author:** muftimuqeemhabibi
+- **Description:** How to make a white beard black ?
+इस आयुर्वेदिक तेल से आपकी सफेद दाढ़ी धीरे-धीरे काली, घनी और मजबूत हो जाएगी! इसमें आंवला, भृंगराज, मेथी के बीज, और करी पत्तों का मिश्रण है, जो बालों की जड़ों को पोषण देता है और असमय सफेद होने से रोकता है। यह तेल न सिर्फ दाढ़ी के सफेद बालों को प्राकृतिक रूप से काला करता है बल्कि बालों की जड़ों को भी मजबूत बनाता है, जिससे दाढ़ी घनी और आकर्षक दिखती है। हर रात इसका उपयोग करने से बालों में चमक और मजबूती आती है। प्राकृतिक हर्बल गुणों से भरपूर यह तेल बालों को रासायनिक
 
-2. **"Day in the Life of a Fogg Fragrance"**
-   - Follow a bottle of Fogg through various daily scenarios, highlighting its versatility and longevity.
+### Video 20: No Shave November: Day 14 👹
+Are you still going⁉️ 
+•
+•
+•
 
-3. **"Fogg Fragrance Mixology"**
-   - Showcase creative ways to mix different Fogg scents for personalized fragrances.
+#N...
+- **URL:** https://www.instagram.com/reel/DRCjux2jrD7/
+- **Stats:** Views 6,332 | Likes 6,332 | Comments 199 | Shares 88,226
+- **Author:** _evian_
+- **Description:** No Shave November: Day 14 👹
+Are you still going⁉️ 
+#NoShaveNovember
+#BeardJourney
+#BeardGrowth
+#BeardLife
+#MenWithBeards
+#CurlyHairBeard
+#LightSkinMen
+#BeardStyle
+#BeardGoals
+#DailyBeard
+#FallVibes
+#NovemberMood
+#AutumnSeason
+#TransformationJourney
+#GlowUp
+#MensGrooming
+#MensStyle
+#MensFashion
+#SelfImprovement
+#StayGrowing
+#GrowthMindset
+#MotivationDaily
+#ProgressCheck
+#BeardGang
+#NaturalBeard
+#HealthyBeard
+#InTheMaking
+#StayConsistent
+#WatchTheGrowth
+#DailyUpdate
 
-4. **"Behind the Scent"**
-   - A documentary-style video exploring the creation process of Fogg fragrances, featuring interviews with perfumers.
-
-5. **"Fogg Fashion Pairings"**
-   - Match Fogg scents with different fashion styles, offering viewers styling tips.
-
-6. **"Scent vs. Scene"**
-   - Create short skits where characters choose Fogg scents based on different social settings or events.
-
-7. **"Fogg Fragrance Hacks"**
-   - Share tips on how to make fragrances last longer and how to apply them effectively.
-
-8. **"Fogg's Global Journey"**
-   - Highlight Fogg's international appeal by featuring users from different countries sharing their experiences.
-
-9. **"Virtual Scent Experience"**
-   - Use AR/VR to create an immersive experience where users can virtually 'smell' different Fogg fragrances.
-
-10. **"Fogg Scent Stories"**
-    - Invite users to share personal stories related to Fogg fragrances, fostering community engagement.
-
----
-
-## 6) **2A. Comment Scrapes**
-
-### Platforms
-- **YouTube**
-- **Reddit**
-- **Apify**
-
-### What to Extract
-- **Desires**: Positive sentiments, features users love, reasons for purchase.
-- **Objections**: Complaints, negative feedback, reasons for dissatisfaction.
-- **Questions**: Inquiries about product features, usage, and comparisons.
-- **Comparisons**: Mentions of other brands/products, comparative analysis.
-- **Surprise**: Unexpected features or experiences, unique selling propositions.
-
-### Verbatim Comment Banks by Theme
-
-#### Desires
-- "Fogg master oak ❤"
-- "Fogg scent cezar best one."
-- "Boys close your eyes and buy whisky smoke it's just so good"
-
-#### Objections
-- "Axe এই বডি স্প্রে বেশীক্ষন থাকে না কিনলে লস হবে"
-- "I suggest not buying these cheap clones..all of em are cheap copies and not worth."
-
-#### Questions
-- "Vai kon page take parfume nibo. Akto janaban."
-- "Mont blanc legend perfume but which one is it there are many different types in it. Leather and wood one OR levender and wood which one"
-
-#### Comparisons
-- "Wild Stone user me❤"
-- "Actually coffee beans don’t actually do anything its just a myth to refresh just smell the fresh air 😅 as i am an fragrance creator i know that"
-
-#### Surprise
-- "Axe chocolate কেউ কিনবেন না, এটা ব্যবহার করলে মাথা ব্যাথা করে"
-- "Foog লাল রঙেরটা গ্রান ভালো আমি ব্যবহার করেছি"
-
-## 7) **2B. Thematic Clusters**
-
-### Desires
-- **Long-lasting Fragrance**: Users appreciate perfumes that last throughout the day, often preferring stronger scents.
-- **Affordable Luxury**: Many comments reflect a desire for budget-friendly options that offer a luxurious feel.
-
-### Objections
-- **Longevity Issues**: Some users express dissatisfaction with the duration of certain scents, particularly with cheaper options.
-- **Scent Preference**: Personal taste varies, and some scents are not universally liked, leading to negative feedback.
-
-### Questions
-- **Product Variants**: Users often inquire about different product versions and their specific features.
-- **Purchase Guidance**: Many seek advice on where to buy authentic products and the best options within a budget.
-
-### Comparisons
-- **Brand Loyalty**: Users frequently compare Fogg with other popular brands like Axe and Wild Stone, often discussing scent strength and longevity.
-- **Price vs. Quality**: Discussions often revolve around finding the best value for money, balancing cost with fragrance quality.
-
-### Surprise
-- **Unexpected Reactions**: Some users report surprising effects, both positive and negative, which can influence purchasing decisions.
-- **Unique Selling Points**: Certain features, like specific scent notes or packaging, can pleasantly surprise users and lead to positive word-of-mouth.
-
----
-
-## 8) **3A. Avatars (10 Different Avatars to Target)**
-
-1. **Young Professional Male**
-   - **Demographics:** Male, 25-35, urban, middle-income.
-   - **Psychographics:** Career-focused, values convenience, and personal grooming.
-   - **Where they are:** Metro cities, corporate offices.
-   - **Relationship to product:** Uses deodorants daily for work.
-   - **Objections:** Prefers long-lasting scents, skeptical about budget options.
-   - **Message that resonates:** "Stay fresh and confident all day without breaking the bank."
-
-2. **College Student**
-   - **Demographics:** Male, 18-24, student, budget-conscious.
-   - **Psychographics:** Socially active, trend-aware, seeks value.
-   - **Where they are:** College campuses, social events.
-   - **Relationship to product:** Uses for socializing and dating.
-   - **Objections:** Budget constraints, concerned about quality.
-   - **Message that resonates:** "Affordable freshness that makes you stand out."
-
-3. **Fitness Enthusiast**
-   - **Demographics:** Male, 20-40, health-conscious, gym-goer.
-   - **Psychographics:** Values health, appearance, and performance.
-   - **Where they are:** Gyms, fitness communities.
-   - **Relationship to product:** Needs strong odor protection during workouts.
-   - **Objections:** Needs a product that withstands sweat.
-   - **Message that resonates:** "Stay fresh and odor-free, even after the toughest workout."
-
-4. **Middle-aged Professional**
-   - **Demographics:** Male, 35-50, higher-income, family-oriented.
-   - **Psychographics:** Values quality, reliability, and brand reputation.
-   - **Where they are:** Suburban areas, corporate environments.
-   - **Relationship to product:** Regular user, brand-loyal.
-   - **Objections:** Prefers premium brands, doubts budget options.
-   - **Message that resonates:** "Premium quality at a price you'll love."
-
-5. **Casual Shopper**
-   - **Demographics:** Male, 25-45, varied income, casual buyer.
-   - **Psychographics:** Impulse buyer, not brand-loyal, seeks convenience.
-   - **Where they are:** Online marketplaces, retail stores.
-   - **Relationship to product:** Occasional user, buys on sale.
-   - **Objections:** Needs convincing on product effectiveness.
-   - **Message that resonates:** "Convenience and quality, just a click away."
-
-6. **Teenager**
-   - **Demographics:** Male, 13-19, student, reliant on parents for purchases.
-   - **Psychographics:** Influenced by peers, social media-driven.
-   - **Where they are:** Schools, online platforms.
-   - **Relationship to product:** Starts using deodorants, influenced by trends.
-   - **Objections:** Needs parental approval, prefers trendy brands.
-   - **Message that resonates:** "Join the trend with a scent that speaks your style."
-
-7. **Budget-conscious Buyer**
-   - **Demographics:** Male, 30-50, lower-income, price-sensitive.
-   - **Psychographics:** Seeks value for money, practical.
-   - **Where they are:** Discount stores, online deals.
-   - **Relationship to product:** Regular user, seeks affordability.
-   - **Objections:** Concerned about cost vs. quality.
-   - **Message that resonates:** "High-quality freshness that fits your budget."
-
-8. **Eco-conscious Consumer**
-   - **Demographics:** Male, 20-40, environmentally aware, middle-income.
-   - **Psychographics:** Values sustainability, ethical brands.
-   - **Where they are:** Eco-friendly stores, online forums.
-   - **Relationship to product:** Prefers eco-friendly options.
-   - **Objections:** Skeptical about environmental impact.
-   - **Message that resonates:** "Freshness that's kind to you and the planet."
-
-9. **Frequent Traveler**
-   - **Demographics:** Male, 30-45, business traveler, mid-high income.
-   - **Psychographics:** Values convenience, efficiency, and portability.
-   - **Where they are:** Airports, hotels, business centers.
-   - **Relationship to product:** Needs compact, long-lasting options.
-   - **Objections:** Needs TSA-friendly packaging.
-   - **Message that resonates:** "Compact freshness for your on-the-go lifestyle."
-
-10. **Fashion-forward Male**
-    - **Demographics:** Male, 20-35, urban, fashion-conscious.
-    - **Psychographics:** Trendsetter, values aesthetics and personal style.
-    - **Where they are:** Fashion events, social media.
-    - **Relationship to product:** Uses as part of grooming routine.
-    - **Objections:** Prefers designer brands, skeptical about mainstream options.
-    - **Message that resonates:** "Style meets scent, elevate your presence."
-
-## 9) **3B. Messaging Pillars**
-
-### Top 10 Key Selling Points
-1. Long-lasting fragrance.
-2. Affordable price point.
-3. Wide availability online and offline.
-4. Trusted brand with a strong market presence.
-5. Variety of scents to suit different preferences.
-6. Compact and travel-friendly packaging.
-7. Suitable for daily use.
-8. Positive customer reviews and testimonials.
-9. Alcohol-free options available.
-10. Effective odor protection.
-
-### 10 Core Desires
-1. Confidence boost.
-2. Social acceptance.
-3. Personal expression.
-4. Freshness throughout the day.
-5. Affordable luxury.
-6. Convenience in grooming.
-7. Trend alignment.
-8. Quality assurance.
-9. Versatility for different occasions.
-10. Environmental consciousness.
-
-### 10 Pain Points
-1. Short fragrance duration.
-2. High price of premium brands.
-3. Limited availability in some regions.
-4. Concerns about skin sensitivity.
-5. Overpowering scents.
-6. Lack of scent variety.
-7. Environmental impact.
-8. Packaging size not suitable for travel.
-9. Confusing product range.
-10. Skepticism about budget options.
-
-## 10) **3C. Client Details**
-
-### Brand Voice
-- **Tone:** Confident, approachable, and modern.
-- **Style:** Direct, engaging, and informative.
-
-### Do's and Don'ts
-- **Do's:**
-  - Highlight affordability and quality.
-  - Use testimonials and social proof.
-  - Emphasize long-lasting freshness.
-- **Don'ts:**
-  - Avoid overly technical jargon.
-  - Don't downplay competitor strengths.
-  - Avoid making unsupported claims.
-
-### Gaps vs. Research
-- **Gaps:**
-  - Limited emphasis on eco-friendly practices.
-  - Underrepresentation in niche markets (e.g., eco-conscious consumers).
-- **Research Insights:**
-  - Strong potential to expand eco-friendly product lines.
-  - Opportunity to enhance presence in travel retail and online platforms.
 
 ---
 
 # Generated Scripts
 
-## Video Script 1
+## Script 1: YouTube Shorts
 
-1. **Platform**: TikTok
-2. **Format**: UGC (User-Generated Content) Fragrance Review
-3. **Hook**: "This body spray smells like luxury, but at a fraction of the price!"
-4. **Full Script**:
-   - **[Scene 1: A young man in his bedroom, holding up the Fogg Marco Body Spray]**
-     - **Dialogue**: "Guys, you won't believe this! I just got my hands on the Fogg Marco Body Spray. Let's see if it lives up to the hype!"
-   - **[Scene 2: Quick close-up shot of spraying the fragrance on his wrist]**
-     - **Dialogue**: "First impression, it smells like you're walking through a high-end store. Seriously fresh and sophisticated!"
-   - **[Scene 3: Cut to him in different outfits - casual, business, gym]**
-     - **Dialogue**: "And it's perfect for any occasion. From office meetings to gym sessions, this spray has got you covered!"
-   - **[Scene 4: Him smiling and giving a thumbs up]**
-     - **Dialogue**: "Best part? It's super affordable and lasts all day. Trust me, you need to try this!"
-5. **CTA**: "Hit the link in my bio to grab yours now and experience the freshness!"
-6. **Why it will work**: TikTok users love relatable, authentic UGC content. This script taps into the platform's trend of affordable luxury, highlighted in the successful "200Rs me 7000Rs Wala Perfume" video. By linking it to daily scenarios, it increases relatability and potential for virality.
+**Platform:** YouTube Shorts  
+**Format:** Before/After Transformation  
+**Hook:** "From patchy to perfect in just 90 days!" (Visual: Split-screen of a man with a patchy beard versus a full, lush beard)  
 
----
+**Full Script:**  
+*Visual: Close-up of a man with a patchy beard, looking frustrated.*  
+**Narrator:** "Struggling with a patchy beard? You're not alone!"  
 
-## Video Script 2
+*Visual: Quick cut to a man applying The Beard Club's Beard Activator Oil, followed by a time-lapse of his beard growth over 90 days.*  
+**Narrator:** "With The Beard Club's Beard Activator Oil, watch your beard transform like never before."  
 
-1. **Platform**: Instagram Reels
-2. **Format**: Before/After Transformation
-3. **Hook**: "Transform your day with just one spray!"
-4. **Full Script**:
-   - **[Scene 1: Split screen - left side shows a guy looking tired in bed, right side shows him spraying Fogg Marco Body Spray]**
-     - **Dialogue**: "Woke up feeling groggy? Here's your quick fix!"
-   - **[Scene 2: Transition to full screen of him dressed and looking fresh]**
-     - **Dialogue**: "One spray of Fogg Marco and I'm ready to tackle the day."
-   - **[Scene 3: Montage of him at a café, meeting friends, and on a date]**
-     - **Dialogue**: "Whether it's grabbing coffee, hanging with friends, or a date night, Fogg Marco keeps me feeling confident."
-   - **[Scene 4: Close-up of the spray bottle with text overlay]**
-     - **Text**: "Long-lasting freshness guaranteed!"
-5. **CTA**: "Swipe up to shop Fogg Marco Body Spray and transform your day!"
-6. **Why it will work**: Instagram Reels thrive on quick, visually engaging content. This script capitalizes on the platform's preference for transformation and lifestyle content, similar to the successful "Top 10 Best Body Sprays For Men UNDER 200/-" video by highlighting the product's everyday utility.
+*Visual: The same man, now with a full and healthy beard, confidently smiling.*  
+**Narrator:** "Achieve your beard goals with the growth guarantee. Don't miss out!"  
+
+**CTA:** "Visit The Beard Club now to start your transformation journey!"  
+
+**Why it will work:** This format leverages the successful "before/after" angle that captures attention quickly, providing proof of product effectiveness, which is a key engagement driver according to the reference videos.
 
 ---
 
-## Video Script 3
+## Script 2: TikTok
 
-1. **Platform**: YouTube Shorts
-2. **Format**: Storytelling/Brand Journey
-3. **Hook**: "How Fogg became the king of freshness!"
-4. **Full Script**:
-   - **[Scene 1: Narrator speaking over a montage of Fogg products and their evolution]**
-     - **Dialogue**: "Once upon a time, a little brand called Fogg decided to take on the giants of the fragrance world."
-   - **[Scene 2: Footage of people using Fogg sprays in various settings]**
-     - **Dialogue**: "With a commitment to quality and affordability, Fogg's unique scents quickly became a favorite."
-   - **[Scene 3: Fast cuts of social media posts and customer reviews praising Fogg]**
-     - **Dialogue**: "From social media buzz to rave reviews, Fogg's journey to the top was unstoppable."
-   - **[Scene 4: Closing shot of the Fogg Marco Body Spray with a crown placed on it]**
-     - **Dialogue**: "And today, Fogg reigns supreme as the king of freshness. Try it for yourself!"
-5. **CTA**: "Click below to join the Fogg revolution and feel fresh all day!"
-6. **Why it will work**: YouTube Shorts are ideal for storytelling and capturing attention quickly. This script mirrors the engaging narrative style of "The Story of How Fogg OVERTOOK Axe" video, providing viewers with a compelling reason to engage with the brand and product.
+**Platform:** TikTok  
+**Format:** Day-in-the-Life Vlog  
+**Hook:** "Ever wondered what a day in the life of a beard enthusiast looks like?" (Visual: Quick shots of a morning routine starting with beard care)  
+
+**Full Script:**  
+*Visual: A man waking up and heading to the bathroom.*  
+**Voiceover:** "Rise and shine, time to give this beard some love."  
+
+*Visual: The man applies The Beard Club's Beard Growth Oil and uses the Beard Derma Roller.*  
+**Voiceover:** "Start with The Beard Club's Growth Oil and Derma Roller for that boost in growth."  
+
+*Visual: The man enjoying breakfast, his beard looking well-groomed.*  
+**Voiceover:** "Fuel your day with confidence, knowing your beard is on point."  
+
+*Visual: The man receiving compliments at work.*  
+**Voiceover:** "The Beard Club: Not just a product, but a lifestyle."  
+
+**CTA:** "Join The Beard Club and elevate your grooming game!"  
+
+**Why it will work:** This script integrates product use into a relatable daily routine, making it easy for viewers to imagine incorporating the products into their lives, resonating with TikTok's community-oriented content style.
+
+---
+
+## Script 3: Instagram Reels
+
+**Platform:** Instagram Reels  
+**Format:** Myth-Busting Educational Clip  
+**Hook:** "Think shaving makes your beard grow faster? Think again!" (Visual: A barber shaking his head with "Myth Busted!" text overlay)  
+
+**Full Script:**  
+*Visual: A barber's shop with a professional setting.*  
+**Barber:** "Heard the one about shaving making your beard grow faster? Total myth!"  
+
+*Visual: The barber applies The Beard Club's products on a client.*  
+**Barber:** "The real secret? Proper care with The Beard Club's Beard Growth Vitamins and Oils."  
+
+*Visual: Close-up of a client's beard transformation.*  
+**Barber:** "Result? A thicker, healthier beard without the myths."  
+
+**CTA:** "Follow us for more beard tips and start your journey with The Beard Club today!"  
+
+**Why it will work:** Educational content that challenges common misconceptions engages viewers by providing valuable insights, while the professional barber setting enhances credibility, aligning with popular formats on Instagram.

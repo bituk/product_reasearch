@@ -1,11 +1,46 @@
 """
 YouTube Data API v3: search videos, detect Shorts, fetch comments.
+Excludes brand-owned channel videos when product_link domain suggests the brand (e.g. thebeardclub.com).
 """
+
+import re
+from urllib.parse import urlparse
 
 from creative_research.constants import YOUTUBE_OR_GOOGLE_API_KEY
 from creative_research.scraped_data import VideoItem, CommentItem
 
 SHORTS_MAX_DURATION_SEC = 60
+
+
+def _brand_identifier_from_url(product_link: str | None) -> str:
+    """Extract a normalized brand hint from product URL for filtering brand-owned channels."""
+    if not product_link:
+        return ""
+    try:
+        parsed = urlparse(product_link)
+        host = (parsed.netloc or parsed.path or "").lower()
+        # e.g. thebeardclub.com -> beardclub, www.dollarshaveclub.com -> dollarshaveclub
+        host = re.sub(r"^www\.", "", host)
+        host = re.sub(r"\.(com|co|io|net|org).*$", "", host).strip()
+        # Remove common prefixes (thebeardclub -> beardclub)
+        for prefix in ("the", "get", "my", "try"):
+            if host.startswith(prefix) and len(host) > len(prefix):
+                host = host[len(prefix):]
+                break
+        return host.replace("-", "").replace("_", "") if host else ""
+    except Exception:
+        return ""
+
+
+def _is_brand_channel(channel_title: str, brand_identifier: str) -> bool:
+    """Check if channel title matches the brand (likely brand-owned)."""
+    if not brand_identifier or not channel_title:
+        return False
+    # Normalize: "The Beard Club" -> "thebeardclub"
+    channel_norm = re.sub(r"[^a-z0-9]", "", channel_title.lower())
+    brand_norm = re.sub(r"[^a-z0-9]", "", brand_identifier.lower())
+    # Brand domain (e.g. beardclub) contained in channel name = likely brand-owned
+    return brand_norm in channel_norm
 
 
 def _get_api_key() -> str:
@@ -73,13 +108,18 @@ def fetch_youtube_videos_and_comments(
             if vid in video_details:
                 video_details[vid].update(item)
 
+    brand_id = _brand_identifier_from_url(product_link)
     long_form: list[VideoItem] = []
     shorts: list[VideoItem] = []
-    for vid, det in list(video_details.items())[:max_videos]:
+    for vid, det in list(video_details.items())[:max_videos * 2]:  # Fetch extra to compensate for filtering
         snippet = det.get("snippet", {})
         stats = det.get("statistics", {})
         dur_iso = (det.get("contentDetails") or {}).get("duration", "")
         dur_sec = _parse_duration_seconds(dur_iso)
+        channel_title = snippet.get("channelTitle", "")
+        # Skip brand-owned channel videos (e.g. The Beard Club's own YouTube)
+        if brand_id and _is_brand_channel(channel_title, brand_id):
+            continue
         title = snippet.get("title", "")
         url = f"https://www.youtube.com/watch?v={vid}"
         v = VideoItem(
@@ -91,14 +131,17 @@ def fetch_youtube_videos_and_comments(
             likes=int(stats.get("likeCount") or 0),
             comments_count=int(stats.get("commentCount") or 0),
             published_at=snippet.get("publishedAt", ""),
-            author=snippet.get("channelTitle", ""),
+            author=channel_title,
             raw=det,
         )
         if dur_sec > 0 and dur_sec <= SHORTS_MAX_DURATION_SEC:
             shorts.append(v)
         else:
             long_form.append(v)
+        if len(long_form) + len(shorts) >= max_videos:
+            break
 
+    # Fetch comments only from third-party videos (non-brand), first 5
     comments: list[CommentItem] = []
     for v in (long_form + shorts)[:5]:
         try:

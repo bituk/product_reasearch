@@ -24,6 +24,7 @@ def run_all_scrapes(
     search_queries: list[str] | None = None,
     subreddits: list[str] | None = None,
     *,
+    hashtags: list[str] | None = None,
     product_page_text: str | None = None,
     max_youtube_videos: int = 20,
     max_apify_per_platform: int = 15,
@@ -72,10 +73,13 @@ def run_all_scrapes(
     if _has_apify():
         try:
             from creative_research.scrapers.apify_scraper import run_apify_scrapes
-            hashtags = [q.replace(" ", "") for q in queries[:5]] if queries else ["product", "review"]
+            # Use LLM-generated hashtags (direct + indirect) when provided; else derive from queries
+            apify_hashtags = hashtags if hashtags else [q.replace(" ", "") for q in queries[:5]]
+            if not apify_hashtags:
+                apify_hashtags = ["product", "review"]
             tiktok, instagram, amazon_raw, _, _ = run_apify_scrapes(
                 product_link,
-                hashtags,
+                apify_hashtags,
                 max_videos_per_platform=max_apify_per_platform,
                 tiktok_download_videos=tiktok_download_videos,
             )
